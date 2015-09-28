@@ -1,0 +1,49 @@
+---
+layout: post
+title: Unicode
+comments: true
+tags:
+  - benevides
+  - charset
+  - claudio
+  - inep
+  - java
+  - summa
+  - unicode
+  - utf-8
+---
+
+<p><p>Uma das primeiras ações que tomei ao iniciar minhas atividades no <a target="_blank" href="http://www.inep.gov.br/">INEP</a> foi definir o  Charset padrão para UTF-8. Para garantir que todos os fontes (java e html) estejam utilizando o charset definido, alterei o pre-commit hook do Subversion para que faça uma checagem da codificação dos arquivos antes de efetivar o commit.
+</p>
+<p>Obviamente fui questionado por N desenvolvedores, qual a real intenção por traz daquele ato. Já trabalhei em alguns lugares onde alguns desenvolvedores utilizavam <a target="_blank" href="http://www.microsoft.com/windows/default.mspx">Windows</a> e outros <a target="_blank" href="http://www.linux.org/">Linux</a> no seus Desktops. Cada um destes SOs usam um charset padrão diferente para salvar seus arquivos (ISO-8859-1 e UTF-8 respectivamente). Portanto era comum termos algumas mensagens de exceptions sendo mostradas com alguns erros nas acentuações e caracteres especiais.
+</p>
+<p>Mesmo no <a target="_blank" href="http://www.inep.gov.br/">INEP</a> em conversa com o Demetrio, um excelente Web-Designer, tivemos algumas várias horas de conversa sobre qual a função do charset e da utilidade da tag <a target="_blank" href="http://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html">Content-Type</a> do html. Com o intuito de desmistificar este assunto, fica aqui a a referência a um excelente <a target="_blank" href="http://www.joelonsoftware.com/articles/Unicode.html">artigo do Joel On Software</a>, escrito em outubro de 2003, onde ele mesmo diz: "Se você é um programador trabalhando em 2003 e não sabe o básico de character encoding e Unicode, vou pega-lo, e puni-lo, fazendo-o picar cebolas por 6 meses em um submarino". E ainda mais: "Acreditar que "plain text = ascii = caracteres são 8 bits não só é errado, mas se continua programando desta maneira, você não é muito melhor do que um médico que não acredita em germes. Por favor, não escreva outra linha de código sem ler este artigo"
+</p>
+<p> 
+  <b><font size="4">The Single Most Important Fact About Encodings - </font></b><b>It does not make sense to have a string without knowing what encoding it uses</b>.
+</p>
+<p>"Se você possui uma string, em memória, em arquivo, ou em um e-mail, você precisa saber qual o encoding está ou você não será capaz de interpretar ou mostrar tal string corretamente."
+</p>
+<p> Isto permite que sites sejam perfeitamente visualizados <a target="_blank" href="http://pioneer.jp/">em Japonês</a>, <a target="_blank" href="http://www.sama.gov.sa/">em Árabe</a> ou até mesmo em <a target="_blank" href="http://www.greenpeace.org/russia/ru/">Russo</a>.
+</p>
+<p><b>Faça um teste!</b> Cada um destes sites estão usando um Content-Type difente. Você pode se informar sobre qual o Charset utilizado clicando CTRL+I no Firefox. Experimente mudar a forma como o browser interpreta os caracteres mudando a codificação no menu Exibir->Codificação do Firefox.
+</p>
+<p>Percebam que isto não tem nada haver com o Locale (Content-Language) que é o idioma da página.
+</p>
+<p>Por quê então foi escolhido o UTF-8 como charset padrão do INEP e não o ISO-8859-1? Existem <a target="_blank" href="http://www.google.com.br/search?hl=pt-BR&amp;client=firefox-a&amp;rls=com.ubuntu%3Apt-BR%3Aofficial&amp;q=utf-8+vs+iso-8859-1&amp;btnG=Pesquisar&amp;meta=">várias discussões na Internet sobre isto</a>, mas a principal é que o UTF-8 é um formato universal e creio que abra em todos os sistemas e dispositivos de forma correta e sem bugs. Outro fato é que a própria w3c <a target="_blank" href="http://www.w3.org/International/O-HTTP-charset.en.php">cita</a>: "A Unicode encoding such as UTF-8 is a good choice for a number of reasons." e também <a target="_blank" href="http://www.w3.org/International/O-charset.pt-br.php">cita em outra página (em português)</a>: "Os exemplos acima mostram declarações para codificação de conteúdos em UTF-8. Esta parece ser a melhor escolha para a maioria dos propósitos dos documentos, contudo não é a única possibilidade."
+</p>
+<p>Voltando ao assunto do pre-commit hook, se tiver interesse em implementa-lo em seus repositórios do <a target="_blank" href="http://subversion.tigris.org/">Subversion,</a> dê uma olhada aqui: <a target="_blank" href="http://svnbook.red-bean.com/nightly/en/svn.reposadmin.create.html">http://svnbook.red-bean.com/nightly/en/svn.reposadmin.create.html</a>
+</p>
+<p>Para verificar se o arquivo é UTF-8, basta alterar <a target="_blank" href="http://svn.collab.net/repos/svn/trunk/tools/hook-scripts/verify-po.py">este script</a> que já vem no <a target="_blank" href="http://subversion.tigris.org/">Subversion</a> para verificar outras extensões e não apenas arquivos *.po
+</p>
+<p>Em códigos fontes já existentes, o <a target="_blank" href="http://www.claudius.com.br/blog/claudio/">Claúdio Miranda</a> postou em seu blog, duas excelentes alternativas para conversão:
+</p>
+<ol>
+  <li><a href="http://www.claudius.com.br/blog/claudio/2007/11/05/Convers%C3%A3o-de-charset-para-UTF-8">Conversão de charset para UTF-8</a></li>
+  <li><a target="_blank" href="http://www.claudius.com.br/blog/claudio/2007/11/07/Convers%C3%A3o-de-charset-para-UTF-8-modo-gr%C3%A1fico">Conversão de charset para UTF-8, modo gráfico</a>
+  </li>
+</ol>
+<p> Boa leitura!
+  
+</p></p>
+

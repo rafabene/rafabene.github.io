@@ -1,0 +1,29 @@
+---
+layout: post
+title: DSL com Drools
+comments: true
+---
+<p>A melhor definição para o termo DSL vem de Martin Fowler: </p><p>"A idéia básica de uma DSL - Domain specific language (linguágem específica do domínio) - é ser uma linguágem que é focada em um problema em particular, ao invéz de ser uma linguágem de propósito geral, que é voltada para qualquer tipo de problema de software. Muito tem se falado sobre DSLs, e utilizadas desde a cricação dos computadores.</p><p>DSLs são muito comuns na computação: exemplos CSS, Expressões Regulares (regex), make, rake, ant, SQL, HQL, Rails, expectations no JMock,  graphviz's dot language, FIT, arquivos de configuração do strut's ...."</p><p>Ainda, segundo Fowler, a principal idéia por traz das DSLs "é fazer que certos tipos de códigos fiquem mais fáceis de compreender,
+que se tornem mais fáceis de modificar, assim melhorando a produtividade do programador."..."O benefício mais interessante, todavia, é que uma DSL bem projetada
+pode ser entendível por pessoas do negocio, permitindo-lhes compreender
+diretamente o código que implementa suas regras de negócios."</p>
+
+Com o Drools é possível se criar uma DSL e para exemplificar isto, vou dar continuidade ao projeto que foi apresentado no post <a href="/2009/02/14/uma-breve-introducao-ao-drools/">Uma breve introdução ao Drools</a>. Naquela ocasião, foi criado uma regra para que define em quais temperaturas o ar-condicionado deve ser ligado e desligado. Um exemplo simples que permite também a criação de uma DSL simples.
+
+Para a criação da DSL no drools, vamos criar um arquivo com a extensão .dsl, onde existirá um mapeamento entre a sua "nova linguágem" e as regras do Drools no seguinte formato:
+
+{% highlight java %}
+[contexto: (when ou then)] DSL = Regra do Drools
+{% endhighlight %}
+
+<p>As variáveis serão colocadas entre {}, e no contexto utilizaremos "then" ou "when" para especificarmos se aquelo termo deve ser utilizado na condição ou na consequência.</p><p>Sendo assim, foi gerado o seguinte arquivo - regrasCasa.dsl:</p>
+
+{% highlight java %}
+  [when]A casa é do "{dono}"=Casa( dono == "{dono}", $arCondicionado: arCondicionado )
+  [when]e a temperatura for maior que {temperatura}=Natureza( temperatura  > {temperatura} )
+  [when]e a temperatura for menor que {temperatura}=Natureza( temperatura  < {temperatura} )
+  [then]ligar o ar-condicionado=$arCondicionado.ligar();
+  [then]desligar o ar-condicionado=$arCondicionado.desligar();
+{% endhighlight %}
+
+<p>Uma vez criado esta DSL, podemos criar agora o arquivo .dslr (DSL Rules), lembrando que quando não estamos utilizando DSLs, o padrão do nome do arquivo é .drl (Drools Rule Language). O arquivo .dslr se diferencia do arquivo .dlr normal por possuir um indicador para o arquivo .dsl . No eclipse, através do plugin JBoss Tools é possível ter o auto-complete da nova DSL criada o que facilita bastante a criação, manutenção das regras. Podemos ver no exemplo abaixo o tanto que as regras se tornaram ainda mais claras.</p><p><img vspace="0" hspace="0" border="0" align="baseline" src="/images/dslr.png" /></p><p>A partir de agora, é preciso apenas alterar o método lerRegras() para incluir os arquivos .dsl e .dslr ao invés do arquivo anterior .dlr. Feito isto o funcionamento do programa apresentado no post <a target="_blank" href="/2009/02/14/uma-breve-introducao-ao-drools/">Uma breve introdução ao Drools</a> continuará tendo o mesmo funcionamento e com regras muito mais <a href="http://blog.fragmental.com.br/2007/12/28/expressividade-no-codigo/" target="_blank">expressivas</a> </p><p><img vspace="0" hspace="0" border="0" align="baseline" style="width: 542px; height: 231px;" src="/images/lerRegras.png" /></p>

@@ -1,0 +1,32 @@
+---
+layout: post
+title: Evento JBUG:Brasil - JBoss User Group (Estarei palestrando)
+comments: true
+---
+<p>Feliz 2010 para todos e começando cumprindo bem a promessa de realizar
+eventos do JBUG:Brasil em outras cidades, vamos começar o ano em Belém
+do Pará, neste dia 07, quinta-feira.</p><div class="sites-layout-tile sites-tile-name-header"><div dir="ltr"><h4><a name="TOC-Em-parceria-com-o-JBUG:Brasil---JBo"></a>Em parceria com o <a href="http://jbossbrasil.ning.com/">JBUG:Brasil - JBoss User Group</a> - Reunião dia 07 de Janeiro de 2010 na FACI</h4></div></div><table bordercolor="#888888" border="1" cellspacing="0" style="border-color: rgb(136, 136, 136); border-width: 1px; border-collapse: collapse;"><tbody><tr><td style="width: 145px; height: 229px;"> <div style="text-align: center; display: block;"><a rel="nofollow" imageanchor="1" href="http://api.ning.com/files/t1zLj9qssn*N9i00YNb8yRTR117a72ytEK-97jEj5opILOt6T0*JkiKTyjrEZ21XVSm6inUVASQ1OMDvZcgY-R8zp6dRvBAJ/rafael.jpg?width=48&amp;height=48&amp;crop=1%3A1"></a></div><div style="text-align: center; display: block;"><b>Rafael Benevides<span style="font-size: small;"></span></b></div><div style="text-align: center; display: block;"><b></b></div><div style="text-align: center; display: block;"><b>Início: 19:00</b></div></td><td style="width: 644px; height: 229px;"><h3><a name="TOC-Velozese-Furiosos-da-Web---Produtiv"></a>Velozese Furiosos da Web - Produtividade com JBoss Seam </h3><b><span style="font-size: small;">Descrição:</span></b><span style="font-size: small;">
+Se você acha que já viu tudo do framework JBoss Seam, venha descobrir
+recursos que vão fazer você ter a produtividade que sempre sonhou com
+Java EE e tecnologias para Web 2.0.</span><br><b><span style="font-size: small;">Palestrante:</span></b><span style="font-size: small;">
+Rafael Benevides é JBoss Consultant da Red Hat do Brasil no escritório
+de Brasília, focado em tecnologias emergentes e SOA, desde de 2003
+atuando em projetos Java, possui certificações de vários fornecedores
+entre eles: Red Hat, Sun Microsystems, IBM e SAP. Atuou em vários
+projetos importantes no governo brasileiro, entre eles dentro do
+Ministério da Educação / INEP, além de trabalhar num projeto opensource
+<a href="https://xseam.dev.java.net/" target="_blank">XSeam</a>, que é uma biblioteca de componentes visuais para o JBoss Seam. </span></td></tr><tr><td style="text-align: center; width: 145px; height: 286px;"> <div style="display: block; margin-right: auto; margin-left: auto; text-align: center;"><a rel="nofollow" imageanchor="1" href="http://api.ning.com/files/*UAOTPy2Gs4IsmXkp3-jX62bCPtz89nMA1EVkFEm4DgzTZqYLxYY*PgRiLCul3g-EVixlgJegMhFbKGoiWHpNigi7cwbU6W8/aim.jpg?width=48&amp;height=48&amp;crop=1%3A1"></a></div><div style="display: block; margin-right: auto; margin-left: auto; text-align: center;"><b>Edgar A Silva</b></div><div style="display: block; margin-right: auto; margin-left: auto; text-align: center;"><b><span style="font-size: small;"></span></b></div><div style="display: block; margin-right: auto; margin-left: auto; text-align: center;"><b></b></div><div style="display: block; margin-right: auto; margin-left: auto; text-align: center;"><b>Início: 20:20</b></div></td><td style="width: 644px; height: 286px;"><h3><a name="TOC-REST:-Um-modelo-de-Servi-os-de-Inte"></a>REST: Um modelo de Serviços de Integração poliglota para Web / SOA </h3><b><span style="font-size: small;">Descrição:</span></b><span style="font-size: small;">
+Webservices ganharam notoriedade, robustez e padronizações; isto é
+ótimo, mas dependendo do que precisamos, poderemos criar arquiteturas
+de integração de serviços utilizando protocolos mais simples, para isso
+o REST(Representational State Transfer) é um modelo muito utilizado em
+várias arquiteturas de vários casos de sucesso no mundo inteiro como
+Facebook, Twitter, Ning etc. Então venha descobrir como você pode criar
+modelos de integração agnósticos e poliglotas, o que lhe permite criar
+clientes em PHP, JavaScript(JQuery), Ruby, Cocoa etc. </span><br/><b><span style="font-size: small;">Palestrante:</span></b><span style="font-size: small;">
+Edgar A Silva é o JBoss Lead da Red Hat no Brasil, uma de suas
+principais atribuições é levar conhecimento das tecnologias JBoss ao
+mercado, bem como apoiar vários outros departamentos dentro da Red Hat
+como vendas, serviços, marketing etc. Palestrante em vários eventos de
+tecnologia nacionais e internacionais(JavaOne e JBossWorld) e foi um
+dos fundadores do BelJUG em 2002. Mais informações em seu blog <a target="_blank" rel="nofollow" href="http://www.edgarsilva.com.br/">http://www.edgarsilva.com.br</a></span></td></tr></tbody></table>Após as palestras teremos ainda a seção boteco, que extende a reunião para um bar, para batepapo etc.<h4><a name="TOC-Local-da-Reuni-o"></a>Local da Reunião</h4><div><div style="display: block; text-align: left;"><a imageanchor="1" href="http://t3.gstatic.com/images?q=tbn:TcTnEas-SdVJPM:http://www.faculdadeideal.com.br/noticias/faci/fotos%20noticias/faci_not.png"><img border="0" src="http://t3.gstatic.com/images?q=tbn:TcTnEas-SdVJPM:http://www.faculdadeideal.com.br/noticias/faci/fotos%20noticias/faci_not.png" /></a></div></div><div><b>FACI </b>Faculdade Ideal - Rua dos Mundurucus, 1427 - Batista Campos </div><div><b>Sala:</b> 603 no Sexto Andar.</div><p> </p><div><p>Mais informações: <a href="http://www.beljug.com.br/eventos/reunioes/janeiro-2010">http://www.beljug.com.br/eventos/reunioes/janeiro-2010</a></p></div><p> </p>

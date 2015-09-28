@@ -1,0 +1,9 @@
+---
+layout: post
+title: Treinamento Java EE em Porto Alegre
+comments: true
+---
+	<p><p><p>Para contrabalancear com o calor seco que começa a chegar em Brasília, estive nas últimas duas semanas em Porto Alegre onde um frio úmido me acompanhou durante todos os dias.</p><p>O treinamento foi algo totalmente inovador para mim: Foram 19 assuntos em 38 horas. Ou seja, cada uma das letrinhas da tecnologia Java tinham que ser apresentadas em 2 horas. Cada assunto se tornou na verdade uma grande palestra com direito a teoria e algumas práticas.</p><p><table cellspacing="1" cellpadding="1" border="0"><tbody><tr><td style="width: 50%;"><ol><li>Servlets</li><li>JSP</li><li>JSF</li><li>JNDI</li><li>JMS</li><li>JAAS</li><li>JCA</li><li>JTA</li><li>EJB 2.1</li><li>Hibernate</li><li>JPA</li><li>EJB 3</li><li>Web Services</li><li>JBoss Application Server</li><li>JMX</li><li>Spring</li><li>JBoss Seam</li><li>Maven</li><li>Java Web Start</li></ol></td><td style="width: 50%;"><img hspace="0" border="0" vspace="0" src="http://www.cttmaxwell.com.br/site/images/stories/logo_DIGITEL_oficial.JPG" />
+</td><td style="width: 50%;">
+</td></tr></tbody></table></p><p>O curso foi ministrado para a equipe da <a target="_blank" href="http://www.digitel.com.br/">Digitel</a>, grande fabricante de equipamentos para telecomunicação, em um ritmo sustentável e dinâmico, onde o envolvimento e interesse de uma equipe jovem e motivada fez todo o diferencial para o excelente aproveitamento do curso.</p><p>Agora, de volta a Brasília, espero que esta semana dê tempo de "comitar" alguns novos componentes do <a target="_blank" href="https://github.com/rafabene/XSeam2">XSeam</a>.</p><p>Acompanhem...
+</p>

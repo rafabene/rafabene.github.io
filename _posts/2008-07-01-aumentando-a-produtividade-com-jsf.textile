@@ -1,0 +1,47 @@
+---
+layout: post
+title: Aumentando a produtividade com JSF e Jboss Seam - XSeam lançado!
+comments: true
+tags:
+  - jboss
+  - jsf
+  - seam
+  - xseam
+---
+
+<p><p>
+Vocês já reparam que a maioria dos formulários JSF são bem repetitivos? A maioria das propriedades são sempre compostas por [Label + Input + Error]. Isto sem contar validators e (ou) converters que sejam necessários.</p><p> Ex.: </p>
+
+{% highlight xml %}
+<h:outputLabel value="Label" for="input" />
+    <h:inputText id="input" value="#{meuBack.propriedade}" >
+        <f:convertNumber />
+        <f:validateLength minimum="1" maximum="10"/>
+        <a4j:support event="onblur" reRender="input"/>
+    </h:inputText>
+    <h:message for="input" />
+{% endhighlight %}
+
+<p>A coisa pode ficar ainda pior se além dos converters e validators, for utilizado ainda outras extensões como <a href="http://livedemo.exadel.com/richfaces-demo/index.jsp" target="_blank">a4j</a>, javascript, css. etc. Fazer isto para cada propriedade que existe na tela é realmente entendiante e improdutivo. Diante disto, o <a target="_blank" href="http://www.seamframework.org/">Jboss Seam</a> aproveitou a funcionalidade de composição do Facelets (<a target="_blank" href="http://jroller.com/rafaelbenevides/entry/facelets">já falado neste blog</a>) e criou um template em seus projetos (tanto os gerados pelo <a target="_blank" href="http://docs.jboss.com/seam/2.0.2.SP1/reference/en-US/html/gettingstarted.html#d0e2272">seam-gen</a>, quanto pelo <a target="_blank" href="http://docs.jboss.com/seam/2.0.2.SP1/reference/en-US/html/gettingstartedwithjbosstools.html#d0e2666">Jboss Tools</a>) chamado edit.xhtml que evita a repetição de tags comuns permitindo que funcionalidades como sinalizar (*) que um campo é requerido e destacar mensagens de erros sejam fácilmente "plugadas" ao campo através de um decorator.</p><p>Para usa-lo basta referenciar este template e definir o conteúdo:</p>
+
+{% highlight xml %}
+<s:decorate template="layout/edit.xhtml">
+  <ui:define name="label">Nome:</ui:define>
+  <h:inputText value="#{pessoa.nome}" required="true" /> 
+</s:decorate>
+{% endhighlight %}
+
+<p>Desta maneira, o campo será renderizado como a figura abaixo. Reparem que o Nome aparece com um asterisco na frente apenas pelo fato do campo ser marcado como required="true". Além disto não precisamos fazer nenhuma definição de css, referenciar a figura (ao lado da mensagem de erro) ou mesmo lembrar de colocar o <h:message for="" /> pois tudo isto veio do template.</p><p><img vspace="0" hspace="0" border="0" align="baseline" src="http://www.jroller.com/rafaelbenevides/resource/edit.png" /></p><p>Aproveitando o assunto: É possível reduzir ainda mais o código através do "<i>poder</i>" do <a href="https://facelets.dev.java.net/" target="_blank">facelets</a>  e ter o mesmo efeito acima com apenas a tag:</p>
+
+{% highlight xml %}
+<x:inputText label="Nome:" value="#{pessoa.nome}"  name="nome" required="true"/>
+{% endhighlight %}
+
+<p>Digamos agora, que se queira utilizar uma máscara para formatação (cpf, data, etc) e poder validar o campo (via <a target="_blank" href="http://validator.hibernate.org/">hibernate-validator</a> + ajax) ao sair do campo com apenas uma tag. Ex:</p>
+
+{% highlight xml %}
+<x:inputText label="CPF:" value="#{pessoa.cpf}" ajaxValidation="true" name="cpf" mask="999.999.999-99" required="true" />
+{% endhighlight %}
+
+<p>Com a intenção de atender grande parte dos formulários web, trazendo produtividade e agregando outras funcionalidades como: </p><ol><li>Validação server-side com ajax</li><li>Máscara javascript (com JQuery)</li><li>Retorno de String nula, quando o formulário é submetido com um valor não preenchido</li><li>Tradução de todas as mensagens do <a target="_blank" href="http://www.seamframework.org/">Jboss Seam</a> para pt_BR</li></ol><p>foi dado início ao projeto <a href="https://github.com/rafabene/XSeam2" target="_blank">XSeam</a>. </p><h5>Sobre o XSeam</h5><p>Este projeto começou como uma iniciativa de <a target="_blank" href="http://www.blogger.com/profile/01012075172647562308">João Paulo Viragine</a>, que usou uma série de componentes facelets voltados ao <a target="_blank" href="http://www.seamframework.org/">Jboss Seam</a> visando desenvolver projetos para seus clientes. Com base neste conceito e na adesão e interesse de alguns clientes (que já usam os componentes) e parceiros; é que o <a target="_blank" href="https://github.com/rafabene/XSeam2/">XSeam</a> foi "oficializado" como um projeto Open Source.</p><p>O objetivo deste projeto é  permitir que todos os esforços isolados na construção de componentes visuais (Facelets - Html, CSS, Javascript, RichFaces, etc) e não visuais (Componentes Seam, Hibernate validators, Converters) sejam concentradas neste projeto.</p><p>A URL do projeto é<a target="_blank" href="https://github.com/rafabene/XSeam2"> https://github.com/rafabene/XSeam2</a> e está disponível a versão 0.2 (em breve devo comentar outras funcionalidades já inclusas)</p><p>A medida que novas funcionalidades forem adicionadas, a documentação for sendo elaborada e houver novos releases, vou postando aqui no Blog.</p></p>
+

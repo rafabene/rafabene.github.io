@@ -1,0 +1,25 @@
+---
+layout: post
+title: Projeto Hotmotors da Aspercom agora com JBoss Seam
+comments: true
+tags:
+  - aspercom
+  - jboss
+  - seam
+---
+
+<p><img vspace="0" hspace="0" border="0" align="left" src="http://www.seamframework.org/themes/sfwkorg/img/seam_icon_large.png" /> É com orgulho que comento hoje que o <a target="_blank" href="http://www.aspercom.com.br/ead/mod/resource/view.php?id=15">Rodrigo Yoshima</a> postou no Blog da <a target="_blank" href="http://www.aspercom.com.br/">Aspercom</a> a nova release do Projeto Hotmotors utilizando o <a target="_blank" href="http://www.seamframework.org/">JBoss Seam</a>.
+  
+<p>O <a target="_blank" href="http://www.aspercom.com.br/ead/course/view.php?id=10">Projeto Hotmotors</a> é um "<i>estudo de caso que apresenta as práticas de um projeto de desenvolvimento
+de software iterativo, seguindo um processo ágil baseado no OpenUP</i>". É uma iniciativa bastante interessante para fins didáticos pois apresenta todo o ciclo de vida de um projeto de software que é evoluído de maneira incremental, apresentando requisitos, modelos, arquitetura e código.</p>
+
+<p>Voltando ao assunto, o motivo de tamanho orgulho é por ter participado da migração e ter realizado a conversão da implementação/arquitetura antiga (Struts 1 + Hibernate) para JBoss Seam. Seu trabalho complemental de colocar o projeto rodando no Maven e integrado com o Jetty é uma referência!</p>
+
+<p>Alguns pontos me chamam bastante a atenção, como citação "<i>O SeamFramework foi </i><i>um</i><i>a das razões para eu voltar a gostar de fazer aplicações web em Java</i>" pois não é a primeira vez que escuto isto em relação ao Seam.</p>
+
+<p>O Livro<b> </b><a href="http://www.manning.com/dallen/" target="_blank">Seam in action de Dan Allen</a> traz no primeiro capítulo (<a href="http://www.manning-source.com/books/dallen/meap_dallench1.pdf" target="_blank">diponível gratuitamente</a>) a pergunta:</p>
+
+<p>"<b><i>Is JSF worth a second look? Is EJB really fixed? Is it worth sticking with Java rather than jumping ship for Ruby on Rails?</i></b>"</p><p> e logo em seguida a resposta: "<b><i>With the release of JBoss Seam 2.0, you can now confidently answer yes to all of these questions</i>.</b>"  seguida de <a href="http://www.manning-source.com/books/dallen/meap_dallench1.pdf" target="_blank">um capítulo inteiro de argumentações</a> que sustentam o por quê o Seam é visto como o salvador do JEE.</p><p>Sugiro darem uma olhada na aplicação <a href="http://www.aspercom.com.br/hotmotors" target="_blank">Hotmotors</a>. Uma vez com o <a href="http://maven.apache.org/" target="_blank">Maven</a> instalado, basta digitar: <b>mvn org.mortbay.jetty:maven-jetty-plugin:run</b>. A aplicação estará disponível em <a href="http://localhost:8080/hotmotors/" target="_blank">http://localhost:8080/hotmotors/</a>. Olhem no arquivo import.sql qual placa pode ser usada no sistema.</p>
+
+<p>O post do qual me refiro é <a target="_blank" href="http://blog.aspercom.com.br/2008/07/07/desenvolvimento-agil-com-seam/">Desenvolvimento Ágil na Web com Seam</a>. </p><p><b>P.S.:</b> Até que gostei da definição de  <a href="http://everything2.com/e2node/The%2520Code%2520Hose">code hose</a>. <img src="http://www.jroller.com/images/smileys/smile.gif" class="smiley" alt=":)" title=":)" />  </p></p>
+

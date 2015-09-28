@@ -1,0 +1,28 @@
+---
+layout: post
+title: JON - Jboss Operation Network
+comments: true
+tags:
+  - java
+  - jb336
+  - jboss
+  - treinamento
+---
+
+<p><p><a target="_blank" href="http://www.jboss.com/products/jbosson"> Jboss Operation Network ou simplesmente (Jboss ON) ou simplesmente JON</a> é uma excelente ferramenta de monitoramento, controle e inventário do parque de servidores Jboss.
+</p>
+<p>Tive conhecimento desta ferramenta através do curso <a target="_blank" href="https://www.redhat.com/courses/jb336_jboss_for_administrators/">JB336</a> (ministrado pelo <a target="_blank" href="http://www.linkedin.com/pub/0/ba8/769">Alexandre Gomes</a> da <a target="_blank" href="http://www.seatecnologia.com.br">SEA Tecnologia</a>) do qual venho partipando aos finais de semana. Controlar um servidor de aplicação geralmente é uma atividade tranquila para o <a target="_blank" href="http://www.jroller.com/rafaelbenevides/entry/a_import%C3%A2ncia_do_asa_app">ASA</a>, mas quando "<i>a coisa</i>" começa a crescer com vários servidores (hardware) contando com pelo menos 4 instâncias do Jboss AS, é inevitável a necessidade de uma "<i>console de gerenciamento</i>" única.
+</p>
+<p>É neste ponto que entra o JON. Este é uma aplicação WEB que permite em sua console administrar todo o parque de servidores Jboss. Nesta console é possível monitorar e inventariar algumas métricas tanto do servidor físico (CPU, Memória, tráfego da rede, etc), bem como as instâncias de Jboss (JVM, Filas JMS, Datasources, Regiões de memória, Thread, etc). Algumas outras métricas também são possíveis de serem coletadas de servidores Tomcat, Apache e outros.
+</p>
+<p>Além de mostrar um gráfico com o monitoramento de cada uma destas métricas, é possível também definir alertas e ações a serem tomadas. Por exemplo: Caso o pool de conexões seja consumido em até 90%, envie um e-mail de alerta e aumente a quantidade máxima do pool em mais 10 conexões. Todos o histórico de alertas, fica disponível na console do JON, permitindo que análisar no exato momento da ocorrência quantas conexões haviam com o servidor, quantas Threas e qual a quantidade de memória e CPU estavam sendo consumidas no momento em que ocorreu o alerta.
+</p>
+<p>Além do inventário e monitoramento, existe também a funcionalidade que achei melhor: A possibilidade de se controlar o servidor de aplicações a partir do JON. Ou seja, é possível fazer ou agendar deploys de aplicações; gerenciar pools e filas; parar, iniciar ou reiniciar o servidor sem a necessidade de sair da interface do JON.
+</p>
+<p>Além da "<i>console WEB</i>", o JON também fornece um <b>shell</b> onde é possível realizar as mesmas atividades sem a necessidade de um browser (geralmente muito útil para quem estiver acesso a máquina, apenas via SSH)
+</p>
+<p>Ao contrário da maioria dos produtos <a target="_blank" href="http://www.jboss.com/">Jboss</a> que são disponíveis gratuitamente via <a target="_blank" href="http://www.jboss.org">Jboss.org</a>, este produto só é disponível apenas através da <a target="_blank" href="http://www.jboss.com/services/profsupport">subscrição de suporte</a>.
+</p>
+<p>Uma demo do JON pode ser encontrada em:  <a target="_blank" href="https://network.jboss.com/confluence/display/JON2/Demo-Intro">https://network.jboss.com/confluence/display/JON2/Demo-Intro</a>
+</p></p>
+

@@ -1,0 +1,7 @@
+---
+layout: post
+title: E da-lhe Java!!!! Java vs C por Vítor Pamplona
+comments: true
+---
+	<p><p><p><a href="http://vitorpamplona.com/wiki/" target="_blank">Vitor Pamplona</a> fez um excelente post que demonstra no mínimo a superioridade tecnológica da JVM.</p><p>Não deixem de dar uma olhada:</p><p> <a href="http://vitorpamplona.com/wiki/JavaVsC+com+Processadores+CoreX" target="_blank">http://vitorpamplona.com/wiki/JavaVsC+com+Processadores+CoreX</a></p><p> </p><p>Boa leitura!
+</p></p></p>

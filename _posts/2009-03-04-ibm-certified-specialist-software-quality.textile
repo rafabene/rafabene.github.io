@@ -1,0 +1,12 @@
+---
+layout: post
+title: IBM Certified Specialist - Software Quality
+comments: true
+---
+<p><img hspace="4" vspace="0" border="0" align="left" src="http://www-03.ibm.com/certify/images/certmark.gif" />Há algum tempo, recebi um e-mail do <a target="_blank" href="http://www.linkedin.com/in/yurimarx">Yuri  Marx</a>, divulgando uma certificação IBM (000-370) voltada para 
+desenvolvedores, testadores e profissionais em qualidade de software que desejam 
+melhorar seus conhecimentos em qualidade de software e assim desenvolver um 
+trabalho de melhor qualidade. </p><p>Junto com o e-mail, foi divulgado também um link para uma instituição de e-learning, <a target="_blank" href="http://www.arizonaworkforceconnection.com/AZIT/default.asp">AzIT</a>, que fornece o material de forma gratuita após a criação de uma conta. Inclusive recebi um e-mail do Program Manager da <a target="_blank" href="http://www.arizonaworkforceconnection.com/AZIT/default.asp">AzIT</a>, David Starns, me perguntando como eu havia ouvido falar deles, já que eu era do Brasil</p><p>Esta certificação possui 3 partes:</p><ol><li>Software Test</li><li>Software Engineering</li><li>Software Quality</li></ol><p>Ao chegar no centro <a target="_blank" href="http://www.prometric.com/default.htm">Prometric</a>, encontrei na sala de provas, o <a target="_blank" href="http://www.claudius.com.br/">Cláudio Miranda</a>, concentrado na certificação <a target="_blank" href="http://www.mysql.com/certification/">Certified MySQL 5.0 Developer</a><b>.  </b>O engraçado foi entrar na sala fazendo a maior festa enquanto ele pacientemente (como sempre) dizia com os olhos arregalados: "É... (meio sem geito) Acho que não pode conversar aqui não" (risos).</p><p>Durante a prova, a experiência no dia-a-dia conta bastante pois possui perguntas onde a resposta em grande parte dependeu mais do bom senso do que das horas de estudo. Mesmo utilizando de bom senso, não considerei a mesma uma prova fácil.</p><p>Na página da IBM: <a href="http://www-03.ibm.com/certify/tests/ovr370.shtml" target="_blank">Test 370</a> - é possível achar demais informações sobre a mesma. Um detalhe interessante sobre esta certificação:</p><p><b>Cost of the exam: $0 (The test fee is waived for US Citizens
+during the grant period. If you are taking the test outside of the US
+Check with your local Authorized Prometric test center for testing
+fees.)</b></p>

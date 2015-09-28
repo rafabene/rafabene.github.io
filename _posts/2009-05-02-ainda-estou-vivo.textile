@@ -1,0 +1,15 @@
+---
+layout: post
+title: Ainda Estou Vivo!
+comments: true
+tags:
+  - anápolis
+  - mentira
+  - twitter
+  - vivo
+---
+<p>Depois de praticamente 1 mês sem postar nada, resolvi escrever só pra dizer <strong>que estou "vivinho da silva"</strong> e ainda na ativa. Continuo morando em Brasília, cidade que amo tanto! Também continuo prestando consultoria no mesmo local...</p>
+  <p>A verdade é que estou envolvido 110% do meu tempo em afazeres profissionais e pessoais (fora da internet). Por este motivo, estou evitando usar computadores no final de semana. A grande exceção foi hoje, já que por acaso vi que minha última postagem foi <a href="http://pt.wikipedia.org/wiki/Dia_da_mentira" target="_blank">no dia primeiro de abril</a>. <a href="http://pt.wikipedia.org/wiki/Pegadinha" target="_blank">Pegadinha</a> que rendeu pano para manga, pois 20 dias depois ainda recebia ligações de amigos questionando o fato! <img src="http://www.jroller.com/images/smileys/smile.gif" class="smiley" alt=":)" title=":)" /></p>
+  <p>É importante dizer que o <a href="https://github.com/rafabene/XSeam2/" target="_blank">Projeto XSeam</a> gerou um filho que é a especialização (ainda maior) dos seus componentes para atender um cliente. Ou seja, o projeto pessoal do <a href="https://github.com/rafabene/XSeam2" target="_blank">XSeam (tocado em conjunto com seus criadores)</a> está parado neste mês mas com certeza será beneficiado. Vários componentes que tem sido desenvolvido e que não são específicos do cliente serão disponibilizados sob a licença GPL. Isto me leva a outro questionamento: Como a maioria dos componentes visa atender o público brasileiro, deveria manter a documentação e a API em Inglês ou Português ?</p>
+  <p>Durante este período de muito trabalho, graças a Deus, e com pouco tempo para postagens maiores neste Blog, manterei notícias pelo Twitter através da URL: <a href="http://twitter.com/rafabene">http://twitter.com/rafabene</a> onde confesso que até mesmo por lá ando sumido  - De qualquer maneira vou dar o recado novamente: NÃO ESTOU EM ANÁPOLIS, FOI PEGADINHA DE PRIMEIRO DE ABRIL, VIU ? rsrsrs.</p>
+  <p>Abraços.</p>

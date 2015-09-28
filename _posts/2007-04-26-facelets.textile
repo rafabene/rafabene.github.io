@@ -1,0 +1,66 @@
+---
+layout: post
+title: Facelets - Introdução
+comments: true
+---
+	<p><p><p>Durante o mês de fevereiro aproveitei a oportunidade para conhecer mais sobre o <a href="https://facelets.dev.java.net/">Facelets</a>. Para quem não teve a oportunidade de trabalhar (ou brincar) com o Facelets, mas sempre ouviu falar muito e queira conhecer algo, este Post é para você.</p></p></p>
+
+	<p><p><p>É comum termos a impressão de que o Facelets é "apenas" um Framework de Templates (assim como o Tiles), mas este é um dos maiores enganos, por quê além disto, o Facelets é uma nova forma de se pensar/trabalhar com o JSF.</p></p></p>
+
+	<p><p><p>Uma das funcionalidades que mais gosto é a conversão automática de HTML em componentes JSF. Geralmente a equipe de Multimedia (que não conhece e não possui interesse no JSF) entrega o protótipo aprovado em "html puro". Após isto, a equipe de desenvolvedores Web devem renomear o html para jsp, e em cada html trocar os <b>< input type=text /></b> pelos <b>< h:inputText /></b>. Entretanto, existe um atributo especial "jsfc" que pode ser adicionado no seu XHTML informando qual o tipo de componente jsf que deve ser utilizado. Ex.: <b>< input jsfc="h:inputText" required="true" id="name" value="#{person.name}" /></b>. O mesmo pode ser feito com mensagens: <b><span for="name" style="color: red; font-weight: bold;" showdetail="false" showsummary="true" jsfc="h:message" /></b>. 
+</p>
+<p>A segunda grande vantagem, igualmente importante, é que o Facelets melhora a performance em 30% a 50%!!!! Isto só é possível por quê o Facelets não utiliza o engine do JSP (que se transforma em um servlet) e usa diretamente o XHTML como tecnologia de view do JSF (Todos que achavam que o JSF não é extensível, estão enganados). O uso do XHTML como view do Facelets elimina a necessidade de se escrever tags <b><f:verbatim _moz-userdefined="" /></b> que geram problemas quando esquecidas de serem colocadas e quando colocadas, geram códigos difíceis de serem compreendidos.</p></p></p>
+
+	<p><p><p>Sem contar a possibilidade de criarmos templates, também é possível criarmos componentes reutilizáveis tão facilmente que se torna "coisa de criança" (só quem escreveu algum componente JSF sabe a penúria que é)!</p>
+<p />
+<p>Para que este post não fique gigantesco. Pretendo dividi-lo em algumas partes:
+</p>
+<ol>
+<li>Este post - Definição e instalação</li>
+<li>Exemplos simples (template)</li>
+<li>Exemplos avançados  e Ferramentas
+</li></ol> </p></p>
+
+<p><p />
+
+<p><b>Instalação</b>
+
+O procedimento para instalação segue passos simpes:
+
+</p>
+
+<ol>
+
+<li>Realize o <a href="http://facelets.dev.java.net">download da Distribuição do facelets</a></li>
+
+<li>Copie o jsf-facelets.jar para o diretório WEB-INF/lib de sua aplicação</li>
+
+<li>Adicione o parâmetro do Facelets no  arquivo web.xml .</li></ol>
+
+{% highlight xml %}
+<context-param>
+  <param-name>javax.faces.DEFAULT_SUFFIX</param-name>
+  <param-value>.xhtml< /param-value>
+</context-param>
+{% endhighlight %}
+
+4. Adicione o FaceletViewHandler no arquivo faces-config.xml.
+
+{% highlight xml %}
+<application>
+  <view-handler>com.sun.facelets.FaceletViewHandler</view-handler>
+</application>
+{% endhighlight %}
+
+<p>
+</p>
+
+<p>
+
+Espero com este post ter despertado o interesse no Facelets. Se esta introdução não despertar o interesse de ler os próximos posts, espero que <a href="http://faces.eti.br/?p=50">este comentário</a> do colega Rogério Pereira Araújo desperte :) . Afinal todos nós buscamos produtividade.
+
+Ah!E quem souber qual a tag para formatar códigos no Jroller, e puder me informar, eu ficarei agradecido. Vocês devem ter percebido que foi feito um &#8220;gato&#8221; para não renderizar as tags <span class="caps">HTML</span>&#8230;
+
+Até o próximo post&#8230; 
+
+</p></p>

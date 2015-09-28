@@ -1,0 +1,11 @@
+---
+layout: post
+title: Porque hoje é sabado
+comments: true
+tags:
+  - agile
+  - evento
+  - sea
+---
+	<p><p><p>Este mês estarei parafraseando meu conterrâneo, <a target="_blank" href="http://www.xing.com/profile/Antonio_Passos">Antônio Passos</a>, que <a target="_blank" href="http://www.antoniopassos.pro.br/blog/?cat=81">toda sexta-feira</a> publica sempre pública algo diferente e legal.</p><p>No meu caso este será o mês dos eventos. E para começar, acabei de participar do evento <a target="_blank" href="http://www.seatecnologia.com.br/c/portal/layout?p_l_id=PUB.32.91">Maré de Agilidade </a>organizado pela <a target="_blank" href="http://www.seatecnologia.com.br/">Sea Tecnologia</a>.  </p><p><img hspace="0" border="0" align="baseline" vspace="0" src="/images/mareagilidade.jpg" /></p><p>O evento foi muito bem organizado e contou com a presença de várias pessoas de Brasília (e de excelentes <a target="_blank" href="http://www.seatecnologia.com.br/c/portal/layout?p_l_id=PUB.32.94">palestrantes</a>) interessadas sobre a "tal metodologia ágil" que está cada vez mais em evidência nos dias de hoje. </p><p>Posso me considerar um <a href="/2007/04/20/caia-na-real-e-seja/" target="_blank">"agilista" desde 2004</a> e por isto fico feliz em ver que o <a target="_blank" href="http://agilemanifesto.org/">movimento ágil</a> deixa o mundo "undeground" para conquistar o mundo "enterprise".  Um exemplo disto foram os cases apresentados pela <a target="_blank" href="http://www.seatecnologia.com.br">SEA</a> (incluindo o próprio <a target="_blank" href="http://www.inep.gov.br/">INEP</a>). </p><p>Quem quiser se aprofundar mais no assunto, convido-os a participar do <a target="_blank" href="/2008/08/22/workshop-scrum-em-brasilia/">Wokshop Scrum</a> em Brasília (ministrado pelo Rodrigo Yoshima da <a target="_blank" href="http://www.aspercom.com.br/">Aspercom</a>) que se realizará no próximo sabado.
+</p></p></p>

@@ -1,0 +1,39 @@
+---
+layout: post
+title: Vale a pena ver de novo - Meu Desktop com o Compiz
+comments: true
+---
+<p> Atendendo a pedidos, segue novamente uma lista de <b>Shortcuts</b> do Compiz:
+</p>
+<ol>
+  <li><b>Cubo:</b> Girar: CTRL + ALT + Botão 1 do Mouse</li>
+  <li><b>Cubo:</b> Girar com o Teclado: CTRL + ALT + Setas para esquerda ou direita</li>
+  <li><b>Cubo:</b> Girar com o Teclado levando a Janela: CTRL + ALT + SHIFT + Setas para esquerda ou direita</li>
+  <li><b>Cubo:</b> Girar com o mouse: No Desktop, girar o Scroll do Mouse</li>
+  <li><b>Alternador de aplicativos:</b> Padrão: ALT + TAB</li>
+  <li><b>Alternador de aplicativos:</b> Padrão invertido: ALT + SHIFT + TAB</li>
+  <li><b>Alternador de aplicativos:</b> Em Anel: SUPER + TAB</li>
+  <li><b>Alternador de aplicativos:</b> Em Anel invertido: SUPER + SHIFT + TAB</li>
+  <li><b>Chuva:</b> Iniciar e parar: SHIFT + F9</li>
+  <li><b>Chuva:</b> Limpador de Para-brisa: SHIFT + F8</li>
+  <li><b> Scrrenshot (Print Screen):</b> SUPER + Botão 1 do Mouse selecionando a área</li>
+  <li><b>Agrupador de Janelas: </b>Selecionar Janelas: SUPER + S</li>
+  <li><b>Agrupador de Janelas: </b>Agrupar: SUPER + T</li>
+  <li><b>Agrupador de Janelas: </b>Desagrupar: SUPER + U</li>
+  <li><b>Agrupador de Janelas:</b> Alternar: Super + Teclas para esquerda ou direita</li>
+  <li><b>Transparência:</b> ALT + Scroll do Mouse</li>
+  <li><b>Zoom:</b> SUPER + Scroll do Mouse</li>
+  <li> <b>Anotador:</b> Riscar: ALT + SUPER + Botão 1 do Mouse</li>
+  <li><b>Anotador:</b> Apagar: ALT + SUPER + K</li>
+  <li><b>Raios:</b> Iniciar ou parar: SUPER  + F5</li>
+  <li><b>Benchmark:</b> Iniciar ou parar: SUPER + F12</li>
+  <li><b>Fogo:</b> Iniciar: SUPER + SHIFT + Botão 1 do Mouse</li>
+  <li><b>Fogo:</b> Limpar: SUPER + SHIFT + C</li>
+  <li><b>Posicionar Janelas:</b> Canto superior direito da tela</li>
+  <li><b>Exposição dos ambientes: </b>Cantos superior esquerdo da tela</li>
+</ol>
+<p>É claro que existem muitos outros atalhos, mas estes são os mais utilizados e já dá para começar a brincar conforme podem ver no vídeo abaixo, feito no meu notebook com uma placa de vídeo Intel 945GM com 128MB de memória compartilhada, ou seja, não é lá uma placa que se possa chamar de excelente! 
+</p>
+<p>A gravação foi feita utilizando gtk-recordMyDesktop ao som de <a target="_blank" href="http://www.sonataarctica.info">Sonata Arctica</a> - <a target="_blank" href="https://www.youtube.com/watch?v=SS9SVOtwh_4">Paid in Full</a>: 
+  
+  <iframe width="420" height="315" src="https://www.youtube.com/embed/7QyyC4LRoYI" frameborder="0" allowfullscreen> </iframe>

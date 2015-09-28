@@ -1,0 +1,15 @@
+---
+layout: post
+title: Síntese de idéias e discussão sobre IDE
+comments: true
+---
+
+<p>Ontem ao ler o Blog do <a href="http://fragmental.com.br/blog/?p=359">Phillip Calçado Shoes</a>, li um post que é a síntese de tudo aquilo que eu penso, gostaria de escrever, mas ainda não tive paciência para falar sobre: <strong>As empresas de 3 letrinhas</strong>  <em>(Adorei este termo!)</em> 
+Fica aqui a minha recomendação de leitura para hoje: <a href="http://fragmental.com.br/blog/?p=359">3 letrinhas</a> </p>
+
+
+<p><p/>
+<strong>P.S.:</strong> Aproveitando minha passagem pelo Blog do 'Shoes', também vi outro post onde ele falou de um episódio que aconteceu há 5 dias atrás na lista de discussão do DFJUG. Simplesmente vergonhoso e decepcionante! Compartilho com todos os colegas do DFJUG, a minha indignação com a discussão que todos tiverem que "engolir" em suas caixas de email.
+<strong>Post do Shoes sobre este assunto:</strong><a href="http://fragmental.com.br/blog/?p=355">“Quando o Eclipse fizer isso alguém me avisa ?”</a> 
+<strong>Minha opinião:</strong> O Eclipse é excelente! Uso o Netbeans no meu projeto atual e estou realmente impressionado e satisfeito! IDE nenhuma garante qualidade de código!  E para finalizar: Não adianta saber usar funcionalidades da IDE se também não souber fazer "na mão"!(ou alguém discorda que facilitadores não são substitutos?)</p>
+

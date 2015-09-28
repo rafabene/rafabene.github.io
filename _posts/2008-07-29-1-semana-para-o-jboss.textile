@@ -1,0 +1,16 @@
+---
+layout: post
+title: 1 Semana para o Jboss Road Show em Brasília
+comments: true
+tags:
+  - brasília
+  - df
+  - hat
+  - jboss
+  - red
+  - road
+  - show
+---
+
+<p><p>Em 1 semana estará acontecendo em Brasília o evento da Red Hat - <a target="_blank" href="http://www.br.redhat.com/promo/roadshow2008/">Jboss Road Show 2008</a>.</p><p>O Evento está programado para dia 5 de agosto (terça-feira). A parte da manhã estará reservada para os usuários enquanto na parte da tarde o foco serão os parceiros de negócio da Red Hat.</p><p> Em Brasília, o evento acontecerá no <a target="_blank" href="http://www.brasiliaalvorada.com.br/ba_hotelbrasilia.htm">Brasília Hotel Alvorada</a>. Não deixem de conferir a agenda completa do evento no site:</p><p> <a target="_blank" href="http://www.br.redhat.com/promo/roadshow2008/agenda.php">http://www.br.redhat.com/promo/roadshow2008/agenda.php</a></p><p> </p><p>Nos vemos por lá.</p><p> </p></p>
+

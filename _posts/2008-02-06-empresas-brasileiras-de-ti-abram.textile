@@ -1,0 +1,67 @@
+---
+layout: post
+title: Empresas Brasileiras de TI! Abram os olhos (se ainda não o fizeram) !
+comments: true
+---
+
+<p><p> Quase 1 mês desde de o último post! Queria ter postado algo no Carnaval, mas simplesmente precisava descansar.
+</p>
+<p>Os últimos dias foram bastante estressantes, quebrando todo o meu ideal de qualidade (de vida, de trabalho e de produto) e também de <a target="_blank" href="http://www.improveit.com.br/xp/praticas/trabalho_energizado">ritmo sustentável</a>. Na verdade, sou total defensor <a target="_blank" href="http://www.improveit.com.br/xp">de valores</a> que parecem ser verdadeiras "ofensas" para alguns tipos de profissionais de TI que ainda não vieram para 2008. Este profissionais, que baseam seus parâmetros de produção de Software em <a target="_blank" href="http://pt.wikipedia.org/wiki/Frederick_Taylor">Taylor</a> e <a target="_blank" href="http://pt.wikipedia.org/wiki/Henry_Ford">Ford</a>, acreditam que trabalhar muito é trabalhar 14 horas por dia. Minha definição de trabalhar muito é: "Entregar o máximo possível em menos tempo". Ou seja, trabalhar muito para mim, é ser produtivo! É ter produtividade! É ser direto e resolver o problema sem enrolação e ainda sobrar tempo para estudar, e se aperfeiçoar.
+</p>
+<p>Voltando ao assunto do post, sempre tenho dito e visto que no Brasil acontece alguns "fenômenos" interessantes!
+</p>
+<ol>
+  <li>Os professores de algumas faculdades insistem que ter sucesso na carreira é se tornar gerente de projetos!</li>
+  <li>O profissional nem tirou as fraldas da faculdade então sai procurando vagas de gerente... (alias foram 5 anos de "lavagem celebral") </li>
+  <li>O profissional que resolve codificar, trabalha dois anos e diz: "Não quero mais isto! Vou virar gerente ou analista, mas não coloco mais a mão em código fonte"</li>
+  <li>O estudante já entra na faculdade falando que não vai passar o resto da vida trabalhando com TI (Pelo amor de Deus, né ? Larga a faculdade então, meu filho!)</li>
+  <li>"Analistas de sistemas" que nunca escreveram uma linha de código, especificando sistemas usando os templates do RUP</li>
+  <li>Por falar em RUP, existem as "empresas" de TI que dizem que usam o RUP, mas na verdade apenas estão usando o velho "desenvolvimento em cascata"</li>
+</ol>
+<p>Já disse anteriormente que acreditava que as causas dos fenômenos 1, 2 e 3 é que infelizmente no Brasil, as empresas pagam mais para os Gerentes de Projeto apenas porquê o possuidor deste perfil é responsável por "fazer valer" alguns dos princípios de <a target="_blank" href="http://pt.wikipedia.org/wiki/Jules_Henri_Fayol">Fayol:</a>
+</p>
+<ol>
+  <li>Autoridade e Responsabilidade - Poder de dar ordens e poder de se fazer obedecer; Obrigação de prestar contas</li>
+  <li>Disciplina - Tornar as expectativas claras e punir as violações;</li>
+  <li>Unidade de Comando - Se reportar à um único chefe/gerente;</li>
+  <li>Unidade de Direção - Garantir que os esforços dos empregados devem focar na realização dos objetivos organizacionais;</li>
+  <li>Subordinados a seu comando</li>
+  <li>Centralização - Um único núcleo de comando centralizado, atuando de forma similar ao cérebro, que comanda o organismo. Considera que centralizar é aumentar a importância da carga de trabalho do chefe e que descentralizar é distribuir de forma mais homogênea as atribuições e tarefas;</li>
+  <li>Hierarquia - Ou também cadeia de comando</li>
+  <li>Ordem - Ordenar as tarefas</li>
+  <li>Iniciativa - Estimular em seus liderados a inciativa para solução dos problemas</li>
+</ol>
+<p>Claro que pessoas com todas estas características devem ser devidamente remuneradas. Entretanto, passados 90 anos da publicação destes princípios; após a globalização; após o "boom" da Internet; após toda a melhoria na educação dos profissionais e principalmente depois de se falar muito de trabalho em equipe; será que apenas 1 pessoa na equipe (o Gerente) é o cara ?!?! Todos sabemos que hoje em dia isto não é mais realidade!
+</p>
+<p>Nossa área de TI é composta "quase que obrigatoriamente" de pessoas muito bem qualificadas, que estudaram (e ainda continuam a estudar) anos de informações, técnicas e metodologias que nos obrigam a acompanhar uma área sempre em rápida evolução. Cada um em sua área de formação (e afinidade) - Gerência de Projetos, Banco de Dados (DBA e AD), Desenvolvedores (Front-End e Back-end), Arquiteto, Infraestrutura (Application Servers e Rede)  é responsável por um produto de Software que pode ser desde um Cadastro de Locadora até um Sistema de Bankline com centenas de milhares de acesso simultâneo. Em um sistema crítico você poderia responder quem foi o ÚNICO responsável pelo sucesso do sistema ? Acredito que não!
+</p>
+<p>Além da baixa remuneração dos desenvolvedores tenho visto atitutes no mínimo questionáveis: Quando o prazo está estourando, quem é que vira a noite implementando algo não devidamente planejado e negociado com o cliente ?
+</p>
+<p>Fora este tão conhecido problema, existe um outro problema não velado: Por incrível que pareça, existem empresas onde os desenvolvedores que mais trabalham são exatamente aqueles que mais sabem. Afinal de contas eles resolvem todos os problemas, possuem baixo índice de defeitos, escrevem os códigos mais legíveis e pensam em todos os possíveis Bugs ou situações durante a implementação. Por outro lado, o desenvolvedor que NÃO QUER se especializar. Repito, NÃO QUER pois existem forums, tutoriais, ebooks, artigos, códigos fontes, google e todo o tipo de informação disponível para as pessoas com iniciativa de correrem atrás. Estes desenvolvedores sem iniciativa não estão na lista de promoção das empresas, mas como fazem o "feijão com arroz" também não estão na lista de cortes da empresa. O que está errado então ?
+</p>
+<p>Muitas vezes <a target="_blank" href="http://vitorpamplona.com/wiki/Buscando+um+Futuro+Promissor">ouvimos falar</a> que culturalmente no Brasil "Não faça nada e ganhe muito"! É ai que está o problema: As empresas brasileiras (generalizando) ainda não abriram o olho para a qualidade. A idéia é bastante simples: Reduzir os custos! Como ? Pagando um pouco melhor dois ou três desenvolvedores bem qualificados (DBQ) e entupindo o resto das vagas com desenvolvedores mal qualificados (DMQ). E isto desencadeia uma série de eventos que não afetam o bolso da empresa. Apenas a qualidade, o prazo, os bugs, o tempo de manutenção do código e outras coisas que os empresários ainda não aprenderam a enxergar.
+</p>
+<ol>
+  <li>Os desenvolvedores bem qualificados (DBQs) são sempre escolhidos para os projetos críticos.</li>
+  <li>Ninguém arrisca colocar os desenvolvedores mal qualificados (DMQs) nos projetos críticos</li>
+  <li>Os DBQs ganham "um pouco" a mais que os DMQs para se sentirem motivados.</li>
+  <li>Os DMQs sentem que ganham quase o mesmo tanto que os DBQs e se dão por satisfeitos.</li>
+  <li>A empresa acha que está fazendo um bom negócio e deixa como está.</li>
+  <li>Quando os DBQs estão cheios de projetos e não conseguem ajudar os DMQs, os problemas começam a aparecer</li>
+  <li>A empresa acredita que o problema é que os DMQs estão perdendo muito tempo na internet e corta INTEGRALMENTE o acesso impedindo assim que os DMQs tenham contato com tutoriais, howtos, etc.</li>
+  <li>Os DBQs então, tem que atrasar seus projetos (em andamento) para "dar suporte" aos DMQs - Trabalho dobrado!</li>
+  <li>Se até agora a empresa não fez nada o DBQ vai sentir que ganha pouco e trabalha muito e vai querer virar gerente ou analista para assistir "este filme" de camarote.</li>
+  <li>A empresa culposa "reconhece" o esforço do DBQ e o promove para gerente!</li>
+  <li>Resultado: A empresa perdeu um excelente técnico e ganhou um péssimo gerente.</li>
+</ol>
+<p>Neste exemplo surreal e fictício quem seria o grande vilão ? A empresa que apenas enxergou os lucros e colaborou com este cenário? O Desenvolvedor Mal Qualificado (DMQ) que não teve iniciativa de melhorar profissionalmente? Ou o Desenvolvedor Bem Qualificado (DBQ) que trocou de área apenas pelo dinheiro ? Pensem e respondam...
+</p>
+<p><b>Empresas de TI</b>, abram seus olhos! Invistam em treinamento. Crie políticas de cargos e salários que possibilitem as pessoas ganharem mais fazendo o que sabem fazer de melhor! Incentivem o uso racional da Internet. No final, o resultado de sua qualidade estará sempre no sorriso de seus clientes.
+</p>
+<p> Se você está <b>começando na área de TI </b>agora, por favor: Não se acomode como o personagem que citei! <a target="_blank" href="http://gc.blog.br/2008/01/22/voce-tem-que-ler-os-livros/">Leia livros</a>. <a target="_blank" href="http://labs.jboss.com/">Pratique.</a> Se <a target="_blank" href="http://www.rubyonrails.org/">informe.</a> <a target="_blank" href="http://www.guj.com.br/">Participe</a> de <a target="_blank" href="http://www.javafree.org/index.jf">comunidades.</a> <a target="_blank" href="http://www.ubuntu-br.org/">Explore.</a> Descubra/Entenda como funciona. <a target="_blank" href="http://www.bndes.gov.br/programas/industriais/progsoft.asp">Ajude o Brasil </a>a ser cada vez <a target="_blank" href="http://www.momentoeditorial.com.br/index.php?option=content&amp;task=view&amp;id=1531">mais concorrente</a>.
+</p>
+<p>E por fim, se você já está <b>na área há algum tempo</b>, faça o que gosta e porquê gosta! Só assim você será <u><i><b>Feliz</b></i></u> e terá <u><i><b>Sucesso</b></i></u> e <u><i><b>Paixão</b></i></u> no que faz!
+</p>
+Apesar deste desabafo, continuo gostando bastante do que faço. Acredito que "nossa" área ainda tem bastante para oferecer afinal <b>fazer CRUD é fácil! Quero ver é quando a aplicação está lenta, caindo ou foi <i>hackeada</i>"</b>
+  
+

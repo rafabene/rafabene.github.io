@@ -1,0 +1,13 @@
+---
+layout: post
+title: Java hoje e principalmente amanhâ...
+comments: true
+---
+
+<p><p> De fato, muitos desenvolvedores ficaram alarmados com um comentário feito pelo <a target="_blank" href="http://computerworld.uol.com.br/mercado/2008/02/28/java-e-cada-vez-mais-ameacada-por-novos-metodos-de-desenvolvimento/">computerworld </a>dizendo que "<i>Java é cada vez mais ameaçada por novos métodos de desenvolvimento</i>" (leia-se Ruby on Rails, Python, PHP, etc).
+</p>
+<p>Entretanto, muitos outros desenvolvedores (inclusive de outras linguagens) discordaram totalmente dizendo que <b>não é bem assim</b>!  Apesar deste assunto já estar bem "mastigado" e depois de vários flames em muitas <a target="_blank" href="http://www.dfjug.org/DFJUG/">listas de discussão</a> e <a target="_blank" href="http://www.guj.com.br/posts/list/83324.java">Forums</a>, resolvi tocar no assunto para sugerir a leitura do Post de hoje feito por <a target="_blank" href="http://imasters.uol.com.br/entrevista/3212/entrevista_exclusiva_cezar_taurion_ibm/">Cezar Taurion</a>, <i>Gerente de Novas Tecnologias da IBM Brasil, </i>em <a target="_blank" href="http://www-128.ibm.com/developerworks/blogs/page/ctaurion">seu Blog</a><i>:</i> <a target="_blank" href="http://www.ibm.com/developerworks/blogs/page/ctaurion?entry=java_hoje_e_amanh%C3%A2"><b>Java hoje e amanhã...</b></a>
+</p>
+<p>Boa leitura! 
+</p></p>
+

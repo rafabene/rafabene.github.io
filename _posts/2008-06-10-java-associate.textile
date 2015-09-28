@@ -1,0 +1,12 @@
+---
+layout: post
+title: Java Associate
+comments: true
+---
+<p>Hoje além de ser meu aniversário (10/06), estou postando para comentar que fui aprovado na prova de <a href="http://www.sun.com/training/catalog/courses/CX-310-019.xml" target="_blank">Java Associate</a>.</p>Como assim ??? Foram os comentários de alguns colegas de trabalho. Como resultado de uma consultoria recente, ganhei um voucher da série 212 (<a href="http://www.sun.com/solutions/landing/industry/education/sai/index.xml" target="_blank">Sun Academic Initiative</a>). Este voucher no entanto só dá direito a realizar provas de Programmer e Associate. Então mãos a obra!!!
+
+A prova realmente é fácil e qualquer pessoa com pouco conhecimento em Java, OO e UML(diagrama de classes) é capaz de tira-la. A sensação ao sair da prova foi pensar em qual a real intenção da Sun em colocar uma certificação no mercado que cobre apenas fundamentos. Talvez a idéia seja "certificar" que pessoas que trabalham com Java mas não colocam a mão na massa (Gerentes ???) tenham o mínimo de conhecimento de OO, UML, Java (linguagem e plataformas) para poderem conversar "na mesma língua" dos Javaneses. 
+
+Talvez a idéia seja "certificar" <u><i>o iniciante</i></u> que entende muito do conteúdo da <a href="http://www.sun.com/training/catalog/courses/CX-310-065.xml" target="_blank">SJCP</a> também está familizarizado com toda plataforma Java, os conceitos de OO e um básico de UML. De qualquer forma, diria que é um conteúdo interessante para <u>os iniciantes</u>.
+
+<i>Agora brincando</i>:É verdade que se eu tiver a certificação de Programmer e não passar na prova de Associate, a Sun me toma a certificação? Claro que não, #$@%#% Esta resposta é para meu amigo Gabriel que insiste que se eu não fosse aprovado na certificação de Associate, a Sun me tomaria a certificação de Arquiteto! kkkkk!

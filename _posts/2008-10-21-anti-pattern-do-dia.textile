@@ -1,0 +1,8 @@
+---
+layout: post
+
+title: Anti-Pattern do dia
+comments: true
+---
+	<p><p><p>Caraca! Isto me lembra o tanto que odeio classes utilitárias!!!<img hspace="0" border="0" align="left" width="130" vspace="0" heigth="130" src="http://www.manuaisdeescopo.com.br/Images/Conteudo/ME/Noticia/2014/02/19/bannerNoticia_4.jpg" /></p><p><i>"Di</i><i>c</i><i>a prática de anti-pattern do dia. Não perca o seu tempo tentando imaginar a forma correta de incluir um código que não se encaixa bem nas classes existentes do sistema. Adicione o código em questão numa classe Util. O arquiteto do projeto e os projetistas vão adorar isso!!!"</i></p><p> Fonte: <a href="http://pownce.com/adriandantas/" target="_blank">http://pownce.com/adriandantas/</a> </p><p>Se bem que também odeio "<b>projetistas</b>"! Principalmente os que nunca desenvolveram.
+</p></p></p>

@@ -1,0 +1,57 @@
+---
+layout: post
+title: From Beryl to Compiz Fusion
+comments: true
+---
+
+<p><p> Esta semana eu resolvi experimentar o <a href="http://www.opencompositing.org/">Compiz Fusion </a> no meu Ubuntu Feisty Faw 7.04 64 bits. É perceptível que existe um certa "dificuldade" em obter pacotes binários para ambientes 64bits. Entretanto o italiano <b>Treviño</b> ou simplesmente <b>3v1no</b> informou em seu <a target="_blank" href="http://3v1n0.tuxfamily.org/blog/">Blog</a> que estará disponibilizando os "builds diários" do Compiz e seus plugins. Mais do que citar como utilizar este repositório, é interessante comentar que sua contribuição começou com um Script de sua autoria chamado de <a href="http://forums.opencompositing.org/viewtopic.php?f=14&amp;t=1076"><b>MakeFusionDebs</b></a>. Ele utiliza este Script para obter as últimas <a target="_blank" href="http://gitweb.opencompositing.org/">versões dos fontes</a>, gerar os binários e disponibilizar em seu repositório. Todos os dias estou atualizando os pacotes e acompanhando a evolução e inovação que os Desktops 3D estão causando.
+</p>
+<p> Quem quiser instalar os binários que ele disponibiliza, pode seguir este tutorial aqui: <a target="_blank" href="http://compiz.org/Compiz_and_Compiz_Fusion_GIT_Ubuntu_Repository">http://compiz.org/Compiz_and_Compiz_Fusion_GIT_Ubuntu_Repository</a>
+</p>
+<p> Aliás, muita gente me pergunta se estou utilizando o Windows Vista no meu Notebook. Sim! <b>Havia</b> um Windows Vista instalado nele que não passou da primeira semana. Como podia um máquina relativamente boa ser tão lenta? Bonitinha mais ordinária! Não pensei duas vezes e mandei o Ubuntu por cima, Como é bom a sensação de domínio sobre a máquina. e caso alguém queira saber:
+</p>
+<ol>
+  <li>Wireless - Funciona de primeira</li>
+  <li>Resolução de 1280x800 (wide)  -  Basta instalar o pacote 915resolution via apt e baixar ótimos wallpapers (1280x800 e outras resoluções) em :<a target="_blank" href="http://interfacelift.com/wallpaper/index.php?sort=downloads&amp;w=1280&amp;h=800"> http://interfacelift.com/wallpaper/index.php?sort=downloads&amp;w=1280&amp;h=800</a>
+   </li>
+  <li>Som - Funciona de primeira: Inclusive o fone de ouvido e microfones.</li>
+  <li>Webcam - Funciona com o Driver V4L2, o problema é que não existem muitas aplicacões que utilizem este driver</li>
+  <li>Botões de função e QuickPlay - Funciona de primeira e já vem com atalhos para o Rhythmbox</li>
+  <li>Economia de Energia - Funciona de primeira: Escala a CPU sobre demanda, escurece o brilho da tela quando utilizando bateria</li>
+</ol>
+
+<p>Seguindo a sugestão do meu amigo <a target="_blank" href="http://blog.paulojeronimo.info/">Paulo Jerônimo</a>, segue abaixo uma lista de <b>Shortcuts</b> do Compiz:
+</p>
+<ol>
+  <li><b>Cubo:</b> Girar: CTRL + ALT + Botão 1 do Mouse</li>
+  <li><b>Cubo:</b> Girar com o Teclado: CTRL + ALT + Setas para esquerda ou direita</li>
+  <li><b>Cubo:</b> Girar com o Teclado levando a Janela: CTRL + ALT + SHIFT + Setas para esquerda ou direita</li>
+  <li><b>Cubo:</b> Girar com o mouse: No Desktop, girar o Scroll do Mouse</li>
+  <li><b>Alternador de aplicativos:</b> Padrão: ALT + TAB</li>
+  <li><b>Alternador de aplicativos:</b> Padrão invertido: ALT + SHIFT + TAB</li>
+  <li><b>Alternador de aplicativos:</b> Em Anel: SUPER + TAB</li>
+  <li><b>Alternador de aplicativos:</b> Em Anel invertido: SUPER + SHIFT + TAB</li>
+  <li><b>Chuva:</b> Iniciar e parar: SHIFT + F9</li>
+  <li><b>Chuva:</b> Limpador de Para-brisa: SHIFT + F8</li>
+  <li><b> Scrrenshot (Print Screen):</b> SUPER + Botão 1 do Mouse selecionando a área</li>
+  <li><b>Agrupador de Janelas: </b>Selecionar Janelas: SUPER + S</li>
+  <li><b>Agrupador de Janelas: </b>Agrupar: SUPER + T</li>
+  <li><b>Agrupador de Janelas: </b>Desagrupar: SUPER + U</li>
+  <li><b>Agrupador de Janelas:</b> Alternar: Super + Teclas para esquerda ou direita</li>
+  <li><b>Transparência:</b> ALT + Scroll do Mouse</li>
+  <li><b>Zoom:</b> SUPER + Scroll do Mouse</li>
+  <li> <b>Anotador:</b> Riscar: ALT + SUPER + Botão 1 do Mouse</li>
+  <li><b>Anotador:</b> Apagar: ALT + SUPER + K</li>
+  <li><b>Raios:</b> Iniciar ou parar: SUPER  + F5</li>
+  <li><b>Benchmark:</b> Iniciar ou parar: SUPER + F12</li>
+  <li><b>Fogo:</b> Iniciar: SUPER + SHIFT + Botão 1 do Mouse</li>
+  <li><b>Fogo:</b> Limpar: SUPER + SHIFT + C</li>
+  <li><b>Posicionar Janelas:</b> Canto superior direito da tela</li>
+  <li><b>Exposição dos ambientes: </b>Cantos superior esquerdo da tela</li>
+</ol>
+<p>É claro que existem muitos outros atalhos, mas estes são os mais utilizados e já dá para começar a brincar conforme podem ver no vídeo abaixo, feito no meu notebook com uma placa de vídeo Intel 945GM com 128MB de memória compartilhada, ou seja, não é lá uma placa que se possa chamar de excelente! 
+</p>
+<p>A gravação foi feita utilizando gtk-recordMyDesktop ao som de <a target="_blank" href="http://www.sonataarctica.info">Sonata Arctica</a> - <a target="_blank" href="https://www.youtube.com/watch?v=SS9SVOtwh_4">Paid in Full</a>: 
+  
+  <iframe width="420" height="315" src="https://www.youtube.com/embed/7QyyC4LRoYI" frameborder="0" allowfullscreen> </iframe>
+

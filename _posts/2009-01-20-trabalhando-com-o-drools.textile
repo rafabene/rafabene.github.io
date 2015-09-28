@@ -1,0 +1,34 @@
+---
+layout: post
+title: Trabalhando com o Drools
+comments: true
+---
+<p>Há algum tempo afastado da Blogosfera, pelo menos como autor, mas sem perder o contato com o "mundo", através do <a target="_blank" href="http://www.google.com/reader/">Google Reader</a>; finalmente volto hoje para comentar sobre um dos meus projetos mais recentes.</p><p>Estou "tocando" um projeto no local onde trabalho que está bastante interessante em diversos sentidos. O primeiro dele é a questão de estar utilizando o <a target="_blank" href="http://www.jboss.org/drools/">Drools</a> como "engine" de regras de negócio.</p><p> Antes, vou falar um pouco <i>sobre o projeto</i>: No local onde trabalho, precisa-se importar algumas informações sobre algumas entidades de todo país.  Antes da importação dos dados, se faz necessário verificar se o arquivo está correto antes de ser processado pelas rotinas de importação. Para isto existia um aplicação <a target="_blank" href="http://en.wikipedia.org/wiki/Swing_(Java)">Swing</a> que é inicializada pelas escolas e secretarias de educação através do <a target="_blank" href="http://java.sun.com/javase/technologies/desktop/javawebstart/demos.html">Java Web Start</a>. </p><p>Neste ano fizemos um refactoring da aplicação para possibilitar maiores informações para o usuário, permitindo que durante o processamento ele saiba quantos erros já aconteceram, velocidade atual de processamento, tempo estimado para finalizar a verificação, etc.</p>
+
+<img hspace="0" width="505" vspace="0" border="0" align="baseline" src="/images/migradados.png" heigth="294" />
+
+<p>Ao finalizar a verificação, o arquivo é compactado e enviado automaticamente para via FTP caso não existam erros. De outra forma, um relatório em <a target="_blank" href="http://www.lowagie.com/iText/">PDF</a> com os erros será gerado. Do ponto de vista interno da aplicação, muita coisa mudou da versão original. Toda a estrutura de classes foram remodeladas para que estas correspondam ao conceito representado. Sendo assim, existe uma classe <i><b>Linha</b></i>, que é composta de uma coleção de <b><i>Campo</i></b>s; cada campo por sua vez possui além do seu nome e valor propriamente dito, possui também sua <i><b>Definição</b></i> (obrigatoriedade, tamanho, formato, etc). Cada Linha possui uma coleção de <i><b>Erro</b></i>s (vazio ou não). O processo de desenvolvimento foi facilitado pois todos os membros da equipe (incluindo os clientes) falavam a mesma linguagem. A <b><i>Linha</i></b> é um objeto imutável pois só pode ser construído baseado no conteúdo informado (conteúdo da linha)</p><p><img hspace="0" vspace="0" border="0" align="baseline" src="/images/linha.png" /></p><p>As regras de negócio, foram então implementadas através do Drools. Muita gente da equipe questionou se a as mesma regras não poderiam ser feitas através de uma sequência de "IFs". Sim! É claro que poderia, mas cito algumas vantagens de usar o Drools neste caso.</p><ol><li>Externalização das regras</li><li>Mudam-se as regras, mas não a aplicação</li><li>Facilidade de compreensão (por incrível que pareça!)</li><li>Otimização das regras através do <a href="http://en.wikipedia.org/wiki/Rete_algorithm" target="_blank">algorítimo RETE</a></li><li>Favorece a modelagem das classes de domínio, e vice-e-versa.</li></ol><img hspace="0" width="527" vspace="0" border="0" align="baseline" src="/images/regras.png" heigth="371" /><p> </p><p>Por fim, para cada regra implementada, foi implementado <i>em paralelo</i> 2 ou mais testes unitários que visam testar se a regra deixa passar os registros corretos, informa os erros esperados e ainda os não esperados (como colocar letra no lugar de números, ou campos vazios). </p><p>Abaixo segue um exemplo de como foi implementado um teste <i>positivo</i> e <i>negativo</i>.</p>
+
+{% highlight java %}
+@Test
+public void validaCodigoMatriculaVazioAdmitidoApos() {
+    String conteudo = "90|15140759|2008|B1|8057394|8ª SÉRIE EF (M)|118314901708|200700014394|Pequeno Fuselo Chalreta|01/01/1990|Maria Fuselo Chalreta||1|8|0||1|||";
+    Linha l = new Linha(conteudo);
+    FactHandle handle = wm.insert(l);
+    wm.fireAllRules();
+    wm.retract(handle);
+    assertTrue(l.getErros().size() == 1);
+}
+
+@Test
+public void validaCodigoMatriculaVazioNaoAdmitidoApos() {
+  String conteudo = "90|15140759|2008|B1|8057394|8ª SÉRIE EF (M)|118314901708|200700014394|Pequeno Fuselo Chalreta|01/01/1990|Maria Fuselo Chalreta||1|8|1||1|||";
+  Linha l = new Linha(conteudo);
+  FactHandle handle = wm.insert(l);
+  wm.fireAllRules();
+  wm.retract(handle); 
+  assertFalse(l.temErro());
+}
+{% endhighlight %}
+
+<p> </p><p>Sendo assim, qualquer novo refactoring, inserção ou remoção de novas regras, é feito com uma maior segurança, tornando-se fácil identificar os efeitos colaterais. O processo de "build" da aplicação é realizado pela <a target="_blank" href="http://maven.apache.org/">Maven</a> de maneira que somente são gerados pacotes que são aprovados nos testes unitários. </p><p>Este projeto foi finalmente homologado pelo cliente e aguarda a publicação em produção na data prevista. Todos esforços agora estão concentrados nas rorinas de importação que tratarão os arquivos envidados. Assim que sobrar mais um tempinho, postarei algumas coisas que descobri sobre o Drools dentro de servidores de aplicação.</p><p>Até breve...</p>

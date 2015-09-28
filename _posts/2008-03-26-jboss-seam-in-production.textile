@@ -1,0 +1,19 @@
+---
+layout: post
+title: First Jboss Seam Application goes live!
+comments: true
+tags:
+  - framework
+  - inep
+  - jboss
+  - seam
+---
+
+<p><p> É com muita felicidade hoje que tomei conhecimento de que o primeiro sistema desenvolvido no <a target="_blank" href="http://www.inep.gov.br/">INEP</a> utilizando o <a target="_blank" href="http://www.seamframework.org/">Jboss Seam</a> foi comentado no noticiário do dia.
+</p>
+<p>Apesar do tempo curto para desenvolve-lo, o <a target="_blank" href="http://www.seamframework.org/">Jboss Seam</a> cumpriu seu papel de trazer produtividade ao desenvolvimento web utilizando Java. Quem quiser conhecer mais sobre este framework, recomendo O LIVRO de Jboss Seam 2.0 - <b><a target="_blank" href="http://www.manning.com/dallen/">Seam in Action do Dan Allen</a>. </b>A versão "<i>Early Access</i>" pode ser comprada on-line.
+</p>
+<p>Vejam agora <a target="_blank" href="http://jornalhoje.globo.com/JHoje/0,19125,VJS0-3076-20080326-318763,00.html">o vídeo que saiu no Jornal Hoje</a> sobre o sistema <a target="_blank" href="http://provinhabrasil.inep.gov.br/">Provinha Brasil</a>. Apesar de falar muito pouco do sistema (pois é restrito aos Secretários de Educação), é recompensador saber que de alguma maneira estamos contribuindo para a educação deste país.
+  
+</p> <iframe src="http://pop.gmc.globo.com/webmedia/GMCEmbed?midiaId=807900&amp;autoStart=false" marginwidth="0" marginheight="0" style="width: 320px; height: 288px;" frameborder="0" scrolling="no"></iframe></p>
+

@@ -1,0 +1,24 @@
+---
+layout: post
+
+title: seamframework.org é lançado!
+comments: true
+tags:
+  - framework
+  - java
+  - jboss
+  - redhat
+  - seam
+---
+
+<p><p><a target="_blank" href="http://in.relation.to/Bloggers/Gavin">Gavin King</a>, finalmente anunciou hoje o lançamento do site <a target="_blank" href="http://www.seamframework.org/">http://www.seamframework.org/</a>.
+</p>
+<p>Apesar da comunidade pedir o site há algum tempo, ele prefiriu implementar todo o site utilizando o próprio <a target="_blank" href="http://www.seamframework.org/">Seam.</a> "<i>Tivemos que construir toda a infra-estrutura primeiro.</i>"
+</p>
+<p><a target="_blank" href="http://www.seamframework.org/">seamframework.org</a> foi criado usando o Seam Wiki, um novo "engine" para wiki/forum/blog/Faq implementado usando o <a target="_blank" href="http://www.seamframework.org/">Seam,</a> <a target="_blank" href="http://www.hibernate.org/">Hibernate,</a> <a target="_blank" href="http://livedemo.exadel.com/richfaces-demo/index.jsp">RichFaces</a> e JQuery.
+</p>
+<p>O lançamento coincide com a data de início do <a target="_blank" href="http://www.jbossworld.com/">Jboss World 2008</a> que está previsto para acontecer de 13 a 15 de 2008.
+</p>
+<p>Quem já está trabalhando com JSF, EJB3 e JPA desde de o lançamento da especificação Java EE 5 (<a target="_blank" href="http://www.jcp.org/en/jsr/detail?id=244">JSR 244</a>) não deixem de <a target="_blank" href="http://www.seamframework.org/Documentation/FAQsOverview/Category/ProductEvaluation">considerar este framework nos novos projetos</a>.
+</p></p>
+

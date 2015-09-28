@@ -1,0 +1,58 @@
+---
+layout: post
+title: Tutorial - Como assassinar o SimpleDateFormat
+comments: true
+---
+
+<p><p> É impressionante como projeto diferentes repetem os mesmos erros de programação Java. Entre eles o mais comum é encontrar códigos como o abaixo
+</p>
+{% highlight java %}
+public static String getDataAtualMensagem() {
+        Date dataAtual = new Date();
+        Calendar calendar = Calendar.getInstance();
+        calendar.setTime(dataAtual);
+        String dia = (calendar.get(Calendar.DAY_OF_YEAR) < 10 ?
+                      "0" + calendar.get(Calendar.DAY_OF_YEAR) :
+                      String.valueOf(calendar.get(Calendar.DAY_OF_YEAR)));
+        String mes = (calendar.get(Calendar.MONTH) < 10 ?
+                      "0" + calendar.get(Calendar.MONTH) :
+                      String.valueOf(calendar.get(Calendar.MONTH)));
+        String ano = String.valueOf(calendar.get(Calendar.YEAR));
+        String hora = (calendar.get(Calendar.HOUR_OF_DAY) < 10 ?
+                       "0" + calendar.get(Calendar.HOUR_OF_DAY) :
+                       String.valueOf(calendar.get(Calendar.HOUR_OF_DAY)));
+        String minuto = (calendar.get(Calendar.MINUTE) < 10 ?
+                         "0" + calendar.get(Calendar.MINUTE) :
+                         String.valueOf(calendar.get(Calendar.MINUTE)));
+        String segundo = (calendar.get(Calendar.SECOND) < 10 ?
+                          "0" + calendar.get(Calendar.SECOND) :
+                          String.valueOf(calendar.get(Calendar.SECOND)));
+        //YYYYMMDDhhmmss
+        return ano + mes + dia + hora + minuto + segundo;
+    }
+{% endhighlight %}
+
+<p> Não vou entrar no mérito da origem deste código, mas percebam:
+<ol>
+  <li>São criados instâncias de Date e Calendar simultaneamente</li>
+  <li>Existe um grande quantidade de comparações ternárias</li>
+  <li>Vários objetos imutáveis do tipo String são criados</li>
+  <li>Depois existe concatenação destas Strings</li>
+</ol>
+</p>
+<p>Eu já <a target="_blank" href="/2007/03/20/dicas-para-iniciantes-java/">havia dito em um post anterior</a>: <b>Não invente uma funcionalidade que já existe em Java</b>
+</p>
+<p>Vejam como fica o código refatorado:
+</p>
+{% highlight java %}
+    private static SimpleDateFormat sdf = new SimpleDateFormat("yyyyMMDDhhmmss");
+
+
+    public static String getDataAtualMensagem() {
+        return sdf.format(new Date());
+    }
+{% endhighlight %}
+
+<p>Os únicos objetos criados em toda chamada do método são o java.util.Date e o java.lang.String (que é retornado). Tirem suas conclusões sobre: Tempo de implementacão, performance e legibilidade!
+</p></p>
+

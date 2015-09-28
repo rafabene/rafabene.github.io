@@ -1,0 +1,56 @@
+---
+layout: post
+title: Compartilhando Músicas na sua LAN via DAAP
+comments: true
+tags:
+  - daap
+  - howto
+  - linux
+  - rhythmbox
+  - ubuntu
+---
+
+<p><p> Tudo começou quando eu estava trabalhando e recebo uma mensagem no MSN de dois grandes aficionados por música: <a target="_blank" href="http://www.last.fm/user/claudio4j/">Cláudio Miranda</a> e<a target="_blank" href="http://www.last.fm/user/joaodelvalle/"> João Del Valle</a>. Dizia a mensagem: - Ei, compartilha ai suas músicas e acessa ai o compatilhamento da minha máquina com tal senha para trocarmos umas músicas!  Então sugeri: - Que tal utilizarmos o <a target="_blank" href="http://en.wikipedia.org/wiki/Digital_Audio_Access_Protocol">DAAP</a> para compartilharmos nossas músicas?
+</p>
+<p>O DAAP - Digital Audio Acess Protocol é um protocolo criado pela <a href="http://en.wikipedia.org/wiki/Apple_Computer" title="Apple Computer">Apple</a> para seu <a href="http://en.wikipedia.org/wiki/ITunes" title="ITunes">iTunes</a> para compartilhamento de músicas em uma LAN. <a href="http://en.wikipedia.org/wiki/ITunes" title="ITunes"></a>
+</p>
+<p> O próprio <a target="_blank" href="http://www.gnome.org/projects/rhythmbox/">Rhythmbox</a> já possui um plugin que implementa o procolo DAAP e possibilita acessar músicas compartilhadas ou compartilhar suas próprias músicas. Entretanto existe algumas desvantagens:
+</p>
+<ol>
+  <li>O Rhythmbox deve estar executando para que o seu compartilhamento de músicas esteja disponível para os outros</li>
+  <li>Não existe uma console de gerênciamento</li>
+  <li>Não existe log de acesso</li>
+  <li>Já experimentei alguns problemas de outros clientes que não conseguiam acessar o meu compartilhamento</li>
+</ol>
+<p>
+Diante destas desvantagens, resolvi instalar o <a target="_blank" href="http://www.fireflymediaserver.org/">Firefly Media Server</a> ou simplesmente <b>mt-daapd</b>. Antes de instalar é preciso desabilitar o compartilhamento do Rhythmbox, deixando apenas o plugin habilitado para poder acessar os demais compartilhamentos.
+</p>
+<p>
+  <img src="/images/rhythmbox-plugin.jpg" align="bottom" border="0" hspace="0" vspace="0" /> 
+</p>
+<p>A instalação do mt-daapd pode ser feito no Ubuntu através do comando:
+</p>
+{% highlight bash  %}
+sudo apt-get install mt-daapd
+{% endhighlight  %}
+<p> Após instalado o mt-daapd, é necessário configurar o arquivo  <b>/etc/mt-daapd.conf.</b> As configurações que realizei foram:
+</p>
+{% highlight bash %}
+admin_pw = SenhaDoAdmin
+mp3_dir = /home/rafael/Minhas Músicas #(Sim, ele aceita espaçoes e não precisa estar entre aspas
+runas = root #Alterei o usuário para root para que ele possa escrever o Log e acessar meu diretório home. Tudo bem, sei que não é recomendado!
+logfile = /var/log/mt-daapd.log #Descomentei esta linha para ter o log habilitado
+servername = Músicas de Rafael Benevides #Também pode ter espaço
+{% endhighlight %}
+<p> Uma vez configurado, reinicie o mt-daapd com o comando: sudo /etc/init.d/mt-daapd restart e verifique o log se não houveram erros. Você pode também acessar a URL: <a target="_blank" href="http://localhost:3689/">http://localhost:3689/</a> (não pede senha para localhost) para realizar as configurações ou ter acesso a informações sobre quantidade de músicas compartilhadas e para qual cliente
+</p>
+<p>
+  <img src="/images/mt-daapd.jpg" align="bottom" border="0" hspace="0" vspace="0" />
+</p>
+<p> Uma vez que o servidor DAAP esteja executando, clientes como <a target="_blank" href="http://www.gnome.org/projects/rhythmbox/">Rhythmbox,</a> <a target="_blank" href="http://amarok.kde.org/">Amarok</a> e <a target="_blank" href="http://www.apple.com/br/itunes/overview/">iThunes</a> poderão acessar instantâneamente suas músicas pela LAN via Streaming, bem como copiar as músicas para seus computadores.  No Rhythmbox a cópia pode ser feita clicando em Copiar sobre a música compartilhada e cola na Biblioteca.
+</p>
+<p>O DAAP também pode ser instalados em computadores que utilizam MacOS e Windows podem utilizar o <a target="_blank" href="http://www.snorp.net/log/tangerine">Tangerine</a> e o prórpio <a target="_blank" href="http://www.apple.com/br/itunes/overview/">iThunes</a> como servidor.
+</p>
+<p> Bom divertimento!
+</p></p>
+

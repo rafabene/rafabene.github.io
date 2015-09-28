@@ -1,0 +1,99 @@
+---
+layout: post
+title: Facelets - Exemplos Simples
+comments: true
+---
+
+<p><p>Continuando <a href="/2007/04/26/facelets/">meu último post (Facelets - Introdução)</a>, procurarei mostrar hoje exemplos simples de como trabalhar com o Facelets citando vantagens sobre o JSP/JSF "puro".
+</p>
+<p>O ponto de partida para entendermos as vantagens do Facelets, é seu mecanismo de templates (por isto muitos acham que ele é apenas "um engine de templates") ! O grande choque "cultural" acontece quando os desenvolvedores são "obrigados" a desenvolverem páginas utilizando XHMTL em vez do tradicional HTML. Isto tem uma explicação relativamente simples: Como o Facelets foi desenvolvido tendo em vista o ciclo de vida do JSF, as páginas desenvolvidas se tornarão uma hierarquia de componentes, não um servlet.
+</p>
+<p><b>Criando o Template</b>
+</p>
+<p>Quebrado a "barreira cultural", e buscando objetividade, vamos criar um template. Para isto seguiremos os seguintes passo:
+</p>
+<ol>
+  <li>Criar uma página que servirá de template </li>
+  <li>Importar o uso do Facelets definindo o namespace do Facelets. </li>
+  <li>Usar a tag ui:insert para definir áreas lógicas do template. </li>
+</ol>
+<p>Veja o exemplo do template abaixo :
+  
+</p>
+
+{% highlight html %}
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:f="http://java.sun.com/jsf/core"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:c="http://java.sun.com/jsp/jstl/core"
+	xmlns:ui="http://java.sun.com/jsf/facelets">
+	<head>
+		<title><ui:insert name="Titulo">Titulo Default</ui:insert></title>
+		<link rel="stylesheet" type="text/css" href="./css/main.css"/>
+	</head>
+	<div id="header">
+		<ui:insert name="Corpo">
+			Corpo
+		</ui:insert>
+	</div>
+</html>
+{% endhighlight %}
+
+<p>
+  <b>Usando o template</b>
+</p>
+<p>Para utilizar o template, basta utilizar a tag ui:composition para definir o template e a tag ui:define para definir as área lógicas definidas no template conforme exemplo abaixo:
+</p>
+
+{% highlight html %}
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:f="http://java.sun.com/jsf/core"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:c="http://java.sun.com/jsp/jstl/core"
+	xmlns:ui="http://java.sun.com/jsf/facelets">
+
+  <ui:composition template="template.xhtml">
+  	<ui:define name="Titulo">Titulo Novo</ui:define>
+  	<ui:define name="Corpo">
+  		Novo Corpo 2
+  		<h:dataTable value="#{alunosMB.lista}" var="aluno">
+  			<h:column>
+  				<f:facet name="header">Nome</facet>
+  				#{aluno.nome}
+  			</h:column>
+  			<h:column>
+  				<f:facet name="header">Idade</facet>
+  				#{aluno.idade}
+  			</h:column>
+  		</h:dataTable>
+  	</ui:define>
+  </ui:composition>
+</html>
+{% endhighlight %}
+
+<p>Percebam que é possível utilizar tags JSF (obviamente tendo importado o namespace ) e também inserir componentes JSF no HTML através do atributo jsfc="NomeComponenteJSF". Também textos soltos entre componentes não precisam estar marcados com a tag f:verbatim que é muito comum de esquecermos.
+</p>
+<p><b>Outras funcionalidades e tags</b>
+</p> Além das funcionalidades citadas no primeiro artigo, vou citar algumas outras funcionalidades:
+<ul>
+  <li>Funciona com as especificações JSF 1.1 e JSF 1.2, incluindo a RI da Sun e o Apache MyFaces. </li>
+  <li>Possibilidade de especificar a hierarquia de componentes de arquivos separados (UICompositions) </li>
+  <li>Relatório preciso do Erro (Linha, Tag e Atributo). </li>
+  <li>Especificar Tags em arquivos separados ou até mesmo em Jars Separados </li>
+  <li>Suporte completo a EL, incluindo funções </li>
+  <li>Utiliza o atributo 'jsfc' da mesma maneira que o 'jwcid' do Tapestry </li>
+  <li>Transforma <input type="text"/> em <h:inputText/> - Os Web Designers agradecem </li>
+  <li>Não necessita RenderKits especiais </li>
+  <li>Não depende do Container Web </li>
+</ul>
+<p>Além disto existem algumas tags que devem ser conhecidas (existem outras menos utilizadas):
+</p>
+<ul>
+  <li><span style="font-weight: bold;">ui:debug</span> - Cria uma hotkey que quando acionada através das combinações de teclas CTRL + SHIFT abre uma janela de Debug que mostra as hierarquia de componentes construída pelo Facelets e as variáveis e seus escopos. Ex.: <ui:debug hotkey="d" rendered="#{initParam.debugMode}"></ui:debug></li>
+  <li><span style="font-weight: bold;">ui:param </span>- Permite você passar parâmetros (que podem ser textos ou até objetos) para outras páginas ou componentes Facelets Ex.: <ui:include src="xinha_editor.html/WEB-INF/siteNav.xhtml"> <ui:param name="user" value="#{currentUser}"/> <ui:param name="page" value="home"/> </ui:include> </li>
+</ul>
+<p>Com esta introdução do modelo de templates, abrimos espaço para falar no próximo post sobre componentes Facelets (Composition Components) e ferramentas, que permitem criar componentes reutilizáveis de maneira rápida e fácil, atingindo assim o grande objetivo de demonstrar e divulgar o uso do Facelets como diferencial de produtividade e simplicidade.
+</p></p>
+

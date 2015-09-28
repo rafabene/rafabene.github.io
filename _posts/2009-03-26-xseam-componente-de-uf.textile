@@ -1,0 +1,33 @@
+---
+layout: post
+title: XSeam - Componente de UF e Município
+comments: true
+---
+<p>Depois de algum tempo sem falar, ou sequer trabalhar no <a href="https://github.com/rafabene/XSeam2" target="_blank">XSeam</a>, finalmente sobrou um pouco mais de tempo para falar dele neste Blog.</p><p>Um componente que foi adicionado na versão 0.6 (atualmente o <a href="https://github.com/rafabene/XSeam2" target="_blank">XSeam</a> está na versão 0.7) é o <i><b>x:selectOneState</b></i> e consequentemente o <i><b>x:selectOneCity</b></i>. Uma das motivações para cria-lo foi por quê esperara-se que organizações evoluidas possuam um esquema de dados (db schema) corporativo de onde espera-se que todas os sistemas façam uso destas tabelas e dados ditos corporativos.</p><p>Entretanto já tive o (des)prazer de trabalhar em corporações onde cada sistema possuia sua cópia da tabela de UF e Municípo. E para piorar cada uma de um jeito. Algumas o identificador era a própria sigla da UF, em outras era utilizado um auto-incremento, em outras o código do <a href="http://www.ibge.gov.br" target="_blank">IBGE</a>. </p><p>Como um dos objetivos do <a href="https://github.com/rafabene/XSeam2" target="_blank">XSeam</a> é ser um conjunto de componentes visuais e não visuais para o <a href="http://www.seamframework.org/" target="_blank">JBoss Seam Framework</a> com foco em produtividade, mas também com foco em padronização, foi então desenvolvido os componentes de UF e Município que buscam estes dados (imutáveis pela sua natureza) em XMLs, além de serem integrados  (o combo de municipio é automaticamenete atualizado ao se trocar a uf selecionada). O identificador escolhido para este componente é o código <a href="http://www.ibge.gov.br" target="_blank">IBGE</a>.</p><p>Sendo assim, a classe City e State que são retornadas pelos componentes podem ser utilizadas como relacionamento JPA com outras classes pois elas possuem a anotação <a href="http://java.sun.com/javaee/5/docs/api/javax/persistence/Embeddable.html" target="_blank">@Embeddable</a>. Desta forma podemos ter na entidade o seguintes atributos:</p>
+
+{% highlight java %}    
+private State uf;
+private City cidade;
+{% endhighlight %}
+
+<p> E com isto será gerado no Banco de dados os seguintes campos na tabela da referida entidade: <i><b>stateCode integer, cityCode integer. </b></i></p><p>Ou seja, desta forma você estará automáticamente guardando o código IBGE da UF e do Município na sua tabela. Entretando se você não quer utilizar os nomes sugeridos para a coluna, você pode fazer uso da anotação @<a href="http://java.sun.com/javaee/5/docs/api/javax/persistence/AttributeOverride.html" target="_blank">AttributeOverride</a> da seguinte maneira:</p>
+
+{% highlight java %}
+@AttributeOverride(name="id",column=@Column(name="uf"))
+private State uf;
+  
+@AttributeOverride(name="id",column=@Column(name="cidade"))
+private City cidade;
+{% endhighlight %}
+
+  <p>Desta maneira os atributos podem ser persistidos nas colunas de acordo com o nome definido na anotação.</p><p>Uma vez que o atributo está definido na entidade, agora é possível na nossa página usar os componentes de UF e Município da seguinte maneira: </p>
+  
+{% highlight xml %}
+<x:selectOneState value="#{personHome.instance.uf}" reRender="cidade"/>
+<br />
+<x:selectOneCity name="cidade" value="#{personHome.instance.cidade}" selectedState="#{personHome.instance.uf}" />
+{% endhighlight %}
+
+<p>E assim será automaticamente renderizado os combos de UF e Município conforme figura abaixo: </p><p> </p><p><img hspace="0" border="0" align="baseline" vspace="0" src="/images/combo.png" /> </p><p> </p><p>O exemplo citado neste post está disponível na aplicação de Blueprint que está disponível na página de <a href="https://github.com/rafabene/XSeam2/blob/master/XSeamBlueprint/WebContent/personHome.xhtml" target="_blank">downloads</a> no site do <a target="_blank" href="https://github.com/rafabene/XSeam2">Xseam - https://github.com/rafabene/XSeam2</a></p><p>Outras postagens sobre o Xseam:</p><ol><li><a href="/2008/07/01/aumentando-a-produtividade-com-jsf/" target="_blank">Aumentando a produtividade com JSF e Jboss Seam - XSeam lançado!</a></li><li><a href="/2008/07/03/xseam-i18n-e-facelets-bug/" target="_blank">XSeam - i18n e Facelets Bug
+            
+        </a></li></ol>

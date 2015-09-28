@@ -1,0 +1,47 @@
+---
+layout: post
+title: Ainda sobre o mercado de TI em Brasília
+comments: true
+---
+<p><i>Acabei de receber o texto abaixo por e-mail que reproduzo na íntegra e sem qualquer tipo de alteração. No e-mail que recebi não foi informado a fonte e por isto a mesma não foi citada.</i></p><p><i>Este é o segundo post seguido que falo sobre os efeitos da IN4 da SLTI. Por quê ? Meu grande interesse como profissional de TI é divulgar os efeitos desastrosos de um tiro (dado pelo Governo) que saiu pela culatra. Os gastos com TI podem até ter diminuído, mas estou vendo que a qualidade também.</i></p><p> </p><p><b>Quanto custa uma decisão do TCU?</b></p><div>Usar pregões para contratar serviços de TI foi um grande
+erro. É colocar na mesma cesta, itens como desenvolvimento de sistemas
+e papel higiênico, comprando-os da mesma forma. É considerar TI uma
+commoditie, como trigo, soja, milho. Mas foi isso que o TCU impôs ao
+promulgar a INSTRUÇÃO NORMATIVA No 4, que entrou em vigor no início de
+2009.
+
+</div>
+<div></div><div>Você se sentiria confortável se para uma operação
+médica qualquer, seu hospital fizesse um pregão para contratar o
+médico? Ou seja, o médico mais  barato seria escolhido. Pois é na mão
+de empresas "baratas" que está grande parte da TI do governo,
+suportando (ou não) serviços essenciais. Banco do Brasil, Caixa
+Econômica Federal, Ministério da Justiça, só pra citar alguns exemplos.</div>
+
+
+<div></div><div>Por que o TCU não faz um pregão para contratar seus controladores? Que tal?</div><div></div><div>Quanto
+custa aos cofres públicos o portal do BB ficar fora do ar? Quanto custa
+a um aposentado ficar 1 dia sem receber seu benefício devido a um
+atraso no processamento da folha de pagamento? O que dirão os
+profissionais de segurança pública de todo o país se suas bolsas do
+PRONASCI não forem pagas? E o Bolsa Família, que é o sustento de
+milhares de pessoas no país todo? Se atrasar, até o Lula vai chiar!
+
+</div>
+<div></div><div><i><b>E vc que trabalha com TI, o que acha? </b>Achatamento
+de salários, desemprego, ... empresas demitindo velhos funcionários e
+contratando novos pela metade do salário. E é aí que o caldo entorna,
+que os serviços ficam fora do ar e que você, estará pagando mais, pra
+ter menos.</i></div>
+
+
+<div></div><b>E os gestores públicos de TI, o que acham disso?<i>
+</i></b><i>Alguns poucos que conversei relatam que agora, ao invés de dedicarem-se
+a melhoria de serviços ou novos projetos, dedicam-se à interminavel
+contagem de pontos de função.</i>
+
+Mas a casa já está caindo. A DBA, grande vencedora de vários
+contratos Brasília a fora, está sem crédito nenhum. Já não pode receber
+do governo pois foi negativada no <a href="http://www.comprasnet.gov.br/ajuda/siasg/faq_sicaf.pdf" target="_blank">SICAF</a> e seus funcionários <b>já</b> estão
+com salários atrasados. É sempre assim, a corda arrebenta no lado mais
+fraco (os profissionais de TI).

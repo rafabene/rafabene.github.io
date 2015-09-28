@@ -1,0 +1,35 @@
+---
+layout: post
+title: Como evitar gastar R$6000,00/Litro de tinta para impressora
+comments: true
+tags:
+  - 4900
+  - bulk
+  - cx
+  - epson
+  - impressora
+  - tinta
+---
+
+<p><p>Em um texto mais que conhecido, <span class="info">Carlos Cardoso mostrou há 1 ano atrás em seu <a target="_blank" href="http://www.meiobit.com/node/8338">Blog,</a> (Não deixem de ler os comentários) que um litro de tinta de impressora pode custar quase R$ 6000,00. Assim como ele, TODA a minha manipulação de documentos é eletrônica. Não tenho muito espaço em casa para guardar papéis (apenas livros). Sempre que preciso, prefiro pagar R$ 0,20 em qualquer Lan House, Papelaria,  e(ou) Cyber Cafés do que ter o trabalho de cuidar de impressora (limpeza, reposição de tintas, folhas, entupimento, etc). </span>
+</p>
+<p>Diferente de mim, meu pai, como advogado, faz uso quase diário da impressora. Apesar de insistentemente tentar lhe convencer de que sai mais barato pagar por folha impressa, acabei concordando com seus argumentos e assim foi adiquirido uma Epson CX4900.  Não foi surpresa minha quando em menos de um mês (Com os cartuchos novos - A impressora nova vem com cartuchos vazios com tinta suficiente apenas para testar o funcionamento da impressora) ele me disse: "A tinta acabou!"
+</p>
+<p>Com uma busca rápida pelo Google, conheci a empresa do Andrei. A <a target="_blank" href="http://www.provideo2004.com.br/">ProVideo2004!</a> Ele comercializa (entre outros artigos) <a target="_blank" href="http://www.provideo2004.com.br/CartuchosR270Bulk.html">kits de cartuchos recarregaveis</a> que foram a solução do meu problema! Vejam uma conta rápida:
+  <table style="width: 100%;" border="1" cellpadding="1" cellspacing="1"><tbody>
+    <tr>
+      <td> <span class="style16">Custo dos Cartuchos Originais EPSON</span></td>
+      <td> <span class="style16">Aprox. R$ 120,00 - TODA VEZ QUE A TINTA TERMINAR - Só vai com 5ml</span></td>
+    </tr>
+    <tr>
+      <td> <span class="style16">Custo dos 4 Cartuchos Recarregáveis PROBULK</span></td>
+      <td> <span class="style16">Apenas R$ 145,00 UMA ÚNICA VEZ - De início já vai com 30ml cada cor</span></td>
+    </tr></tbody>
+  </table>
+</p>
+<img src="http://www.provideo2004.com.br/ProbulkFlex/bulkc79probulk2.jpg" />
+<p>Fica aqui então a dica para quem é dependente de papel e não quer gastar muito com tinta.
+</p>
+<p><b>P.S.:</b> Além da economia (<i>O custo pode chegar a menos de R$ 0,01</i>), não estou ganhando nada pela propaganda! 
+</p> </p>
+

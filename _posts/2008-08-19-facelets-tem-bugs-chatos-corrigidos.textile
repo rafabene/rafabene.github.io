@@ -1,0 +1,9 @@
+---
+layout: post
+title: Facelets tem bugs chatos corrigidos no novo Beta
+comments: true
+---
+
+<p><p>Quase na "calada da noite" foi disponibilizado (em junho) uma nova versão (ainda em beta) do <a href="https://facelets.dev.java.net/">Facelets</a> que testei hoje e percebi a correção de dois Bugs muito chatos:</p><ol><li>Empresas que constroem seus componentes visuais usando Facelets, e empacotam tais componentes em um JAR, frequentemente recebiam o erro no console: <i>"WEB-INF/lib/xseam-0.2.jar!/whatwheaver.xhtml] was modified @ 11:16:22,
+flushing component applied @ 11:16:19"</i>. Isto forçava o uso de uma parâmetro ( <a href="https://facelets.dev.java.net/nonav/docs/dev/docbook.html#config-webapp-init">facelets.REFRESH_PERIOD</a> = -1) no web.xml que desabilitava a capacidade de "auto reload" das modificações em páginas .xhtml sem a necessidade de redeploy.</li><li>Quando se chamava a tela de debug do facelets (<i><ui:debug hotkey="d" /></i>), a mesma continha um erro de javascript  que impedia o uso da tela. Geralmente eu utilizava o plugin <a target="_blank" href="http://getfirebug.com/">firebug</a> do Firefox para alterar o javascript que estava escrito errado (<b>faclets</b>).</li></ol><p>Felizmente, pelo menos para mim, estes erros não estão mais presentes na versão<a target="_blank" href="https://facelets.dev.java.net/servlets/ProjectDocumentList"> 1.1.15b1</a> que está disponível para <a target="_blank" href="https://facelets.dev.java.net/servlets/ProjectDocumentList">download no site</a> e não apresentou outros bugs.</p><p>Esta versão também já se encontra disponível no <a target="_blank" href="http://repository.jboss.org/maven2/com/sun/facelets/jsf-facelets/1.1.15.B1/">repositório Maven do Jboss.org</a> e também na versão de pré produção (Candidate Release) do Jboss <a target="_blank" href="http://www.seamframework.org/Download">Seam Framework 2.0.3CR1</a>.</p></p>
+

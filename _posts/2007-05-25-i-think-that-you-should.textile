@@ -1,0 +1,26 @@
+---
+layout: post
+title: I think that you should see this
+comments: true
+---
+
+<p><p><em><b>"I think that you should see this"</b></em>... Esta frase abre um dos vídeos mais legais que já vi sobre uma tecnologia. Este vídeo é repleto de frases muito boas. </p></p>
+
+
+<p><p>Me lembro quando tive contato com o Linux pela primeira vez: 1995! <a href="http://www.slackware.org/">Slackware</a> kernel 1.2. Era época onde o <a href="http://xwinman.org/screenshots/mwm-matt.gif">ambiente gráfico</a> mais atrapalhava do que ajudava (assim tive que aprender a maioria dos comandos na ma mão). </p></p>
+
+
+<p><p>Depois vieram as épocas onde quase não havia suporte para Desktop - Esta não era a intenção inicial do Linux mesmo - onde para fazer funcionar um <a href="http://www.guiadohardware.net/imagens/img-cde02d4f.jpg">zipdrive</a>,um modem HSP, ou uma placa de som; na maioria das vezes envolvia uma recompilação do <a href="http://www.kernel.org">Kernel</a>. Seu pouco suporte para Desktop foi a razão de ter crescido com fama de ser difícil e pouco amigável.</p></p>
+
+
+<p><p>Hoje após ter passado por algumas distribuições e estacionado no <a href="http://www.ubuntu.com">Ubuntu</a> (por enquanto), posso dizer que o Linux está bem mais maduro: <em><b>"O que ele aprende, todos nós aprendemos"</b></em>. Hoje o Linux tem suporte plug'n play para a maioria do Hardware, Seu desktop 3D é mais rápido e melhor que o tão falado Windows Vista. Sua segurança e estabilidade sempre foi um ponto forte. Poderia ficar escrevendo horas sobre suas vantagens.<em><b>"Ele está aprendendo,absorvendo. Ficando mais inteligente a cada dia"</b></em>.</p></p>
+
+
+<p><p>Agora vamos ao vídeo da IBM sobre este "garoto prodígio"!</p></p>
+
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/zzvDSwOA96s" frameborder="0" allowfullscreen> </iframe>
+
+
+<p><p>Até o próximo post... </p></p>
+

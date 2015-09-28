@@ -1,0 +1,2186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dsq="http://www.disqus.com/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:wp="http://wordpress.org/export/1.0/"
+>
+<channel>
+  <item>
+    <title>Certificação JBCD-Seam</title>
+    <link>http://www.jroller.com/rafaelbenevides/entry/certifica%C3%A7%C3%A3o_jbcd_seam</link>
+    <content:encoded>...</content:encoded>
+    <dsq:thread_identifier>http://www.jroller.com/rafaelbenevides/entry/certifica%C3%A7%C3%A3o-jbcd-seam</dsq:thread_identifier>
+    <wp:post_date_gmt>2012-10-19 00:03:46</wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:comment>
+      <wp:comment_id>100</wp:comment_id>
+      <wp:comment_author>George Gastaldi</wp:comment_author>
+      <wp:comment_author_email>gegastaldi@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://gastaldi.wordpress.com</wp:comment_author_url>
+      <wp:comment_author_IP>177.132.46.217</wp:comment_author_IP>
+      <wp:comment_date_gmt>2012-10-20 23:49:30</wp:comment_date_gmt>
+      <wp:comment_content>Parabéns pela certificação Benevides ! Boa sorte nas próximas que virão !</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+  </item>
+  <item>
+    <title>Boas práticas para Cluster Web com JBoss AS</title>
+    <link>http://www.jroller.com/rafaelbenevides/entry/boas_pr%C3%A1ticas_para_cluster_web</link>
+    <content:encoded>...</content:encoded>
+    <dsq:thread_identifier>http://www.jroller.com/rafaelbenevides/entry/boas-pr%C3%A1ticas-para-cluster-web</dsq:thread_identifier>
+    <wp:post_date_gmt>2010-12-06 18:14:55</wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:comment>
+      <wp:comment_id>101</wp:comment_id>
+      <wp:comment_author>Thiago Dantas</wp:comment_author>
+      <wp:comment_author_email>thiago.teixeira.dantas@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url></wp:comment_author_url>
+      <wp:comment_author_IP>91.198.90.55</wp:comment_author_IP>
+      <wp:comment_date_gmt>2011-01-18 13:44:30</wp:comment_date_gmt>
+      <wp:comment_content>Olá Rafael, 
+  fiquei com uma dúvida logo no primeiro paragrafo:
+Um cluster não funciona como resposta á Tolerancia a falhas e juntamente com um LB alcançariamos uma solução failover e HA ?
+
+E quanto a segunda dúvida :
+
+"Um Mito ... é possível colocar o balanceador de cargas distribuindo as requisições de um mesmo cliente entre diferentes instâncias do servidor de aplicações."  - Não é permitido colocarum Stiky habilitado para isto ?
+
+Aquele Abraço
+Continue sempre escrevendo :D
+
+Dantas</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>102</wp:comment_id>
+      <wp:comment_author>Rafael Benevides</wp:comment_author>
+      <wp:comment_author_email>rafabene@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url></wp:comment_author_url>
+      <wp:comment_author_IP>189.92.116.248</wp:comment_author_IP>
+      <wp:comment_date_gmt>2011-01-18 16:13:22</wp:comment_date_gmt>
+      <wp:comment_content>Um LB garante HA, mas sem replicação de sessão não existe failover pois a sessão será perdida. Quanto ao Sticky, eu queria passar a informação de que mesmo havendo replicação de sessão, é altamente recomendável usar Sticky Session. Um grande abraço, Thiago.</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+  </item>
+  <item>
+    <title>Certificação JBCAA</title>
+    <link>http://www.jroller.com/rafaelbenevides/entry/certifica%C3%A7%C3%A3o_jbcaa</link>
+    <content:encoded>...</content:encoded>
+    <dsq:thread_identifier>http://www.jroller.com/rafaelbenevides/entry/certifica%C3%A7%C3%A3o-jbcaa</dsq:thread_identifier>
+    <wp:post_date_gmt>2010-09-23 15:07:55</wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:comment>
+      <wp:comment_id>103</wp:comment_id>
+      <wp:comment_author>Paulo Jerônimo</wp:comment_author>
+      <wp:comment_author_email>pj@ladoservidor.com</wp:comment_author_email>
+      <wp:comment_author_url>http://ladoservidor.com</wp:comment_author_url>
+      <wp:comment_author_IP>201.86.171.19</wp:comment_author_IP>
+      <wp:comment_date_gmt>2010-10-07 20:50:48</wp:comment_date_gmt>
+      <wp:comment_content>Bene,
+
+Algum tempo depois de ter escrito o post referenciado por ti através do click em meu nome, eu também escrevi outro, no Lado Servidor. Segue o link: http://j.mp/dlXCTR
+
+[]s,
+PJ</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+  </item>
+  <item>
+    <title>Botão no Eclipse não funciona</title>
+    <link>http://www.jroller.com/rafaelbenevides/entry/bot%C3%A3o_no_eclipse_n%C3%A3o_funciona</link>
+    <content:encoded>...</content:encoded>
+    <dsq:thread_identifier>http://www.jroller.com/rafaelbenevides/entry/bot%C3%A3o-no-eclipse-n%C3%A3o-funciona</dsq:thread_identifier>
+    <wp:post_date_gmt>2010-01-12 15:18:37</wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:comment>
+      <wp:comment_id>104</wp:comment_id>
+      <wp:comment_author>William Antônio</wp:comment_author>
+      <wp:comment_author_email>william.fatecsjc@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url></wp:comment_author_url>
+      <wp:comment_author_IP>201.26.164.141</wp:comment_author_IP>
+      <wp:comment_date_gmt>2010-01-13 16:43:58</wp:comment_date_gmt>
+      <wp:comment_content>Ha, notei isso no Eclipse que está no meu Note (Ubuntu 9.10) mesmo.
+
+Valeu pela dica!</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>105</wp:comment_id>
+      <wp:comment_author>Mateus</wp:comment_author>
+      <wp:comment_author_email>mateus@mateus.pro.br</wp:comment_author_email>
+      <wp:comment_author_url></wp:comment_author_url>
+      <wp:comment_author_IP>189.20.96.92</wp:comment_author_IP>
+      <wp:comment_date_gmt>2010-02-02 15:39:02</wp:comment_date_gmt>
+      <wp:comment_content>cara, valeu a informação - foi realmente muito útil!</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+  </item>
+  <item>
+    <title>Evento JBUG:Brasil - JBoss User Group (Estarei palestrando)</title>
+    <link>http://www.jroller.com/rafaelbenevides/entry/evento_jbug_brasil_jboss_user</link>
+    <content:encoded>...</content:encoded>
+    <dsq:thread_identifier>http://www.jroller.com/rafaelbenevides/entry/evento-jbug-brasil-jboss-user</dsq:thread_identifier>
+    <wp:post_date_gmt>2010-01-04 22:52:33</wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:comment>
+      <wp:comment_id>106</wp:comment_id>
+      <wp:comment_author>Francino Costa</wp:comment_author>
+      <wp:comment_author_email>francinocosta@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url></wp:comment_author_url>
+      <wp:comment_author_IP>201.72.178.106</wp:comment_author_IP>
+      <wp:comment_date_gmt>2010-01-12 13:55:53</wp:comment_date_gmt>
+      <wp:comment_content>Rafael, fui em sua palestra realizada na Reunião do BelJug, gostei muito do projeto e fiquei muito interessado em conhecer o XSeam. Fui a site do projeto (http://xseam.dev.java.net/) mas não consegui acessar para baixar o framework. 
+Me exibiu a msg de erro abaixo:
+Your account does not have the "Project Document - View" permission needed for you to access the page you requested in the xseam project.
+Como devo proceder??
+Obrigado.</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>107</wp:comment_id>
+      <wp:comment_author>Rafael Benevides</wp:comment_author>
+      <wp:comment_author_email>rafabene@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://www.jroller.com/rafaelbenevides/</wp:comment_author_url>
+      <wp:comment_author_IP>200.162.126.100</wp:comment_author_IP>
+      <wp:comment_date_gmt>2010-01-12 15:20:59</wp:comment_date_gmt>
+      <wp:comment_content>Olá Francino,
+
+Infelizmente eu (por acidente) havia removido a permissão para guest users. Pode acessar a página do Projeto agora e acessar a seção Documents &amp; files. Abraços e obrigado por ter me relatado o problema.</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+  </item>
+  <item>
+    <title>Ainda sobre o mercado de TI em Brasília</title>
+    <link>http://www.jroller.com/rafaelbenevides/entry/ainda_sobre_o_mercado_de</link>
+    <content:encoded>...</content:encoded>
+    <dsq:thread_identifier>http://www.jroller.com/rafaelbenevides/entry/ainda-sobre-o-mercado-de</dsq:thread_identifier>
+    <wp:post_date_gmt>2009-07-20 17:42:02</wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:comment>
+      <wp:comment_id>108</wp:comment_id>
+      <wp:comment_author>Tuelho</wp:comment_author>
+      <wp:comment_author_email>rafaelcba@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://rafaeltuelho.wordpress.com</wp:comment_author_url>
+      <wp:comment_author_IP>200.130.24.253</wp:comment_author_IP>
+      <wp:comment_date_gmt>2009-07-20 21:42:07</wp:comment_date_gmt>
+      <wp:comment_content>Concordo plenamente.</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>109</wp:comment_id>
+      <wp:comment_author>Tiago Emerick</wp:comment_author>
+      <wp:comment_author_email>tiagoemerick@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url></wp:comment_author_url>
+      <wp:comment_author_IP>200.163.20.215</wp:comment_author_IP>
+      <wp:comment_date_gmt>2009-07-21 14:47:50</wp:comment_date_gmt>
+      <wp:comment_content>ótimo post!
+"parabéns" a GRANDE decisão..</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>110</wp:comment_id>
+      <wp:comment_author>Evandro</wp:comment_author>
+      <wp:comment_author_email></wp:comment_author_email>
+      <wp:comment_author_url></wp:comment_author_url>
+      <wp:comment_author_IP>200.130.24.254</wp:comment_author_IP>
+      <wp:comment_date_gmt>2009-07-21 17:01:57</wp:comment_date_gmt>
+      <wp:comment_content>Concordo com autor. E as empresas ainda dizem que faltam profissionais qualificados no mercado. Pra mim, essa história é só pra aumentar a quantidade de mão-de-obra e baratear ainda mais os profissionais.</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>111</wp:comment_id>
+      <wp:comment_author>.</wp:comment_author>
+      <wp:comment_author_email>.</wp:comment_author_email>
+      <wp:comment_author_url>http://.</wp:comment_author_url>
+      <wp:comment_author_IP>189.114.21.159</wp:comment_author_IP>
+      <wp:comment_date_gmt>2009-07-28 23:49:03</wp:comment_date_gmt>
+      <wp:comment_content>Na verdade nem todo pregão é por menor preço, e já estão adotando um "valor mínimo" para as concorrências</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>112</wp:comment_id>
+      <wp:comment_author>.</wp:comment_author>
+      <wp:comment_author_email>.</wp:comment_author_email>
+      <wp:comment_author_url>http://.</wp:comment_author_url>
+      <wp:comment_author_IP>189.114.21.159</wp:comment_author_IP>
+      <wp:comment_date_gmt>2009-07-29 11:55:40</wp:comment_date_gmt>
+      <wp:comment_content>O buraco é mais em baixo.
+Esta foi uma das formas adotadas pelo governo para amenizar a "compra" de editais, como vinha ocorrendo em todas as concorrências.
+
+Claro que possui falhas (VÁRIAS), mas ameniza a corrupção para estes casos. É complicado</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>113</wp:comment_id>
+      <wp:comment_author>TIMTONYS</wp:comment_author>
+      <wp:comment_author_email>timtonys@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url></wp:comment_author_url>
+      <wp:comment_author_IP>200.198.213.210</wp:comment_author_IP>
+      <wp:comment_date_gmt>2009-07-29 12:37:32</wp:comment_date_gmt>
+      <wp:comment_content>Concordo mais ou menos...
+Para termos bons serviços, precisamos, como serviço público, especificar bem feito os editais de Pregão...Se você não especificar detalhadamente como devem ser os produtos, aí sim cai nesse problema citado pelo autor...Mas com um Edital bem feito e um rígido controle do contrato, você pode ter produtos bons entregues pelas contratadas...
+Mas isso só se consegue com o tempo e a experiência dos órgãos em contratar desta forma...acho que no futuro, isso vai ser ajustado e vamos ter ganhos para a sociedade, por termos produtos bons e a preços não astronômicos como era antigamente...</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>114</wp:comment_id>
+      <wp:comment_author>Rafael Benevides</wp:comment_author>
+      <wp:comment_author_email>rafabene@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://www.jroller.com/rafaelbenevides/</wp:comment_author_url>
+      <wp:comment_author_IP>200.130.3.129</wp:comment_author_IP>
+      <wp:comment_date_gmt>2009-07-29 13:17:47</wp:comment_date_gmt>
+      <wp:comment_content>Particularmente não acredito que especificações super bem feitas são a solução. Veja o texto http://www.jroller.com/rafaelbenevides/entry/paulo_coelho_%C3%A9_agile . O modelo "fábrica de software" é pesado e conseqüentemente lento. O preço gasto ao longo do tempo continuará astronômico. Já vi sistema de médio porte do Governo ficar 5 anos em uma fábrica. O valor gasto daria para ser reduzido a menos da metade se a metodologia adotada fosse mais ágil.
+E a princípio: PMBoK e Agile Pode: http://visaoagil.wordpress.com/2008/08/01/pmbok-e-agile-pode/</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>115</wp:comment_id>
+      <wp:comment_author>Marcelo Freire</wp:comment_author>
+      <wp:comment_author_email>marcelofreire.freire@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url></wp:comment_author_url>
+      <wp:comment_author_IP>200.130.3.129</wp:comment_author_IP>
+      <wp:comment_date_gmt>2009-07-31 11:53:12</wp:comment_date_gmt>
+      <wp:comment_content>Eu acho que o modelo de fábrica de software pode funcionar perfeitamente, a questão é que os órgãos vão ter que ficar mais atentos à elaboração dos editais, para evitar empresas aventureiras, e à gestão dos contratos, além disso os órgãos serão obrigados a amadurecer seu fluxo de desenvolvimento de sistemas. Quanto ao peso do processo de fábrica de software, acho que o realmente o desafio é fazer uma boa mescla estre modelo unificado e métodos ágeis, sem perder a qualidade do processo e o controle das atividades</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>116</wp:comment_id>
+      <wp:comment_author>Adler Medrado</wp:comment_author>
+      <wp:comment_author_email>adler@adlermedrado.com.br</wp:comment_author_email>
+      <wp:comment_author_url>http://adlermedrado.com.br</wp:comment_author_url>
+      <wp:comment_author_IP>189.61.50.205</wp:comment_author_IP>
+      <wp:comment_date_gmt>2009-07-31 12:43:33</wp:comment_date_gmt>
+      <wp:comment_content>Um problema é que quando o edital é bem feito e tem as necessidades do órgão bem detalhadas e especificadas, empresas que não atendam a estas necessidades sempre tentam tumultuar o processo licitatório utilizando do artifício de impugnação e etc.</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+  </item>
+  <item>
+    <title>Usando Struts ???</title>
+    <link>http://www.jroller.com/rafaelbenevides/entry/usando_struts</link>
+    <content:encoded>...</content:encoded>
+    <dsq:thread_identifier>http://www.jroller.com/rafaelbenevides/entry/usando-struts</dsq:thread_identifier>
+    <wp:post_date_gmt>2009-06-17 02:11:06</wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:comment>
+      <wp:comment_id>117</wp:comment_id>
+      <wp:comment_author>Rafael Carneiro</wp:comment_author>
+      <wp:comment_author_email>rafaelcarneirob@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://www.rafaelcarneiro.net</wp:comment_author_url>
+      <wp:comment_author_IP>200.243.115.147</wp:comment_author_IP>
+      <wp:comment_date_gmt>2009-10-14 22:47:54</wp:comment_date_gmt>
+      <wp:comment_content>Parabéns pelo post, Rafael. Todo gerente e desenvolvedor deveria ler esse e outras dezenas de posts sobre esse assunto.
+
+Fiquei com uma dúvida: você vivenciou um projeto em Struts 1.x quando já estamos para entrar em 2010?
+
+</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>118</wp:comment_id>
+      <wp:comment_author>Rafael Benevides</wp:comment_author>
+      <wp:comment_author_email>rafabene@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://www.jroller.com/rafaelbenevides</wp:comment_author_url>
+      <wp:comment_author_IP>187.21.50.209</wp:comment_author_IP>
+      <wp:comment_date_gmt>2009-10-15 00:59:05</wp:comment_date_gmt>
+      <wp:comment_content>Fala Xará!!! :)
+O projeto que peguei como Freela foi em Struts 2.x. Confesso que ainda prefiro JSF e mais ainda o JBoss Seam.
+
+[]'s</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>119</wp:comment_id>
+      <wp:comment_author>Paulo Silveira</wp:comment_author>
+      <wp:comment_author_email>paulo.silveira@caelum.com.br</wp:comment_author_email>
+      <wp:comment_author_url>http://blog.caelum.com.br/</wp:comment_author_url>
+      <wp:comment_author_IP>187.12.84.147</wp:comment_author_IP>
+      <wp:comment_date_gmt>2009-10-17 12:03:37</wp:comment_date_gmt>
+      <wp:comment_content>excelente post! realmente o mercado ta embolado hoje em dia! </wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+  </item>
+  <item>
+    <title>O "Cara da Informática"</title>
+    <link>http://www.jroller.com/rafaelbenevides/entry/o_cara_da_inform%C3%A1tica</link>
+    <content:encoded>...</content:encoded>
+    <dsq:thread_identifier>http://www.jroller.com/rafaelbenevides/entry/o-cara-da-inform%C3%A1tica</dsq:thread_identifier>
+    <wp:post_date_gmt>2009-05-31 18:36:46</wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:comment>
+      <wp:comment_id>120</wp:comment_id>
+      <wp:comment_author>Alisson Leite</wp:comment_author>
+      <wp:comment_author_email>alissonleite3009@hotmail.com</wp:comment_author_email>
+      <wp:comment_author_url></wp:comment_author_url>
+      <wp:comment_author_IP>189.71.42.157</wp:comment_author_IP>
+      <wp:comment_date_gmt>2009-07-29 18:20:42</wp:comment_date_gmt>
+      <wp:comment_content>Cara acho que todos de informatica se identificam com esse seu texto.
+imprimi varios e entreguei para alguns clientes. e vou colocar um painel aqui da empresa hehehehe
+parabens !!!</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>121</wp:comment_id>
+      <wp:comment_author>Rafael Benevides</wp:comment_author>
+      <wp:comment_author_email>rafabene@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://www.jroller.com/rafaelbenevides/</wp:comment_author_url>
+      <wp:comment_author_IP>200.130.3.129</wp:comment_author_IP>
+      <wp:comment_date_gmt>2009-07-29 19:48:42</wp:comment_date_gmt>
+      <wp:comment_content>Rsrsrs. Na verdade o texto não é de minha autoria. Achei na internet sem citar a fonte. :)
+
+Abraços.</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>122</wp:comment_id>
+      <wp:comment_author>ivan</wp:comment_author>
+      <wp:comment_author_email>ivanvbomfim@yahoo.com.br</wp:comment_author_email>
+      <wp:comment_author_url></wp:comment_author_url>
+      <wp:comment_author_IP>189.104.69.88</wp:comment_author_IP>
+      <wp:comment_date_gmt>2010-12-21 17:03:41</wp:comment_date_gmt>
+      <wp:comment_content>cara, posso imprimir este texto e colocar na minha sala de trabalho e distribuir. Antes eram padre e médico, hj estamos no mesmo grupo.</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+  </item>
+  <item>
+    <title>Uma breve introdução ao Drools</title>
+    <link>http://www.jroller.com/rafaelbenevides/entry/uma_breve_introdu%C3%A7%C3%A3o_ao_drools</link>
+    <content:encoded>...</content:encoded>
+    <dsq:thread_identifier>http://www.jroller.com/rafaelbenevides/entry/uma-breve-introdu%C3%A7%C3%A3o-ao-drools</dsq:thread_identifier>
+    <wp:post_date_gmt>2009-02-14 21:13:46</wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:comment>
+      <wp:comment_id>123</wp:comment_id>
+      <wp:comment_author>Eder </wp:comment_author>
+      <wp:comment_author_email>edermg@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url></wp:comment_author_url>
+      <wp:comment_author_IP>187.115.101.188</wp:comment_author_IP>
+      <wp:comment_date_gmt>2013-04-30 14:18:26</wp:comment_date_gmt>
+      <wp:comment_content>Olá 
+Seu codigo no final, tentei baixá-lo mas está com erro. Poderia gentilmente corrigí-lo.
+att,
+</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+  </item>
+  <item>
+    <title>Workshop DDD em Brasília</title>
+    <link>http://www.jroller.com/rafaelbenevides/entry/workshop_ddd_em_bras%C3%ADlia1</link>
+    <content:encoded>...</content:encoded>
+    <dsq:thread_identifier>http://www.jroller.com/rafaelbenevides/entry/workshop-ddd-em-bras%C3%ADlia1</dsq:thread_identifier>
+    <wp:post_date_gmt>2008-12-04 18:51:13</wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:comment>
+      <wp:comment_id>124</wp:comment_id>
+      <wp:comment_author>Bruno Rossi</wp:comment_author>
+      <wp:comment_author_email>brunoorossi@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://brunorossi.com.br</wp:comment_author_url>
+      <wp:comment_author_IP>80.251.161.196</wp:comment_author_IP>
+      <wp:comment_date_gmt>2008-12-05 11:15:10</wp:comment_date_gmt>
+      <wp:comment_content>E ai Bene? Então, voce já fez esse treinamento? recomenda? Estou querendo fazer, chego no Brasil no dia 10... responde em pvt :) abs</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+  </item>
+  <item>
+    <title>Paulo Coelho é Agile ?</title>
+    <link>http://www.jroller.com/rafaelbenevides/entry/paulo_coelho_%C3%A9_agile</link>
+    <content:encoded>...</content:encoded>
+    <dsq:thread_identifier>http://www.jroller.com/rafaelbenevides/entry/paulo-coelho-%C3%A9-agile</dsq:thread_identifier>
+    <wp:post_date_gmt>2008-10-31 14:18:50</wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:comment>
+      <wp:comment_id>125</wp:comment_id>
+      <wp:comment_author>André Faria Gomes</wp:comment_author>
+      <wp:comment_author_email>andre.java@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://www.andrefaria.com</wp:comment_author_url>
+      <wp:comment_author_IP>201.83.144.137</wp:comment_author_IP>
+      <wp:comment_date_gmt>2008-11-01 09:58:36</wp:comment_date_gmt>
+      <wp:comment_content>Ótima Sacada Cara!
+Muito legal.
+
+Abraço</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+  </item>
+  <item>
+    <title>Anti-Pattern do dia</title>
+    <link>http://www.jroller.com/rafaelbenevides/entry/anti_pattern_do_dia</link>
+    <content:encoded>...</content:encoded>
+    <dsq:thread_identifier>http://www.jroller.com/rafaelbenevides/entry/anti-pattern-do-dia</dsq:thread_identifier>
+    <wp:post_date_gmt>2008-10-21 16:28:16</wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:comment>
+      <wp:comment_id>126</wp:comment_id>
+      <wp:comment_author>Marcos</wp:comment_author>
+      <wp:comment_author_email>mmc@hotmail.com</wp:comment_author_email>
+      <wp:comment_author_url></wp:comment_author_url>
+      <wp:comment_author_IP>85.138.216.135</wp:comment_author_IP>
+      <wp:comment_date_gmt>2008-10-21 23:47:26</wp:comment_date_gmt>
+      <wp:comment_content>Ok... entao nao devem existir classes utilitarias?</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>127</wp:comment_id>
+      <wp:comment_author>Daniel Gazineu</wp:comment_author>
+      <wp:comment_author_email>danielgazineu@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://danielgazineu.blogspot.com</wp:comment_author_url>
+      <wp:comment_author_IP>192.130.162.154</wp:comment_author_IP>
+      <wp:comment_date_gmt>2008-10-23 08:45:02</wp:comment_date_gmt>
+      <wp:comment_content>Fala "Bené"! Blz?
+No meu último projeto que tinha uma classe br.com.nomedaempresa.nomedoprojeto.util.Util
+Até hoje não sei o que ela fazia (nem o que não fazia!). :P
+
+Pra melhorar, só se ela fosse singleton pra "facilitar o acesso".
+
+No meu ponto de vista, a melhor solução pra esse tipo de problema é aplicar muito DDD.</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+  </item>
+  <item>
+    <title>Java: Produtividade na Web com o XSeam</title>
+    <link>http://www.jroller.com/rafaelbenevides/entry/java_produtividade_na_web_com</link>
+    <content:encoded>...</content:encoded>
+    <dsq:thread_identifier>http://www.jroller.com/rafaelbenevides/entry/java-produtividade-na-web-com</dsq:thread_identifier>
+    <wp:post_date_gmt>2008-10-02 14:05:16</wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:comment>
+      <wp:comment_id>128</wp:comment_id>
+      <wp:comment_author>Alexandre Ferreira</wp:comment_author>
+      <wp:comment_author_email>alexandreee85@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://www.alexandreferreira.com.br</wp:comment_author_url>
+      <wp:comment_author_IP>201.7.114.103</wp:comment_author_IP>
+      <wp:comment_date_gmt>2008-10-02 16:29:36</wp:comment_date_gmt>
+      <wp:comment_content>Gostei da ideia do xSeam, porém não consigo ver o video pq o proxy aqui da Petrobrás bloqueia.
+Tentei fazer download por um site que faz downloads dos videos do youtube e também não consegui.
+
+Pode enviar por e-mail ou deixar um link direto?</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>129</wp:comment_id>
+      <wp:comment_author>Rafael Benevides</wp:comment_author>
+      <wp:comment_author_email>rafabene@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://www.jroller.com/rafaelbenevides</wp:comment_author_url>
+      <wp:comment_author_IP>200.130.24.201</wp:comment_author_IP>
+      <wp:comment_date_gmt>2008-10-02 17:18:37</wp:comment_date_gmt>
+      <wp:comment_content>Mandei o link para download direto por e-mail</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>130</wp:comment_id>
+      <wp:comment_author>Adrian Mitev</wp:comment_author>
+      <wp:comment_author_email></wp:comment_author_email>
+      <wp:comment_author_url></wp:comment_author_url>
+      <wp:comment_author_IP>212.25.36.84</wp:comment_author_IP>
+      <wp:comment_date_gmt>2008-10-03 06:45:22</wp:comment_date_gmt>
+      <wp:comment_content>OMG. When you'll start posting in english?</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>131</wp:comment_id>
+      <wp:comment_author>Rafael Benevides</wp:comment_author>
+      <wp:comment_author_email>rafabene@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://www.jroller.com/rafaelbenevides</wp:comment_author_url>
+      <wp:comment_author_IP>200.130.24.201</wp:comment_author_IP>
+      <wp:comment_date_gmt>2008-10-03 10:58:11</wp:comment_date_gmt>
+      <wp:comment_content>Hi Adrian,
+
+I am starting to improve my English writing. The screencast has subtitles in English - as a slow beginning :) - Is the English writing in subtitles acceptable ? Your opinion is very important to keep me going forward to post in English.</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>132</wp:comment_id>
+      <wp:comment_author>Adrian Mitev</wp:comment_author>
+      <wp:comment_author_email></wp:comment_author_email>
+      <wp:comment_author_url></wp:comment_author_url>
+      <wp:comment_author_IP>212.25.36.84</wp:comment_author_IP>
+      <wp:comment_date_gmt>2008-10-03 11:10:39</wp:comment_date_gmt>
+      <wp:comment_content>Yeah. The english is pretty decent.</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>133</wp:comment_id>
+      <wp:comment_author>Rafael Benevides</wp:comment_author>
+      <wp:comment_author_email>rafabene@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://www.jroller.com/rafaelbenevides</wp:comment_author_url>
+      <wp:comment_author_IP>200.130.24.201</wp:comment_author_IP>
+      <wp:comment_date_gmt>2008-10-03 11:37:42</wp:comment_date_gmt>
+      <wp:comment_content>Thanks ;)</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>134</wp:comment_id>
+      <wp:comment_author>Rodrigo Rosa</wp:comment_author>
+      <wp:comment_author_email>rodrigocrosa@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url></wp:comment_author_url>
+      <wp:comment_author_IP>189.10.165.98</wp:comment_author_IP>
+      <wp:comment_date_gmt>2008-10-03 12:53:35</wp:comment_date_gmt>
+      <wp:comment_content>Saudações! Muito bacana esse projeto, vou fazer uns testes para adotar aqui na empresa!
+Pergunta/sugestão: uma característica recorrente nos projetos que trabalho é a existência de um componente LOV (List Of Values) para selecionar um objeto de uma lista e associar ao objeto que estou editando. No objeto atual eu tenho algo como um botão no input para chamar o componente de seleção. Que tu achas de turbinar um input com algo assim? O ADF Faces tem um componente para isso, usando uns listeners e tals. Com o seam-gen até rola, fazendo uso de param e wire com o home.
+=)</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>135</wp:comment_id>
+      <wp:comment_author>Solerman Kaplon</wp:comment_author>
+      <wp:comment_author_email></wp:comment_author_email>
+      <wp:comment_author_url></wp:comment_author_url>
+      <wp:comment_author_IP>189.10.165.98</wp:comment_author_IP>
+      <wp:comment_date_gmt>2008-10-03 13:14:46</wp:comment_date_gmt>
+      <wp:comment_content>Sobre a legenda, só um detalhe: register(s) significa registrador(es), você deve usar record(s), que significa registro(s)
+Fora isso, está muito bom :)</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>136</wp:comment_id>
+      <wp:comment_author>Rafael Benevides</wp:comment_author>
+      <wp:comment_author_email>rafabene@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://www.jroller.com/rafaelbenevides</wp:comment_author_url>
+      <wp:comment_author_IP>200.130.24.201</wp:comment_author_IP>
+      <wp:comment_date_gmt>2008-10-03 13:18:43</wp:comment_date_gmt>
+      <wp:comment_content>Putz, Solerman, é verdade! Você tem razão!!! Cai em um falso cognato. Obrigado. Vou ver se faço estas correções!</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>137</wp:comment_id>
+      <wp:comment_author>Rafael Benevides</wp:comment_author>
+      <wp:comment_author_email>rafabene@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://www.jroller.com/rafaelbenevides</wp:comment_author_url>
+      <wp:comment_author_IP>200.130.24.201</wp:comment_author_IP>
+      <wp:comment_date_gmt>2008-10-03 13:20:15</wp:comment_date_gmt>
+      <wp:comment_content>Olá Rodrigo, muito boa a sua dica. Nós (eu e o Gabriel) temos um princípio de LOV em um projeto particular, mas estamos amadurecendo-o para coloca-lo no XSeam. Valeu mesmo ;)</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>138</wp:comment_id>
+      <wp:comment_author>Rodrigo Rosa</wp:comment_author>
+      <wp:comment_author_email>rodrigocrosa@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url></wp:comment_author_url>
+      <wp:comment_author_IP>189.10.165.98</wp:comment_author_IP>
+      <wp:comment_date_gmt>2008-10-03 19:54:02</wp:comment_date_gmt>
+      <wp:comment_content>Salve, Rafael! 
+Dando sequência nos testes com xseam, adicionei-o a um projeto existente, cuja unica diferença é utilizar ebj (ou seja, tenho um modulo war e um modulo ebj). Adicionei o xseam.jar ao web-inf/lib e ao EarContent (bem como no manifesta do ear e do ejb). Na IDE funciona muito bem, faz os imports, tudo certo. Mas ao executar o deploy para o jboss, tomo uma java.lang.NoClassDefFoundError: org/xseam/model/BaseEntity. Por pura força do acaso, vc teria um exemplo de utilização do xseam em um projeto com ejb? 
+Em tempo: esse projeto foi criado usando o jboss tools, segue aquela estrutura levemente diferente da proposta pelo seam-gen.
+Valeu!</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>139</wp:comment_id>
+      <wp:comment_author>Rafael Benevides</wp:comment_author>
+      <wp:comment_author_email>rafabene@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://www.jroller.com/rafaelbenevides/</wp:comment_author_url>
+      <wp:comment_author_IP>189.7.46.183</wp:comment_author_IP>
+      <wp:comment_date_gmt>2008-10-05 11:42:20</wp:comment_date_gmt>
+      <wp:comment_content>Rodrigo, 
+
+Vou trabalhar neste exemplo (usando o Jboss Tools) e te envio. Me envia seu e-mail para rafabene @ gmail dot com .</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>140</wp:comment_id>
+      <wp:comment_author>Maykon</wp:comment_author>
+      <wp:comment_author_email>maykonjv@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url></wp:comment_author_url>
+      <wp:comment_author_IP>189.35.20.112</wp:comment_author_IP>
+      <wp:comment_date_gmt>2011-04-09 18:44:44</wp:comment_date_gmt>
+      <wp:comment_content>Achei muito interessante este framework, e gostaria de conhece-lo melhor, porém não consigo baixa-lo para testar. A pagina http://xseam.dev.java.net/ esta emitindo a mensagem "Not Found". Onde posso baixar o framework e documentação?</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>141</wp:comment_id>
+      <wp:comment_author>Rafael Benevides</wp:comment_author>
+      <wp:comment_author_email>rafabene@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://www.jroller.com/rafaelbenevides/</wp:comment_author_url>
+      <wp:comment_author_IP>200.162.126.100</wp:comment_author_IP>
+      <wp:comment_date_gmt>2011-04-11 12:26:06</wp:comment_date_gmt>
+      <wp:comment_content>Poxa,
+
+Infelizmente eu apaguei o projeto pois não estava tendo tempo para mexer nele. Vou tentar lançar uma nova versão para o Seam 3 /JSF 2 / Richfaces 4</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>142</wp:comment_id>
+      <wp:comment_author>Bruno Emanuel</wp:comment_author>
+      <wp:comment_author_email>bemanuel.pe@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://www.bemanuel.com.br</wp:comment_author_url>
+      <wp:comment_author_IP>189.53.104.118</wp:comment_author_IP>
+      <wp:comment_date_gmt>2011-04-25 00:19:33</wp:comment_date_gmt>
+      <wp:comment_content>Relançando avisa...</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>143</wp:comment_id>
+      <wp:comment_author>Herbert</wp:comment_author>
+      <wp:comment_author_email>herbertpimentel@hotmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://www.kapuca.com.br</wp:comment_author_url>
+      <wp:comment_author_IP>200.242.211.2</wp:comment_author_IP>
+      <wp:comment_date_gmt>2011-09-16 14:49:53</wp:comment_date_gmt>
+      <wp:comment_content>O que houve com o projeto do xseam não o encontramos mais. era uma ideia mt legal, todas as referencias que encontro sobre o xseam estão "fora do ar" notificanos ae...
+[]s</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>144</wp:comment_id>
+      <wp:comment_author>Rafael Benevides</wp:comment_author>
+      <wp:comment_author_email>rafabene@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://www.jroller.com/rafaelbenevides</wp:comment_author_url>
+      <wp:comment_author_IP>189.123.53.87</wp:comment_author_IP>
+      <wp:comment_date_gmt>2011-09-16 14:52:07</wp:comment_date_gmt>
+      <wp:comment_content>Com a mudança do dev.java.net depois da aquisição da Oracle, resolvi hospedar os fontes no GitHub. Os fontes estão aqui: https://github.com/rafabene/XSeam2</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+  </item>
+  <item>
+    <title>Porquê hoje é sabado</title>
+    <link>http://www.jroller.com/rafaelbenevides/entry/porqu%C3%AA_hoje_%C3%A9_sabado1</link>
+    <content:encoded>...</content:encoded>
+    <dsq:thread_identifier>http://www.jroller.com/rafaelbenevides/entry/porqu%C3%AA-hoje-%C3%A9-sabado1</dsq:thread_identifier>
+    <wp:post_date_gmt>2008-09-21 01:44:45</wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:comment>
+      <wp:comment_id>145</wp:comment_id>
+      <wp:comment_author>André Faria Gomes</wp:comment_author>
+      <wp:comment_author_email>andre.java@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://www.andrefaria.com</wp:comment_author_url>
+      <wp:comment_author_IP>189.100.79.113</wp:comment_author_IP>
+      <wp:comment_date_gmt>2008-09-22 01:11:40</wp:comment_date_gmt>
+      <wp:comment_content>É o Rodrigo é mesmo muito gente boa... Agora vem a a melhor parte: a de colocar tudo que aprendeu sobre scrum em prática!!! Boa sorte. Abraço</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+  </item>
+  <item>
+    <title>Porque hoje é sabado</title>
+    <link>http://www.jroller.com/rafaelbenevides/entry/porque_hoje_%C3%A9_sabado</link>
+    <content:encoded>...</content:encoded>
+    <dsq:thread_identifier>http://www.jroller.com/rafaelbenevides/entry/porque-hoje-%C3%A9-sabado</dsq:thread_identifier>
+    <wp:post_date_gmt>2008-09-14 03:00:39</wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:comment>
+      <wp:comment_id>146</wp:comment_id>
+      <wp:comment_author>Willi</wp:comment_author>
+      <wp:comment_author_email>rwillli@yahoo.com.br</wp:comment_author_email>
+      <wp:comment_author_url>http://blog.seatecnologia.com.br</wp:comment_author_url>
+      <wp:comment_author_IP>189.61.55.134</wp:comment_author_IP>
+      <wp:comment_date_gmt>2008-09-15 01:53:00</wp:comment_date_gmt>
+      <wp:comment_content>Fala Bené!
+Valeu pela presença! :) Pena que não dá pra ver direito que justamente a galera que está no slide são seus colegas aí do INEP: Cláudio, Danielzim, Victor, Sandro, Robert e Petrillo...
+
+Pena também que alguns não estavam presentes na hora pra gente apontar, mas pelo jeito haverá muitas outras oportunidades.
+
+Esperamos que tenham gostado!
+
+[]s
+Willi</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+  </item>
+  <item>
+    <title>IPhone - Usando o Google como uma alternavita "grátis" ao MobileMe</title>
+    <link>http://www.jroller.com/rafaelbenevides/entry/iphone_usando_o_google_como</link>
+    <content:encoded>...</content:encoded>
+    <dsq:thread_identifier>http://www.jroller.com/rafaelbenevides/entry/iphone-usando-o-google-como</dsq:thread_identifier>
+    <wp:post_date_gmt>2008-08-24 19:17:30</wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:comment>
+      <wp:comment_id>147</wp:comment_id>
+      <wp:comment_author>evandro</wp:comment_author>
+      <wp:comment_author_email>evandro@santoucy.com.br</wp:comment_author_email>
+      <wp:comment_author_url></wp:comment_author_url>
+      <wp:comment_author_IP>189.74.12.103</wp:comment_author_IP>
+      <wp:comment_date_gmt>2008-10-15 03:28:52</wp:comment_date_gmt>
+      <wp:comment_content>Excelente solução. Simples e funcional.
+O iphone é um produto muito caro para ainda precisar pagar por uma solução de sincronismo do caderno de endereços. Qualquer PDA e telefone celular possui de "série".</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+  </item>
+  <item>
+    <title>Jboss Road Show!</title>
+    <link>http://www.jroller.com/rafaelbenevides/entry/jboss_road_show</link>
+    <content:encoded>...</content:encoded>
+    <dsq:thread_identifier>http://www.jroller.com/rafaelbenevides/entry/jboss-road-show</dsq:thread_identifier>
+    <wp:post_date_gmt>2008-08-06 00:15:34</wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:comment>
+      <wp:comment_id>148</wp:comment_id>
+      <wp:comment_author>.</wp:comment_author>
+      <wp:comment_author_email></wp:comment_author_email>
+      <wp:comment_author_url></wp:comment_author_url>
+      <wp:comment_author_IP>189.123.12.75</wp:comment_author_IP>
+      <wp:comment_date_gmt>2008-08-06 03:47:26</wp:comment_date_gmt>
+      <wp:comment_content>Olha eu ali</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+  </item>
+  <item>
+    <title>Screencast XSeam</title>
+    <link>http://www.jroller.com/rafaelbenevides/entry/screencast_xseam</link>
+    <content:encoded>...</content:encoded>
+    <dsq:thread_identifier>http://www.jroller.com/rafaelbenevides/entry/screencast-xseam</dsq:thread_identifier>
+    <wp:post_date_gmt>2008-07-22 22:54:43</wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:comment>
+      <wp:comment_id>149</wp:comment_id>
+      <wp:comment_author>adr</wp:comment_author>
+      <wp:comment_author_email></wp:comment_author_email>
+      <wp:comment_author_url></wp:comment_author_url>
+      <wp:comment_author_IP>212.25.36.84</wp:comment_author_IP>
+      <wp:comment_date_gmt>2008-07-23 08:53:31</wp:comment_date_gmt>
+      <wp:comment_content>Why in Spanish, why??</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>150</wp:comment_id>
+      <wp:comment_author>Rafael Benevides</wp:comment_author>
+      <wp:comment_author_email>rafabene@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://www.jroller.com/rafaelbenevides/</wp:comment_author_url>
+      <wp:comment_author_IP>200.130.24.222</wp:comment_author_IP>
+      <wp:comment_date_gmt>2008-07-23 11:00:15</wp:comment_date_gmt>
+      <wp:comment_content>Sorry. This is not Spanish. It is Portuguease ;) I'll do an English Blog as soon as i have time. Really! Until there you can read this post using Google translate - http://translate.google.com/translate?u=http%3A%2F%2Fwww.jroller.com%2Frafaelbenevides%2Fentry%2Fscreencast_xseam&amp;hl=pt-BR&amp;ie=UTF8&amp;sl=pt&amp;tl=en . See ya</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>151</wp:comment_id>
+      <wp:comment_author>saulo</wp:comment_author>
+      <wp:comment_author_email>saulovieira@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://seguidoresdojava.wordpress.com</wp:comment_author_url>
+      <wp:comment_author_IP>201.48.62.150</wp:comment_author_IP>
+      <wp:comment_date_gmt>2008-07-23 12:22:20</wp:comment_date_gmt>
+      <wp:comment_content>Achei muito bacana a demonstração da utilização do XSeam com o Jboss tools, realmente não é de se admirar o sucesso que estão fazendo aqui no Brasil.
+
+Parabéns pelo post.</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>152</wp:comment_id>
+      <wp:comment_author>Rodrigo</wp:comment_author>
+      <wp:comment_author_email>aaaaaa@aaaaaaa.com</wp:comment_author_email>
+      <wp:comment_author_url></wp:comment_author_url>
+      <wp:comment_author_IP>201.22.56.161</wp:comment_author_IP>
+      <wp:comment_date_gmt>2008-07-31 11:46:02</wp:comment_date_gmt>
+      <wp:comment_content>Perca de qualidade?!?!?!? PERCA??? Meu, vai aprender o português correto.
+
+"I'll do an English Blog as soon as i have time"
+Essa foi a frase mais bizarra que já li em inglês. Completamente errada, totalmente TUPINIQUINGLISH.
+
+Precisa melhorar mto o inglês se quiser fazer um blog nesta língua...</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>153</wp:comment_id>
+      <wp:comment_author>Francisco Antônio</wp:comment_author>
+      <wp:comment_author_email>geral@prt18.mpt.gov.br</wp:comment_author_email>
+      <wp:comment_author_url></wp:comment_author_url>
+      <wp:comment_author_IP>200.140.135.118</wp:comment_author_IP>
+      <wp:comment_date_gmt>2008-07-31 16:33:34</wp:comment_date_gmt>
+      <wp:comment_content>Parabéns a você e aos outros membros do projeto pela iniciativa. Fiquei bastante interessado após assistir ao vídeo.
+
+Gostaria de saber se há uma lista ativa de usuários do XSeam.
+
+Outra questão: há um road map?
+
+Obrigado.</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>154</wp:comment_id>
+      <wp:comment_author>Rafael Benevides</wp:comment_author>
+      <wp:comment_author_email>rafabene@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://www.jroller.com/rafaelbenevides/</wp:comment_author_url>
+      <wp:comment_author_IP>200.198.105.42</wp:comment_author_IP>
+      <wp:comment_date_gmt>2008-07-31 16:48:35</wp:comment_date_gmt>
+      <wp:comment_content>Olá Rodrigo,
+
+Realmente é fácil confundir palavras parônimas. Não vou agradecer sua dica pois claramente sua intenção não foi esta.</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>155</wp:comment_id>
+      <wp:comment_author>Rafael Benevides</wp:comment_author>
+      <wp:comment_author_email>rafabene@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://www.jroller.com/rafaelbenevides/</wp:comment_author_url>
+      <wp:comment_author_IP>200.180.141.58</wp:comment_author_IP>
+      <wp:comment_date_gmt>2008-07-31 22:37:17</wp:comment_date_gmt>
+      <wp:comment_content>Olá Francisco
+
+Ainda não há uma lista ativa de usuários. Algumas solicitações (na verdade idéias) tem acontecido diretamente por e-mail. Você deu uma excelente idéia.
+
+Quanto ao Road Map, existe algo na cabeça da galera. O que é preciso é realmente "externalizar" isto. Assim que retornar de viagem, vou ver se junto todo mundo para montar o Road Map.</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>156</wp:comment_id>
+      <wp:comment_author>ukaliko</wp:comment_author>
+      <wp:comment_author_email>ukaliko@ig.com.br</wp:comment_author_email>
+      <wp:comment_author_url></wp:comment_author_url>
+      <wp:comment_author_IP>201.3.12.165</wp:comment_author_IP>
+      <wp:comment_date_gmt>2008-10-12 03:39:47</wp:comment_date_gmt>
+      <wp:comment_content>Legal Rafael. Vi o video de apresentação do XSeam e gostei muito da praticidade e produção que ele parece trazer no desenvolvimento de aplicações web. Vou fazer uns testes, parece que vira :). 
+Qualquer zica.. te post aqui. Ai valeu, Muito bom o post. 
+
+Um forte abraço.
+
+Ukaliko.</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+  </item>
+  <item>
+    <title>Projeto Hotmotors da Aspercom agora com JBoss Seam</title>
+    <link>http://www.jroller.com/rafaelbenevides/entry/projeto_hotmotors_da_aspercom_agora</link>
+    <content:encoded>...</content:encoded>
+    <dsq:thread_identifier>http://www.jroller.com/rafaelbenevides/entry/projeto-hotmotors-da-aspercom-agora</dsq:thread_identifier>
+    <wp:post_date_gmt>2008-07-08 14:31:11</wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:comment>
+      <wp:comment_id>157</wp:comment_id>
+      <wp:comment_author>adr</wp:comment_author>
+      <wp:comment_author_email></wp:comment_author_email>
+      <wp:comment_author_url></wp:comment_author_url>
+      <wp:comment_author_IP>212.25.36.84</wp:comment_author_IP>
+      <wp:comment_date_gmt>2008-07-11 08:44:38</wp:comment_date_gmt>
+      <wp:comment_content>Dude, why don't you post in english?</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>158</wp:comment_id>
+      <wp:comment_author>Rafael Benevides</wp:comment_author>
+      <wp:comment_author_email>rafabene@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://www.jroller.com/rafaelbenevides/</wp:comment_author_url>
+      <wp:comment_author_IP>189.61.29.95</wp:comment_author_IP>
+      <wp:comment_date_gmt>2008-07-11 11:54:56</wp:comment_date_gmt>
+      <wp:comment_content>Hi adr,
+
+I am planning to create a new Blog in english. It's a matter of time :)</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>159</wp:comment_id>
+      <wp:comment_author>Carlos</wp:comment_author>
+      <wp:comment_author_email>abaldove@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url></wp:comment_author_url>
+      <wp:comment_author_IP>200.212.174.11</wp:comment_author_IP>
+      <wp:comment_date_gmt>2009-11-13 11:54:07</wp:comment_date_gmt>
+      <wp:comment_content>Ola Rafael, tentei rodar esse projeto mas ele da erro no maven, diz que uma dependencia esta faltando:
+
+ javax.transaction:jta:jar:1.0.1B
+
+
+
+</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>160</wp:comment_id>
+      <wp:comment_author>Rafael Benevides</wp:comment_author>
+      <wp:comment_author_email>rafabene@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://www.jroller.com/rafaelbenevides/</wp:comment_author_url>
+      <wp:comment_author_IP>200.130.3.129</wp:comment_author_IP>
+      <wp:comment_date_gmt>2009-11-13 11:59:46</wp:comment_date_gmt>
+      <wp:comment_content>Carlos,
+
+Abra o pom.xml e substitua a versão 1.0.1B pela 1.1. Deve funcionar.</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>161</wp:comment_id>
+      <wp:comment_author>Paula</wp:comment_author>
+      <wp:comment_author_email>paula.antunes@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url></wp:comment_author_url>
+      <wp:comment_author_IP>161.148.74.43</wp:comment_author_IP>
+      <wp:comment_date_gmt>2010-01-28 18:45:25</wp:comment_date_gmt>
+      <wp:comment_content>Olá, Tive o mesmo problema do Carlos e não encontrei a ocorrencia 1.0.1B no arquivo pom.xml, apesar do erro ser o mesmo:
+
+javax.transaction:jta:jar:1.0.1B
+</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+  </item>
+  <item>
+    <title>Aumentando a produtividade com JSF e Jboss Seam - XSeam lançado!</title>
+    <link>http://www.jroller.com/rafaelbenevides/entry/aumentando_a_produtividade_com_jsf</link>
+    <content:encoded>...</content:encoded>
+    <dsq:thread_identifier>http://www.jroller.com/rafaelbenevides/entry/aumentando-a-produtividade-com-jsf</dsq:thread_identifier>
+    <wp:post_date_gmt>2008-07-01 19:16:28</wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:comment>
+      <wp:comment_id>162</wp:comment_id>
+      <wp:comment_author>Marcos Sousa</wp:comment_author>
+      <wp:comment_author_email>falecomigo@marcossousa.com</wp:comment_author_email>
+      <wp:comment_author_url></wp:comment_author_url>
+      <wp:comment_author_IP>189.41.37.79</wp:comment_author_IP>
+      <wp:comment_date_gmt>2008-07-01 20:48:50</wp:comment_date_gmt>
+      <wp:comment_content>Gostei da iniciativa, Parabéns! Se precisarem de ajuda podem contar comigo!</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>163</wp:comment_id>
+      <wp:comment_author>Rafael Benevides</wp:comment_author>
+      <wp:comment_author_email>rafabene@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://www.jroller.com/rafaelbenevides/</wp:comment_author_url>
+      <wp:comment_author_IP>200.130.24.222</wp:comment_author_IP>
+      <wp:comment_date_gmt>2008-07-02 12:22:17</wp:comment_date_gmt>
+      <wp:comment_content>Opa!!! Obrigado :)</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>164</wp:comment_id>
+      <wp:comment_author>Wagner Santos</wp:comment_author>
+      <wp:comment_author_email>wagner.gsantos@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://www.geracaoelias.blog.br</wp:comment_author_url>
+      <wp:comment_author_IP>189.27.9.22</wp:comment_author_IP>
+      <wp:comment_date_gmt>2008-08-29 23:51:53</wp:comment_date_gmt>
+      <wp:comment_content>Achei o projeto bem interessante. Gostaria de saber se o XSeam pode ser utilizado em aplicaçoes JSF puras.</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>165</wp:comment_id>
+      <wp:comment_author>Rafael Benevides</wp:comment_author>
+      <wp:comment_author_email>rafabene@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://www.jroller.com/rafaelbenevides/</wp:comment_author_url>
+      <wp:comment_author_IP>189.6.34.184</wp:comment_author_IP>
+      <wp:comment_date_gmt>2008-08-30 00:18:28</wp:comment_date_gmt>
+      <wp:comment_content>Olá Wagner,
+
+Infelizmente não pois na verdade ele faz uma extensão do Seam.</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>166</wp:comment_id>
+      <wp:comment_author>Anselmo Luiz Éden Battisti</wp:comment_author>
+      <wp:comment_author_email>anselmobattisti@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://battisti.wordpress.com</wp:comment_author_url>
+      <wp:comment_author_IP>189.26.171.150</wp:comment_author_IP>
+      <wp:comment_date_gmt>2008-10-05 23:11:32</wp:comment_date_gmt>
+      <wp:comment_content>Rapaz muito bom teu blog, valeu pela Dica</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>167</wp:comment_id>
+      <wp:comment_author>Nardo</wp:comment_author>
+      <wp:comment_author_email></wp:comment_author_email>
+      <wp:comment_author_url></wp:comment_author_url>
+      <wp:comment_author_IP>200.158.219.147</wp:comment_author_IP>
+      <wp:comment_date_gmt>2010-06-25 17:05:41</wp:comment_date_gmt>
+      <wp:comment_content>Parabéns!!! Virá muito a agregar para nós desenvolvedores. Abs.</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+  </item>
+  <item>
+    <title>Java Associate</title>
+    <link>http://www.jroller.com/rafaelbenevides/entry/java_associate</link>
+    <content:encoded>...</content:encoded>
+    <dsq:thread_identifier>http://www.jroller.com/rafaelbenevides/entry/java-associate</dsq:thread_identifier>
+    <wp:post_date_gmt>2008-06-10 06:15:52</wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:comment>
+      <wp:comment_id>168</wp:comment_id>
+      <wp:comment_author>Letícia Braga</wp:comment_author>
+      <wp:comment_author_email>leticia@calebconsultoria.com.br</wp:comment_author_email>
+      <wp:comment_author_url></wp:comment_author_url>
+      <wp:comment_author_IP>201.93.148.174</wp:comment_author_IP>
+      <wp:comment_date_gmt>2011-11-21 15:26:04</wp:comment_date_gmt>
+      <wp:comment_content>Rafael, boa tarde!
+
+Trabalho em uma consultoria de TI, e estamos com uma oportunidade para trabalhar com Java (J2EE), SOA e EAI.
+
+Caso tenha interesse, ou tenha pessoas para indicar, por gentileza, se possível nos encaminhe os contato no email acima.
+
+Obrigada.
+
+Letícia Braga</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+  </item>
+  <item>
+    <title>Falando em Java! Eu fui!</title>
+    <link>http://www.jroller.com/rafaelbenevides/entry/falando_em_java_eu_fui</link>
+    <content:encoded>...</content:encoded>
+    <dsq:thread_identifier>http://www.jroller.com/rafaelbenevides/entry/falando-em-java-eu-fui</dsq:thread_identifier>
+    <wp:post_date_gmt>2008-05-22 14:52:17</wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:comment>
+      <wp:comment_id>169</wp:comment_id>
+      <wp:comment_author>Paulo Silveira</wp:comment_author>
+      <wp:comment_author_email>paulo.silveira@caelum.com.br</wp:comment_author_email>
+      <wp:comment_author_url>http://blog.caelum.com.br</wp:comment_author_url>
+      <wp:comment_author_IP>201.21.25.83</wp:comment_author_IP>
+      <wp:comment_date_gmt>2008-07-08 04:51:45</wp:comment_date_gmt>
+      <wp:comment_content>So vi o review hoje! Que bom que gostou do evento!</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>170</wp:comment_id>
+      <wp:comment_author>Rafael Benevides</wp:comment_author>
+      <wp:comment_author_email>rafabene@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://www.jroller.com/rafaelbenevides/</wp:comment_author_url>
+      <wp:comment_author_IP>189.61.29.95</wp:comment_author_IP>
+      <wp:comment_date_gmt>2008-07-08 11:53:28</wp:comment_date_gmt>
+      <wp:comment_content>E se tudo der certo, vou estar no Falando em Agile :). Abraços.</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+  </item>
+  <item>
+    <title>Lançamento do livro Da árvore... Os frutos - Parabens pai!</title>
+    <link>http://www.jroller.com/rafaelbenevides/entry/lan%C3%A7amento_do_livro_da_%C3%A1rvore</link>
+    <content:encoded>...</content:encoded>
+    <dsq:thread_identifier>http://www.jroller.com/rafaelbenevides/entry/lan%C3%A7amento-do-livro-da-%C3%A1rvore</dsq:thread_identifier>
+    <wp:post_date_gmt>2008-04-26 00:54:19</wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:comment>
+      <wp:comment_id>171</wp:comment_id>
+      <wp:comment_author>Marcelo França</wp:comment_author>
+      <wp:comment_author_email>othumaiss@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://ultimoclick.blogspot.com</wp:comment_author_url>
+      <wp:comment_author_IP>189.29.47.227</wp:comment_author_IP>
+      <wp:comment_date_gmt>2008-04-29 00:20:47</wp:comment_date_gmt>
+      <wp:comment_content>Olá Rafael, meus parabéns pela publicação do livro de seu pai, disfrute deste orgulho compartilhe e retorne ele para seu grande pai!
+
+Forte abraço!
+
+Marcelo França</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>172</wp:comment_id>
+      <wp:comment_author>Rafael Benevides</wp:comment_author>
+      <wp:comment_author_email>rafabene@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://www.jroller.com/rafaelbenevides/</wp:comment_author_url>
+      <wp:comment_author_IP>189.6.10.235</wp:comment_author_IP>
+      <wp:comment_date_gmt>2008-04-29 01:10:42</wp:comment_date_gmt>
+      <wp:comment_content>Muito Obrigado :)
+
+E um grande abraço!</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+  </item>
+  <item>
+    <title>JON - Jboss Operation Network</title>
+    <link>http://www.jroller.com/rafaelbenevides/entry/jboss_operation_network</link>
+    <content:encoded>...</content:encoded>
+    <dsq:thread_identifier>http://www.jroller.com/rafaelbenevides/entry/jboss-operation-network</dsq:thread_identifier>
+    <wp:post_date_gmt>2008-03-30 15:52:38</wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:comment>
+      <wp:comment_id>173</wp:comment_id>
+      <wp:comment_author>Waelson Negreiros Nunes</wp:comment_author>
+      <wp:comment_author_email>waelson@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://waelsonn.blogspot.com</wp:comment_author_url>
+      <wp:comment_author_IP>189.10.83.24</wp:comment_author_IP>
+      <wp:comment_date_gmt>2008-08-08 22:40:40</wp:comment_date_gmt>
+      <wp:comment_content>Rafael, tudo bem? Gostaria de saber se você tem idéia do valor do suporte para o JON?</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>174</wp:comment_id>
+      <wp:comment_author>Rafael Benevides</wp:comment_author>
+      <wp:comment_author_email></wp:comment_author_email>
+      <wp:comment_author_url></wp:comment_author_url>
+      <wp:comment_author_IP>200.180.141.58</wp:comment_author_IP>
+      <wp:comment_date_gmt>2008-08-08 23:02:16</wp:comment_date_gmt>
+      <wp:comment_content>Putz, infelizmente não tenho nem idéia :(</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+  </item>
+  <item>
+    <title>Java hoje e principalmente amanhâ...</title>
+    <link>http://www.jroller.com/rafaelbenevides/entry/java_hoje_e_principalmente_amanh%C3%A2</link>
+    <content:encoded>...</content:encoded>
+    <dsq:thread_identifier>http://www.jroller.com/rafaelbenevides/entry/java-hoje-e-principalmente-amanh%C3%A2</dsq:thread_identifier>
+    <wp:post_date_gmt>2008-03-11 02:30:06</wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:comment>
+      <wp:comment_id>175</wp:comment_id>
+      <wp:comment_author>wanderlei de oliveira</wp:comment_author>
+      <wp:comment_author_email>wanderlei.oliveira@negociamosconsorcio.com.br</wp:comment_author_email>
+      <wp:comment_author_url>http://www.negociamosconsorcio.com.br</wp:comment_author_url>
+      <wp:comment_author_IP>189.18.162.241</wp:comment_author_IP>
+      <wp:comment_date_gmt>2008-10-13 18:58:03</wp:comment_date_gmt>
+      <wp:comment_content>compro e vendo consorcio contemplado ou não compro mesmo em atraso pagamento avista tel 011/3532-9086 ou 011/3852-2697</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+  </item>
+  <item>
+    <title>CEF economiza R$ 232,9 milhões em licitação de fábrica de software </title>
+    <link>http://www.jroller.com/rafaelbenevides/entry/cef_economiza_r_232_9</link>
+    <content:encoded>...</content:encoded>
+    <dsq:thread_identifier>http://www.jroller.com/rafaelbenevides/entry/cef-economiza-r-232-9</dsq:thread_identifier>
+    <wp:post_date_gmt>2008-03-07 13:07:45</wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:comment>
+      <wp:comment_id>176</wp:comment_id>
+      <wp:comment_author>Leonardo Marques</wp:comment_author>
+      <wp:comment_author_email>leonardomarques@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://www.mundohitech.com</wp:comment_author_url>
+      <wp:comment_author_IP>85.214.116.165</wp:comment_author_IP>
+      <wp:comment_date_gmt>2008-03-07 17:05:37</wp:comment_date_gmt>
+      <wp:comment_content>Rafael, apesar da DBA não ser de Brasília ela já tem filial em Brasília com vários projetos inclusive na caixa econômica. Pode ter algum impacto sim mas não acho que mude tanto assim.</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>177</wp:comment_id>
+      <wp:comment_author>Daniel Quadros</wp:comment_author>
+      <wp:comment_author_email>d.quadros@yahoo.com</wp:comment_author_email>
+      <wp:comment_author_url>http://dqsoft.blogspot.com</wp:comment_author_url>
+      <wp:comment_author_IP>200.207.4.45</wp:comment_author_IP>
+      <wp:comment_date_gmt>2008-03-07 17:24:53</wp:comment_date_gmt>
+      <wp:comment_content>Este tipo de notícia sempre me deixa com dúvidas. A CEF economizou 232,9 M ou errou a feio na estimativa?  A Politec colocou uma margem imensa, a DBA é muito mais eficiente, a DBA orçou errado ou a DBA chutou o pau da barraca? Não dá para esquecer tb os casos de licitações em que mais para frente surgem adicionais (vide os túneis da Marta aqui em SP).
+
+Não entendi o ponto dos sindicatos em relação a indenizações. Eu imagino que os sindicatos fiquem mais preocupados com a possibilidade dos 'postos de trabalho' serem movidos para outra cidade e portanto sob outros sindicatos. Por outro lado, não me surpreenderia se, confirmado o resultado, a DBA saia à caça dos atuais empregados da Politec.
+
+Em tempo: não conheço nenhuma das duas empresas, estou comentando de possibilidades genéricas.</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+  </item>
+  <item>
+    <title>Reflexões</title>
+    <link>http://www.jroller.com/rafaelbenevides/entry/reflex%C3%B5es</link>
+    <content:encoded>...</content:encoded>
+    <dsq:thread_identifier>http://www.jroller.com/rafaelbenevides/entry/reflex%C3%B5es</dsq:thread_identifier>
+    <wp:post_date_gmt>2008-02-16 22:58:32</wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:comment>
+      <wp:comment_id>178</wp:comment_id>
+      <wp:comment_author>Aline Ximenes</wp:comment_author>
+      <wp:comment_author_email>aline_ximeness@hotmail.com</wp:comment_author_email>
+      <wp:comment_author_url></wp:comment_author_url>
+      <wp:comment_author_IP>201.38.95.180</wp:comment_author_IP>
+      <wp:comment_date_gmt>2008-10-24 19:35:14</wp:comment_date_gmt>
+      <wp:comment_content>Não sei se existe ainda atualização nesse blog, mas estou aki pra dizer que esse texto é simplesmente lindo, e que eu escuto ele desde 1993 numa antiga fita  k7. Sei essa reflexão decorada e digo, nunk escutei mensagem tão clara como esta! Realmente, Jesus Cristo é o único ser que pode nos dar respostas exatas e que só Ele pode nos salvar!  Que Deus abençoe a todos!</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>179</wp:comment_id>
+      <wp:comment_author>Rafael Benevides</wp:comment_author>
+      <wp:comment_author_email>rafabene@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://www.jroller.com/rafaelbenevides/</wp:comment_author_url>
+      <wp:comment_author_IP>189.7.249.101</wp:comment_author_IP>
+      <wp:comment_date_gmt>2008-10-25 11:54:01</wp:comment_date_gmt>
+      <wp:comment_content>Olá Aline,
+
+
+Putz, seu caso é muito parecido com o meu. Não sei se você leu a parte onde eu disse que copiei uma fita k7 em 1992, que depois sumiu. Felizmente achei mas estava desmagnetizada, até que finalmente achei o mp3. Muito boa a mensagem mesmo... </wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>180</wp:comment_id>
+      <wp:comment_author>Alexandra</wp:comment_author>
+      <wp:comment_author_email>amds7@hotmail.com</wp:comment_author_email>
+      <wp:comment_author_url></wp:comment_author_url>
+      <wp:comment_author_IP>189.104.48.252</wp:comment_author_IP>
+      <wp:comment_date_gmt>2011-06-28 13:41:39</wp:comment_date_gmt>
+      <wp:comment_content>Recitei esse texto em 1994, na minha formatura.Todos os presentes ficaram maravilhados.Hoje me vi recitando novamnete, e vim procurá-lo. Encontrei aqui. Ele é simplesmente completo. Ouvia-o em fita kssete tb. assim como as outras faixas de Ed Wilson. muito inspirador...</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+  </item>
+  <item>
+    <title>seamframework.org é lançado!</title>
+    <link>http://www.jroller.com/rafaelbenevides/entry/seamframework_org_%C3%A9_lan%C3%A7ado</link>
+    <content:encoded>...</content:encoded>
+    <dsq:thread_identifier>http://www.jroller.com/rafaelbenevides/entry/seamframework-org-%C3%A9-lan%C3%A7ado</dsq:thread_identifier>
+    <wp:post_date_gmt>2008-02-13 01:03:27</wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:comment>
+      <wp:comment_id>181</wp:comment_id>
+      <wp:comment_author>Markus Jais</wp:comment_author>
+      <wp:comment_author_email>markusjais@gmx.de</wp:comment_author_email>
+      <wp:comment_author_url>http://www.codekite.com</wp:comment_author_url>
+      <wp:comment_author_IP>213.221.100.28</wp:comment_author_IP>
+      <wp:comment_date_gmt>2008-02-13 08:18:52</wp:comment_date_gmt>
+      <wp:comment_content>great link. thanks for writing about it.
+Is this portuguese? I speak some spanish, so I could read most of it but can't answer in your language.
+</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>182</wp:comment_id>
+      <wp:comment_author>Rafael Benevides</wp:comment_author>
+      <wp:comment_author_email>rafabene@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://www.jroller.com/rafaelbenevides/</wp:comment_author_url>
+      <wp:comment_author_IP>200.130.24.222</wp:comment_author_IP>
+      <wp:comment_date_gmt>2008-02-13 11:04:46</wp:comment_date_gmt>
+      <wp:comment_content>Hi Markus,
+It is Portuguese.
+Thanks for your comment and for your visit.</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+  </item>
+  <item>
+    <title>Empresas Brasileiras de TI! Abram os olhos (se ainda não o fizeram) !</title>
+    <link>http://www.jroller.com/rafaelbenevides/entry/empresas_brasileiras_de_ti_abram</link>
+    <content:encoded>...</content:encoded>
+    <dsq:thread_identifier>http://www.jroller.com/rafaelbenevides/entry/empresas-brasileiras-de-ti-abram</dsq:thread_identifier>
+    <wp:post_date_gmt>2008-02-07 01:44:22</wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:comment>
+      <wp:comment_id>183</wp:comment_id>
+      <wp:comment_author>Leonardo Marques</wp:comment_author>
+      <wp:comment_author_email>leonardomarques@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://www.leonardomarques.net</wp:comment_author_url>
+      <wp:comment_author_IP>201.24.20.143</wp:comment_author_IP>
+      <wp:comment_date_gmt>2008-02-07 09:49:48</wp:comment_date_gmt>
+      <wp:comment_content>Rafael, parabéns pelo post. Estou devendo um post deste no meu blog, faz tempo que quero fazer...
+Achei seu post ótimo mas eu ainda sou bem mais pessimista que você em relação ao desenvolvimento de software no Brasil.
+As empresas ou as faculdades convenceram os clientes que eles precisam mesmo é de papel. Como papel não precisa compilar, basta seguir os templates do rup... as empresas vão entregando papel durante meses e todo mundo fica feliz só no final percebem que o software tá podre.
+Como o papel não compila basta selecionar os piores alunos das faculdades, aqueles que não aprenderam programar e oferecer a eles uma vaga de analista, estes analistas com um pouquinho de Instinto é capaz de preencher templates RUP.
+Para entregar tanto papel é preciso alocar um exercito de preenchedores de template e assim sobre pouca grana pra contratar desenvolvedores de software, mas os pógramadores vão apenas transformar para .java tudo que está em .doc, qualquer mané sabe fazer... não é assim que o povo pensa?
+é fod....</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>184</wp:comment_id>
+      <wp:comment_author>Ronie Uliana</wp:comment_author>
+      <wp:comment_author_email>rafaelbenevides.3.rmuliana@spamgourmet.com</wp:comment_author_email>
+      <wp:comment_author_url></wp:comment_author_url>
+      <wp:comment_author_IP>200.183.0.130</wp:comment_author_IP>
+      <wp:comment_date_gmt>2008-02-08 13:28:47</wp:comment_date_gmt>
+      <wp:comment_content>Isso me lembra um negócio q eu costumo falar pra turma aqui: "Quem é bom só se f***, pq ninguém chama quem é ruim quando as coisas estão complicadas."
+
+Mas vou fazer um adendo: tá difícil achar bons desenvolvedores no mercado. Não é só o cara ser bom técnicamente, tem que saber trabalhar em equipe. Mas o que mais existe no mercado é wannabe que acha q sabe muito e cara q sabe muito q acha q sabe tudo :p Estrelinhas difíceis de se lidar :)</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>185</wp:comment_id>
+      <wp:comment_author>Wagner Duarte</wp:comment_author>
+      <wp:comment_author_email>wagduavila@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://www.infowd.blogspot.com</wp:comment_author_url>
+      <wp:comment_author_IP>201.54.228.34</wp:comment_author_IP>
+      <wp:comment_date_gmt>2008-02-29 18:33:08</wp:comment_date_gmt>
+      <wp:comment_content>Rafael nota 9 pelo Post !!!
+Muito bom mesmo, acho que preciso de um pouco mais de vivência para fazer algo tão crítico e construtivo no meu blog, mais te convido a conhecê-lo, pois tem algumas coisas de qualidade também : www.infowd.blogspot.com
+abs </wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>186</wp:comment_id>
+      <wp:comment_author>Márcio d'Ávila</wp:comment_author>
+      <wp:comment_author_email>mhtech@mhavila.com.br</wp:comment_author_email>
+      <wp:comment_author_url>http://blog.mhavila.com.br</wp:comment_author_url>
+      <wp:comment_author_IP>201.8.10.75</wp:comment_author_IP>
+      <wp:comment_date_gmt>2008-03-16 16:09:46</wp:comment_date_gmt>
+      <wp:comment_content>Olá Rafael. Parabéns pelo artigo! BTW, a parte em que você se dirige a quem está começando em TI tem tudo a ver com o post que escrevi no final do ano:
+
+Seja um ótimo profissional de TI e Feliz Ano Novo - http://blog.mhavila.com.br/2007/12/28/seja-um-otimo-profissional-de-ti-e-feliz-ano-novo/
+
+Abraço.</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>187</wp:comment_id>
+      <wp:comment_author>Thiago</wp:comment_author>
+      <wp:comment_author_email></wp:comment_author_email>
+      <wp:comment_author_url></wp:comment_author_url>
+      <wp:comment_author_IP>201.46.82.226</wp:comment_author_IP>
+      <wp:comment_date_gmt>2008-05-27 15:21:10</wp:comment_date_gmt>
+      <wp:comment_content>E ae Rafael, blz.
+Bom eu sei que é um pouco chato, mas venhamos e convenhamos, alguém tinha que falar mal desse post neh?
+Não pense que estou para criar caso, venho com todo o meu bom senso escrever aqui.
+Esse post é muito ruim cara, quem aqui não sabe que existem lugares bons e ruins para se trabalhar? E que pessoas realmente não gostam de codificar pensam apenas em pular essa fase?
+Graças a Deus eu adoro desenvolver, mas é graças a esses estupidos que nós, bons desenvolvedores nos destacamos. Essa é a verdade, agora esse movimento para que as pessoas codifiquem por prazer chega até ser infantil...
+Fico feliz que vc pelo menos gosta do que faz, mas existem coisas muito mais sérias e preocupantes do que o seu amigo do lado que não gosta de desenvolver...</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>188</wp:comment_id>
+      <wp:comment_author>Rafael Benevides</wp:comment_author>
+      <wp:comment_author_email>rafabene@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://www.jroller.com/rafaelbenevides</wp:comment_author_url>
+      <wp:comment_author_IP>189.61.90.28</wp:comment_author_IP>
+      <wp:comment_date_gmt>2008-05-27 15:44:22</wp:comment_date_gmt>
+      <wp:comment_content>Olá Thiago,
+
+Obrigado pelo comentário, mas o que eu quis dizer (e talvez não tenha ficado claro) é realmente mais sério e preocupante do que o que meu amigo do lado quer fazer da vida.
+
+O problema (no caso deste post) nem é pular ou não de fase. Mesmo porquê não concordo que um gerente é a evolução de um analista e nem que um analista é a evolução de um programador. Muito menos se um desenvolvedor não programa porquê gosta. O grande problema realmente é que em ambos os casos, quando o meu amigo do lado não faz seu serviço direito (desde gerenciar a codificar), vai acabar sobrando para: a empresa, para o projeto e para os demais amigos do lado; e isto sim é muito sério e preocupante (pelo menos para mim!)</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+  </item>
+  <item>
+    <title>Como reconhecer bons programadores</title>
+    <link>http://www.jroller.com/rafaelbenevides/entry/como_reconhecer_bons_programadores</link>
+    <content:encoded>...</content:encoded>
+    <dsq:thread_identifier>http://www.jroller.com/rafaelbenevides/entry/como-reconhecer-bons-programadores</dsq:thread_identifier>
+    <wp:post_date_gmt>2008-01-13 16:57:56</wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:comment>
+      <wp:comment_id>189</wp:comment_id>
+      <wp:comment_author>Vitor Fernando Pamplona</wp:comment_author>
+      <wp:comment_author_email>vitor@vitorpamplona.com</wp:comment_author_email>
+      <wp:comment_author_url>http://vitorpamplona.com</wp:comment_author_url>
+      <wp:comment_author_IP>201.35.125.53</wp:comment_author_IP>
+      <wp:comment_date_gmt>2008-01-13 21:11:19</wp:comment_date_gmt>
+      <wp:comment_content>Olha soh :) 
+
+Concordo completamente. Bela maneira de montar uma boa equipe. Vou anotar esses indicadores. 
+
+[]s</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>190</wp:comment_id>
+      <wp:comment_author>Rafael Benevides</wp:comment_author>
+      <wp:comment_author_email>rafabene@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://www.jroller.com/rafaelbenevides</wp:comment_author_url>
+      <wp:comment_author_IP>189.61.95.137</wp:comment_author_IP>
+      <wp:comment_date_gmt>2008-01-13 21:41:58</wp:comment_date_gmt>
+      <wp:comment_content>Vitor,
+
+Os indicadores deste post tem muito haver com um outro post seu: http://jroller.com/vfpamp/entry/empregos_em_ti</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>191</wp:comment_id>
+      <wp:comment_author>Rodrigo Garcia Lima</wp:comment_author>
+      <wp:comment_author_email>rodgarcialima@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url></wp:comment_author_url>
+      <wp:comment_author_IP>201.23.160.7</wp:comment_author_IP>
+      <wp:comment_date_gmt>2008-01-14 00:10:55</wp:comment_date_gmt>
+      <wp:comment_content>Excelente artigo, vai me ajudar muito na hora de entrevistar.</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>192</wp:comment_id>
+      <wp:comment_author>Alberto</wp:comment_author>
+      <wp:comment_author_email>albertonb@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://www.albertoleal.eti.br</wp:comment_author_url>
+      <wp:comment_author_IP>201.36.11.126</wp:comment_author_IP>
+      <wp:comment_date_gmt>2008-01-14 15:28:31</wp:comment_date_gmt>
+      <wp:comment_content>Muito boa a abordagem..
+Agora, sobre: 
+
+"O blábláblá" do qual me refiro são os artefatos que não agregam valor nem para o cliente, nem para a equipe, nem para o projeto. São apenas blábláblá!!!!"
+
+As metodologias ágeis estão ai!! A primeira coisa que temos que quebrar é a cultura do cliente. Convencer o cliente de usar XP, por exemplo não é fácil por três coisas: Cultura, Cultura e Cultura. Temos que mostrar para ele que funciona e que será melhor e mais produtivo!!
+
+Abraços
+</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>193</wp:comment_id>
+      <wp:comment_author>Dalton Filho</wp:comment_author>
+      <wp:comment_author_email>daltonfilho@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://www.daltonfilho.com</wp:comment_author_url>
+      <wp:comment_author_IP>189.4.120.211</wp:comment_author_IP>
+      <wp:comment_date_gmt>2008-01-20 19:38:29</wp:comment_date_gmt>
+      <wp:comment_content>É altamente elitista o item "começou a programar antes da faculdade". Programadores famosos como o Chad Fowler começaram a programar //depois// da faculdade (ele no caso não fez um curso de computação, mas de música).
+
+Eu me considero um bom programador e só comecei a programar na faculdade. Pessoas não precisam começar a programar a partir de uma via específica.  Bons programadores vêm de diversos backgrounds. Existe mais de uma maneira de ser um bom programador.
+
+Concordo com o resto dos itens, embora normalmente estas listas são criadas meramente para a auto-lisonja de quem as cria e com muito pouco apreço pela diversidade.  </wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+  </item>
+  <item>
+    <title>Meeting Mr. Daniel Godri</title>
+    <link>http://www.jroller.com/rafaelbenevides/entry/meeting_mr_daniel_godri</link>
+    <content:encoded>...</content:encoded>
+    <dsq:thread_identifier>http://www.jroller.com/rafaelbenevides/entry/meeting-mr-daniel-godri</dsq:thread_identifier>
+    <wp:post_date_gmt>2007-11-18 16:18:12</wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:comment>
+      <wp:comment_id>194</wp:comment_id>
+      <wp:comment_author>jose aguiar</wp:comment_author>
+      <wp:comment_author_email>de-aguiar@uol.com.br</wp:comment_author_email>
+      <wp:comment_author_url></wp:comment_author_url>
+      <wp:comment_author_IP>189.61.25.54</wp:comment_author_IP>
+      <wp:comment_date_gmt>2008-01-24 20:22:12</wp:comment_date_gmt>
+      <wp:comment_content>Caramba, sinceramente nunca ouvi tanta besteira na vida. A comparação entre Bill Gates e Steve Jobs é estapafúrdia e totalmente incoerente. Bill Gates é multimilionário e Steve Jobs não é?! Faça-me o favor. Devemos seguir então o exemplo de Gates e não o de Jobs? Quem está em evidência hoje no mundo empresarial Gates ou Jobs? Bill Gates já está aposentado e sua empresa, Microsoft, vem ano após ano perdendo espaço para outras empresas de software, incluindo aí a apple. Steve jobs é o criador do maior hit tecnológio do ínicio do deste século: o Ipod, sem falar no promissor i-phone. Na minha opinião quando avaliarmos a carreira profissional de alguém, devemos primeiramente observá-la como um todo, do ínicio ao fim. Steve Jobs e sua apple estão no auge do seu sucesso, já a Microsoft. Dúvido se esse sujeito fosse fazer essa palestra hoje ele utilizaria esse bisonho exemplo. Muito cuidado, meu amigo, com essas palestras motivacionais.</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>195</wp:comment_id>
+      <wp:comment_author>Rafael Benevides</wp:comment_author>
+      <wp:comment_author_email>rafabene@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://www.jroller.com/rafaelbenevides</wp:comment_author_url>
+      <wp:comment_author_IP>200.130.24.222</wp:comment_author_IP>
+      <wp:comment_date_gmt>2008-01-24 22:10:00</wp:comment_date_gmt>
+      <wp:comment_content>Sem querer defender o Daniel, mas é também necessário ver o contexto e data da palestra. É bem possível notar isto comparando a foto que tirei com a palestra. Na época o cenário era completamente diferente. A Microsoft vivia o seu melhor momento enquanto na mesma época Jobs estava retomando a quase então falida Apple. É bem notável o mérito de Jobs no mundo de TI, mas se perguntarmos a algumas pessoas fora da "nossa" área quem é Steve Jobs, certamente poucas responderão. No mundo dos negócios, não há quem não conheça Bill Gates. Sim, e concordo que isto  mudou!</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>196</wp:comment_id>
+      <wp:comment_author>Fabio godri</wp:comment_author>
+      <wp:comment_author_email>severoncruzes@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://nao tenho ainda</wp:comment_author_url>
+      <wp:comment_author_IP>187.89.163.186</wp:comment_author_IP>
+      <wp:comment_date_gmt>2011-10-08 10:59:44</wp:comment_date_gmt>
+      <wp:comment_content>Ai esta o motivo que o nosso amigo Daniel Godri utilizou os dois nomes que são muito conhecidos em todo o mundo (principalmente tecnologia), não importa quando ou como, mas os dois fizeram o mesmo sucesso, que você pode fazer com dedicação, emprenho e muita motivação.
+
+Esta é a mensagem de Daniel Godri.
+
+Se fosse pra pensar como J.A. imagine Jesus, pra muitos "a este ai ja morreu", mas eu te digo que até hoje, Suas atitudes e gestos ficaram marcados e revelados em nossos corações e mentes eternamente! Exemplo de motivação. </wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+  </item>
+  <item>
+    <title>Estudar para que se eu já sei o que fazer</title>
+    <link>http://www.jroller.com/rafaelbenevides/entry/estudar_para_que_se_eu</link>
+    <content:encoded>...</content:encoded>
+    <dsq:thread_identifier>http://www.jroller.com/rafaelbenevides/entry/estudar-para-que-se-eu</dsq:thread_identifier>
+    <wp:post_date_gmt>2007-11-06 21:56:00</wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:comment>
+      <wp:comment_id>197</wp:comment_id>
+      <wp:comment_author>Christiano Milfont</wp:comment_author>
+      <wp:comment_author_email>cmilfont@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://www.milfont.org</wp:comment_author_url>
+      <wp:comment_author_IP>201.9.98.122</wp:comment_author_IP>
+      <wp:comment_date_gmt>2008-01-12 19:05:30</wp:comment_date_gmt>
+      <wp:comment_content>Obrigado pela menção, Rafael :)
+
+Vi hoje apenas navegando pela web.</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>198</wp:comment_id>
+      <wp:comment_author>Rafael Benevides</wp:comment_author>
+      <wp:comment_author_email>rafabene@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://www.jroller.com/rafaelbenevides</wp:comment_author_url>
+      <wp:comment_author_IP>189.61.95.137</wp:comment_author_IP>
+      <wp:comment_date_gmt>2008-01-12 19:42:35</wp:comment_date_gmt>
+      <wp:comment_content>Não há de q :)</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+  </item>
+  <item>
+    <title>Queimando tudo até a última ponta</title>
+    <link>http://www.jroller.com/rafaelbenevides/entry/queimando_tudo_at%C3%A9_a_%C3%BAltima</link>
+    <content:encoded>...</content:encoded>
+    <dsq:thread_identifier>http://www.jroller.com/rafaelbenevides/entry/queimando-tudo-at%C3%A9-a-%C3%BAltima</dsq:thread_identifier>
+    <wp:post_date_gmt>2007-11-06 01:40:23</wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:comment>
+      <wp:comment_id>199</wp:comment_id>
+      <wp:comment_author>Bruno Rossi</wp:comment_author>
+      <wp:comment_author_email></wp:comment_author_email>
+      <wp:comment_author_url>http://brunorossiblog.blogspot.com</wp:comment_author_url>
+      <wp:comment_author_IP>200.181.65.170</wp:comment_author_IP>
+      <wp:comment_date_gmt>2007-11-06 12:21:14</wp:comment_date_gmt>
+      <wp:comment_content>O passado te condena Bene. 
+VB ? Clipper ? Pascal ? DOS ?
+Prometo que nao espalho . </wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>200</wp:comment_id>
+      <wp:comment_author>Rafael Benevides</wp:comment_author>
+      <wp:comment_author_email>rafabene@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://www.jroller.com/rafaelbenevides/</wp:comment_author_url>
+      <wp:comment_author_IP>200.130.24.222</wp:comment_author_IP>
+      <wp:comment_date_gmt>2007-11-06 12:44:20</wp:comment_date_gmt>
+      <wp:comment_content>Huaheuhaueae. Poxa, teve Delphi e Corel Draw também.</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+  </item>
+  <item>
+    <title>I am also a Nerd God ;)</title>
+    <link>http://www.jroller.com/rafaelbenevides/entry/i_am_also_a_nerd</link>
+    <content:encoded>...</content:encoded>
+    <dsq:thread_identifier>http://www.jroller.com/rafaelbenevides/entry/i-am-also-a-nerd</dsq:thread_identifier>
+    <wp:post_date_gmt>2007-10-03 02:38:06</wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:comment>
+      <wp:comment_id>201</wp:comment_id>
+      <wp:comment_author>Bruno Rossi</wp:comment_author>
+      <wp:comment_author_email>brunoorossi@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://brunorossiblog.blogspot.com</wp:comment_author_url>
+      <wp:comment_author_IP>201.54.12.2</wp:comment_author_IP>
+      <wp:comment_date_gmt>2007-10-06 01:14:37</wp:comment_date_gmt>
+      <wp:comment_content>Po , sacanagem isso , acho que esse teste esta errado... hehehehehe
+</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>202</wp:comment_id>
+      <wp:comment_author>Flavio S. Alves</wp:comment_author>
+      <wp:comment_author_email>flaviosealves@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url></wp:comment_author_url>
+      <wp:comment_author_IP>201.18.54.11</wp:comment_author_IP>
+      <wp:comment_date_gmt>2007-10-08 18:47:19</wp:comment_date_gmt>
+      <wp:comment_content>Que isso Rafa, eu fiz o teste cheguei so a 81% hehe
+
+tu é o CARA mesmo</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>203</wp:comment_id>
+      <wp:comment_author>Rafael Benevides</wp:comment_author>
+      <wp:comment_author_email>rafabene@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://www.jroller.com/rafaelbenevides/</wp:comment_author_url>
+      <wp:comment_author_IP>200.130.24.21</wp:comment_author_IP>
+      <wp:comment_date_gmt>2007-10-08 18:53:25</wp:comment_date_gmt>
+      <wp:comment_content>aheuaheuahehau</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+  </item>
+  <item>
+    <title>Consultar SAP certificado</title>
+    <link>http://www.jroller.com/rafaelbenevides/entry/consultar_sap_certificado</link>
+    <content:encoded>...</content:encoded>
+    <dsq:thread_identifier>http://www.jroller.com/rafaelbenevides/entry/consultar-sap-certificado</dsq:thread_identifier>
+    <wp:post_date_gmt>2007-09-17 23:30:44</wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:comment>
+      <wp:comment_id>204</wp:comment_id>
+      <wp:comment_author>Laércio Queiroz</wp:comment_author>
+      <wp:comment_author_email>laercioqueiroz@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url></wp:comment_author_url>
+      <wp:comment_author_IP>200.223.28.110</wp:comment_author_IP>
+      <wp:comment_date_gmt>2007-09-19 17:33:58</wp:comment_date_gmt>
+      <wp:comment_content>Rafael,... parabéns!!
+
+Também participei do TTT (Recife/Salvador) e gostaria que você postasse algumas dicas para o exame, tipo,... quais os temas mais abordados, nível das perguntas... materiais extra-SAP que vc utilizou  para se preparar para o teste.
+
+Agradeço desde já... e parabéns novamente!
+
+Laércio Queiroz</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>205</wp:comment_id>
+      <wp:comment_author>Rafael Benevides</wp:comment_author>
+      <wp:comment_author_email>rafabene@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://www.jroller.com/rafaelbenevides/</wp:comment_author_url>
+      <wp:comment_author_IP>200.130.24.21</wp:comment_author_IP>
+      <wp:comment_date_gmt>2007-09-19 18:53:53</wp:comment_date_gmt>
+      <wp:comment_content>Fala Laércio, blz ? Não sei se minhas dicas te ajudarão, mas o grande contribuidor para a aprovação foi o fato de que a prova não possui pegas. Assim apenas a leitura da apostila e a execução dos exercícios foram suficientes. Outra contribuição foi ter feito um score alto na parte de J2EE. </wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>206</wp:comment_id>
+      <wp:comment_author>Laércio Queiroz</wp:comment_author>
+      <wp:comment_author_email>laercioqueiroz@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url></wp:comment_author_url>
+      <wp:comment_author_IP>200.223.28.110</wp:comment_author_IP>
+      <wp:comment_date_gmt>2007-09-28 16:09:14</wp:comment_date_gmt>
+      <wp:comment_content>Valeu mestre.
+
+</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>207</wp:comment_id>
+      <wp:comment_author>Marcelo Sousa Ancelmo</wp:comment_author>
+      <wp:comment_author_email>marceloancelmo@ yahoo.com.br</wp:comment_author_email>
+      <wp:comment_author_url></wp:comment_author_url>
+      <wp:comment_author_IP>189.61.1.22</wp:comment_author_IP>
+      <wp:comment_date_gmt>2007-09-29 03:48:49</wp:comment_date_gmt>
+      <wp:comment_content>Opa Rafael,
+
+  To passando aqui para registrar meus parabens.
+  Muito sucesso pra voce.
+  Semana que vem nos falamos, para comentar as novidades.
+
+Um grande abraço,
+Marcelo Sousa Ancelmo</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>208</wp:comment_id>
+      <wp:comment_author>Rafael Benevides</wp:comment_author>
+      <wp:comment_author_email>rafabene@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://www.jroller.com/rafaelbenevides/</wp:comment_author_url>
+      <wp:comment_author_IP>189.11.206.73</wp:comment_author_IP>
+      <wp:comment_date_gmt>2007-09-30 17:44:44</wp:comment_date_gmt>
+      <wp:comment_content>Valeu, Marcelão</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>209</wp:comment_id>
+      <wp:comment_author>Laércio Queiroz</wp:comment_author>
+      <wp:comment_author_email>laercio_queiroz@hotmail.com</wp:comment_author_email>
+      <wp:comment_author_url></wp:comment_author_url>
+      <wp:comment_author_IP>200.223.28.110</wp:comment_author_IP>
+      <wp:comment_date_gmt>2007-10-31 22:23:30</wp:comment_date_gmt>
+      <wp:comment_content>Grande Rafael,
+
+Ontem pela manhã fiz a prova de certificação e passei!!
+
+Já recebeu o brinde da SAP?
+
+Abraço,
+
+Laércio Queiroz</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>210</wp:comment_id>
+      <wp:comment_author>Rafael Benevides</wp:comment_author>
+      <wp:comment_author_email>rafabene@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://www.jroller.com/rafaelbenevides/</wp:comment_author_url>
+      <wp:comment_author_IP>189.6.18.23</wp:comment_author_IP>
+      <wp:comment_date_gmt>2007-10-31 22:31:02</wp:comment_date_gmt>
+      <wp:comment_content>Meus Parabéns Laércio!!!E a prova foi como eu te falei ?
+
+Não recebi o brinde da SAP ainda. Nem o certificado.
+
+Abraços</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>211</wp:comment_id>
+      <wp:comment_author>Laércio Queiroz</wp:comment_author>
+      <wp:comment_author_email>laercio_queiroz@hotmail.com</wp:comment_author_email>
+      <wp:comment_author_url></wp:comment_author_url>
+      <wp:comment_author_IP>200.223.28.110</wp:comment_author_IP>
+      <wp:comment_date_gmt>2007-11-01 16:21:44</wp:comment_date_gmt>
+      <wp:comment_content>Opa,... a prova foi complicada pq não tinha experiência com a plataforma nem com a ferramenta. Procurei garantir uma boa pontuação em JEEE e tópicos mais simples como o NWDI. Entretanto, como vc disse anteriormente, os materiais da SAP são excelentes e suficiente para aprovação no exame.
+
+Abraço,
+
+Laércio Queiroz</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+  </item>
+  <item>
+    <title>Alterações no Jroller</title>
+    <link>http://www.jroller.com/rafaelbenevides/entry/altera%C3%A7%C3%B5es_no_jroller</link>
+    <content:encoded>...</content:encoded>
+    <dsq:thread_identifier>http://www.jroller.com/rafaelbenevides/entry/altera%C3%A7%C3%B5es-no-jroller</dsq:thread_identifier>
+    <wp:post_date_gmt>2007-07-19 01:15:08</wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:comment>
+      <wp:comment_id>212</wp:comment_id>
+      <wp:comment_author>Dalton camargo</wp:comment_author>
+      <wp:comment_author_email></wp:comment_author_email>
+      <wp:comment_author_url></wp:comment_author_url>
+      <wp:comment_author_IP>200.162.106.189</wp:comment_author_IP>
+      <wp:comment_date_gmt>2007-07-19 14:39:01</wp:comment_date_gmt>
+      <wp:comment_content>Bah, eu estava alterando a URL do meu JRooler, deu uma travada geral no servidor e meu blog aparentemente foi excluído :S</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>213</wp:comment_id>
+      <wp:comment_author>Rafael Benevides</wp:comment_author>
+      <wp:comment_author_email>rafabene@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://www.jroller.com/rafaelbenevides</wp:comment_author_url>
+      <wp:comment_author_IP>200.162.121.254</wp:comment_author_IP>
+      <wp:comment_date_gmt>2007-07-19 19:21:01</wp:comment_date_gmt>
+      <wp:comment_content>Caraca! Não acredito!!!! O pior é que não adianta nem pedir suporte/backup para o pessoal da DZone, Inc. Tenta fazer um request em http://www.jroller.com/jroller/entry/watch_out_above_jroller_upgrade
+</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+  </item>
+  <item>
+    <title>Tutorial: Como assassinar o SimpleDateFormat</title>
+    <link>http://www.jroller.com/rafaelbenevides/entry/tutorial_como_assassinar_o_simpledateformat</link>
+    <content:encoded>...</content:encoded>
+    <dsq:thread_identifier>http://www.jroller.com/rafaelbenevides/entry/tutorial-como-assassinar-o-simpledateformat</dsq:thread_identifier>
+    <wp:post_date_gmt>2007-07-13 16:42:36</wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:comment>
+      <wp:comment_id>214</wp:comment_id>
+      <wp:comment_author>Eliel de Paula</wp:comment_author>
+      <wp:comment_author_email>elieldepaula@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://www.hztecnologia.com.br</wp:comment_author_url>
+      <wp:comment_author_IP>187.6.7.134</wp:comment_author_IP>
+      <wp:comment_date_gmt>2009-09-19 01:42:15</wp:comment_date_gmt>
+      <wp:comment_content>Perfeito.</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+  </item>
+  <item>
+    <title>From Beryl to Compiz Fusion</title>
+    <link>http://www.jroller.com/rafaelbenevides/entry/from_beryl_to_compiz_fusion</link>
+    <content:encoded>...</content:encoded>
+    <dsq:thread_identifier>http://www.jroller.com/rafaelbenevides/entry/from-beryl-to-compiz-fusion</dsq:thread_identifier>
+    <wp:post_date_gmt>2007-07-10 01:13:35</wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:comment>
+      <wp:comment_id>215</wp:comment_id>
+      <wp:comment_author>Claudio Miranda</wp:comment_author>
+      <wp:comment_author_email>claudio@claudius.com.br</wp:comment_author_email>
+      <wp:comment_author_url>http://www.claudius.com.br/blog/claudio</wp:comment_author_url>
+      <wp:comment_author_IP>200.140.86.179</wp:comment_author_IP>
+      <wp:comment_date_gmt>2007-07-10 02:08:28</wp:comment_date_gmt>
+      <wp:comment_content>CARACA, muito massa Benevides... digo, a música é muito boa. rá rá rá rá rá rá rá rá rá rá rá rá rá 
+
+Brincadeira.. muito bacana esses efeitos, talvez eu habilite isso na próxima instalação do Gutsy Gibbon.
+
+A propósito, qual o link para ver o vídeo ?</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>216</wp:comment_id>
+      <wp:comment_author>Rafael Benevides</wp:comment_author>
+      <wp:comment_author_email>rafabene@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://jroller.com/page/rafaelbenevides</wp:comment_author_url>
+      <wp:comment_author_IP>189.6.106.112</wp:comment_author_IP>
+      <wp:comment_date_gmt>2007-07-10 11:24:17</wp:comment_date_gmt>
+      <wp:comment_content>hehehehe
+
+http://br.youtube.com/watch?v=7QyyC4LRoYI - Vídeo dos efeitos
+http://www.sonataarctica.info/site07/gallery.php?id=15&amp;s=20&amp;l=uk - Vídeo do Sonata Arctica :0)
+</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>217</wp:comment_id>
+      <wp:comment_author>Alexandre Macedo</wp:comment_author>
+      <wp:comment_author_email>alexandre.macedo.ti@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url></wp:comment_author_url>
+      <wp:comment_author_IP>201.92.35.239</wp:comment_author_IP>
+      <wp:comment_date_gmt>2007-07-15 22:04:21</wp:comment_date_gmt>
+      <wp:comment_content>Apanhei um pouco para instalar o Compiz Fusion em um notebook Dell Latitude D620, mas funcionou !!! Um pouco lento... mas está funcionando !!!
+Tenho problemas com alguns recursos que utilizam a tecla SUPER (Win... argh!)... O que pode ser ???
+Ah... gostei do tema que você está utilizando... qual é ???</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>218</wp:comment_id>
+      <wp:comment_author>Rafael Benevides</wp:comment_author>
+      <wp:comment_author_email>rafabene@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://jroller.com/page/rafaelbenevides</wp:comment_author_url>
+      <wp:comment_author_IP>189.6.35.52</wp:comment_author_IP>
+      <wp:comment_date_gmt>2007-07-16 01:09:13</wp:comment_date_gmt>
+      <wp:comment_content>Alexandre, 
+
+É a primeira vez que escuto falar de problemas referente a tecla SUPER. Veja no gerenciador de atalhos se consegue capturar a tecla SUPER. o Tema que estou usando é o LINSTA3 - http://www.gnome-look.org/content/show.php/LiNsta+3+%28Linux+is+Not+Vista%29?content=44570
+</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+  </item>
+  <item>
+    <title>Que artigo show de bola!!!</title>
+    <link>http://www.jroller.com/rafaelbenevides/entry/que_artigo_show_de_bola</link>
+    <content:encoded>...</content:encoded>
+    <dsq:thread_identifier>http://www.jroller.com/rafaelbenevides/entry/que-artigo-show-de-bola</dsq:thread_identifier>
+    <wp:post_date_gmt>2007-06-22 00:55:05</wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:comment>
+      <wp:comment_id>219</wp:comment_id>
+      <wp:comment_author>Claudio Miranda</wp:comment_author>
+      <wp:comment_author_email>claudio@claudius.com.br</wp:comment_author_email>
+      <wp:comment_author_url>http://www.claudius.com.br/blog/claudio</wp:comment_author_url>
+      <wp:comment_author_IP>200.163.15.147</wp:comment_author_IP>
+      <wp:comment_date_gmt>2007-06-22 02:22:55</wp:comment_date_gmt>
+      <wp:comment_content>Caraca Benevides, ri demais com esse ADD. Muito fera. Abraço.</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+  </item>
+  <item>
+    <title>Novo vídeo Java Everywhere</title>
+    <link>http://www.jroller.com/rafaelbenevides/entry/novo_v%C3%ADdeo_java_everywhere</link>
+    <content:encoded>...</content:encoded>
+    <dsq:thread_identifier>http://www.jroller.com/rafaelbenevides/entry/novo-v%C3%ADdeo-java-everywhere</dsq:thread_identifier>
+    <wp:post_date_gmt>2007-05-21 19:42:43</wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:comment>
+      <wp:comment_id>220</wp:comment_id>
+      <wp:comment_author>Daniel F. Martins</wp:comment_author>
+      <wp:comment_author_email>blog@danielfmartins.com</wp:comment_author_email>
+      <wp:comment_author_url>http://blog.danielfmartins.com/</wp:comment_author_url>
+      <wp:comment_author_IP>201.0.53.234</wp:comment_author_IP>
+      <wp:comment_date_gmt>2007-05-21 20:55:14</wp:comment_date_gmt>
+      <wp:comment_content>Vendo o vídeo, me lembrei do filme Matrix, onde o Morpheus explica o que é a dita cuja para Neo:
+
+"The matrix is everywhere. It is all around us. Even now, in this very room. You can see it when you look out your window or when you turn on your television. You can feel it when you go to work, when you go to church, when you pay your taxes. It is the world that has been pulled over your eyes, to blind you from the truth."
+
+Hahahahahahaha!! :D Curto o Java e tal, mas esse quote tem tudo a ver com essa mania do Java de dominar o mundo... sei lá, as vezes dá raiva isso. :P
+
+[]s!</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+  </item>
+  <item>
+    <title>Facelets - Composição e Ferramentas</title>
+    <link>http://www.jroller.com/rafaelbenevides/entry/facelets_composi%C3%A7%C3%A3o_e_ferramentas</link>
+    <content:encoded>...</content:encoded>
+    <dsq:thread_identifier>http://www.jroller.com/rafaelbenevides/entry/facelets-composi%C3%A7%C3%A3o-e-ferramentas</dsq:thread_identifier>
+    <wp:post_date_gmt>2007-05-04 21:21:03</wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:comment>
+      <wp:comment_id>221</wp:comment_id>
+      <wp:comment_author>João Paulo</wp:comment_author>
+      <wp:comment_author_email>jp.trabalho@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url></wp:comment_author_url>
+      <wp:comment_author_IP>200.193.237.142</wp:comment_author_IP>
+      <wp:comment_date_gmt>2007-06-21 17:00:09</wp:comment_date_gmt>
+      <wp:comment_content>Como se define o namespace?
+Ele precisa ser declarado? Tem que ser uma url válida?</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>222</wp:comment_id>
+      <wp:comment_author>Rafael Benevides</wp:comment_author>
+      <wp:comment_author_email>rafabene@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://jroller.com/page/rafaelbenevides</wp:comment_author_url>
+      <wp:comment_author_IP>200.162.121.254</wp:comment_author_IP>
+      <wp:comment_date_gmt>2007-06-21 17:24:51</wp:comment_date_gmt>
+      <wp:comment_content>O Namespace não precisa ser uma URL válida e é declarada no arquivo META-INF/cpf.taglib.xml (conforme exemplo)</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>223</wp:comment_id>
+      <wp:comment_author>Draven</wp:comment_author>
+      <wp:comment_author_email>psytheory@hotmail.com</wp:comment_author_email>
+      <wp:comment_author_url></wp:comment_author_url>
+      <wp:comment_author_IP>201.79.2.86</wp:comment_author_IP>
+      <wp:comment_date_gmt>2009-10-19 13:35:39</wp:comment_date_gmt>
+      <wp:comment_content>Bom dia,
+
+Tive algumas dúvidas na hora da implantação...
+Será que você poderia disponibilizar o código deste tutorial ?</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>224</wp:comment_id>
+      <wp:comment_author>Rafael Benevides</wp:comment_author>
+      <wp:comment_author_email>rafabene@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://www.jroller.com/rafaelbenevides</wp:comment_author_url>
+      <wp:comment_author_IP>200.130.3.129</wp:comment_author_IP>
+      <wp:comment_date_gmt>2009-10-19 13:42:17</wp:comment_date_gmt>
+      <wp:comment_content>Olá Draven,
+
+eu não tenho mais o código deste tutorial, mas o XSeam tem estes conceitos implementados. Dê uma olhada em http://xseam.dev.java.net.
+
+Abraços.</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+  </item>
+  <item>
+    <title>Facelets - Exemplos Simples</title>
+    <link>http://www.jroller.com/rafaelbenevides/entry/facelets_exemplos_simples</link>
+    <content:encoded>...</content:encoded>
+    <dsq:thread_identifier>http://www.jroller.com/rafaelbenevides/entry/facelets-exemplos-simples</dsq:thread_identifier>
+    <wp:post_date_gmt>2007-04-30 18:44:08</wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:comment>
+      <wp:comment_id>225</wp:comment_id>
+      <wp:comment_author>Marco Aurélio</wp:comment_author>
+      <wp:comment_author_email>aureliorodrigues@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url></wp:comment_author_url>
+      <wp:comment_author_IP>201.74.79.108</wp:comment_author_IP>
+      <wp:comment_date_gmt>2007-11-28 01:06:26</wp:comment_date_gmt>
+      <wp:comment_content>cadê  "conforme exemplo abaixo: "
+
+
+estou tentando usar e   não estou conseguino=do.
+</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>226</wp:comment_id>
+      <wp:comment_author>Rafael Benevides</wp:comment_author>
+      <wp:comment_author_email>rafabene@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://www.jroller.com/rafaelbenevides/</wp:comment_author_url>
+      <wp:comment_author_IP>200.130.24.222</wp:comment_author_IP>
+      <wp:comment_date_gmt>2007-11-28 16:11:02</wp:comment_date_gmt>
+      <wp:comment_content>Cara, desculpe,
+
+Devo ter apagado na edição..
+Corrigido</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>227</wp:comment_id>
+      <wp:comment_author>Marco Aurélio</wp:comment_author>
+      <wp:comment_author_email>aureliorodrigues@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url></wp:comment_author_url>
+      <wp:comment_author_IP>200.144.25.100</wp:comment_author_IP>
+      <wp:comment_date_gmt>2007-11-30 11:14:37</wp:comment_date_gmt>
+      <wp:comment_content>Rafael ,  obrigado pelo exemplos.
+
+Estou com uma problema na implementação.
+
+Estou usando eclipse com myfaces, e a tag  
+&lt; ui:define name ,   todas "ui" aparecem como erro , qual jar que está faltando ?
+
+Obrigado  </wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>228</wp:comment_id>
+      <wp:comment_author>Rafael Benevides</wp:comment_author>
+      <wp:comment_author_email>rafabene@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://www.jroller.com/rafaelbenevides/</wp:comment_author_url>
+      <wp:comment_author_IP>189.61.19.47</wp:comment_author_IP>
+      <wp:comment_date_gmt>2007-12-03 01:23:07</wp:comment_date_gmt>
+      <wp:comment_content>Provavelmente estejam faltando este https://facelets.dev.java.net/files/documents/3448/70170/facelets-1.1.13.zip</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>229</wp:comment_id>
+      <wp:comment_author>Marcos Medeiros</wp:comment_author>
+      <wp:comment_author_email>marcos_amm@hotmail.com</wp:comment_author_email>
+      <wp:comment_author_url></wp:comment_author_url>
+      <wp:comment_author_IP>189.13.131.249</wp:comment_author_IP>
+      <wp:comment_date_gmt>2008-03-29 00:18:58</wp:comment_date_gmt>
+      <wp:comment_content>Estou tentando colocar o facelets para funcionar no JBoss 5... e estou tendo problemas. Nem o exemplo (guessnumber) que vem no facelets-1.1.13.zip  funciona. O seguinte erro aparece:
+20:48:55,348 ERROR [STDERR] 28/03/2008 20:48:55 com.sun.facelets.compiler.Compiler initialize
+SEVERE: Missing Built-in Tag Libraries! Make sure they are included within the META-INF directory of Facelets' Jar
+20:48:56,403 ERROR [STDERR] 28/03/2008 20:48:56 com.sun.facelets.FaceletViewHandler handleRenderException
+SEVERE: Error Rendering View[/guess.xhtml]
+java.lang.NullPointerException
+	at com.sun.facelets.compiler.NamespaceHandler.apply(NamespaceHandler.java:49)
+	at com.sun.facelets.compiler.EncodingHandler.apply(EncodingHandler.java:25)
+	at com.sun.facelets.impl.DefaultFacelet.apply(DefaultFacelet.java:95)
+	at com.sun.facelets.FaceletViewHandler.buildView(FaceletViewHandler.java:524)
+	at com.sun.facelets.FaceletViewHandler.renderView(FaceletViewHandler.java:567)
+	at com.sun.faces.lifecycle.RenderResponsePhase.execute(RenderResponsePhase.java:106)
+	at com.sun.faces.lifecycle.LifecycleImpl.phase(LifecycleImpl.java:251)
+	at com.sun.faces.lifecycle.LifecycleImpl.render(LifecycleImpl.java:144)
+	at javax.faces.webapp.FacesServlet.service(FacesServlet.java:245)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.jboss.web.tomcat.filters.ReplyHeaderFilter.doFilter(ReplyHeaderFilter.java:96)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:175)
+	at org.jboss.web.tomcat.security.SecurityAssociationValve.invoke(SecurityAssociationValve.java:189)
+	at org.jboss.web.tomcat.security.JaccContextValve.invoke(JaccContextValve.java:90)
+	at org.jboss.web.tomcat.security.SecurityContextEstablishmentValve.invoke(SecurityContextEstablishmentValve.java:96)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.jboss.web.tomcat.service.jca.CachedConnectionValve.invoke(CachedConnectionValve.java:157)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:309)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:844)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:601)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:447)
+	at java.lang.Thread.run(Thread.java:595)
+
+Alguém já passou por isso?</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>230</wp:comment_id>
+      <wp:comment_author>Celso</wp:comment_author>
+      <wp:comment_author_email>celsoromao@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url></wp:comment_author_url>
+      <wp:comment_author_IP>200.165.60.153</wp:comment_author_IP>
+      <wp:comment_date_gmt>2008-08-06 16:47:42</wp:comment_date_gmt>
+      <wp:comment_content>Rafael, boa tarde.
+Estou com dificuldade para usar o facelets.
+Tenho um exemplo rodando no eclipse ganymede e JBoss 4.2.Estou usando JSF 1.2. 
+A página inicial da aplicação é index.html e esta  faz o seguinte redirecionamento:
+&lt;meta http-equiv="refresh" content="0; url=./login-with-composition.jsf" /&gt;
+Na minha aplicação tenho a página login-with-composition.xhtml. Quando executo a aplicação ocorre o erro abaixo:
+type Exception report
+
+message 
+
+description The server encountered an internal error () that prevented it from fulfilling this request.
+
+exception 
+
+javax.servlet.ServletException: Servlet execution threw an exception
+	org.jboss.web.tomcat.filters.ReplyHeaderFilter.doFilter(ReplyHeaderFilter.java:96)
+
+
+root cause 
+
+java.lang.LinkageError: loader constraints violated when linking javax/el/ELContext class
+	com.sun.facelets.el.ELAdaptor.getELContext(ELAdaptor.java:45)
+	com.sun.facelets.impl.DefaultFaceletContext.&lt;init&gt;(DefaultFaceletContext.java:85)
+	com.sun.facelets.impl.DefaultFacelet.apply(DefaultFacelet.java:91)
+	com.sun.facelets.FaceletViewHandler.buildView(FaceletViewHandler.java:510)
+	com.sun.facelets.FaceletViewHandler.renderView(FaceletViewHandler.java:553)
+	com.sun.faces.lifecycle.RenderResponsePhase.execute(RenderResponsePhase.java:106)
+	com.sun.faces.lifecycle.LifecycleImpl.phase(LifecycleImpl.java:251)
+	com.sun.faces.lifecycle.LifecycleImpl.render(LifecycleImpl.java:144)
+	javax.faces.webapp.FacesServlet.service(FacesServlet.java:245)
+	org.jboss.web.tomcat.filters.ReplyHeaderFilter.doFilter(ReplyHeaderFilter.java:96)
+
+</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>231</wp:comment_id>
+      <wp:comment_author>Rafael Benevides</wp:comment_author>
+      <wp:comment_author_email>rafabene@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://www.jroller.com/rafaelbenevides/</wp:comment_author_url>
+      <wp:comment_author_IP>189.61.22.218</wp:comment_author_IP>
+      <wp:comment_date_gmt>2008-08-06 16:54:26</wp:comment_date_gmt>
+      <wp:comment_content>Olá Celso,
+
+Desculpe. Difícil ter idéia do que possa ser :/</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>232</wp:comment_id>
+      <wp:comment_author>Robson Ximenes</wp:comment_author>
+      <wp:comment_author_email>robsonximenes@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url></wp:comment_author_url>
+      <wp:comment_author_IP>161.148.143.149</wp:comment_author_IP>
+      <wp:comment_date_gmt>2010-06-18 12:51:52</wp:comment_date_gmt>
+      <wp:comment_content>Rafael,
+
+Gosto muito dos teus posts. Queria saber se tem alguma dica para o seguinte problema.
+
+Estou criando um jar com alguns templates (xhtml, imagens, css...)
+Quero que aplicações possam utilizar estes templates mas podendo sobreescrever alguns... 
+
+Exemplo:
+
+ui:composition name="main"
+...
+   ui:insert name="message"
+      ui:include src="/template/message.xhtml" 
+   /ui:insert
+/ui:composition
+
+Gostaria que se na app do usuario existir o arquivo message.xhtml usar o dele...
+
+Alguma idéia???
+
+</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>233</wp:comment_id>
+      <wp:comment_author>Rafael Benevides</wp:comment_author>
+      <wp:comment_author_email>rafabene@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url></wp:comment_author_url>
+      <wp:comment_author_IP>187.27.165.36</wp:comment_author_IP>
+      <wp:comment_date_gmt>2010-06-18 13:31:39</wp:comment_date_gmt>
+      <wp:comment_content>Robson,
+
+Acredito que seja possível mas apenas como parâmetro. Algo do tipo: 
+
+c:if test{not empty parametro}
+  ui:include src="#{parametro}</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+  </item>
+  <item>
+    <title>Facelets - Introdução</title>
+    <link>http://www.jroller.com/rafaelbenevides/entry/facelets</link>
+    <content:encoded>...</content:encoded>
+    <dsq:thread_identifier>http://www.jroller.com/rafaelbenevides/entry/facelets</dsq:thread_identifier>
+    <wp:post_date_gmt>2007-04-26 20:21:46</wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:comment>
+      <wp:comment_id>234</wp:comment_id>
+      <wp:comment_author>George Queiroz</wp:comment_author>
+      <wp:comment_author_email>george.ba.fsa@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url></wp:comment_author_url>
+      <wp:comment_author_IP>201.37.170.67</wp:comment_author_IP>
+      <wp:comment_date_gmt>2007-04-27 16:50:51</wp:comment_date_gmt>
+      <wp:comment_content>O probl é qdo vc junta ele com componentes de terceiros, com ajax etc, daí o bicho começa a pegar, o papel básico sobre os componentes da RI da SUN, sem probls...
+
+vamos pra frente e vamos ver se nos proxs post conseguimos fzr com RichFaces e paginação myfaces
+
+[s]
+baiano</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>235</wp:comment_id>
+      <wp:comment_author>Rafael Benevides</wp:comment_author>
+      <wp:comment_author_email>rafabene@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://jroller.com/page/rafaelbenevides</wp:comment_author_url>
+      <wp:comment_author_IP>201.18.54.11</wp:comment_author_IP>
+      <wp:comment_date_gmt>2007-04-27 18:02:47</wp:comment_date_gmt>
+      <wp:comment_content>Fala George Queiroz,
+
+Honestamente nunca cheguei de utilizar o Facelets e o RichFaces no mesmo projeto, mas no caso do myfaces+tomahawk tudo aconteceu sem problemas. No caso do tomahawk eu segui este caminho http://wiki.apache.org/myfaces/Use_Facelets_with_Tomahawk</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>236</wp:comment_id>
+      <wp:comment_author>Domingos Bernardo</wp:comment_author>
+      <wp:comment_author_email>domingosber@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url></wp:comment_author_url>
+      <wp:comment_author_IP>189.4.183.182</wp:comment_author_IP>
+      <wp:comment_date_gmt>2008-10-24 23:37:58</wp:comment_date_gmt>
+      <wp:comment_content>Olá Rafael,
+
+Parabéns pelo Post, com certeza deve estar ajudando muita gente que inicia em Facelets. Eu também estou apredendo bastante com seus posts.
+
+valeu,
+</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>237</wp:comment_id>
+      <wp:comment_author>Rafael Benevides</wp:comment_author>
+      <wp:comment_author_email>rafabene@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://www.jroller.com/rafaelbenevides/</wp:comment_author_url>
+      <wp:comment_author_IP>189.7.249.101</wp:comment_author_IP>
+      <wp:comment_date_gmt>2008-10-25 11:51:15</wp:comment_date_gmt>
+      <wp:comment_content>Opa! Obrigado! :)</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+  </item>
+  <item>
+    <title>Caia na Real e Extreme Programming - Agradecimento aos autores</title>
+    <link>http://www.jroller.com/rafaelbenevides/entry/caia_na_real_e_seja</link>
+    <content:encoded>...</content:encoded>
+    <dsq:thread_identifier>http://www.jroller.com/rafaelbenevides/entry/caia-na-real-e-seja</dsq:thread_identifier>
+    <wp:post_date_gmt>2007-04-21 03:03:29</wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:comment>
+      <wp:comment_id>238</wp:comment_id>
+      <wp:comment_author>Eduardo Fiorezi</wp:comment_author>
+      <wp:comment_author_email>eduardofiorezi@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://www.tudoquequerosaber.com</wp:comment_author_url>
+      <wp:comment_author_IP>201.54.71.41</wp:comment_author_IP>
+      <wp:comment_date_gmt>2007-04-21 04:58:32</wp:comment_date_gmt>
+      <wp:comment_content>Muito bom,
+
+Acho que muita gente ja enfrentou esse caminho... 
+
+Segunda feira lanço o 5º Podcast, esse sobre Extreme Programming... Falamos inclusive sobre esse livro.
+
+Um abraço</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>239</wp:comment_id>
+      <wp:comment_author>Vinícius Manhães Teles</wp:comment_author>
+      <wp:comment_author_email>teles@mail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://www.improveit.com.br/vinicius</wp:comment_author_url>
+      <wp:comment_author_IP>200.103.125.211</wp:comment_author_IP>
+      <wp:comment_date_gmt>2007-04-21 08:41:11</wp:comment_date_gmt>
+      <wp:comment_content>Olá Rafael,
+
+Muito obrigado por seus comentários sobre o livro. É gratificante saber que lhe foi útil e ajudou a despertar novas formas de enxergar o desenvolvimento de software!
+
+Fico particularmente lisonjeado por você comentar sobre meu livro ao mesmo tempo em que citou o excelente Caia na Real, que considero uma das melhores leituras sobre desenvolvimento de software. 
+
+Grande abraço,
+
+Vinícius Teles </wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>240</wp:comment_id>
+      <wp:comment_author>Bruno</wp:comment_author>
+      <wp:comment_author_email>brunomau@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url></wp:comment_author_url>
+      <wp:comment_author_IP>201.18.54.11</wp:comment_author_IP>
+      <wp:comment_date_gmt>2007-04-24 17:27:24</wp:comment_date_gmt>
+      <wp:comment_content>Boa, Bené. Agradeço a você o mesmo "despertar" que está surgindo em mim neste início de carreira, digamos assim, acerca destas questões mais arquiteturais/gerenciais. Sei que minha jornada apenas começou, mas certamente os caminhos a serem trilhados serão menos tortuosos tendo essa visão mais crítica, e principalmente prática, sobre como desenvolver software.
+
+Um abraço,
+
+Bruno Afonso Moulin</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>241</wp:comment_id>
+      <wp:comment_author>Rafael Benevides</wp:comment_author>
+      <wp:comment_author_email>rafabene@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://jroller.com/page/rafaelbenevides</wp:comment_author_url>
+      <wp:comment_author_IP>201.18.54.11</wp:comment_author_IP>
+      <wp:comment_date_gmt>2007-04-24 17:29:46</wp:comment_date_gmt>
+      <wp:comment_content>Valeu Bruno! Obrigado e Sucesso!!!</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+    <wp:comment>
+      <wp:comment_id>242</wp:comment_id>
+      <wp:comment_author>Leonardo Marques</wp:comment_author>
+      <wp:comment_author_email>leonardomarques@gmail.com</wp:comment_author_email>
+      <wp:comment_author_url>http://www.webdoisponozero.com/blog</wp:comment_author_url>
+      <wp:comment_author_IP>201.24.60.157</wp:comment_author_IP>
+      <wp:comment_date_gmt>2007-04-25 02:08:23</wp:comment_date_gmt>
+      <wp:comment_content>Valeu aí por linkar meu artigo rafael, seu blog tá bem legal com vários posts bem interessantes.
+Moro em Brasília também
+[]'s</wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+    </wp:comment>
+  </item>
+</channel>
+</rss>
+

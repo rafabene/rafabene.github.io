@@ -1,0 +1,33 @@
+---
+layout: post
+title: Feliz Natal
+comments: true
+---
+
+<p><p> Já faz algum tempo que não posto nada neste BLOG e já estava na hora de tirar a poeira... Nem que seja para desejar um <b>Feliz Natal a todos!</b> Sei que estou um dia atrasado, mas apesar de ser um bom adepto do lema "<i>Enquanto descanso, carrego pedra</i>", simplesmente não rolaria (<a href="http://www.jroller.com/page/rafaelbenevides/?anchor=i_am_also_a_nerd">apesar da nerdice</a> ;o) ) conectar ontem na Internet apenas para postar no Blog.
+</p>
+<p>É claro que existe uma desculpa para a quantidade de posts terem se reduzido bastante: Quase não tenho tido mais tempo! (Lá vem esta desculpa novamente rsrsrs). Aproveitando a onda das retrospectivas, agora é um bom momento para dizer o tanto que este ano foi (sem adjetivos para expressar!!! rsrsrs ), mas vamos lá..
+</p>
+<p><b><i>Início:</i></b> Comecei o ano completando 3 anos de <a target="_blank" href="http://www.geocities.com/thetropics/3416/bsb_port.htm">Brasília</a> e conseqüentemente 3 anos de <a target="_blank" href="http://www.mj.gov.br">Ministério da Justiça</a>.
+</p>
+<p><b><i>Meio:</i></b> Prestei uma consultoria na <a target="_blank" href="http://www.summa-tech.com/">Summa</a> em conjunto com a <a target="_blank" href="http://www.sun.com/">Sun,</a> para o <a target="_blank" href="http://www.google.com.br/url?sa=t&amp;ct=res&amp;cd=1&amp;url=http%3A%2F%2Fwww.solucoestipublica.gov.br%2Fpalestras%2Festudo_de_caso_3.8.ppt&amp;ei=dUJyR63ABaK4eqvxzDc&amp;usg=AFQjCNGkvlVv4GEYjv1urR3C_Cu2QGaoYw&amp;sig2=uk5fl2ZvTqpWCYlWLhmGiw">Projeto do Banco do Brasil</a>
+</p>
+<p><b><i>Fim:</i></b> <a href="http://www.jroller.com/page/rafaelbenevides/?anchor=matando_um_alien_devorador_de">Matei um leão</a> (as vezes dois) por dia, no <a target="_blank" href="http://www.inep.gov.br/">INEP.</a>
+</p>
+<p>Com um ano agitado destes, comecei a sentir algo curioso: Estava me sentindo (tecnojavamente - mistura de tecnologia + java) defasado. Ou seja, a falta de tempo estava começando a me prejudicar. Claro que se ultimamente não estivesse matando um leão por dia, o prejuízo seria bem maior!
+</p>
+<p>Na nossa profissão, felizmente (ou infelizmente) as coisas mudam rápido e 6 meses sem se atualizar/reciclar, podem tirar um profissional do mercado (falo sério)!!! Inclusive esta reflexão merece um post exclusivo para este assunto.
+</p>
+<p>Acontece então que desde que a poeira começou a abaixar (desde o início de dezembro), estou aproveitando as noites e finais de semana (lembram do lema?) para me colocar a par de alguns assuntos de meu interesse. Portanto fiz algumas aquisições literárias:
+</p>
+<ol>
+  <li><a target="_blank" href="http://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/ref=pd_bbs_sr_1?ie=UTF8&amp;s=books&amp;qid=1198669580&amp;sr=8-1">Domain-Driven Design do Eric Evans</a></li>
+  <li><a target="_blank" href="http://www.amazon.com/JBoss-Seam-Simplicity-Beyond-Prentice/dp/0131347969/ref=pd_bbs_sr_1?ie=UTF8&amp;s=books&amp;qid=1198669623&amp;sr=1-1">Jboss Seam: Simplicity and Power Beyond Java EE do Michael Yuan e Thomas Heute</a></li>
+  <li><a target="_blank" href="http://www.infoq.com/minibooks/scrum-xp-from-the-trenches">Scrum and XP from the Trenches do Henrik Kniberg (free)</a></li>
+</ol>
+<p>Por falar em  Jboss Seam, este é outro assunto que merece um post exclusivo.
+</p>
+<p>
+<i><b>Feliz Natal e próspero Ano Novo!!!</b></i>
+</p></p>
+

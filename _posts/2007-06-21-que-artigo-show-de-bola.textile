@@ -1,0 +1,17 @@
+---
+layout: post
+title: Que artigo show de bola!!!
+comments: true
+---
+
+<p>Atualmente não estou tendo muito tempo para postar. </p>
+
+
+<p>Então para o Blog não criar mofo, vou recomendar a leitura de um artigo show de bola: <a href="http://webinsider.uol.com.br/index.php/2002/04/02/a-equipe-tem-que-ser-boa/">A equipe tem que ser boa!!! - Desenvolvedor 10x</a> </p>
+
+
+<p>E um post muito legal do <a href="http://www.scottberkun.com/about/"> Scott Berkun </a>: <a href="http://www.scottberkun.com/blog/2007/asshole-driven-development/">Asshole Driven Development</a> </p>
+
+
+<p>Boa Leitura!!!</p>
+

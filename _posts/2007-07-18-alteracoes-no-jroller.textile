@@ -1,0 +1,30 @@
+---
+layout: post
+title: Alterações no Jroller
+comments: true
+tags:
+  - blog
+  - infoblogs
+  - jroller
+  - macros
+  - roller
+  - velocity
+---
+
+<p><p> Depois de um algum tempo sem atualizações e após <a target="_blank" href="/2007/04/03/a-motivacao-da-escrita/">inúmeras críticas</a>, o <a target="_blank" href="http://www.jroller.com/">Jroller</a> finalmente foi atualizado ontem (17/07/2007). Como resultado da nova versão, podemos citar a inclusão de tags e também da alteração das URLs. O que antigamente era <a target="_self" href="http://jroller.com/page/rafaelbenevides">http://jroller.com/page/rafaelbenevides</a> passou a ser <a target="_self" href="http://www.jroller.com/rafaelbenevides/">http://www.jroller.com/rafaelbenevides/</a> . A boa notícia é que será mantido um redirecionamento permanentemente de maneira que as atualizações dos bookmarks sejam graduais.
+</p>
+<p>Como todo bom e velho upgrade, algumas coisas deixaram de funcionar como é possível de ver neste momento no blog do <a target="_blank" href="http://www.jroller.com/vfpamp/">Vitor Pamplona</a> e também no meu blog que havia deixado de mostrar a caixa do infoblogs para creditar. Isto aconteceu porquê algumas APIs "deprecadas" do Jroller foram removidas e o tema escolhido deve migrar estas $macros para as suas correspondentes atualizações. Maiores informações podem ser obtidas no PDF - <a target="_blank" href="http://www.apache.org/dist/roller/roller-3/v3.1.0/docs/roller-template-guide.pdf">Template Guide for Apache Roller 3.1</a>. Uma dica rápida: Substituir <b>$renderedText</b> por <b>#showEntryText( $entry )</b>
+</p>
+<p>No caso do infoblogs, o problema está no "match" da URL do feed/infoblogs com a nova URL do blog. Isto pode ser corrigido alterando a variável do Javascript que monta a URL do permaLink ( adicionando o www) conforme código abaixo:
+</p>
+{% highlight java %}
+//var infoblogs_url = "http://jroller.com$entry.permaLink"; 
+  var infoblogs_url = "http://www.jroller.com$entry.permaLink"; 
+{% endhighlight %}
+<p>
+O único inconveniente (por enquanto) é que as pontuações antigas do infoblogs desapareceram. Não conheço a estrutura interna do Infoblogs, mas espero que atualizem o repositório deles substituindo todas as entradas jroller.com por www.jroller.com. 
+<BR>
+Boa sorte para todos nós!!!
+  
+</p></p>
+

@@ -1,0 +1,8 @@
+---
+layout: post
+title: Vem ai Just Java 2008 - Está aberta a submissão de palestras
+comments: true
+---
+
+<p><h4><b>O tradicional evento Just Java 2008 já está com data, horário e local marcados!!!</b></h4><p><b>Data:</b>10 a 12 de Setembro de 2008</p><p><b>Horário:</b> 8h30 às 19h00</p><p><b>Local: </b>Centro Universitário SENAC - CAMPUS SANTO AMAROAv. Engenheiro Eusébio Stevaux, n. 823Santo Amaro  CEP: 04696-000 - São Paulo / SP</p><p>Saiba como chegar: <a href="http://www.sp.senac.br/jsp/default.jsp?newsID=a13213.htm&amp;testeira=727&amp;unit=CAS&amp;sub=0" target="_blank">clique aqui</a>.</p><p>Ainda não tive a oportunidade de ir neste evento. Quem sabe este ano... </p><h4><b>Submissão de trabalhos</b></h4><p>Até o dia 18 de julho, estará aberto os prazos para sumissão de trabalhos e apresentações para o evento. Após este período, acontecerá a avaliação das submissões, de forma a montar um evento técnico de alta qualidade.</p><p>Caso o seu tabalho seja aprovado, você será notificado em até 30 dias antes do evento. </p><p>Para submeter sua palestra, preencha o formulário que se encontra no site abaixo, na opção "<b>Chamada de Trabalhos</b>"  <a href="http://www.sucesusp.org.br/justjava2008/" target="_blank">http://www.sucesusp.org.br/<wbr />justjava2008/</a></p><p> </p><p> </p><p> </p></p>
+

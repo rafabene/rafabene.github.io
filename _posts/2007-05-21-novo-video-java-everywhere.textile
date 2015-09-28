@@ -1,0 +1,17 @@
+---
+layout: post
+title: Novo vídeo Java Everywhere
+comments: true
+---
+
+<p><p>Para quem se lembra de um vídeo promocional da Sun <a href="http://www.youtube.com/watch?v=SRLU1bJSLVg">(Java is Everywhere)</a>, que ficou muito famoso e era passado em 9 entre 10 eventos e treinamentos de Java no Brasil e provavelmente no mundo. A  <a href="http://www.sun.com">Sun Microsystems</a> lançou outro vídeo (que ainda não é tão famoso). Pelo menos o vi pela primeira vez no Blog do <a href="http://jeanjmichel.blogspot.com/">Jean Jorge Michel</a> </p></p>
+
+
+Particularmente gostei mais deste vídeo, do que do antigo. Nada contra o "Chinês", mas vejam o vídeo e dêem sua opinião. 
+
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/av5y5X5Eyrg" frameborder="0" allowfullscreen> </iframe>
+
+
+<p><p><b><em>"Anywhere and Everywhere, Java is there."</em></b></p></p>
+

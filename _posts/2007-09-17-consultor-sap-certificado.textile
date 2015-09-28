@@ -1,0 +1,26 @@
+---
+layout: post
+title: Consultar SAP certificado
+comments: true
+tags:
+  - certification
+  - netweaver
+  - sap
+---
+
+<p><img src="/images/consultorsap.gif" align="left" border="0" hspace="0" vspace="0" />Depois de ter trabalhado com o <a target="_blank" href="http://en.wikipedia.org/wiki/SAP_AG">SAP</a> em 2003 e ter odiado o <a target="_blank" href="http://pt.wikipedia.org/wiki/ABAP">ABAP,</a> quem diria que me tornaria um <a target="_blank" href="http://www.sap.com/portugal/services/education/certification/index.epx">consultor certificado SAP</a>!
+<p>Tudo começou com <a target="_blank" href="http://www.javafree.org/news/view.jf?idNew=3606">esta notícia</a>. A princípio eu não estava muito interessado em participar do T3 (thrain-the-trainer), mas motivado pela presença do meu amigo <a target="_blank" href="http://danielgazineu.blogspot.com/">Daniel Gazineu</a>, me candidatei ao curso.
+</p>
+<p>O curso foi ministrado aqui em Brasília de 20 à 24 de agosto e participaram também: <a target="_blank" href="http://danielgazineu.blogspot.com/">Daniel Gazineu</a>, Cristiano Nicolai (<a target="_blank" href="https://www.soujava.org.br/display/v/Grade+de+Palestras">ambos com palestra marcadas para o JustJava 2007</a>), <a target="_blank" href="http://www.paulojeronimo.com.br/">Paulo Jeronimo</a> (o corredor), meu xará <a target="_blank" href="http://www.linkedin.com/pub/1/901/840">Raphael Teixeira</a>, <a target="_blank" href="http://alexandregomes.multiply.com/">Alexandre Gomes</a> (Sea Technologies),  <a target="_blank" href="http://www.ticket.t5.com.br/fernandoans/">Fernando Ancelmo</a> (DFJUG) e outros colegas de várias partes do Brasil. O curso foi ministrado por <a target="_blank" href="http://www.sap.com/brazil/company/press/press.epx?pressid=8249">Kentaro Takahashi</a>.
+</p>
+<p>A prova foi este sabado dia 15, mas aconteceu um fato muito curioso. Ao finalizar as 80 questões da prova e já com a vista embaçada, não perdi muito tempo procurando o resultado na tela. Cliquei em finalizar esperando que o resultado fosse impresso (assim como aconteceu nas provas da Prometric e da Exin), entretanto a surpresa: O resultado não sai impresso!!!!! Paciência! Enviei um e-mail para a SAP informando o caso e hoje fui beneficiado com o resultado de minha aprovação.
+</p>
+<p> Quem quizer estudar para a certificação, o  <a target="_blank" href="http://www.javafree.org/javabb/loadCategory.jbb?c=5">Javafree possui um forum específico</a> a respeito da certificação <b>C_JA320_04</b> - <i>SAP NetWeaver´04 - Web Application Development Focus Java</i>.
+</p>
+<p>Boa sorte!!!
+   
+</p>
+<p>
+  
+</p></p>
+

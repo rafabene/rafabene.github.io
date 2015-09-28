@@ -1,0 +1,20 @@
+---
+layout: post
+title: Cetera ou Binaural Recording - O Som que engana seu cérebro.
+comments: true
+---
+
+<p>Ontem eu recebi por e-mail a demonstração de uma tecnologia muito legal que é bastante antiga, mas que tem sido bastante divulgada recentemente: Trata-se da <a href="http://en.wikipedia.org/wiki/Binaural_recording">Gravacão Binaural</a>, que agora está sendo rebatizada de <b>"cetera"</b>. É um método de gravação utilizado com apenas 2 microfones dispostos em uma determinada distância (praticamente o comprimento da nossa cabeça) e que tem por seu principal objetivo, fazer o seu ouvido "enganar o seu cérebro" utilizando-se de sons para simular um ambiente totalmente virtual.</p>
+
+
+<p>A demonstração mais impressionante desta tecnologia é a Barbearia Virtual do Luigi. <strong>Atencão: Para se ter idéia do potencial desta tecnologia, é muito importante usar headfone. Se você tentar escutar nas caixas do computador, você não terá a mesma sensação de estar dentro da barbearia do engraçado Luigi, junto com seu assistente  Manuel.</strong></p>
+
+
+<p>O mais impressionante foi demonstrar esta tecnologia para a minha esposa e ver a sensação dela e suas afirmações: "O Computador está ligado no home ?", "Rsrsrsrs. Parece que tem alguém aqui!", "O telefone está tocando?". Muito legal e sinistro!!! </p>
+
+
+<p>Agora coloque seu fone de ouvido, clique no "Play", feche seus olhos e escute com seus próprios ouvidos o que o cérebro é capaz de fazer com os sentidos da audição.</p>
+
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/IUDTlvagjJA" frameborder="0" allowfullscreen> </iframe>
+

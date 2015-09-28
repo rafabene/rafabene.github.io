@@ -1,0 +1,93 @@
+---
+layout: post
+title: Mais notícias sobre as licitações da CEF em Brasília
+comments: true
+---
+
+<p><p>Depois de mais de um ano de espera, a Gerência de Filial e Contratação em Brasília da Caixa Econômica Federal, enfim publicou nesta sexta-feira (09/05), os extratos dos contratos do pregão 01/2006 - que visa a contratação de empresas de informática para a prestação de serviços técnicos especializados em Desenvolvimento e Manutenção de Sistemas e aplicativos, denominados: "fábrica de software".
+</p></p>
+
+
+<p><p>O pregão, cujo edital tinha uma estimativa de preços em torno de R$ 600 milhões, acabou gerando uma disputa inédita entre empresas do eixo Rio/São Paulo, contra um cartel de empresas de Brasília - acostumado a levar todos os contratos federais. Isso acabou provocando uma economia no preço final para a CEF de mais de R$ 200 milhões.
+</p></p>
+
+
+<p><p><b>Fato inédito</b></p></p>
+
+
+<p><p>Esse resultado somente foi possível graças à disposição e coragem da Vice-presidente de Tecnologia da Caixa, Clarisse Copetti.  Desde o início desse processo licitatório, a executiva não permitiu que o cartel brasiliense tomasse conta do edital de forma a serem favorecidos, numa disputa direta com empresas de outros pontos do País.
+</p></p>
+
+
+<p><p>O resultado prático da atuação de Clarisse foi que as empresas de fora da capital, podendo enfrentar do ponto de vista técnico em pé de igualdade com às de Brasília, na disputa de preços apresentaram valores bem mais baixos para a execução dos serviços, em alguns casos denotando, até mesmo, a possibilidade de existência de superfaturamento nas propostas.
+</p></p>
+
+
+<p><p>A empresa DBA Tecnologia da Informação se tornou a grande estrela da licitação. Com sede no Rio de Janeiro, e no mercado desde 1988, ela levou três dos oito lotes que estiveram em disputa no pregão 01/2006. 
+</p></p>
+
+
+<p><p>No item 1 (DESENVOLVIMENTO IDMS), a empresa carioca fez uma proposta de R$ 28.531.040,00 pelo serviço. O preço estimado em edital era de R$ 43.510.020,00. Impôs uma derrota para a Politec Informática - uma das maiores empresas de TI de Brasília - ao apresentar um preço R$ 10.556.080,00 inferior ao da concorrente brasiliense (R$ 39.087.120,00).
+</p></p>
+
+
+<p><p>No item 3 (DESENVOLVIMENTO PLATAFORMA BAIXA E INTERMEDIÁRIA): O Preço estimado em edital era de R$ 141.120.000,00. A DBA Tecnologia ofereceu R$ 59.913.600,00. Mais uma vez desbancou a Politec, que apresentou uma proposta de R$ 71.757.600,00. Uma diferença de R$ 11.844.000,00.
+</p></p>
+
+
+<p><p>No item 5 (DESENVOLVIMENTO WEB (INTERNET/INTRANET/EXTRANET): Novam,ente a DBA surpreendeu. O preço estimado em edital era de R$ 7.370.000,00 e a empresa do Rio ofertou um total de R$ 5.231.050,00. Neste item, desbancou o consórcio CI&T cujo preço apresentado foi de R$ 5.753.000,00. Uma diferença de R$ 521.950,00.
+</p></p>
+
+
+<p><p>Nesta sexta-feira, 09/05, a DBA teve o extrato do contrato assinado com a Caixa Econômica Federal para os três lotes publicado no Diário Oficial da União. A empresa receberá um total de R$ 95.718.090,00 de acordo com o Processo 5307.01.0182.01/2006, cuja vigência vai de 29/04/2008 a 28/04/2010.
+</p></p>
+
+
+<p><h2><a href="http://www.stefanini.com/">Stefanini</a></h2></p>
+
+
+<p><p>Criada em 1987, o Grupo Stefanini - que atua nos segmentos de Consultoria, Networking, Training, Gestão Empresarial (SGE), Quality Tools, com filiais na Argentina, México, Peru, Chile, além da Colômbia, foi outra grande surpresa no pregão 01/2006, desbancando as empresas de Brasília na disputa pelo lote mais caro da licitação, o de número 2.
+</p></p>
+
+
+<p><p>O Grupo, que conta ainda com as subsidiárias Stefanini Internacional Corp (USA) e Stefanini Europe (S.L), apresentou um preço para o serviço (DESENVOLVIMENTO DB2) no valor de R$ 127.697.920,00. O edital da CEF estimava o valor de R$ 242.142.720,00. Nessa disputa, quem perdeu foi a DBA Tecnologia que apresentou um preço de R$ 137.889.280,00. Uma diferença de R$ 10.191.360,00.
+</p></p>
+
+
+<p><p>O extrato de contrato da Stafanini com a CEF para o item 2, também saiu na edição de hoje do DO, como o número do Processo 5307.01.0182.02/2006, no valor global de R$ 127.697.920,00 e vigência que vai do dia 29/04/2008 a 28/04/2010.
+</p></p>
+
+
+<p><h2><a href="http://www.politec.com.br/">Politec</a></h2></p>
+
+
+<p><p>Grande derrotada na disputa com a DBA Tecnologia, a Politec Tecnologia S/A, que acaba de ceder 10% do seu controle societário para o Grupo japonês Mitsubishi - assunto que ainda será analisado pelo Conselho Administrativo de Defesa Econômica - somente conseguiu ficar com o item número 4 da licitação (DESENVOLVIMENTO MUMPES/CACHE), cujo valor estimado em edital era de R$ 16.464.000,00. A Politec ganhou com um preço de R$ 11.604.600,00.
+</p></p>
+
+
+<p><p>Ainda assim foi por pouco pois a concorrente DBA chegou bem próximo de roubar mais este contrato, ao apresentar um valor de R$ 11.698.540,00. Uma diferença de apenas R$ 93.940,00. A empresa assinou o contrato com a Caixa, no Processo 5307.01.0182.03/2006. O Valor Global, entretanto, ficou menor que o ofertado no pregão: R$ 11.604.600,00. A vigência do contrato vai do dia 29/04/2008 a 28/04/2010.
+</p></p>
+
+
+<p><h2><a href="http://www.meta.inf.br/">Meta</a> e RSI</h2></p>
+
+
+<p><p>As duas empresas também tiveram seus contratos assinados e publicados no Diário Oficial da União desta sexta-feira para os items VI e VII, e que serão responsáveis respectivamente pelos serviços de MÉTRICA e TESTES, QUALIDADE E AUDITORIA dos demais contratos. A Meta Serviços em Informática assinou o contrato no valor de R$ 5.700.000,00, de acordo com o Processo 5307.01.0182.04/2006. A vigência vai de 29/04/2008 a 28/04/2010. E a RSI Informática receberá da CEF R$ 29.900.724,00 conforme o Processo  307.01.0182.05/2006, cuja vigência também termina em 28/04/2010.
+</p></p>
+
+
+<p><h2><a href="http://www.ctis.com.br/">CTIS</a></h2></p>
+
+
+<p><p>Através do consórcio CTMON - formado com a empresa MI Montreal - todas de Brasília, a CTIS Informática também conseguiram escapar da degola geral no setor de TI da capital. O consórcio ganhou o item 8 do edital cujas atribuições são as seguintes: Administração de Dados; Administração de Banco de Dados; Suporte ao ambiente de desenvolvimento Plataforma Mainframe; Suporte ao ambiente de desenvolvimento a Plataforma Baixa e Intermediária; Suporte a Implementação de Novas Tecnologias;e Suporte ao Processo de Desenvolvimento. Através do Processo 5307.01.0182.06/2006. o consórcio receberá da Caixa o Valor Global de R$ 64.484.025,60. Como os demais contratos publicados, a vigência deste vai de 29/04/2008 a 28/04/2010
+</p></p>
+
+
+<p><p> 
+    Fonte:
+    <font color="#808080" face="tahoma, arial, helvetica, sans-serif" size="1"><b class="sinal">::</b> </font><a href="mailto:queiroz@convergenciadigital.com.br"><font color="#808080" face="tahoma, arial, helvetica, sans-serif" size="1">Luiz Queiroz</font></a>
+     <strong class="sinal">::</strong> <a href="http://www.convergenciadigital.com.br/cgi/cgilua.exe/sys/start.htm?infoid=13788&sid=10" class="texto10">Convergência Digital</a> <font color="#808080" face="arial, helvetica, sans-serif" size="1"><b><b class="sinal">::</b> 09/05/2008</b></font>
+    
+  </p></font>
+</p></p>
+

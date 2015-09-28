@@ -1,0 +1,8 @@
+---
+layout: post
+title: Garota de sete anos de idade implementa Pet Store usando Java
+comments: true
+---
+
+<p><img src="/images/7yogirlpetstore.jpg" alt="Garota que implementou o Pet Store" align=""></p>
+

@@ -1,0 +1,47 @@
+---
+layout: post
+title: Queimando tudo até a última ponta
+comments: true
+tags:
+  - livros
+---
+
+<p><p> Depois de ler o post do Urubatan - <a target="_blank" href="http://www.urubatan.com.br/queima-de-estoque-livros-de-gratis-ou-quase-d/">Queima de estoque</a>, eu resolvi fazer uma queima também. Não sei se conseguiria fazer alguma doação (exceto para a biblioteca municipal ou alguma faculdade pública) pois na nossa área de tecnologia os livros ficam desatualizados em bem pouco tempo. Para terem idéia do espaço que liberei no meu armário, tirei de lá (além da poeira):
+</p> 
+<ul>
+  <li> Um catálogo <a target="_blank" href="http://www.blackbox.com.br/">BlackBox</a> de 1998</li>
+  <li>Dominando Delphi 2.0 - <a target="_blank" href="http://www.marcocantu.com/">Marco Cantú</a></li>
+  <li>Banco de Dados em Delphi 3 - Willian Alves</li>
+  <li>Livro/Apostila do Windows NT Server 4.0 do <a target="_blank" href="http://akira.sistemasabertos.com.br/">Marcelo Akira</a></li>
+  <li>HTML 2.0 (faltou os dados do Autor)</li>
+  <li>Usando E-Mail na Internet - Will Sadler</li>
+  <li>O Kit de Montagem do BBS - Devid Wolfe - 1994</li>
+  <li>O ABC do Turbo C - Douglas Hergert</li>
+  <li>Turbo Pascal 7.0 - Comandos e Funções - <a target="_blank" href="http://www.robertorinaldi.com/">Roberto Rinaldi</a></li>
+  <li>Visual C++ - Steven Holzner</li>
+  <li>C++ para Leigos - Paul Snaith</li>
+  <li>Visual Basic 5.0 - Programmers Guide to Win32 API - Dan Appleman's (duas cópias)</li>
+  <li>Visual Basic 5.0 - Completo  e Total - Gary Cornell</li>
+  <li>4 livros de Visual Basic 5.0 (faltaram os dados dos autores)</li>
+  <li>Os 2 livros de Clipper do <a target="_blank" href="http://www.ramalho.com.br">Ramalho</a> - Clássicos</li>
+  <li>Dominando o Corel Draw 5 - Rick Altman</li>
+  <li>Dicionário de Informática - Georges Freedman</li>
+  <li>Apostilas de DOS 5, Basic, DBaseIII e Lotus 123  !!!!
+  </li>
+</ul>
+<p>Entre os <b><i>"escombros"</i></b> encontrei algumas curiosidades
+</p>
+<p>Minha coleção completa da <a target="_blank" href="http://www.developers.com.br/">Developers Magazine</a>
+</p>
+<p>Desde o número <b>1</b> de <b>1996</b>
+</p>
+<p> Também encontrei um bocado do <b>ex-</b> novo substituto do floppy: IOMEGA Zip-Drive de 120MB
+</p>
+<p>E o meu primeiro Linux <i>(aquele que a gente nunca esquece)</i>: O Slackware 3.4 adquirido na <a target="_blank" href="http://en.wikipedia.org/wiki/Walnut_Creek_CDROM">Walnut Creek CDROM</a>
+  
+</p>
+<p>E até a bizarrice de um livro de Basic com seus famosos GOTO
+</p>
+<p>"Eu já tava naquela guerra fazia tempo, meu parceiro. E precisava arranjar um substituto…"
+</p>
+

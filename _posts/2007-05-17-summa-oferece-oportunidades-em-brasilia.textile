@@ -1,0 +1,47 @@
+---
+layout: post
+title: Summa oferece oportunidades em Brasilia e São Paulo
+comments: true
+---
+
+<p><p>Nesse momento, a Summa possui oportunidades de trabalho para profissionais com os seguintes perfis: (curriculos deverão ser enviados com os nomes dos perfis abaixo)</p>
+  <br>    Contato........: Thais Fernandes
+  <br>    E-Mail.........: curriculo(arroba)summa-tech.com
+  <br>
+Perfis: (Serão analisados somente curriculos nesses perfis. Curriculos com outros perfis serão descartados)
+<ul>
+  <li>Arquitetos/Desenvolvedor</li>
+  <li>Desenvolvedor Senior</li>
+  <li>Líder técnico</li>
+  <li>Analista de QA</li>
+  <li>Analista de requisitos</li>
+  <li>Analista de infraetrutura</li>
+</ul>
+Formação: <b>Engenharia de Software ou Ciência da Computação</b>
+<br>
+<b>Área de Desenvolvimento:</b>
+<ul>
+  <li>Experiência e conhecimento em integração de sistemas e produtos/frameworks de mercado;</li>
+  <li>Sólidos conhecimentos de banco de dados, servidores de aplicações, técnicas de desenvolvimento (Design Patterns, etc), frameworks de mercado</li>
+    <li>Struts, Hibernate, Spring, Genesis ou similares), ferramentas e ambientes de desenvolvimento;</li>
+    <li>Extensiva experiência no desenvolvimento de aplicações Java EE, incluindo análise, arquitetura e modelagem (UML), preferencialmente como líder técnico e arquiteto;</li>
+    <li>Boa capacidade de comunicação (português e inglês), rápida absorção de novas tecnologias, liderança, motivação e espírito de equipe.</li>
+</ul>
+<i>Características adicionais desejáveis:</i>
+<ul>
+  <li>Certificação Java, de preferência Sun Certified Java Programmer e/ou Enterprise Architect;</li>
+  <li>Mestrado, MBA ou especializações em áreas correlatas;</li>
+  <li>Experiência no desenvolvimento de portais e Web Services;</li>
+  <li>Palestras em eventos de tecnologia, participações em JUGs e projetos open source.</li>
+</ul>
+<b>Infraestrutura:</b>
+<ul>
+  <li>Experiência consolidada em infraestrutura de SO solaris, linux e windows.</li>
+  <li>Experiência em servidores de aplicativos Sun Application Server 7 e 8.x ou outro AS de mercado (WebSphere, JBoss, BEA)</li>
+  <li>Conhecimento básico em linguagem java, para diagnóstico de problemas</li>
+  <li>Desenvoltura e pró-atividade</li>
+  <li>Experiência em linguagens de script unix: perl, bash, ksh</li>
+  <li>Experiência em configurações de cluster, balanceador de carga, tolerância a falhas</li>
+</ul>
+<p>Para seus funcionários, a Summa fornece como diferenciais um excelente ambiente de trabalho, oportunidades de crescimento profissional à frente de projetos inovadores, remuneração e valorização profissional compatíveis com o perfil e experiência de cada pessoa</p></p>
+

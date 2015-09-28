@@ -1,0 +1,53 @@
+---
+layout: post
+title: Como reconhecer bons programadores
+comments: true
+tags:
+  - good
+  - java
+  - programmers
+---
+
+<p><p>Hoje recebi do amigo <a target="_blank" href="http://leonardoc.multiply.com/journal">Leonardo Carvalho</a> um outro texto interessante. 
+</p>
+<p><a target="_blank" href="http://www.paulgraham.com/startupmistakes.html">Um artigo de Paul Graham</a> fala dos 18 erros que podem levar projetos ao fracasso. Entre os erros ele cita a contratação de <b>péssimos programadores</b> como um dos fatores. Assim este texto fala justamente de como reconhecer<b> os bons programadores</b>.
+</p>
+<p>De maneira resumida, o artigo que me foi enviado, aponta alguns indicadores (tanto positivos, quanto negativos) que facilitam a identificação deste "ser":
+</p>
+<h2>Indicadores positivos:
+</h2>
+<ol>
+  <li>Apaixonado por tecnologia</li>
+  <li>Programa por Hobby</li>
+  <li>Participa de discussões técnicas</li>
+  <li>Possui projetos pessoais em paralelo</li>
+  <li>Aprende novas tecnologias por conta própria</li>
+  <li>Tem a capacidade de opinar qual a melhor tecnologia para cada tipo de uso.</li>
+  <li>Sente desconforto em trabalhar com uma tecnologia na qual ele não crê que seja "ideal"</li>
+  <li>Esperto e capaz de conversar sobre vários assuntos.</li>
+  <li>Começou a programar bem antes de entrar na faculdade</li>
+  <li>Conhece várias tecnologias (algumas podem nem estar presentes no seu Curriculum)</li>
+</ol>
+<h2>  Indicadores Negativos:
+</h2>
+<ol>
+  <li>Programa apenas no trabalho</li>
+  <li>Não quer ou não gosta de participar de debates técnicos</li>
+  <li>Somente aprende novas tecnologias quando a empresa paga cursos</li>
+  <li>Está feliz em trabalhar com <u><i>qualquer</i></u> tecnologia. "Toda tecnologia é boa"</li>
+  <li>Não parece ser "esperto"</li>
+  <li>Começou a programar na faculdade</li>
+  <li>Toda sua experiência de programação está no Curriculum</li>
+  <li>Focado em apenas 1 ou 2 tecnologias sem experiência fora delas.
+  </li>
+</ol>
+<p>Não gosto de ser radical, mas depois de conhecer vários profissionais de informática, durante vários anos e em vários projetos, posso dizer que em 95% dos casos os indicadores caem como uma luva. Muitos dos que não concordam dizem (principalmente aqui no Brasil) que este é o perfil de um Nerd, e que seus perfis extremamento técnicos não ajudam o projeto por não saberem lidar com o fator humano (principalmente o cliente) envolvido nos grandes projetos de TI. Para as pessoas que pensam assim, queria dizer apenas uma coisa: <b>"Estou cansado de ver projetos compostos apenas por blábláblá*, onde a parte técnica é TOTALMENTE negligenciada e assim o produto (o software) não atende o cliente nem nos requisitos funcionais quanto nos não funcionais.</b>
+</p>
+<p>* E complementando: <b>Não quero dizer que comunicação não é importante, pelo contrário; é o motor que faz o projeto andar para o caminho certo.</b> O <i>"blábláblá"</i> do qual me refiro são os artefatos que não agregam valor nem para o cliente, nem para a equipe, nem para o projeto. São apenas <i>blábláblá!!!!</i>
+  
+</p>
+<p>Maiores informações sobre estes indicadores podem ser lidos no artigo: <i><b><a target="_blank" href="http://www.inter-sections.net/2007/11/13/how-to-recognise-a-good-programmer/">How to recognise a good programmer</a></b></i>
+</p>
+<p> Boa Leitura! 
+</p></p>
+

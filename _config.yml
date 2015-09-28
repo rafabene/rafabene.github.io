@@ -1,0 +1,61 @@
+# Site wide configuration
+
+title:            Rafael Benevides' Realm
+locale:           en_US
+url: 
+
+
+# Jekyll configuration
+
+permalink:   /:year/:month/:day/:title/
+markdown:    kramdown
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+
+# Site owner
+owner:
+  name: Rafael Benevides
+  avatar: rafaelsf.jpg
+  bio: "Just a little bit of my thoughts"
+  email: rafabene@gmail.com
+  disqus-shortname: rafaelbenevidesblog
+  twitter: rafabene
+  facebook: #username
+  google:
+    plus: RafaelBenevides1
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: rafabene
+  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: rafaelbenevides
+  xing: #username
+  instagram: rafabene1006
+  lastfm: rafabene
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+  codepen: #username
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]

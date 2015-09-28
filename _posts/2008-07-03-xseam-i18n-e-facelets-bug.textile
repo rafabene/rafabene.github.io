@@ -1,0 +1,22 @@
+---
+layout: post
+title: XSeam - i18n e Facelets Bug
+comments: true
+---
+
+<p><p>Algumas pessoas que utilizaram o <a href="https://github.com/rafabene/XSeam2" target="_blank">XSeam</a> relataram que alguns componentes não funcionaram e uma mensagem ficou aparecendo na console dizendo que algum template facelets (.xhtml) foi modificado: </p><p>"<b>WEB-INF/lib/xseam-0.2.jar!/whatwheaver.xhtml] was modified @ 11:16:22, flushing component applied @ 11:16:19</b>"</p><p>Na verdade, isto é um <a href="https://facelets.dev.java.net/issues/show_bug.cgi?id=286" target="_blank">Bug conhecido do Facelets</a> e que já foi discutido em <a href="http://www.google.com.br/search?q=%22flushing+component+applied+%40%22" target="_blank">vários lugares</a>. Isto só acontece quando os templates (.xhtml) estão dentro de um jar que é carregado no Classpath (como é o <a href="https://github.com/rafabene/XSeam2" target="_blank">XSeam</a>). Um workaround para isto é desabilitar o refresh dos templates (até que uma nova versão do Facelets corrija esta problema) através do parâmetro <b>facelets.REFRESH_PERIOD </b>como é descrito na documentação <a href="https://facelets.dev.java.net/nonav/docs/dev/docbook.html#config-webapp-init" target="_blank">https://facelets.dev.java.net/nonav/docs/dev/docbook.html#config-webapp-init</a></p><p>O único (e grande) inconveniente é  que o hot-deploy de sua aplicação em desenvolvimento não funcionará mais, forçando um re-deploy a cada modificação. </p><p> </p><h5>Internacionalização (i18n)</h5><p>Quem quizer ter todas as 82 mensagens do Jboss Seam traduzidas para o português sem ter que criar alterar o messages.properties que vem no Seam, basta incluir o Xseam no projeto e habilitar a lingua portuguesa no faces-config.xml conforme exemplo:</p>
+
+{% highlight xml %}
+<locale-config>
+  <default-locale>en</default-locale> 
+  <supported-locale>bg</supported-locale>
+  <supported-locale>de</supported-locale>
+  <supported-locale>en</supported-locale>
+  <supported-locale>fr</supported-locale>
+  <supported-locale>tr</supported-locale>
+  <supported-locale>pt</supported-locale>
+</locale-config>
+{% endhighlight %}
+
+<p>As mensagens podem ser sobre-escritas se houver um <b>messages_pt_BR.properties</b> (<i>mensagens do Seam</i>) ou um <b>xseamMessages_pt_BR.properties</b> (<i>mensagens do <a href="http://xseam.dev.java.net/" target="_blank">XSeam</a></i>) na sua aplicação.</p><p></p></p>
+

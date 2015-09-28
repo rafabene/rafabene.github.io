@@ -1,0 +1,55 @@
+---
+layout: post
+title: JBoss In Bossa 2010
+comments: true
+---
+<p><b>Notícia quente!!!!</b></p><p> <b>Fonte: <a href="http://edgarsilva.com.br/2010/02/02/jbossinbossa2010/" target="_blank">http://edgarsilva.com.br/2010/02/02/jbossinbossa2010/</a></b></p><p>E como diria a bruxinha do episódio do pica-pau: <i>“E lá vamos nós”</i>,
+lançando o evento anual da comunidade JBoss: JBossinBossa 2010 .
+Organizar um evento nunca é fácil, é necessário muita coragem, assumir
+compromissos e encarar desafios, é preciso ter um time de pessoas
+fantásticas como colegas, apoiadores, colabores, fornecedores,
+palestrantes, amigos e família para que tudo no final possa no mínimo:
+“Não dar nada errado”.</p>
+<p><img width="300" height="93" title="JBossinBossa" src="http://caelum.wpengine.netdna-cdn.com/wp-content/uploads/2011/10/jbossinbossa_header.png" /></p>
+<p>Várias pessoas estão neste projeto há quase mais de 8 meses, entre elas, pessoas como o <a target="_blank" href="http://community.jboss.org/people/james.cobb%40jboss.com">James Cobb</a>,
+que é o Líder do time de Designers da JBoss.ORG que é também um
+funcionário da Red Hat, junto com seu time, criou toda a identidade
+visual, logo, design do site, isto mostra o carinho que as pessoas tem
+pelo Brasil e o desejo de colaborar.</p>
+<p>Neste ano, vamos fazer um evento ainda modesto, com apenas 1 dias de
+Palestras no Auditório, e 1 dia de Tutoriais, mas este número com
+certeza deverá aumentar nos anos seguintes, uma vez que tenhamos
+histórico e mais força e credibilidade para conseguir obter mais
+recursos e apoio.</p>
+<p>No dia 16 de Abril de 2010, haverão os tutoriais, que serão voltados
+para pessoas iniciantes, estudantes ou mesmo interessados em
+reciclagem, bem como os tutoriais específicos, um pouco mais avançados,
+entre estes tutoriais, um deles será ministrado pela <a target="_blank" href="http://www.caelum.com.br/"><b>Caelum</b></a> e outro pela <a target="_blank" href="http://www.globalcode.com.br/"><b>GlobalCode</b></a>,
+ambas empresas que respeitamos muito, e que sempre tentamos nos apoiar,
+quando o assunto e o desejo é: “Vamos fazer algo para compartilhar
+conhecimento?”.</p>
+<p>No dia 17, que é um sábado, será o dia de palestras, algumas delas
+internacionais, com o tradução simultânea sim, deverão vir para o
+Brasil, alguns palestrantes internacionais, entre eles o já confirmado
+Pete Muir, que vem diretamente da Escócia, além de outros que iremos
+confirmar ao longo dos próximos dias.</p>
+<p>Eu não posso deixar de agradecer e pedir ânimo pros meus colegas de
+email *@redhat.com aqui do Brasil, pois eles sabem que este é um evento
+deles, um dos motivos de sermos muito felizes na Red Hat do Brasil na
+divisão JBoss, é o fato de não existir a figura retrograda de “chefe”,
+nós temos sim pessoas que assumem e lideram frentes que o sucesso é
+dividido, da mesma forma se o fracasso acontecer, esse é a receita da
+construção deste time que valorizou muito mais as pessoas que as
+posições em si, e é nesse time brasileiro que eu confio e é deles todos
+os créditos… Fracasso, é algo que faz parte dos cálculos, mas eu tenho
+certeza que vamos sair do outro lado com um grande evento e deixando um
+pouco de nossa contribução para a solidificação do conhecimento e o
+compartilhamento de tecnologias que no final só quer fazer com que
+tenhamos menos horas de problemas e muito mais momentos de alegria!</p>
+<p>O Evento tem <b><a target="_blank" href="http://twitter.com/jbossinbossa">Twitter</a></b> e site no <b><a target="_blank" href="http://www.facebook.com/pages/JBossInBossa/286396224680">Facebook</a></b>,
+uma das coisas que estamos queremos é promover e ajudar na vinda das
+pessoas, é claro que não temos como pagar pelo transporte, mas se
+pudermos ajudar com algo, como por exemplo, pessoas que queiram ceder
+um sofá para alguém, ou simplesmente dar uma carona de carro, esperamos
+que a colaboração ultrapasse a fronteira do software e possa chegar no
+que é mais importante: Vocês!</p>

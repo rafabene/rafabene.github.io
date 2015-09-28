@@ -1,0 +1,20 @@
+---
+layout: post
+title: Matando um alien devorador de memória
+comments: true
+---
+
+<p><p> Depois de participar de uma consultoria na <a target="_blank" href="http://www.summa-tech.com/">Summa Technologies</a> para o projeto <a target="_blank" href="http://www.solucoestipublica.gov.br/palestras/estudo_de_caso_3.8.ppt">Sun / BB</a> ,  fui convidado ao <a target="_blank" href="http://www.inep.gov.br/">INEP</a> para avaliar um sistema que deverá ir ao ar em breve. Como resultado do primeiro trabalho, demais sistemas foram aparecendo na "fila", entre eles, um verdadeiro alien papa-memória.
+</p>
+<p>O tal alien (problema de outro mundo) habitava em uma aplicação Swing que deveria processar mais de 350.000 registros e claramente estava com sintomas de "memory leak". A aplicação consumia recursos da máquina na ordem de 1 a 3 MB/s, ou seja, após 5 minutos de processamento, ela já estava com 1Gb de Ram alocado (os parâmetros da JVM já haviam sido aumentados para comportar tal alocação e evitar o OutOfMemoryError).
+</p>
+<p>A aplicação foi muito bem planejada e implementada. Tiro meu chapéu ao desenvolvedor pela qualidade do código, mas que infelizmente não estava mais disponível para verificar este problema. Em contato telefônico, ele nos prestou o total apoio indicando que o uso de memória era causado por uma das regras de negócio que cruzava várias informações em memória. Existia uma implementação que cruzava as informações em disco, mas ela durava 6 horas contra os 10 minutos da versão atual.
+</p>
+<p>A solução então teve que partir da equipe interna. Enquanto o Daniel Braga que já estava mantendo a aplicação há algum tempo e tem mais conhecimento do código; eu e o Gabriel Viragine buscávamos entender as tais regras de negócio para pensarmos na melhor solução. É interessante citar a <a target="_blank" href="http://pt.wikipedia.org/wiki/Sinergia">sinergia</a> que possuímos quando trabalhamos no mesmo projeto. Esta <a target="_blank" href="http://pt.wikipedia.org/wiki/Sinergia">sinergia</a> existe desde o do tempo em que trabalhávamos nos 3 anos de projetos do <a target="_blank" href="http://www.mj.gov.br/">Ministério da Justiça</a> e no projeto do <a href="http://www.mds.gov.br/">Ministério do Desenvolvimento Social</a>. Tivemos então a idéia de "deixar de lado" (por enquanto) as regras de negócio e irmos direto ao <a target="_blank" href="http://www.eclipse.org/tptp/">TPTP</a> do Eclipse. Após a análise, descobrimos que a causa não era o código (uma das alegações do cliente), muito menos a regra de negócio (apontada com provável causa), mas sim o uso do <a target="_blank" href="http://jamonapi.sourceforge.net/">JaMon</a> que por algum motivo (que não perdemos tempo em avaliar - tempo curto) estava sendo o culpado pelo consumo exagerado da memória.
+</p>
+<p> Após a alteração rápida do código, fizemos o teste e após a execução completa dos 359.000 registros, a JVM não havia alocado mais que 40MB de ram. Sucesso!!! Fomos para casa felizes e orgulhosos de podermos contribuir com um sistema que com certeza indiretamente ajudará milhares de estudantes em todo o Brasil. Além da felicidade de tirar um "peso das costas", também estou feliz de trabalhar novamente com o Gabriel Viragine neste novo desafio. Tenho certeza que continuaremos a fazer bons trabalhos onde <b>"<i>o todo supera a soma das partes</i>"</b>.
+</p>
+<p>No dia seguinte, o Daniel Braga realizou as alterações sugeridas por mim e pelo Gabriel na versão em que ele vem trabalhando (realizando outras mudanças solicitadas) até o dia 1 de outubro quando o sistema corrigido irá para o ar.
+</p>Neste final de semana achei no site do <a target="_blank" href="http://jamonapi.sourceforge.net/">JaMon</a> a seguinte citação: <b>"Be careful when using the following capabilities as if the String isn't 'relatively unique' then JAMon's memory can grow unbounded (each row in JAMon is a HashMap entry). "</b> que eu creio ter sido a causa do "memory leak".
+</p>
+

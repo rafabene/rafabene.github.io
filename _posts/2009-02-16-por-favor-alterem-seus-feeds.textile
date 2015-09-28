@@ -1,0 +1,6 @@
+---
+layout: post
+title: Por favor, alterem seus feeds
+comments: true
+---
+<p>Caros amigos assinantes deste humilde blog.</p><p>Ajudem este pobre blogueiro a saber se existem <i><b>pelo menos 5</b> </i>assinante dos <i>feeds</i> <img src="http://www.jroller.com/images/smileys/wink.gif" class="smiley" alt=";)" title=";)" /></p><p><font size="3" color="#ff0000">Alterem seus feeds para <a title="Feeds of Rafael Benevides Blog." target="_blank" href="http://feeds2.feedburner.com/rafabene">http://feeds2.feedburner.com/rafabene </a><img hspace="0" vspace="0" border="0" align="baseline" src="http://www.rss-specifications.com/rss.gif" /></font></p>

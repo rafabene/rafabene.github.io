@@ -1,0 +1,52 @@
+---
+layout: post
+title: CEF economiza R$ 232,9 milhões em licitação de fábrica de software 
+comments: true
+---
+
+<p><p>    Apesar de ser uma notícia que pode passar despercebida, tenho a impressão que o impacto para nós que moramos e trabalhamos com TI em Brasília, será de alguma forma, considerável.
+</p>
+<strong><font class="titulo18"> CEF economiza R$ 232,9 milhões em licitação de fábrica de software </font></strong>
+<p> <font color="#000000" face="arial, helvetica, sans-serif" size="2">
+  <p>A Caixa Econômica Federal conseguiu economizar nesta terça-feira, (04/03), R$ 232.978.210,00 em cinco dos oito lotes da licitação 001/2007, que visa contratar uma fábrica de software. Também quebrou uma hegemonia, até então, conferida para empresas de Brasília. A maioria dos lotes foi vencido por empresas de fora da capital federal.
+  </p>
+  <p>Obviamente, as empresas brasilienses não estão satisfeitas com os resultados e já ameaçam tentar impugnar a licitação da CEF no Judiciário. No mercado, ao longo do dia, comentava-se que o consórcio formado pela B2Br (do Grupo TBA) e a indiana Tata, iriam recorrer da pontuação técnica recebida que, praticamente, as inabilitou no processo. 
+  </p>
+  <p>A verdade é que ao longo de 2007, a CEF foi obrigada a conviver com todo tipo de troca de acusações entre os concorrentes desta licitação. No fim, rejeitou uma série de pedidos de impugnação. Mais: Numa manobra relâmpago apresentou nesta segunda-feira (03/03), a classificação técnica e, em seguida, nesta terça, abriu os envelopes com as propostas de preços dos cinco primeiros lotes, referentes ao desenvolvimento de novas soluções para o banco oficial.
+  </p>
+  <p>A empresa DBA Tecnologia da Informação, com sede no Rio de Janeiro e no mercado desde 1988, levou três dos cinco lotes abertos nesta terça-feira pela CEF.
+  </p>
+  <p>No item 1 (DESENVOLVIMENTO IDMS), a empresa ofereceu R$ 28.531.040,00 pelo serviço. O preço estimado em edital era de R$ 43.510.020,00. Impôs uma derrota para a Politec Informática - uma das maiores empresas de TI de Brasília - ao apresentar um preço R$ 10.556.080,00 inferior ao da concorrente brasiliense (R$ 39.087.120,00).
+  </p>
+  <p>A empresa carioca ainda conseguiu vencer os itens 3 e 5 do edital da Caixa:
+  </p>
+  <p>- Item 3 (DESENVOLVIMENTO PLATAFORMA BAIXA E INTERMEDIÁRIA): Preço estimado em edital: R$ 141.120.000,00. A DBA Tecnologia ofereceu um preço de R$ 59.913.600,00. Mais uma vez desbancou a Politec, que ofereceu R$ 71.757.600,00. Uma diferença de R$ 11.844.000,00.
+  </p>
+  <p>- Item 5 (DESENVOLVIMENTO WEB (INTERNET/INTRANET/EXTRANET): Preço estimado em edital: R$ 7.370.000,00. A DBA ofertou um total de R$ 5.231.050,00. Neste item desbancou o consórcio CI&amp;T cujo preço apresentado foi de R$ 5.753.000,00. Uma diferença de R$ 521.950,00.
+  </p>
+  <p><strong>Surpresa</strong>
+  </p>
+  <p>Criada em 1987, o Grupo Stefanini atua nos segmentos de Consultoria, Networking, Training, Gestão Empresarial (SGE), Quality Tools, com filiais na Argentina, México, Peru, Chile, além da Colômbia. O Grupo conta ainda com as subsidiárias Stefanini Internacional Corp (USA) e Stefanini Europe (S.L).
+  </p>
+  <p>Nesta terça-feira, a empresa surpreendeu quando apresentou seu preço para o item mais caro da licitação da Caixa - o de número 2 (DESENVOLVIMENTO DB2) - cujo edital estimava em R$ 242.142.720,00. A empresa ofereceu um preço de R$ 127.697.920,00, batendo a concorrente DBA Tecnologia da Informação, que apresentou um lance de R$ 137.889.280,00. Uma diferença de R$ 10.191.360,00.
+  </p>
+  <p>Por fim, restou à Politec, uma empresa brasiliense que poucas vezes sofreu uma derrota tão fragorosa, ficar com o lote de número 4 (DESENVOLVIMENTO MUMPES/CACHE), cujo valor estimado em edital era de R$ 16.464.000,00. A Politec ganhou com um preço de R$ 11.604.600,00. Ainda assim foi por pouco, pois a concorrente DBA chegou bem próximo de roubar mais este contrato, ao apresentar um valor de R$ 11.698.540,00. Significa uma diferença de apenas R$ 93.940,00.
+  </p>
+  <p><strong>Divergências</strong>
+  </p>
+  <p>Os resultados desta licitação ainda devem render ações judiciais mesmo antes de a CEF abrir as propostas de preços dos Itens 6 (MÉTRICA); 7 (TESTES, QUALIDADE E AUDITORIA) e 8 (SUPORTE TÉCNICO AVANÇADO).
+  </p>
+  <p>Durante esta terça-feira, sob o impacto dos cinco lotes iniciais, já se comentava que o consórcio Conexão, formado pelas empresas (B2BR- do Grupo TBA e a indiana Tata), estudavam entrar na justiça para impugnar a licitação. O consórcio perdeu muitos pontos na habilitação técnica. Assim como seus preços não contribuíram para melhorar a posição do consórcio diante dos concorrentes.
+  </p>
+  <p>De toda forma, a Caixa Econômica Federal conseguiu outro fato histórico na gestão da Vice-presidente de TI, Clarice Copetti: Quebrou a hegemonia de grandes empresas de Brasília nos contratos do banco oficial. A executiva já enfrentou todo o processo de migração da rede lotérica que estava concentrada nas mãos da multinacional Gtech e, agora, tirou um dos maiores contratos "cativos" da Politec na capital federal.
+  </p>
+  <p>Resta saber como os sindicatos reagirão doravante com a saída da Politec da Caixa Econômica Federal. Isso porque espera-se que a empresa pague milhões em indenizações para funcionários que perderão o emprego, diante da chegada da nova fábrica de software.
+  </p>
+  <p> 
+    Fonte:
+    <font color="#808080" face="tahoma, arial, helvetica, sans-serif" size="1"><b class="sinal">::</b> </font><a href="mailto:queiroz@convergenciadigital.com.br"><font color="#808080" face="tahoma, arial, helvetica, sans-serif" size="1">Luiz Queiroz</font></a>
+     <strong class="sinal">::</strong> <a href="http://www.convergenciadigital.com.br" class="texto10">Convergência Digital</a> <font color="#808080" face="arial, helvetica, sans-serif" size="1"><b><b class="sinal">::</b> 04/03/2008</b></font>
+    
+  </p></font>
+</p></p>
+

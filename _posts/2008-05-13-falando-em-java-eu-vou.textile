@@ -1,0 +1,8 @@
+---
+layout: post
+title: Falando em Java! Eu vou!
+comments: true
+---
+
+<p>Depois de algumas semanas sem alguma novidade (apesar de tantos lançamentos), finalmente volto a ativa no meu Blog.Desde o último post, aconteceram algumas novidades que não foram sequer comentadas por mim:<ol><li><a target="_blank" href="http://www.netbeans.org/">Netbeans 6.1</a></li><li><a target="_blank" href="http://java.sun.com/javaone/sf/">JavaOne 2008</a></li><li><a target="_blank" href="http://www.ubuntu.com/">Ubuntu 8.04</a></li></ol>O motivo para ter passado em branco foi a "velha desculpa" da falta de tempo. Para que eu pudesse finalmente dizer <b>"estou de férias"</b>, tive que fazer alguns sacrifícios para não deixar nada pendente. Nestas breves férias, vou aproveitar minha passagem por São Paulo e comparecer ao evento: <a target="_blank" href="http://www.caelum.com.br/falando-em-java/"><b>Falando em Java</b></a> - que acontecerá no dia 18 de maio de 2008.Nos veremos por lá! </p>
+

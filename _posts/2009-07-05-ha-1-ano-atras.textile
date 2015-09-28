@@ -1,0 +1,162 @@
+---
+layout: post
+title: Há 1 ano atrás...
+comments: true
+---
+<p>... eu havia postado sobre <a target="_blank" href="/2008/05/29/noticias-sobre-as-licitacoes/">as licitações da CEF</a>.</p><p>Naquela ocasião eu não esperava que fosse ler a notícia abaixo:</p><p><b><font class="titulo18">Megafábrica de software da Caixa começa a naufragar 
+</font></b>
+</p><p><font face="arial, helvetica, sans-serif" size="2" color="#000000">
+No dia 9 de maio de 2008, a Caixa Econômica Federal publicava os extratos
+de contratos fechados com as empresas vencedoras do pregão referente à
+sua megafábrica de desenvolvimento de software. Com o ato, o banco
+oficial encerrava, aparentemente com êxito, um processo polêmico de
+compra de serviços, o qual, à época, gerou uma revolução no mercado de
+informática de Brasília.
+
+</font></p><p><font face="arial, helvetica, sans-serif" size="2" color="#000000">
+Pela primeira vez, empresas brasilienses perdiam um grande contrato num
+banco oficial para concorrentes do Rio de Janeiro e São Paulo. Mas
+passados 13 meses de execução de contrato, a realidade é outra. A
+verdade é que a Caixa vive um momento turburlento, em função da escolha
+feita.
+
+</font></p><p><font face="arial, helvetica, sans-serif" size="2" color="#000000">
+Fontes no mercado e no banco oficial informaram ao portal Convergência Digital
+que a principal detentora de vários itens desse contrato - a DBA
+Engenharia - passa por sérias dificuldades financeiras e corre o risco
+de a Caixa encerrar o contrato. Isso porque a empresa não teria
+completado o serviço. O contrato original previa a execução em 24
+meses, mas poderá acabar encurtado na metade do prazo.
+
+</font></p><p><font face="arial, helvetica, sans-serif" size="2" color="#000000">
+Os problemas da DBA Engenharia começaram logo após a vitória obtida em
+diversos itens do pregão 01/2006, o qual, porém, só foi concluído no
+ínício de 2008. O impasse aconteceu em função de uma série de brigas e
+disputas entre empresas participantes da licitação. Elas não aceitavam
+perder contratos, estimados em edital em cerca de R$ 600 milhões.
+Durante o pregão, a DBA surpreendeu o mercado de informática.
+
+</font></p><p><font face="arial, helvetica, sans-serif" size="2" color="#000000">
+  Para bater as grandes empresas de Brasília, atuantes na CEF, a empresa, com
+sede no Rio de Janeiro, derrubou seus preços em mais de 40%. Á época, a
+atitude da provedora foi avaliada no mercado como "um jogo suicida".
+Afinal, quem abriria mão de quase 50% do valor de um contrato,
+considerando todas as exigências feitas pelo banco, além dos custos
+inerentes às empresas como, por exemplo, carga tributária e folha de
+pagamento? A DBA reagia afirmando que seu preço era menor, porque
+estaria "cortando gordura" impostas pelas concorrentes (em especial as
+provedoras de Brasília), nos contratos.
+
+</font></p><p><font face="arial, helvetica, sans-serif" size="2" color="#000000">
+  De fato a DBA "cortou gordura". Mas, agora, está pagando caro por isso. A
+estratégia da empresa para enxugar custos e, dessa forma, obter um
+preço melhor no pregão contra as concorrentes consistia em não assinar
+a carteira de trabalho de seus funcionários terceirizados para a Caixa
+Econômica Federal. Os melhores técnicos da DBA estavam trabalhando na
+CEF como "quarteirizados" da empresa, medida que levou o Ministério
+Público do Trabalho a entrar no circuito. Do dia para a noite, a
+empresa se viu obrigada a contratar todos os funcionários, que estavam
+na condição de "PJs", dentro do banco oficial.
+
+</font></p><p><font face="arial, helvetica, sans-serif" size="2" color="#000000">
+Por meio de fontes do mercado, o portal <b>Convergência Digital</b>
+soube que a DBA vem tentando cumprir a decisão do MPF, mas enfrenta
+sérias dificuldades. A "gordura", cortada lá atrás para garantir a
+vitória no pregão, agora, está fazendo falta, pois a empresa não terá
+como não cumprir a determinação da Justiça do Trabalho. O contrato
+acabou se transformando num grande prejuízo para a DBA Engenharia.
+
+</font></p><p><font face="arial, helvetica, sans-serif" size="2" color="#000000"><b>Inadimplência</b> 
+</font></p><p><font face="arial, helvetica, sans-serif" size="2" color="#000000">
+  Os problemas da DBA Engenharia não estão restritos somente aos salários, a
+serem pagos, agora, em carteira para os funcionários na CEF. A empresa
+passa por dificuldades desde o final do ano passado. Assim como outras
+provedoras de serviços, ela foi pega de surpresa pela crise financeira
+mundial, deflagrada em setembro de 2008, nos Estados Unidos. Com pouco
+dinheiro em circulação e crédito restrito, A DBA perdeu por ter
+apostado alto que poderia se manter na ciranda financeira e enfrentar
+empresas estáveis.
+
+</font></p><p><font face="arial, helvetica, sans-serif" size="2" color="#000000">
+  O mais urgente problema para a DBA resolver é o fato de ela estar
+negativada no Cadastro de Fornecedores do Governo Federal (SICAF). A
+empresa, em função dessa dívida, não pode contratar com órgãos do
+governo; participar de novas licitações, além de correr o risco de
+perder os contratos que já têm como os da CEF e do Banco do Brasil.
+Para complicar ainda mais a situação, o portal <b>Convergência Digital </b>descobriu
+nesta sexta-feira, 03/07, que a empresa também está na "Lista de
+Devedores" da Procuradoria Geral da Fazenda Nacional, inscrita em
+"Divida Ativa".
+
+</font></p><p><font face="arial, helvetica, sans-serif" size="2" color="#000000">
+E nessa relação, disponibilizada na Internet pela PGFN, a DBA Engenharia
+consta como devedor "que não tem crédito com exigibilidade suspensa ou
+"ação ajuizada com o objetivo de discutir a natureza da obrigação ou
+seu valor". Ou seja, a empresa não possui garantias para dar em troca
+da negociação da dívida (não informada ao público em geral. Tampouco
+moveu ação para contestá-la.
+
+
+<p><font face="arial, helvetica, sans-serif" size="2" color="#000000"><b>"Barato que sai caro"</b></font></p>
+<p><font face="arial, helvetica, sans-serif" size="2" color="#000000">
+  Durante o processo de licitação, a Caixa Econômica Federal foi alertada, pelos
+concorrentes, que os preços praticados pela DBA Engenharia, para
+executar serviços no modelo fábrica de software eram inexequíveis.
+Durante um certo período - entre o fim do pregão e o anúncio oficial
+dos vencedores - técnicos do banco debateram se não estariam cometendo
+um erro em aceitar preços tão baixos, dadas as peculiaridades do
+megaprojeto que desejavam implantar.</font></p>
+<p><font face="arial, helvetica, sans-serif" size="2" color="#000000">
+  Para se ter uma idéia, o pregão 01/2006, cujo edital tinha uma estimativa de
+preços em torno de R$ 600 milhões, acabou provocando uma economia de
+mais de R$ 200 milhões, no custo final para a CEF. À época, tratava-se
+na época de um fato inédito. O tombo no preço chamava a atenção e,
+claro, o fato de, pela primeira vez, empresas de Brasília terem sido
+derrotadas numa licitação governamental.</font></p>
+<p><font face="arial, helvetica, sans-serif" size="2" color="#000000">
+  Mesmo com as suspeitas de proposta inexequível, os técnicos da CEF decidiram
+correr o risco. Isso porque estava em curso uma política de afastar
+antigos prestadores desses serviços. Dois fatores motivaram essa
+decisão. O primeiro foi político. Isso porque o "PT não se dava" com as
+empresas de Brasília. O segundo estava ligado ao fato de existir na
+instituição uma visão de que, ao longo dos anos, a Caixa tinha criado
+um ambiente de "dependência tecnológica" com essas empresas
+brasilienses. E era a hora de "cortar o cordão umbilical".</font></p>
+<p><font face="arial, helvetica, sans-serif" size="2" color="#000000">
+  Somados a esses dois fatores, hoje, perdura um terceiro problema em discussão
+no setor de informática: O fato do governo ter levado o pregão (um
+leilão reverso) para um tipo de contratação de serviços que deveria
+privilegiar o aspecto da habilidade técnica. Só que, atualmente, o
+preço é o item mais levado em conta pelos gestores de governo na hora
+de uma contratação.</font></p>
+<p><font face="arial, helvetica, sans-serif" size="2" color="#000000">
+  Mas é notório o fato de que onde o preço de um serviço especializado em
+software foi aviltado, empresas terminaram por não concluir o acertado
+e deram prejuízos ao contratante. Há casos históricos no governo de
+contratações mal-suscedidas. Antes do pregão da Caixa, a própria DBA
+Engenharia já tinha deixado sua marca neste sentido.</font></p>
+<p><font face="arial, helvetica, sans-serif" size="2" color="#000000">
+  A empresa deixou a Dataprev "na mão" quando participou de um consórcio
+com a Indiana TATA e a MSA-Infor para efetivar a migração dos sistemas
+legados para uma nova plataforma, de forma a por fim à "dependência
+tecnológica" da Unisys. O serviço não foi executado; as empresas
+receberam uma pequena parte do que foi contratado e, no fim, deixaram a
+Dataprev com a missão de se explicar com o Ministério Público Federal. </font></p>
+<p><font face="arial, helvetica, sans-serif" size="2" color="#000000">
+  O consórcio levou uma multa de pouco mais de R$ 500 mil e as empresas
+participantes da iniciativa seguiram no mercado, sem qualquer problema
+para disputar outros contratos no governo.Se ainda na Dataprev, os
+gestores desta estatal tivessem feito o recomendado, em entrevista ao
+portal <b>Convergência Digital, </b>o Secretário de
+Logística e Tecnologia da Informação, Rogério Santanna, talvez a DBA
+não tivesse chegado "com tanto gás" no pregão da Caixa Econômica
+Federal. Santanna foi taxativo: As empresas que não executaram o
+serviço deveriam receber uma pena de inidoneidade.A Dataprev preferiu
+apenas uma multa. E, ainda assim, de valor questionável.</font></p><p> Fonte:</p><p><font face="tahoma, arial, helvetica, sans-serif" size="1" color="#808080"><b class="sinal">::</b> </font><a href="mailto:%71%75%65%69%72%6f%7a%40%63%6f%6e%76%65%72%67%65%6e%63%69%61%64%69%67%69%74%61%6c%2e%63%6f%6d%2e%62%72"><font face="tahoma, arial, helvetica, sans-serif" size="1" color="#808080">Luiz Queiroz</font></a>
+
+<b class="sinal">::</b> 
+<a href="http://www.convergenciadigital.com.br/cgi/cgilua.exe/sys/start.htm?infoid=19454&amp;sid=10" class="texto10">Convergência Digital</a>
+<font face="arial, helvetica, sans-serif" size="1" color="#808080"><b><b class="sinal">::</b> 03/07/2009</b></font> </p><table cellspacing="0" cellpadding="0" border="0" align="right"><tbody><tr><td><img height="1" width="10" border="0" src="http://www.convergenciadigital.com.br/img/espaco.gif" /></td><td></td></tr></tbody></table>
+
+<b><font class="titulo18">
+</font></b><p> </p>

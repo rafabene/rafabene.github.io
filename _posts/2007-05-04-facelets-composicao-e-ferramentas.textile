@@ -1,0 +1,79 @@
+---
+layout: post
+title: Facelets - Composição e Ferramentas
+comments: true
+---
+
+<p><p>
+Este post encerra minha rodada para apresentar o Facelets, e motivar as pessoas através da demonstração de suas funcionalidades e vantagens.</p>
+<p> Minha idéia para encerrar com chave de ouro é mostrar hoje o conceito de Componentes através do uso de templates. Suponhamos que você queria criar um componente a:inputCPF que já renderize um Label CPF, renderize também um inputText com o maxlenght pré-definido e formate a mascara.</p>
+<p> Neste caso, bastará criar "um template" contendo este h:inputText "customizado". Ex. (arquivo cpf.xhtml):</p>
+
+{% highlight html %}
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:h="http://java.sun.com/jsf/html"
+  xmlns:ui="http://java.sun.com/jsf/facelets">
+  		<!-- JavaScript de Formatação de CPF suprimida -->
+      <ui:composition>
+      	   CPF: <h:inputText value="${value}" onkeypress="return formataCPF();" maxlength="14" />
+      </ui:composition>
+</html>
+{% endhighlight %}
+
+<p>Uma vez criado este pedaço de página, vamos criar o arquivo de definição das tagslibs informando basicamente o "namespace" para as componentes e o nome da tag e a qual página compõe a tag informada. Ex. (arquivo META-INF/cpf.taglib.xml):</p>
+
+{% highlight html %}
+<!DOCTYPE facelet-taglib PUBLIC	"-//Sun Microsystems, Inc.//DTD Facelet Taglib 1.0//EN"	"facelet-taglib_1_0.dtd">
+  <facelet-taglib>	
+    <namespace>http://facelets.benevides.com</namespace>
+     		<tag>
+          		<tag-name>inputCpf</tag-name>
+              <source>../cpf.xhtml</source>	
+        </tag>
+</facelet-taglib>
+{% endhighlight %}
+
+Feito isto, bastamos agora informar (no web.xml) quais taglibs devem ser carregadas. Ex.: 
+
+{% highlight html %}
+
+<context-param>	
+  <param-name>facelets.LIBRARIES</param-name>
+  <param-value>/META-INF/cpf.taglib.xml</param-value>
+</context-param>
+
+{% endhighlight %}
+    
+<p><b>Duas informações importantes:</b></p>
+<ol>
+<li> Se houver mais de uma arquivo xml com a definição das taglibs, você pode separa-los por vírgula </li>
+<li> Caso o arquivo xml esteja em outro jar, o xml deve estar obrigatoriamente dentro da pasta META-INF </li></ol>
+<p> 
+Pronto, agora sua tag está pronta para ser utilizada. <b>Lembre-se de adicionar o namespace da sua tag na sua página xhtml previamente</b></p>
+
+{% highlight html %}
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html   xmlns="http://www.w3.org/1999/xhtml"
+  xmlns:f="http://java.sun.com/jsf/core"
+  xmlns:h="http://java.sun.com/jsf/html"
+  xmlns:ui="http://java.sun.com/jsf/facelets"
+  xmlns:a="http://facelets.benevides.com">      
+  <ui:composition template="/template.xhtml" >
+  <ui:define name="Titulo" >Titulo 1</ui:define>
+    <ui:define name="header" >
+        <ui:debug  hotkey="d"/>
+        <h:form>
+              Nome: <h:inputText value="#{bean.nome}" /><</span> a:inputCpf  / >
+              <input type="submit" jsfc="h:commandButton" value="Enviar" action="#{bean.acao}"/ >
+          </h:form>
+      </ui:define>
+    </ui:composition >
+</html>
+{% endhighlight %}
+
+<p>Vejam que isto é muito poderoso! Você pode também criar funções, validadores, conversores, usar e abusar do jstl para que seus componentes tenham alguma inteligência.</p>
+<p>Agora tudo isto não será fácilmente "engulido" pela equipe de multimedia, se esta não se sentir a vontade para trabalhar, para isto além do <a target="_self" href="/2007/03/05/exadel_jboss_e_seam/">Exadel</a>, pode-se usar também o <a target="_self" href="http://www.jsftoolbox.com/products/facelets/">JSF ToolBox</a> .</p>Esperava conseguir abordar todas as funcionalidades do Facelets, mas para isto, o correto seria escrever um artigo (espero fazer isto em breve). Entretanto espero que estes últimos posts tenham despertado os leitores para esta tecnologia e desejo que se aprofundem nas documentações diposníveis <a target="_self" href="https://facelets.dev.java.net/nonav/docs/dev/docbook.html">no site do Facelets.</a>
+<p></p>
+<p></p></p>
+

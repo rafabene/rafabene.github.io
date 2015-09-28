@@ -1,0 +1,33 @@
+---
+layout: post
+title: Gambi Design Patterns
+comments: true
+tags:
+  - design
+  - humor
+  - java
+  - patterns
+---
+
+<p><p>Após a difusão do paradigma de programação <a target="_blank" href="http://desciclo.pedia.ws/wiki/POG">POG,</a> diversos problemas vieram a tona e se tornou evidente a necessidade de se criar padrões de projetos para solucionar problemas conhecidos.
+</p>
+<p>Todos estes padrões foram catalogados e assim foi lançado o <a target="_blank" href="http://desciclo.pedia.ws/wiki/Gambi_Design_Patterns">Gambi Design Patterns</a>.
+</p>
+<p>Apesar do humor, já vi com meus próprios olhos muitos destes padrões sendo aplicados no dia a dia como:
+</p>
+<ol>
+  <li><span class="mw-headline"> Zé do Caixão, ou "À Meia Noite Rodarei o teu Script" (Já falei do sistema que caia de 15 em 15 minutos e por isto "criaram" um script que levantava o <i>falecido</i> a cada ciclo de 15 minutos ?)</span></li>
+  <li><span class="mw-headline">Conversão de Tipos </span></li>
+  <li><span class="mw-headline"></span><span class="mw-headline">Static Spree</span></li>
+  <li><span class="mw-headline">Lone Wolf</span></li>
+  <li><span class="mw-headline">Mochileiro das Galáxias (<a target="_blank" href="http://www.fragmental.com.br/wiki/index.php?title=Arquitetura_de_Camadas_em_Java_EE">Também falado pelo Philip Calçado</a>)</span></li>
+  <li><span class="mw-headline">DB is our God (Muito comum em instituições com um histórico pré-diluviano de desenvolvimento de Software) </span></li>
+  <li><span class="mw-headline">Reinvented Square Wheel Helper (<a target="_blank" href="http://www.jroller.com/rafaelbenevides/entry/dicas_aos_iniciantes_em_java1">Já falei disto anteriormente</a>)</span></li>
+  <li><span class="mw-headline">No Error Pattern (Putz, este eu vi bem recentemente em um sistema grande)</span></li>
+  <li><span class="mw-headline">Hardcoded data </span></li>
+  <li><span class="mw-headline"></span><span class="mw-headline">Gera a Porra Toda (Já usei este padrão várias vezes... Lógico que não em produção! rsrsrsrs) </span></li>
+</ol>
+<p> Boa diversão: <a target="_blank" href="http://desciclo.pedia.ws/wiki/Gambi_Design_Patterns">http://desciclo.pedia.ws/wiki/Gambi_Design_Patterns </a>
+   
+</p></p>
+
