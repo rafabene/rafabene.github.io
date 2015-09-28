@@ -2,7 +2,7 @@
 
 title:            Rafael Benevides' Realm
 locale:           en_US
-url: 
+url:
 
 
 # Jekyll configuration
@@ -35,7 +35,7 @@ owner:
   facebook: #username
   google:
     plus: RafaelBenevides1
-    analytics:
+    analytics: UA-1667243-1
     verify:
     ad-client:
     ad-slot:
