@@ -4,9 +4,7 @@ title: JDF 2.0.0.Final released!
 comments: true
 ---
 
-Hi!!!
-
-Yesterday (10/24/2012) [JDF – JBoss Developer Framework 2.0.0.Final](http://www.jboss.org/jdf/) was released. The focus in this release is mobile hybrid applications with [Apache Cordova](http://cordova.apache.org/). This release has [65 quickstarts](http://www.jboss.org/developer-materials/#!) and [TicketMonster](http://www.jboss.org/ticket-monster/) example and its tutorial was also updated.
+Hi!!! Yesterday (10/24/2012) [JDF – JBoss Developer Framework 2.0.0.Final](http://www.jboss.org/jdf/) was released. The focus in this release is mobile hybrid applications with [Apache Cordova](http://cordova.apache.org/). This release has [65 quickstarts](http://www.jboss.org/developer-materials/#!) and [TicketMonster](http://www.jboss.org/ticket-monster/) example and its tutorial was also updated.
 
 Another great part of this release is the [JBoss Stacks](https://github.com/jboss-developer/jboss-stacks) subproject.  Have you ever wanted to know what Archetypes or BOMs did you need to use for an specific JBoss Version ? With [JBoss Stacks](https://github.com/jboss-developer/jboss-stacks) you can easily have access to this information.
 

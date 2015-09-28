@@ -4,11 +4,7 @@ title: DeltaSpike 1.0 Released
 comments: true
 ---
 
-![](http://deltaspike.apache.org/resources/images/logos/logo.png)
-
-Hi!!!! 
-
-When [CDI spec](http://cdi-spec.org/) came out, there was a huge revolution on everything related to [DI](http://martinfowler.com/articles/injection.html) on the Java ecosystem. One of the biggest features on CDI is that you’re allowed to [create your own extensions](http://blog.eisele.net/2010/01/jsr-299-cdi-portable-extensions.html) and make CDI even more powerful.
+Hi!!!! When [CDI spec](http://cdi-spec.org/) came out, there was a huge revolution on everything related to [DI](http://martinfowler.com/articles/injection.html) on the Java ecosystem. One of the biggest features on CDI is that you’re allowed to [create your own extensions](http://blog.eisele.net/2010/01/jsr-299-cdi-portable-extensions.html) and make CDI even more powerful.
 
 Imagine: Simply drop a jar to your project’s classpath and voila! You now have available new powerful beans available to be injected on your source code, bringing the most amazing features with loose coupling.
 
@@ -39,3 +35,7 @@ DeltaSpike beans are available through modules built around the “core” modul
 Check it on [http://deltaspike.apache.org/](deltaspike.apache.org)
 
 If you find any issues, please report on [Jira](https://issues.apache.org/jira/browse/DELTASPIKE) or get in touch through the [mail list](http://deltaspike.apache.org/community.html#mailing-lists).
+
+![](http://deltaspike.apache.org/resources/images/logos/logo.png)
+
+
