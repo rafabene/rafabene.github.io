@@ -34,7 +34,7 @@ invocations.
 
 This scenario for Angular and also the
 [Google
-Trends](http://www.google.com/trends/explore#cat=0-5&q=angular.js%20%2B%20angularjs%20%2B%20%22angular%20js%22%2C%20ext.js%20%2B%20%20extjs%2B%20%22ext%20js%22%2C%20backbone.js%20%2B%20%20backbonejs%20%2B%20%22backbone%20js%22%2C%20ember.js%20%2B%20emberjs%20%2B%20%22ember%20js%22%2C%20knockout.js%20%2B%20knockoutjs%20%2B%20%22knockout%20js%22&cmpt=q)
+Trends](http://www.google.com/trends/explore?hl=en-US&q=ember+js,+angular+js,+backbone+js,+react+js,+meteor+js&cmpt=q&tz=Etc/GMT%2B4&tz=Etc/GMT%2B4&content=1)
 placed AngularJS in my radar of technologies to learn and get expertise. So
 I was suggested by [George Gastaldi](https://twitter.com/gegastaldi) to take
 a look on a serie of videos called ["Desvendando a linguagem
@@ -43,6 +43,9 @@ and ["Tudo sobre
 AngularJS"](https://www.youtube.com/playlist?list=PLQCmSnNFVYnTD5p2fR4EXmtlR6jQJMbPb)
 by [Rodrigo Branas](https://twitter.com/rodrigobranas). With those videos
 I could make my first dive in the JS world.
+
+<script type="text/javascript"
+src="//www.google.com/trends/embed.js?hl=en-US&q=ember+js,+angular+js,+backbone+js,+react+js,+meteor+js&cmpt=q&tz=Etc/GMT%2B4&tz=Etc/GMT%2B4&content=1&cid=TIMESERIES_GRAPH_0&export=5&w=500&h=330"></script>
 
 Using tools like [bower](http://bower.io/), [Yeoman](http://yeoman.io/) and
 [Grunt](http://gruntjs.com/)/[Gulp](http://gulpjs.com) made me see the beauty of
