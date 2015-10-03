@@ -8,7 +8,7 @@ Hi!!!! When [CDI spec](http://cdi-spec.org/) came out, there was a huge revoluti
 
 Imagine: Simply drop a jar to your project’s classpath and voila! You now have available new powerful beans available to be injected on your source code, bringing the most amazing features with loose coupling.
 
-This is [DeltaSpike](deltaspike.apache.org)! A powerful set of CDI Extensions that will make your project rock!
+This is [DeltaSpike](http://deltaspike.apache.org)! A powerful set of CDI Extensions that will make your project rock!
 
 DeltaSpike beans are available through modules built around the “core” module.
 
@@ -32,7 +32,7 @@ DeltaSpike beans are available through modules built around the “core” modul
 
 - *The “Container & Control / Test-Control”* – Allows you to boot and shutdown the CDI container in SE applications, control the life-cycle of the built-in contexts of the CDI container and write CDI based tests easily.
 
-Check it on [http://deltaspike.apache.org/](deltaspike.apache.org)
+Check it on [http://deltaspike.apache.org/](http://deltaspike.apache.org)
 
 If you find any issues, please report on [Jira](https://issues.apache.org/jira/browse/DELTASPIKE) or get in touch through the [mail list](http://deltaspike.apache.org/community.html#mailing-lists).
 

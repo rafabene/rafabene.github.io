@@ -15,7 +15,7 @@ image:
 > Rafael Benevides is a Senior Software Engineer at [Red Hat](http://www.redhat.com),
 working on [JBoss](http://www.jboss.org) open-source projects with emphasis
 on improving developer productivity. In his current role, he is the
-[JBoss Developer Materials](www.jboss.org/developer-materials/)
+[JBoss Developer Materials](http://www.jboss.org/developer-materials/)
 lead providing Quickstarts and [tools](https://github.com/rafabene) to improve
 the developer's experience. He worked in several fields including application
 architecture and design. Besides that, he is also member
