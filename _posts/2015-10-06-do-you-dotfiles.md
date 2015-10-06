@@ -6,7 +6,7 @@ comments: true
 
 When I started to develop using Javascript languages (AngularJS and NodeJS), the first step was to prepare the development environment in my Computer.
 
-Of course I tried several editors, but the nature of the project asks much more about a good text editor and console tools than a IDE *(Integrated Development Environment)*. After some reasearch, I was convinced by my brother [Frederico Benevides](https://br.linkedin.com/in/fredericobenevides/pt) that "One size fits all" development environment is based on VIM + TMUX.
+Of course I've tried several editors, but the nature of the project asks much more about a good text editor and console tools than a IDE *(Integrated Development Environment)*. After some reasearch, I was convinced by my brother [Frederico Benevides](https://br.linkedin.com/in/fredericobenevides/pt) that "One size fits all" development environment is based on VIM + TMUX.
 
 I couldn't believe that VIM could be productive for develpoment! OMG!!! VIM!!??! - Take a look on [the following video about VIM + TMUX](https://www.youtube.com/watch?v=5r6yzFEXajQ) and make your own conclusions. I'll make a blog post about them in the future, so please, subscribe.
 
