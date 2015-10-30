@@ -12,17 +12,17 @@ image:
 
 ## .Next
 
-### Devoxx Marroco
+### Devoxx Marroco 2015
 - *When:* November 16th 2015
 - *Where:* Casablanca, Marroco
 - *Name:* Docker and Kubernetes for Java EE Developers
 - *Site:* [DevoxxMA](http://cfp.devoxx.ma/2015/talk/KWW-1312/Docker_and_Kubernetes_for_Java_EE_Developers)
 
+###DevNexus 2016
 - *When:* February 15th 2016
 - *Where:* Atlanta - GA
 - *Name:* Docker for Java EE Developers
 - *Site:* [DevNexus](https://www.devnexus.com/s/devnexus2016/presentations#id-5423)
-
 
 <hr>
 ## .Past
