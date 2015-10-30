@@ -1,6 +1,6 @@
 ---
-layout: page
-title: JavaOne 2015 - Docker for JavaEE Developer
+layout: post
+title: JavaOne 2015 - Docker for Java EE Developers
 comments: true
 ---
 
