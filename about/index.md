@@ -20,7 +20,7 @@ lead providing Quickstarts and [tools](https://github.com/rafabene) to improve
 the developer's experience. He worked in several fields including application
 architecture and design. Besides that, he is also member
 of [Apache DeltaSpike](http://deltaspike.apache.org) PMC
-- a Duke’s Choice Award winner project.
+- a Duke’s Choice Award winner project. Besides that, He also worked in several fields including application architecture and design and He's also a speaker in conferences like JUDCon, TDC, JavaOne and Devoxx.
 [Twitter](http://twitter.com/rafabene)
 | [LinkedIn](https://www.linkedin.com/in/rafaelbenevides)
 | [rafabene.com](http://rafabene.com)
