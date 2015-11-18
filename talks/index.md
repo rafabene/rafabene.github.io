@@ -12,11 +12,6 @@ image:
 
 ## .Next
 
-### Devoxx Marroco 2015
-- *When:* November 16th 2015
-- *Where:* Casablanca, Marroco
-- *Name:* Docker and Kubernetes for Java EE Developers
-- *Site:* [DevoxxMA](http://cfp.devoxx.ma/2015/talk/KWW-1312/Docker_and_Kubernetes_for_Java_EE_Developers)
 
 ###DevNexus 2016
 - *When:* February 15th 2016
@@ -27,14 +22,21 @@ image:
 <hr>
 ## .Past
 
-### JavaOne 2015
+### Devoxx Marroco 2015
 
-- *When:* October 26th 2015 (Monday) 2:30 PM
-- *Where:* San Francisco - CA
-- *Name:* Apache DeltaSpike, the CDI Toolbox - CON2380
+- *When:* November 17th 2015
+- *Where:* Casablanca, Marroco
+- *Name:* DeltaSpike in a nutshell - Why so revolutionary?
 - *Slides:* [DZSlides](http://rafabene.com/deltaspike-cdi-toolbox/)
-- *Mini booth video:* [Youtube Video](https://www.youtube.com/watch?v=3McmEi3cs_s)
-- *Site:* [JavaOne Session Catalog](https://events.rainfocus.com/oow15/catalog/oracle.jsp?search=CON2380&search.event=javaoneEvent)
+- *Site:* [DevoxxMA](http://cfp.devoxx.ma/2015/talk/CLL-0718/DeltaSpike_in_a_nutshell_-_Why_so_revolutionary%3F)
+
+- *When:* November 16th 2015
+- *Where:* Casablanca, Marroco
+- *Name:* Docker and Kubernetes for Java EE Developers
+- *Material:* [http://bit.ly/DockerJavaEE](http://bit.ly/DockerKubernetes)
+- *Site:* [DevoxxMA](http://cfp.devoxx.ma/2015/talk/KWW-1312/Docker_and_Kubernetes_for_Java_EE_Developers)
+
+### JavaOne 2015
 
 - *When:* October 28th 2015 (Wednesday) 3:00 PM
 - *Where:* San Francisco - CA
@@ -42,6 +44,13 @@ image:
 - *Material:* [http://bit.ly/DockerJavaEE](http://bit.ly/DockerJavaEE)
 - *Mini booth video:* [Youtube Video](https://www.youtube.com/watch?v=pxVPkfT8DKo)
 - *Site:* [JavaOne Session Catalog](https://events.rainfocus.com/oow15/catalog/oracle.jsp?search=HOL7249&search.event=openworldEvent&search.event=javaoneEvent)
+
+- *When:* October 26th 2015 (Monday) 2:30 PM
+- *Where:* San Francisco - CA
+- *Name:* Apache DeltaSpike, the CDI Toolbox - CON2380
+- *Slides:* [DZSlides](http://rafabene.com/deltaspike-cdi-toolbox/)
+- *Mini booth video:* [Youtube Video](https://www.youtube.com/watch?v=3McmEi3cs_s)
+- *Site:* [JavaOne Session Catalog](https://events.rainfocus.com/oow15/catalog/oracle.jsp?search=CON2380&search.event=javaoneEvent)
 
 ###TDC 2015 - The Developers Conference
 - *When:* July 21th 2015 (Tuesday) 15:40 PM
@@ -76,13 +85,19 @@ image:
 - *Name:* JDF - JBoss Developer Framework
 - *Site:* [IFB](https://www.ifb.edu.br/attachments/5410_IFTechDay%20(1).pdf)
 
-
 ###TDC  2012 - The Developers Conference
 - *When:* October 20th 2012
 - *Where:* Goiânia - GO, Brazil
 - *Name:* JBoss Developer Framework
 - *Slides:* [Slideshare](http://www.slideshare.net/RafaelBenevides1/apresentao-jdf-no-tdc-2012)
 - *Site:* [TDC](http://www.thedevelopersconference.com.br/tdc/2012/index.html#goiania)
+
+###XTI Informática - MeetUp for employees
+- *When:* June 15th 2012
+- *Where:* Brasília - DF, Brazil
+- *Name:* Libertando os poderes do Java EE com o JBoss Seam
+- *Site:* [XTI](http://www.xti.com.br/noticias/meetup-xti-redhat.htm)
+- *Twitter:* [twitpic](http://twitpic.com/a0ibfe)
 
 ###JBossInBossa 2011
 - *When:* October 10th 2011
@@ -97,13 +112,19 @@ image:
 - *Name:* Apresentando o Projeto XSeam e Arquiteturas de Referencia em Seam
 - *Slides:* [Slideshare](http://www.slideshare.net/RafaelBenevides1/jbossinbossa-2010)
 
+###BelJUG monthly meeting
+- *When:* January 7th 2010
+- *Where:* Belém - PA, Brazil
+- *Name:* Velozes e Furiosos na Web, Produtividade com JBoss Seam
+- *Site:* [BelJUG](https://sites.google.com/a/beljug.com.br/site/eventos/reunioes/janeiro-2010)
+
 ###Red Hat Roadshow 2009
 - *When:* August 4th 2009
 - *Where:* Brasília - DF, Brazil
 - *Name:* Case JBoss Rules INEP
 - *Slides:* [Slideshare](http://www.slideshare.net/RafaelBenevides1/red-hat-roadshow-2009)
 
-###SOU Java meeting
+###SOUJava monthly meeting
 - *When:* November 2005
 - *Where:* Brasília - DF, Brazil
 - *Name:* Java à favor do consumidor Brasileiro
