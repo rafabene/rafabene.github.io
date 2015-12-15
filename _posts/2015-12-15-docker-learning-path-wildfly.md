@@ -104,13 +104,14 @@ You can see how powerful is Kubernetes in this video: [https://www.youtube.com/w
 
 ## Openshift v3
 
-Finally we land in Openshift v3.
+Finally we land in [Openshift v3](https://www.openshift.org).
 
 > "OpenShift 3 is built around a core of application containers powered by Docker, with orchestration and management provided by Kubernetes, on a foundation of Atomic and Enterprise Linux. OpenShift Origin is the upstream community project that brings it all together along with extensions, to accelerate application development and deployment." (http://www.openshift.org/)
 
-In the next weeks I'll be updating the material available at [github.com/rafabene/devops-demo](https://github.com/rafabene/devops-demo) to include instructions to Openshift
 
 ![](/images/openshift_logo.png)
+
+In the next weeks I'll be updating the material available at [github.com/rafabene/devops-demo](https://github.com/rafabene/devops-demo) to include instructions to Openshift
 
 # Conclusion
 
