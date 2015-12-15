@@ -4,9 +4,6 @@ title: Docker learning path with WildFly
 comments: true
 ---
 
-
-Hi all,
-
 [Docker](https://docs.docker.com/engine/userguide/), [Docker Compose](https://docs.docker.com/compose/), [Docker Machine](https://docs.docker.com/machine/), [Docker Swarm](https://docs.docker.com/swarm/), [Kubernetes](http://kubernetes.io/), [Openshift v3](http://www.openshift.org/) are some examples of tools and projects that are well consolidate in the container universe of Docker. Things are moving pretty fast and sometimes it's hard to move from a simple execution of a container ( *docker run -it fedora bash* ) to a Docker cluster in the cloud.
 
 I've my own lab environment that consists in a [WildFly](http://www.wildfly.org/) container with [Ticket Monster application](http://www.jboss.org/ticket-monster/) connected to a [Postgres](http://www.postgresql.org/) container. To load balance the application, I use [Apache httpd](https://httpd.apache.org/) with [mod_cluster](http://mod-cluster.jboss.org/). The overview diagram of this environment can be seen in the following picture:
