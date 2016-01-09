@@ -20,7 +20,7 @@ lead providing Quickstarts and [tools](https://github.com/rafabene) to improve
 the developer's experience. He worked in several fields including application
 architecture and design. Besides that, he is also member
 of [Apache DeltaSpike](http://deltaspike.apache.org) PMC
-- a Duke’s Choice Award winner project. Besides that, He also worked in several fields including application architecture and design and He's also a speaker in conferences like JUDCon, TDC, JavaOne and Devoxx.
+- a Duke’s Choice Award winner project. He also worked in several fields including application architecture and design and He's also a speaker in conferences like JUDCon, TDC, JavaOne and Devoxx.
 [Twitter](http://twitter.com/rafabene)
 | [LinkedIn](https://www.linkedin.com/in/rafaelbenevides)
 | [rafabene.com](http://rafabene.com)
@@ -29,7 +29,7 @@ of [Apache DeltaSpike](http://deltaspike.apache.org) PMC
 
 ### Who am I?
 
-Hi, my name is Rafael Benevides. I am a 38 years old Brazilian that lives in [Raleigh,NC](https://www.google.com/maps/place/Raleigh,+NC/). Here, I work as Senior Software Engineer at [Red Hat](http://www.redhat.com).
+Hi, my name is Rafael Benevides. I am a 38 years old Brazilian who lives in [Raleigh,NC](https://www.google.com/maps/place/Raleigh,+NC/). Here, I work as Senior Software Engineer at [Red Hat](http://www.redhat.com).
 
 ### Java developer
 I started learning Java in 2003 at a Lato Sensu Class. It was a first love sensation. After that I have been studying and trying to use Java as a Powered, Scalable and Productive Solution. As a result from this love I took certifications below:
@@ -67,7 +67,7 @@ My actual interests are:
 - Object Oriented / Functional Programming
 - Productive and Scalable Solutions
 - TI Methodologies / Agile Methodology
-- DevOps tools and principles
+- Containers / DevOps tools and principles
 - Javascript (AngularJS, NodeJS, etc)
 
 That’s all.

@@ -13,8 +13,8 @@ I've my own lab environment that consists in a [WildFly](http://www.wildfly.org/
 This blog post will show a suggested learning path to have this environment to be executed in raw docker engine (CLI), docker-compose, docker swarm and finally using Kubernetes. In all cases, the same Docker images were used:
 
 - [Postgres (postgres:latest)](https://hub.docker.com/_/postgres/)
-- [Apache HTTPd + mod_cluster (rafabene/mod_cluster:latest)](https://hub.docker.com/r/rafabene/mod_cluster/)
-- [Wildfly + Ticket Monster (rafabene/wildfly-ticketmonster:latest)](https://hub.docker.com/r/rafabene/wildfly-ticketmonster/)
+- [Apache HTTPd + mod_cluster (karm/mod_cluster-master-dockerhub:latest)](https://hub.docker.com/r/karm/mod_cluster-master-dockerhub/)
+- [Wildfly + Ticket Monster (rafabene/wildfly-ticketmonster:latest)](https://hub.docker.com/r/rafabene/wildfly-ticketmonster-ha/)
 
 Note that no changes were required in the prepared image to run in all environments.
 
@@ -24,11 +24,11 @@ The required files and instructions are available in [github.com/rafabene/devops
 
 The first thing that we learn is how to execute docker containers using *docker* command. 
 
-The instructions to run this environment using docker CLI only is available  [here](https://github.com/rafabene/devops-demo/blob/master/Dockerfiles/ticketmonster/Readme.md). I suggest you to execute these instructions before moving on. Basically you will need to execute each one of these containers individually.
+The instructions to run this environment using docker CLI only is available  [here](https://github.com/rafabene/devops-demo/blob/master/Dockerfiles/ticketmonster-ha/Readme.md). I suggest you to execute these instructions before moving on. Basically you will need to execute each one of these containers individually.
 
 Note that the [postgres image](https://hub.docker.com/_/postgres/) uses [environment variables](https://docs.docker.com/engine/reference/run/#env-environment-variables) (POSTGRES_USER and POSTGRES_PASSWORD) to define the username and password of that container. 
 
-All containers are execute in a single Docker host (where the *daemon* is running) but each container has his own internal IP address (which changes each container execution). To be able to make Wildfly image to talk with Postgres, a ["container link"](https://docs.docker.com/engine/userguide/networking/default_network/dockerlinks/#connect-with-the-linking-system) is created. When *--link* is specified, docker updates the */etc/hosts* file with the IP address with the linked container.
+All containers are execute in a single Docker host (where the *daemon* is running) but each container has his own internal IP address (which changes each container execution). To be able to make Wildfly image to talk with Postgres, a ["docker  network"](https://docs.docker.com/engine/userguide/networking/) is created. When *--net* is specified, docker updates the */etc/hosts* file with the IP address with the linked container.
 
 To execute more than one WildFly instance, you will have to execute multiple containers manually. Note that WildFly containers doesn't specify [port mappings](https://docs.docker.com/engine/reference/run/#expose-incoming-ports) because we don't want/need to access WildFly directly.
 
@@ -42,7 +42,9 @@ Here you can see the content of the YAML file for this environment:
 
 {% highlight yaml linenos %}
 db:
+  container_name: "db"
   image: postgres
+  net: mynet
   ports:
      - "5432:5432"
   environment:
@@ -50,14 +52,16 @@ db:
     - POSTGRES_PASSWORD=ticketmonster-docker
 modcluster:
   container_name: "modcluster"
-  image: rafabene/mod_cluster
+  net: mynet
+  image: karm/mod_cluster-master-dockerhub
+  environment:
+    - MODCLUSTER_NET=192. 172. 10. 179.
+    - MODCLUSTER_PORT=80
   ports:
      - "80:80"
 wildfly:
-  build: ../Dockerfiles/ticketmonster/
-  links:
-    - db
-    - modcluster
+  image: rafabene/wildfly-ticketmonster-ha
+  net: mynet
 {% endhighlight %}
 
 The instructions to run this environment using Docker compose is available [here](https://github.com/rafabene/devops-demo/blob/master/compose/Readme.md). I suggest you to execute these instructions before moving on.

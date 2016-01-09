@@ -13,11 +13,23 @@ image:
 ## .Next
 
 
+###DevConf.CZ 2016
+- *When:* February 6th 2016
+- *Where:* Brno - Czech Republic
+- *Name:* Docker for Java EE Developers
+- *Site:* [DevConf.cz Schedule](https://devconfcz2016.sched.org/event/5m0d/docker-for-java-ee-developers)
+
 ###DevNexus 2016
 - *When:* February 15th 2016
 - *Where:* Atlanta - GA
 - *Name:* Docker for Java EE Developers
 - *Site:* [DevNexus](https://www.devnexus.com/s/devnexus2016/presentations#id-5423)
+
+###TriJUG meetup
+- *When:* March 21st 2016
+- *Where:* Raleigh - NC
+- *Name:* Docker for Java EE Developers
+- *Site:* [Meetup website](http://www.meetup.com/pt-BR/Triangle-Java-Users-Group/events/226005003/?eventId=226005003)
 
 <hr>
 ## .Past
