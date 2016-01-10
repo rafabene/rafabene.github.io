@@ -4,6 +4,8 @@ title: Docker learning path with WildFly
 comments: true
 ---
 
+**EDIT:** This post has been edited to reflact the latest changes as described [here](/2016/01/09/docker-images-openshift-network/)
+
 [Docker](https://docs.docker.com/engine/userguide/), [Docker Compose](https://docs.docker.com/compose/), [Docker Machine](https://docs.docker.com/machine/), [Docker Swarm](https://docs.docker.com/swarm/), [Kubernetes](http://kubernetes.io/), [Openshift v3](http://www.openshift.org/) are some examples of tools and projects that are well consolidate in the container universe of Docker. Things are moving pretty fast and sometimes it's hard to move from a simple execution of a container ( *docker run -it fedora bash* ) to a Docker cluster in the cloud.
 
 I've my own lab environment that consists in a [WildFly](http://www.wildfly.org/) container with [Ticket Monster application](http://www.jboss.org/ticket-monster/) connected to a [Postgres](http://www.postgresql.org/) container. To load balance the application, I use [Apache httpd](https://httpd.apache.org/) with [mod_cluster](http://mod-cluster.jboss.org/). The overview diagram of this environment can be seen in the following picture:
@@ -13,8 +15,10 @@ I've my own lab environment that consists in a [WildFly](http://www.wildfly.org/
 This blog post will show a suggested learning path to have this environment to be executed in raw docker engine (CLI), docker-compose, docker swarm and finally using Kubernetes. In all cases, the same Docker images were used:
 
 - [Postgres (postgres:latest)](https://hub.docker.com/_/postgres/)
+- ~~[Apache HTTPd + mod_cluster (rafabene/mod_cluster:latest)](https://hub.docker.com/r/rafabene/mod_cluster/)~~
 - [Apache HTTPd + mod_cluster (karm/mod_cluster-master-dockerhub:latest)](https://hub.docker.com/r/karm/mod_cluster-master-dockerhub/)
-- [Wildfly + Ticket Monster (rafabene/wildfly-ticketmonster:latest)](https://hub.docker.com/r/rafabene/wildfly-ticketmonster-ha/)
+- ~~[Wildfly + Ticket Monster (rafabene/wildfly-ticketmonster:latest)](https://hub.docker.com/r/rafabene/wildfly-ticketmonster/)~~
+- [Wildfly + Ticket Monster HA (rafabene/wildfly-ticketmonster-ha:latest)](https://hub.docker.com/r/rafabene/wildfly-ticketmonster-ha/)
 
 Note that no changes were required in the prepared image to run in all environments.
 
@@ -28,7 +32,7 @@ The instructions to run this environment using docker CLI only is available  [he
 
 Note that the [postgres image](https://hub.docker.com/_/postgres/) uses [environment variables](https://docs.docker.com/engine/reference/run/#env-environment-variables) (POSTGRES_USER and POSTGRES_PASSWORD) to define the username and password of that container. 
 
-All containers are execute in a single Docker host (where the *daemon* is running) but each container has his own internal IP address (which changes each container execution). To be able to make Wildfly image to talk with Postgres, a ["docker  network"](https://docs.docker.com/engine/userguide/networking/) is created. When *--net* is specified, docker updates the */etc/hosts* file with the IP address with the linked container.
+All containers are execute in a single Docker host (where the *daemon* is running) but each container has his own internal IP address (which changes each container execution). To be able to make Wildfly image to talk with Postgres, ~~a ["container link"](https://docs.docker.com/engine/userguide/networking/default_network/dockerlinks/#connect-with-the-linking-system) is created. When *--link* is specified, docker updates the */etc/hosts* file with the IP address with the linked container.~~ a ["docker  network"](https://docs.docker.com/engine/userguide/networking/) is created. When *--net* is specified, docker updates the */etc/hosts* file with the IP address with the linked container.
 
 To execute more than one WildFly instance, you will have to execute multiple containers manually. Note that WildFly containers doesn't specify [port mappings](https://docs.docker.com/engine/reference/run/#expose-incoming-ports) because we don't want/need to access WildFly directly.
 
@@ -83,7 +87,7 @@ When you have a docker swarm cluster you will see all docker nodes as a single o
 
 Since Docker 1.9, a new container network model was introduced which allows containers in different hosts to be part of a [multi-host network.](https://docs.docker.com/engine/userguide/networking/get-started-overlay/).
 
-Docker compose can also be used with few modifications in the YAML file. 
+~~Docker compose can also be used with few modifications in the YAML file.~~
 
 To execute this environment in Docker Swarm, follow the instructions available [here](https://github.com/rafabene/devops-demo/blob/master/swarm/Readme.md). Once more, I suggest you to execute these instructions before moving on.
 

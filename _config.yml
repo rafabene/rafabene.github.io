@@ -8,7 +8,7 @@ url:              http://rafabene.com
 # Jekyll configuration
 
 permalink:   /:year/:month/:day/:title/
-markdown:    kramdown
+markdown:    redcarpet
 highlighter: pygments
 sass:
   sass_dir: _sass
@@ -23,7 +23,9 @@ kramdown:
   toc_levels: 1..6
   use_coderay: false
 
-
+redcarpet:
+  extensions: ["tables", "autolink", "strikethrough", "space_after_headers", "with_toc_data", "fenced_code_blocks"]
+  
 # Site owner
 owner:
   name: Rafael Benevides

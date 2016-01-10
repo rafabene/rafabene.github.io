@@ -2,6 +2,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     RedCloth (4.2.9)
+    RedCloth (4.2.9-x86-mingw32)
     blankslate (2.1.2.4)
     celluloid (0.16.0)
       timers (~> 4.0.0)
