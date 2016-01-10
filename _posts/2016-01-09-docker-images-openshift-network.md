@@ -16,9 +16,9 @@ As I promissed, I've updated this lab to include two new features that I want to
 
 ## Docker Networks
 
-Since [Docker 1.9](https://blog.docker.com/2015/11/docker-1-9-production-ready-swarm-multi-host-networking/), networking is now a first class citzen and ready to use with Docker Swarm and Compose.
+Since [Docker 1.9](https://blog.docker.com/2015/11/docker-1-9-production-ready-swarm-multi-host-networking/), networking is now a first class citizen and ready to use with Docker Swarm and Compose.
 
-With the introduction of [Docker Networks](https://docs.docker.com/engine/userguide/networking/dockernetworks/), [docker liking](https://docs.docker.com/engine/userguide/networking/default_network/dockerlinks/) is expected to be deprecated and removed in a future release.   
+With the introduction of [Docker Networks](https://docs.docker.com/engine/userguide/networking/dockernetworks/), [docker linking](https://docs.docker.com/engine/userguide/networking/default_network/dockerlinks/) is expected to be deprecated and removed in a future release.   
 
 The environment consists in a [WildFly](http://www.wildfly.org/) container with [Ticket Monster application](http://www.jboss.org/ticket-monster/) connected to a [Postgres](http://www.postgresql.org/) container. To load balance the application, I use [Apache httpd](https://httpd.apache.org/) with [mod_cluster](http://mod-cluster.jboss.org/). The overview diagram of this environment can be seen in the following picture:
 
@@ -48,7 +48,7 @@ $ docker exec container1 cat /etc/hosts
 
 ![](/images/openshift_logo.png)
 
-Another great adition was the inclusal of [*Openshift instructions*](https://github.com/rafabene/devops-demo/blob/master/openshift/Readme.md) for the same lab. 
+Another great addition was the inclusal of [*Openshift instructions*](https://github.com/rafabene/devops-demo/blob/master/openshift/Readme.md) for the same lab. 
 
 One of the biggest differences is that Openshift provide [*Routes feature*](https://docs.openshift.com/enterprise/3.0/architecture/core_concepts/routes.html) that allow external host name mapping and load balancing. Due to this "native" feature, we don't need to deploy [mod_cluster](http://mod-cluster.jboss.org/) as part of the lab environment. 
 
