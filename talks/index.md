@@ -6,8 +6,8 @@ modified: 2015-09-27T20:53:07.573882-04:00
 comments: true
 image:
   feature: background.jpg
-  credit: ben-a-ball
-  creditlink: https://benaball.com/
+  credit: kleinarl
+  creditlink: http://www.stockhambauer.at/
 ---
 
 ## .Next

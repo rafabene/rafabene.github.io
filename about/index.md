@@ -6,8 +6,8 @@ modified: 2015-09-27T20:53:07.573882-04:00
 comments: true
 image:
   feature: background.jpg
-  credit: ben-a-ball
-  creditlink: https://benaball.com/
+  credit: kleinarl
+  creditlink: http://www.stockhambauer.at/
 ---
 
 > TLDR; Short and Copyable version
@@ -18,9 +18,9 @@ on improving developer productivity. In his current role, he is the
 [JBoss Developer Materials](http://www.jboss.org/developer-materials/)
 lead providing Quickstarts and [tools](https://github.com/rafabene) to improve
 the developer's experience. He worked in several fields including application
-architecture and design. Besides that, he is also member
+architecture and design. Besides that, he is a member
 of [Apache DeltaSpike](http://deltaspike.apache.org) PMC
-- a Duke’s Choice Award winner project. He also worked in several fields including application architecture and design and He's also a speaker in conferences like JUDCon, TDC, JavaOne and Devoxx.
+- a Duke’s Choice Award winner project. He also worked in several fields including application architecture and design, and as a speaker in conferences like JUDCon, TDC, JavaOne and Devoxx.
 [Twitter](http://twitter.com/rafabene)
 | [LinkedIn](https://www.linkedin.com/in/rafaelbenevides)
 | [rafabene.com](http://rafabene.com)
