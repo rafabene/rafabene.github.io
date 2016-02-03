@@ -4,9 +4,7 @@ title: See you in DevConf.CZ 2016
 comments: true
 ---
 
-It'm now boarding to Czech Republic, more precesely to [Brno](https://goo.gl/maps/4ZMo4u8NEiN2). 
-
-Friday (February 5th 2016) will start the [DevConf.CZ 2016](http://www.devconf.cz/), *"a free annual conference for all Linux and JBoss Community Developers, Admins and Linux users organized by Red Hat Czech Republic in cooperation with the Fedora and JBoss communities."*
+It'm now boarding to Czech Republic, more precesely to [Brno](https://goo.gl/maps/4ZMo4u8NEiN2).  Friday (February 5th 2016) will start the [DevConf.CZ 2016](http://www.devconf.cz/), *"a free annual conference for all Linux and JBoss Community Developers, Admins and Linux users organized by Red Hat Czech Republic in cooperation with the Fedora and JBoss communities."*
 
 If you are a developer who wants to get in touch with the latest news and trends in the software development industry, this is the chance! Software development moves pretty fast, and most of the evolution comes from opensource projects. So what can you expect from an event organized by the [biggest opensource company](http://www.redhat.com/) (and communities) from the planet? "Sharing knowledge" is the answer! 
 
