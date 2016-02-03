@@ -14,10 +14,20 @@ image:
 
 
 ### DevConf.CZ 2016
+
+Talk 1
+
 - **When:** February 6th 2016
 - **Where:** Brno - Czech Republic
 - **Name:** Docker for Java EE Developers
 - **Site:** [DevConf.cz Schedule](https://devconfcz2016.sched.org/event/5m0d/docker-for-java-ee-developers)
+
+Talk 2
+
+- **When:** February 6th 2016
+- **Where:** Brno - Czech Republic
+- **Name:** Java EE 7 Hands-on Lab with JBoss Forge
+- **Site:** [DevConf.cz Schedule](https://devconfcz2016.sched.org/event/5m0x/java-ee-7-hands-on-lab-with-jboss-forge)
 
 ### DevNexus 2016
 - **When:** February 15th 2016
@@ -49,7 +59,7 @@ Talk 2
 - **When:** November 16th 2015
 - **Where:** Casablanca, Marroco
 - **Name:** Docker and Kubernetes for Java EE Developers
-- **Material:** [http://bit.ly/DockerJavaEE](http://bit.ly/DockerKubernetes)
+- **Material:** [http://bit.ly/DockerKubernetes](http://bit.ly/DockerKubernetes)
 - **Site:** [DevoxxMA](http://cfp.devoxx.ma/2015/talk/KWW-1312/Docker_and_Kubernetes_for_Java_EE_Developers)
 
 ### JavaOne 2015
