@@ -8,7 +8,7 @@ url:              http://rafabene.com
 # Jekyll configuration
 
 permalink:   /:year/:month/:day/:title/
-markdown:    redcarpet
+markdown:    kramdown
 highlighter: pygments
 sass:
   sass_dir: _sass

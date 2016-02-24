@@ -70,3 +70,8 @@
 b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a {
 	@include transition(all .2s ease);
 }
+
+/* To center images */
+.center {
+    text-align: center;
+}
