@@ -4,19 +4,19 @@ title: 10 things to avoid in docker containers
 comments: true
 ---
 
-So you finally surrendered to containers and discovered that it solves a lot of problems and has a lot of **advantages**:
+So you finally surrendered to containers and discovered that they solve a lot of problems and have a lot of **advantages**:
 
 {: .center}
 ![](https://rhdevelopers.files.wordpress.com/2014/11/shipping_containers_at_clyde.jpg?w=320)
 
-- **First: It’s immutable** – The, OS, Library versions, configurations, folders, application is there. You guarantee that the same image tested in QA will arrive land in the production with the same behaviour.
-- **Second: It’s lightweight** – The memory footprint of a container is too small. Instead of hundreds or thousands of MBs, it will just allocate the memory for the main process plus some tens of MBs.
-- **Third: It’s fast** – You can start a container as fast as a single process takes to start. Instead of minutes, you can start a new container in at most some few seconds.
+- **First: Containers are immutable** – The OS, library versions, configurations, folders, and application are all wrapped inside the container. You guarantee that the same image that was tested in QA will reach the production environment with the same behaviour.
+- **Second: Containers are lightweight** – The memory footprint of a container is small. Instead of hundreds or thousands of MBs, the container will only allocate the memory for the main process.
+- **Third: Containers are fas**t – You can start a container as fast as a typical linux process takes to start. Instead of minutes, you can start a new container in few seconds.
 
-But many users still treating containers just like typical virtual machines and forget that they also have another great advantage besides many others: It’s disposable.
+However, many users are still treating containers just like typical virtual machines and forget that containers have an important characteristic: **Containers are disposable**.
 
 
-> The big mantra about containers: 
+> The mantra around containers:
 
 {: .center}
  **“Containers are ephemeral”**.
@@ -24,7 +24,7 @@ But many users still treating containers just like typical virtual machines and 
 {: .center}
 ![](https://rhdevelopers.files.wordpress.com/2015/03/rh_icon_container_with_app_flat.png?w=640)
 
-This characteristic *“per se”* forces users to change their mindset on how they should handle and manage containers.
+This characteristic forces users to change their mindset on how they should handle and manage containers.
 
 I explained all what you should **NOT** do in containers to keep extracting the best beneficts of it in [Red Hat Developers Blog](http://developerblog.redhat.com/2016/02/24/10-things-to-avoid-in-docker-containers/). Check it out, and register at [Red Hat Developers website](https://developers.redhat.com/) to have access to more amazing content for Developers.
 
