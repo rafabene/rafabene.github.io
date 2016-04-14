@@ -6,21 +6,19 @@ modified: 2015-09-27T20:53:07.573882-04:00
 comments: true
 image:
   feature: background.jpg
-  credit: kleinarl
-  creditlink: http://www.stockhambauer.at/
+  credit: solisvending
+  creditlink: http://solisvending.net/
 ---
 
 > TLDR; Short and Copyable version
 --------------------------------
-> Rafael Benevides is a Senior Software Engineer at [Red Hat](http://www.redhat.com),
-working on [JBoss](http://www.jboss.org) open-source projects with emphasis
-on improving developer productivity. In his current role, he is the
-[JBoss Developer Materials](http://www.jboss.org/developer-materials/)
-lead providing Quickstarts and [tools](https://github.com/rafabene) to improve
-the developer's experience. He worked in several fields including application
+> Rafael Benevides is a Director of Developer Experience at [Red Hat](http://www.redhat.com). 
+In his current role he helps developers worldwide to be more effective in software development, 
+and he also promotes tools and practices that help them to be more productive.
+He worked in several fields including application
 architecture and design. Besides that, he is a member
 of [Apache DeltaSpike](http://deltaspike.apache.org) PMC
-- a Duke’s Choice Award winner project. He also worked in several fields including application architecture and design, and as a speaker in conferences like JUDCon, TDC, JavaOne and Devoxx.
+- a Duke’s Choice Award winner project.  And a speaker in conferences like JUDCon, TDC, JavaOne and Devoxx.
 [Twitter](http://twitter.com/rafabene)
 | [LinkedIn](https://www.linkedin.com/in/rafaelbenevides)
 | [rafabene.com](http://rafabene.com)
@@ -29,10 +27,10 @@ of [Apache DeltaSpike](http://deltaspike.apache.org) PMC
 
 ### Who am I?
 
-Hi, my name is Rafael Benevides. I am a 38 years old Brazilian who lives in [Raleigh,NC](https://www.google.com/maps/place/Raleigh,+NC/). Here, I work as Senior Software Engineer at [Red Hat](http://www.redhat.com).
+Hi, my name is Rafael Benevides. I am a 38 years old Brazilian who lives in [Raleigh,NC](https://www.google.com/maps/place/Raleigh,+NC/). Here, I work as a Director of Developer Experience at [Red Hat](http://www.redhat.com).
 
 ### Java developer
-I started learning Java in 2003 at a Lato Sensu Class. It was a first love sensation. After that I have been studying and trying to use Java as a Powered, Scalable and Productive Solution. As a result from this love I took certifications below:
+I started learning Java in 2003 at a Lato Sensu Class. It was a first love sensation. After that I have been studying and trying to use Java as a powered, scalable and productive solution. As a result from this love I took certifications below:
 
 - 2003 – Sun Certified Programmer for the Java 2 Platform 1.4
 - 2004 – Sun Certified Web Component Developer for J2EE 1.4
@@ -45,6 +43,7 @@ I started learning Java in 2003 at a Lato Sensu Class. It was a first love sensa
 - 2010 – JBCAA – JBoss Certified Application Administrator – EAP 5
 - 2012 – JBCD-Seam – JBoss Certified Developer in Seam
 - 2012 – JBCAA – JBoss Certified Application Administrator – EAP 6
+- 2016 - Red Hat Certificate of Expertise in Platform-as-a-Service - Openshift 3
 
 ### The early days
 
@@ -60,15 +59,17 @@ From 2001 to 2004 I worked at [Lab. Neo Química](http://www.neoquimica.com.br/)
 After I finished my Lato Sensu post-graduation in 2004, I moved to [Brasilia](https://www.google.com/maps/place/Brasília+-+Federal+District,+Brazil/) to  work until May 2007 in Politec allocated in [Brazilian Ministry of Justice](http://www.justica.gov.br/) where I participated in many projects that uses Java from Persistence Engine, passing by Business Component, and finally in view (Web or Desktop).
 I worked for [Summa Technologies](http://www.summa-tech.com/) and [INEP](http://www.inep.gov.br/) developing system with 20.000 simultaneous users.
 
-In november of 2009 I joinned [Red Hat](http://www.redhat.com/en) as JBoss Consultant and in 2012 I moved to Software Engineer working hard to promote enterprise Java solutions in an effective way.
+In november of 2009 I joinned [Red Hat](http://www.redhat.com/en) as JBoss Consultant. In 2012 I moved to Software Engineer working hard to promote enterprise Java solutions in an effective way. Since 2016 I become a Senior Program Manager, having the mission push even further the tools and practices that help developers to be more productive.
 
 My actual interests are:
 
 - Object Oriented / Functional Programming
+- Javascript (AngularJS and NodeJS)
 - Productive and Scalable Solutions
-- TI Methodologies / Agile Methodology
-- Containers / DevOps tools and principles
-- Javascript (AngularJS, NodeJS, etc)
+- Containers (Docker, Kubernetes and Openshift) 
+- DevOps tools and practices
+- Microservices
+- Agile Methodologies
 
 That’s all.
 

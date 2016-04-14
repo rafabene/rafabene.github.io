@@ -6,6 +6,6 @@ tags: [docker, devops, java, javascript, angular, agile, design patterns,
 architecture, git, github, nodejs, npm, conferences, talks, technologies ]
 image:
   feature: background.jpg
-  credit: kleinarl
-  creditlink: http://www.stockhambauer.at/
+  credit: solisvending
+  creditlink: http://solisvending.net/
 ---

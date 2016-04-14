@@ -13,15 +13,14 @@ image:
 ## .Next
 
 
+<hr>
+## .Past
 
 ### TriJUG meetup
 - **When:** March 21st 2016
 - **Where:** Raleigh - NC
 - **Name:** Docker for Java EE Developers
 - **Site:** [Meetup website](http://www.meetup.com/pt-BR/Triangle-Java-Users-Group/events/226005003/?eventId=226005003)
-
-<hr>
-## .Past
 
 ### DevConf.CZ 2016
 
