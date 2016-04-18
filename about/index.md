@@ -59,7 +59,7 @@ From 2001 to 2004 I worked at [Lab. Neo Química](http://www.neoquimica.com.br/)
 After I finished my Lato Sensu post-graduation in 2004, I moved to [Brasilia](https://www.google.com/maps/place/Brasília+-+Federal+District,+Brazil/) to  work until May 2007 in Politec allocated in [Brazilian Ministry of Justice](http://www.justica.gov.br/) where I participated in many projects that uses Java from Persistence Engine, passing by Business Component, and finally in view (Web or Desktop).
 I worked for [Summa Technologies](http://www.summa-tech.com/) and [INEP](http://www.inep.gov.br/) developing system with 20.000 simultaneous users.
 
-In november of 2009 I joinned [Red Hat](http://www.redhat.com/en) as JBoss Consultant. In 2012 I moved to Software Engineer working hard to promote enterprise Java solutions in an effective way. Since 2016 I become a Senior Program Manager, having the mission push even further the tools and practices that help developers to be more productive.
+In november of 2009 I joinned [Red Hat](http://www.redhat.com/en) as JBoss Consultant. In 2012 I moved to Software Engineer working hard to promote enterprise Java solutions in an effective way. Since 2016 I become a Senior Product Manager, having the mission push even further the tools and practices that help developers to be more productive.
 
 My actual interests are:
 
