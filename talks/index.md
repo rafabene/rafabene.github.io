@@ -12,6 +12,17 @@ image:
 
 ## .Next
 
+### Utah JUG meetup
+- **When:** June 16th 2016
+- **Where:** Salt Lake City - UT
+- **Name:** Resilient Microservices Architectures
+- **Site:** [Meetup website](http://www.meetup.com/Utah-Java-Users-Group/events/229571744/)
+
+### Raleigh Openshift meetup
+- **When:** Jly 21st 2016
+- **Where:** Raleigh - NC
+- **Name:** OpenShift as a Microservices Platform
+- **Site:** [Meetup website](http://www.meetup.com/Raleigh-Openshift-Meetup/events/231166914/)
 
 <hr>
 ## .Past
