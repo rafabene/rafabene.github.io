@@ -18,8 +18,14 @@ image:
 - **Name:** Resilient Microservices Architectures
 - **Site:** [Meetup website](http://www.meetup.com/Utah-Java-Users-Group/events/229571744/)
 
+### Boston Openshift meetup
+- **When:** July 7th 2016
+- **Where:** Boston - MA
+- **Name:** OpenShift as a Microservices Platform
+- **Site:** [Meetup website](http://www.meetup.com/Boston-OpenShift-Meetup/events/231391761/)
+
 ### Raleigh Openshift meetup
-- **When:** Jly 21st 2016
+- **When:** July 21st 2016
 - **Where:** Raleigh - NC
 - **Name:** OpenShift as a Microservices Platform
 - **Site:** [Meetup website](http://www.meetup.com/Raleigh-Openshift-Meetup/events/231166914/)
