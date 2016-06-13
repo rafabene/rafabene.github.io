@@ -18,6 +18,12 @@ image:
 - **Name:** Resilient Microservices Architectures
 - **Site:** [Meetup website](http://www.meetup.com/Utah-Java-Users-Group/events/229571744/)
 
+### DevNation 2016
+- **When:** June 21st 2016
+- **Where:** San Francisco - CA
+- **Name:** DevNation CodeStarter - a evening of Kubernetes hacking with Google Cloud Platform
+- **Site:** [DevNation 2016 website](http://www.devnation.org/#agenda)
+
 ### Boston Openshift meetup
 - **When:** July 7th 2016
 - **Where:** Boston - MA
@@ -29,6 +35,12 @@ image:
 - **Where:** Raleigh - NC
 - **Name:** OpenShift as a Microservices Platform
 - **Site:** [Meetup website](http://www.meetup.com/Raleigh-Openshift-Meetup/events/231166914/)
+
+### Raleigh Kubernetes meetup
+- **When:** August 11th 2016
+- **Where:** Raleigh - NC
+- **Name:** Ideal Platform for Microservices Deployment
+- **Site:** [Meetup website](http://www.meetup.com/Triangle-Kubernetes-Meetup/events/231861213/)
 
 <hr>
 ## .Past
