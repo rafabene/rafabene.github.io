@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Microservices CI/CD Pipelines in Opensift
+title: Microservices CI/CD Pipelines in Openshift
 comments: true
 ---
 
