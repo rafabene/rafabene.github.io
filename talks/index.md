@@ -12,12 +12,6 @@ image:
 
 ## .Next
 
-### Utah JUG meetup
-- **When:** June 16th 2016
-- **Where:** Salt Lake City - UT
-- **Name:** Resilient Microservices Architectures
-- **Site:** [Meetup website](http://www.meetup.com/Utah-Java-Users-Group/events/229571744/)
-
 ### DevNation 2016
 - **When:** June 21st 2016
 - **Where:** San Francisco - CA
@@ -42,8 +36,21 @@ image:
 - **Name:** Ideal Platform for Microservices Deployment
 - **Site:** [Meetup website](http://www.meetup.com/Triangle-Kubernetes-Meetup/events/231861213/)
 
+### DevOps Days Boston
+- **When:** August 25th 2016
+- **Where:** Boston - NC
+- **Name:** Kubernetes Hands-on lab
+- **Site:** [Event page](http://www.devopsdays.org/events/2016-boston/program/rafael-benevides/)
+
 <hr>
 ## .Past
+
+### Utah JUG meetup
+- **When:** June 16th 2016
+- **Where:** Salt Lake City - UT
+- **Name:** Resilient Microservices Architectures
+- **Site:** [Meetup website](http://www.meetup.com/Utah-Java-Users-Group/events/229571744/)
+- **Slides:** [Google Slides](http://bit.ly/redhatmsa)
 
 ### TriJUG meetup
 - **When:** March 21st 2016
