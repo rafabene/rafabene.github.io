@@ -18,18 +18,6 @@ image:
 - **Name:** DevNation CodeStarter - a evening of Kubernetes hacking with Google Cloud Platform
 - **Site:** [DevNation 2016 website](http://www.devnation.org/#agenda)
 
-### Boston Openshift meetup
-- **When:** July 7th 2016
-- **Where:** Boston - MA
-- **Name:** OpenShift as a Microservices Platform
-- **Site:** [Meetup website](http://www.meetup.com/Boston-OpenShift-Meetup/events/231391761/)
-
-### Raleigh Openshift meetup
-- **When:** July 21st 2016
-- **Where:** Raleigh - NC
-- **Name:** OpenShift as a Microservices Platform
-- **Site:** [Meetup website](http://www.meetup.com/Raleigh-Openshift-Meetup/events/231166914/)
-
 ### Raleigh Kubernetes meetup
 - **When:** August 11th 2016
 - **Where:** Raleigh - NC
@@ -44,6 +32,18 @@ image:
 
 <hr>
 ## .Past
+
+### Raleigh Openshift meetup
+- **When:** July 21st 2016
+- **Where:** Raleigh - NC
+- **Name:** OpenShift as a Microservices Platform
+- **Site:** [Meetup website](http://www.meetup.com/Raleigh-Openshift-Meetup/events/231166914/)
+
+### Boston Openshift meetup
+- **When:** July 7th 2016
+- **Where:** Boston - MA
+- **Name:** OpenShift as a Microservices Platform
+- **Site:** [Meetup website](http://www.meetup.com/Boston-OpenShift-Meetup/events/231391761/)
 
 ### Utah JUG meetup
 - **When:** June 16th 2016

@@ -45,6 +45,7 @@ I started learning Java in 2003 at a Lato Sensu Class. It was a first love sensa
 - 2012 – JBCAA – JBoss Certified Application Administrator – EAP 6
 - 2016 - Red Hat Certificate of Expertise in Platform-as-a-Service - Openshift 3
 - 2016 - Red Hat Certificate of Expertise in Containerized Application Development
+- 2016 - Red Hat Certificate of Expertise in Ansible Automation
 
 ### The early days
 
