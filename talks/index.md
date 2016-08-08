@@ -12,12 +12,6 @@ image:
 
 ## .Next
 
-### DevNation 2016
-- **When:** June 21st 2016
-- **Where:** San Francisco - CA
-- **Name:** DevNation CodeStarter - a evening of Kubernetes hacking with Google Cloud Platform
-- **Site:** [DevNation 2016 website](http://www.devnation.org/#agenda)
-
 ### Raleigh Kubernetes meetup
 - **When:** August 11th 2016
 - **Where:** Raleigh - NC
@@ -30,8 +24,31 @@ image:
 - **Name:** Kubernetes Hands-on lab
 - **Site:** [Event page](http://www.devopsdays.org/events/2016-boston/program/rafael-benevides/)
 
+### JavaOne 2016
+- **When:** September 18-22 2016
+- **Where:** San Francisco
+- **Name:** The Deploy Master: From Basic to Zero Downtime, Blue/Green, A/B, and Canary
+- **Site:** [Event page](https://oracle.rainfocus.com/scripts/catalog/oow16.jsp?event=javaone&search=benevides&search.event=javaone)
+
+### ContainerCon Europe 2016
+- **When:** October 6th 2016
+- **Where:** Berlin - Germany
+- **Name:** Kubernetes Hands-on lab
+- **Site:** [Event page](https://linuxconcontainerconeurope2016.sched.org/event/7oHq/tutorial-kubernetes-hands-on-lab-rafael-benevides-red-hat)
+
+### All Things Open 2016
+- **When:** October 26th-27th 2016
+- **Where:** Raleigh-NC
+- **Name:** 12 Factors to Cloud Success
+
 <hr>
 ## .Past
+
+### DevNation 2016
+- **When:** June 21st 2016
+- **Where:** San Francisco - CA
+- **Name:** DevNation CodeStarter - a evening of Kubernetes hacking with Google Cloud Platform
+- **Site:** [DevNation 2016 website](http://www.devnation.org/#agenda)
 
 ### Raleigh Openshift meetup
 - **When:** July 21st 2016
