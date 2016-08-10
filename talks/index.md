@@ -17,6 +17,14 @@ image:
 - **Where:** Raleigh - NC
 - **Name:** Ideal Platform for Microservices Deployment
 - **Site:** [Meetup website](http://www.meetup.com/Triangle-Kubernetes-Meetup/events/231861213/)
+- **Slides:** [Google Slides](http://bit.ly/redhatmsa)
+
+### Triangle JUG
+- **When:** August 15th 2016
+- **Where:** Raleigh - NC
+- **Name:** Develop & Deploy Java apps as resilient Microservices Architectures
+- **Site:** [Meetup website](http://www.meetup.com/Triangle-Java-Users-Group/events/228681136/)
+- **Slides:** [Google Slides](http://bit.ly/redhatmsa)
 
 ### DevOps Days Boston
 - **When:** August 25th 2016
@@ -40,8 +48,10 @@ image:
 - **When:** October 26th-27th 2016
 - **Where:** Raleigh-NC
 - **Name:** 12 Factors to Cloud Success
+- **Site:** [Event page](https://allthingsopen.org/talk/12-factors-to-cloud-success/)
 
 <hr>
+
 ## .Past
 
 ### Raleigh Openshift meetup
@@ -49,12 +59,14 @@ image:
 - **Where:** Raleigh - NC
 - **Name:** OpenShift as a Microservices Platform
 - **Site:** [Meetup website](http://www.meetup.com/Raleigh-Openshift-Meetup/events/231166914/)
+- **Slides:** [Google Slides](http://bit.ly/redhatmsa)
 
 ### Boston Openshift meetup
 - **When:** July 7th 2016
 - **Where:** Boston - MA
 - **Name:** OpenShift as a Microservices Platform
 - **Site:** [Meetup website](http://www.meetup.com/Boston-OpenShift-Meetup/events/231391761/)
+- **Slides:** [Google Slides](http://bit.ly/redhatmsa)
 
 ### DevNation 2016
 - **When:** June 21st 2016
@@ -105,7 +117,7 @@ Talk 1
 - **Where:** Casablanca, Marroco
 - **Name:** DeltaSpike in a nutshell - Why so revolutionary?
 - **Slides:** [DZSlides](http://rafabene.com/deltaspike-cdi-toolbox/)
-- **Site:** [DevoxxMA](http://cfp.devoxx.ma/2015/talk/CLL-0718/DeltaSpike_in_a_nutshell_-_Why_so_revolutionary%3F)
+- **Site:** [DevoxxMA](http://cfp2015.devoxx.ma/2015/talk/CLL-0718/DeltaSpike_in_a_nutshell_-_Why_so_revolutionary%3F)
 
 Talk 2
 
@@ -113,7 +125,7 @@ Talk 2
 - **Where:** Casablanca, Marroco
 - **Name:** Docker and Kubernetes for Java EE Developers
 - **Material:** [http://bit.ly/DockerKubernetes](http://bit.ly/DockerKubernetes)
-- **Site:** [DevoxxMA](http://cfp.devoxx.ma/2015/talk/KWW-1312/Docker_and_Kubernetes_for_Java_EE_Developers)
+- **Site:** [DevoxxMA](http://cfp2015.devoxx.ma/2015/talk/UMK-8733/Docker_and_Kubernetes_for_Java_EE_Developers)
 
 ### JavaOne 2015
 
