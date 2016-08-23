@@ -12,19 +12,6 @@ image:
 
 ## .Next
 
-### Raleigh Kubernetes meetup
-- **When:** August 11th 2016
-- **Where:** Raleigh - NC
-- **Name:** Ideal Platform for Microservices Deployment
-- **Site:** [Meetup website](http://www.meetup.com/Triangle-Kubernetes-Meetup/events/231861213/)
-- **Slides:** [Google Slides](http://bit.ly/redhatmsa)
-
-### Triangle JUG
-- **When:** August 15th 2016
-- **Where:** Raleigh - NC
-- **Name:** Develop & Deploy Java apps as resilient Microservices Architectures
-- **Site:** [Meetup website](http://www.meetup.com/Triangle-Java-Users-Group/events/228681136/)
-- **Slides:** [Google Slides](http://bit.ly/redhatmsa)
 
 ### DevOps Days Boston
 - **When:** August 25th 2016
@@ -50,9 +37,29 @@ image:
 - **Name:** 12 Factors to Cloud Success
 - **Site:** [Event page](https://allthingsopen.org/talk/12-factors-to-cloud-success/)
 
+### Devoxx Belgium 2016
+- **When:** November 7th-11th 2016
+- **Where:** Antwerpen - Belgim
+- **Name:**  Hands-on with Kubernetes - From basic to advanced features
+- **Site:** [Event page](http://cfp.devoxx.be/2016/speaker/rafael_benevides)
+
 <hr>
 
 ## .Past
+
+### Triangle JUG
+- **When:** August 15th 2016
+- **Where:** Raleigh - NC
+- **Name:** Develop & Deploy Java apps as resilient Microservices Architectures
+- **Site:** [Meetup website](http://www.meetup.com/Triangle-Java-Users-Group/events/228681136/)
+- **Slides:** [Google Slides](http://bit.ly/redhatmsa)
+
+### Raleigh Kubernetes meetup
+- **When:** August 11th 2016
+- **Where:** Raleigh - NC
+- **Name:** Ideal Platform for Microservices Deployment
+- **Site:** [Meetup website](http://www.meetup.com/Triangle-Kubernetes-Meetup/events/231861213/)
+- **Slides:** [Google Slides](http://bit.ly/redhatmsa)
 
 ### Raleigh Openshift meetup
 - **When:** July 21st 2016
@@ -73,6 +80,7 @@ image:
 - **Where:** San Francisco - CA
 - **Name:** DevNation CodeStarter - a evening of Kubernetes hacking with Google Cloud Platform
 - **Site:** [DevNation 2016 website](http://www.devnation.org/#agenda)
+- **Lab:** [Lab instructions](http://bit.ly/kubernetes-devnation16)
 
 ### Utah JUG meetup
 - **When:** June 16th 2016
