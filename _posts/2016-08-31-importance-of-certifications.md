@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The importance of IT certifications
+title: The importance (or not) of IT certifications
 comments: true
 ---
 
