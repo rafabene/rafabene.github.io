@@ -141,9 +141,9 @@ Talk 2
 - **Name:** Docker for Java EE Developers
 - **Site:** [DevNexus](https://www.devnexus.com/s/devnexus2016/presentations#id-5423)
 
-### Devoxx Marroco 2015
+### Devoxx Morocco 2015
 
-Blog post: [Devoxx Marocco 2015 - I was there!](/2015/11/26/devoxxma-2015/)
+Blog post: [Devoxx Morocco 2015 - I was there!](/2015/11/26/devoxxma-2015/)
 
 Talk 1
 
