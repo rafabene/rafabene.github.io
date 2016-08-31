@@ -12,17 +12,27 @@ image:
 
 ## .Next
 
-
-### DevOps Days Boston
-- **When:** August 25th 2016
-- **Where:** Boston - NC
-- **Name:** Kubernetes Hands-on lab
-- **Site:** [Event page](http://www.devopsdays.org/events/2016-boston/program/rafael-benevides/)
-
 ### JavaOne 2016
+
+Talk 1
+
 - **When:** September 18-22 2016
 - **Where:** San Francisco
-- **Name:** The Deploy Master: From Basic to Zero Downtime, Blue/Green, A/B, and Canary
+- **Name:** The Deploy Master: From Basic to Zero Downtime, Blue/Green, A/B, and Canary - CON5431
+- **Site:** [Event page](https://oracle.rainfocus.com/scripts/catalog/oow16.jsp?event=javaone&search=benevides&search.event=javaone)
+
+Talk 2
+
+- **When:** September 18-22 2016
+- **Where:** San Francisco
+- **Name:** Microservices with Kubernetes, Docker, and Jenkins - CON8016
+- **Site:** [Event page](https://oracle.rainfocus.com/scripts/catalog/oow16.jsp?event=javaone&search=benevides&search.event=javaone)
+
+Hands-on-lab
+
+- **When:** September 18-22 2016
+- **Where:** San Francisco
+- **Name:** Kubernetes for Java Developers - HOL5413
 - **Site:** [Event page](https://oracle.rainfocus.com/scripts/catalog/oow16.jsp?event=javaone&search=benevides&search.event=javaone)
 
 ### ContainerCon Europe 2016
@@ -37,6 +47,12 @@ image:
 - **Name:** 12 Factors to Cloud Success
 - **Site:** [Event page](https://allthingsopen.org/talk/12-factors-to-cloud-success/)
 
+### Devoxx Morocco 2016
+- **When:** November 1th-3th 2016
+- **Where:** Casablanca - Morocco
+- **Name:**  Develop & Deploy Java apps as resilient Microservices Architectures
+- **Site:** [Event page](https://devoxx.ma/#program)
+
 ### Devoxx Belgium 2016
 - **When:** November 7th-11th 2016
 - **Where:** Antwerpen - Belgim
@@ -46,6 +62,12 @@ image:
 <hr>
 
 ## .Past
+
+### DevOps Days Boston
+- **When:** August 25th 2016
+- **Where:** Boston - NC
+- **Name:** Kubernetes Hands-on lab
+- **Site:** [Event page](http://www.devopsdays.org/events/2016-boston/program/rafael-benevides/)
 
 ### Triangle JUG
 - **When:** August 15th 2016
@@ -97,6 +119,8 @@ image:
 
 ### DevConf.CZ 2016
 
+Blog post: [See you in DevConf.CZ 2016](2016/02/03/see-you-devconfcz-2016/)
+
 Talk 1
 
 - **When:** February 6th 2016
@@ -119,6 +143,8 @@ Talk 2
 
 ### Devoxx Marroco 2015
 
+Blog post: [Devoxx Marocco 2015 - I was there!](/2015/11/26/devoxxma-2015/)
+
 Talk 1
 
 - **When:** November 17th 2015
@@ -136,6 +162,10 @@ Talk 2
 - **Site:** [DevoxxMA](http://cfp2015.devoxx.ma/2015/talk/UMK-8733/Docker_and_Kubernetes_for_Java_EE_Developers)
 
 ### JavaOne 2015
+
+Blog posts:
+[JavaOne 2015 - Day 1 and 2](/2015/10/26/javaone2015/)
+[JavaOne 2015 - Docker for Java EE Developers](/2015/10/29/javaone-docker-hol/)
 
 Talk 1
 

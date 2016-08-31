@@ -12,7 +12,7 @@ image:
 
 > TLDR; Short and Copyable version
 --------------------------------
-> Rafael Benevides is a Director of Developer Experience at [Red Hat](http://www.redhat.com). 
+> Rafael Benevides is Director of Developer Experience at [Red Hat](http://www.redhat.com). 
 In his current role he helps developers worldwide to be more effective in software development, 
 and he also promotes tools and practices that help them to be more productive.
 He worked in several fields including application
@@ -32,13 +32,13 @@ Hi, my name is Rafael Benevides. I am a 38 years old Brazilian who lives in [Ral
 ### Java developer
 I started learning Java in 2003 at a Lato Sensu Class. It was a first love sensation. After that I have been studying and trying to use Java as a powered, scalable and productive solution. As a result from this love I took certifications below:
 
-- 2003 – Sun Certified Programmer for the Java 2 Platform 1.4
-- 2004 – Sun Certified Web Component Developer for J2EE 1.4
-- 2006 – Sun Certified Enterprise Architect for Java Platform Enterprise Edition Technology
-- 2007 – Sun Certified Business Component Developer for the Java Platform, Enterprise Edition 5
+- 2003 – SCJP - Sun Certified Programmer for the Java 2 Platform 1.4
+- 2004 – SCWCD - Sun Certified Web Component Developer for J2EE 1.4
+- 2006 – SCEA - Sun Certified Enterprise Architect for Java Platform Enterprise Edition Technology
+- 2007 – SCBCD - Sun Certified Business Component Developer for the Java Platform, Enterprise Edition 5
 - 2007 – ITIL Foundation Certified
 - 2007 – SAP Netweaver Certified
-- 2008 – Sun Certified Java Associate
+- 2008 – SCJA - Sun Certified Java Associate
 - 2009 – IBM Certified Specialist: Software Quality
 - 2010 – JBCAA – JBoss Certified Application Administrator – EAP 5
 - 2012 – JBCD-Seam – JBoss Certified Developer in Seam

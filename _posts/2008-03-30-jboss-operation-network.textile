@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JON - Jboss Operation Network
+title: JON - JBoss Operation Network
 comments: true
 tags:
   - java
