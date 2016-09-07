@@ -9,7 +9,7 @@ If I had to describe DevOpsDays Boston with a single word, I would say: Vibrant!
 {: .center}
 ![](/images/devopsdays-brain.png)
 
-Last weekend I attended to [DevOpsDays](https://www.devopsdays.org/events/2016-boston/welcome/) on Thursday and Friday (August 25th and 26th) in Boston. 
+On August 25th (Thursday) and 26th (Friday) I attended to [DevOpsDays](https://www.devopsdays.org/events/2016-boston/welcome/) in Boston. 
 
 The conference was located in the [Boston Park Plaza](http://www.bostonparkplaza.com/), a Hotel that provided a nice infrastructure to receive almost 1000 people (speakers, sponsors, volunteers, attendees, etc) during the event.
 
