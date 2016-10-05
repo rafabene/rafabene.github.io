@@ -12,13 +12,11 @@ image:
 
 > TLDR; Short and Copyable version
 --------------------------------
-> Rafael Benevides is Director of Developer Experience at [Red Hat](http://www.redhat.com). 
-In his current role he helps developers worldwide to be more effective in software development, 
-and he also promotes tools and practices that help them to be more productive.
-He worked in several fields including application
-architecture and design. Besides that, he is a member
-of [Apache DeltaSpike](http://deltaspike.apache.org) PMC
-- a Duke’s Choice Award winner project.  And a speaker in conferences like JUDCon, TDC, JavaOne and Devoxx.
+> [Rafael Benevides]((http://twitter.com/rafabene)) is Director of Developer Experience at [Red Hat](http://www.redhat.com). 
+With many years of experience in several fields of the IT industry, he helps developers and companies all over the 
+world to be more effective in software development. Rafael considers himself a problem solver who has a big love for sharing.
+He is a member of [Apache DeltaSpike](http://deltaspike.apache.org) PMC - a Duke’s Choice Award winner project, 
+and a speaker in conferences like JavaOne, Devoxx, TDC, DevNexus and many others.  
 [Twitter](http://twitter.com/rafabene)
 | [LinkedIn](https://www.linkedin.com/in/rafaelbenevides)
 | [rafabene.com](http://rafabene.com)
@@ -27,7 +25,7 @@ of [Apache DeltaSpike](http://deltaspike.apache.org) PMC
 
 ### Who am I?
 
-Hi, my name is Rafael Benevides. I am a 38 years old Brazilian who lives in [Raleigh,NC](https://www.google.com/maps/place/Raleigh,+NC/). Here, I work as a Director of Developer Experience at [Red Hat](http://www.redhat.com).
+Hi, my name is Rafael Benevides. I am a 39 years old Brazilian who lives in [Raleigh,NC](https://www.google.com/maps/place/Raleigh,+NC/). Here, I work as a Director of Developer Experience at [Red Hat](http://www.redhat.com).
 
 ### Java developer
 I started learning Java in 2003 at a Lato Sensu Class. It was a first love sensation. After that I have been studying and trying to use Java as a powered, scalable and productive solution. As a result from this love I took certifications below:
@@ -61,17 +59,18 @@ From 2001 to 2004 I worked at [Lab. Neo Química](http://www.neoquimica.com.br/)
 After I finished my Lato Sensu post-graduation in 2004, I moved to [Brasilia](https://www.google.com/maps/place/Brasília+-+Federal+District,+Brazil/) to  work until May 2007 in Politec allocated in [Brazilian Ministry of Justice](http://www.justica.gov.br/) where I participated in many projects that uses Java from Persistence Engine, passing by Business Component, and finally in view (Web or Desktop).
 I worked for [Summa Technologies](http://www.summa-tech.com/) and [INEP](http://www.inep.gov.br/) developing system with 20.000 simultaneous users.
 
-In november of 2009 I joinned [Red Hat](http://www.redhat.com/en) as JBoss Consultant. In 2012 I moved to Software Engineer working hard to promote enterprise Java solutions in an effective way. Since 2016 I become a Senior Product Manager, having the mission push even further the tools and practices that help developers to be more productive.
+In november of 2009 I joined [Red Hat](http://www.redhat.com/en) as JBoss Consultant. In 2012 I moved to Software Engineer working hard to promote enterprise Java solutions in an effective way. Since 2016 I become a Senior Product Manager, having the mission push even further the tools and practices that help developers to be more productive.
 
-My actual interests are:
+My current interests are:
 
 - Object Oriented / Functional Programming
 - Javascript (AngularJS and NodeJS)
-- Productive and Scalable Solutions
+- Cloud applications
 - Containers (Docker, Kubernetes and Openshift) 
 - DevOps tools and practices
 - Microservices
 - Agile Methodologies
+- Opensource
 
 That’s all.
 

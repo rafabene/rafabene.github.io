@@ -10,256 +10,167 @@ image:
   creditlink: http://www.stockhambauer.at/
 ---
 
+* Will be replaced with the ToC, excluding the "Contents" header
+{:toc}
+
+
 ## .Next
 
-### JavaOne 2016
+#### October 5th 2016 - Docker Zürich experts community - Zurich - Switzerland
 
-Talk 1
+- [Delivering like a Pro with Docker](https://www.meetup.com/Docker-Zurich/events/234171089/)
 
-- **When:** September 18-22 2016
-- **Where:** San Francisco
-- **Name:** The Deploy Master: From Basic to Zero Downtime, Blue/Green, A/B, and Canary - CON5431
-- **Site:** [Event page](https://oracle.rainfocus.com/scripts/catalog/oow16.jsp?event=javaone&search=benevides&search.event=javaone)
+#### October 6th 2016 - ContainerCon Europe - Berlin - Germany
 
-Talk 2
+- [Kubernetes Hands-on lab](https://linuxconcontainerconeurope2016.sched.org/event/7oHq/tutorial-kubernetes-hands-on-lab-rafael-benevides-red-hat)
 
-- **When:** September 18-22 2016
-- **Where:** San Francisco
-- **Name:** Microservices with Kubernetes, Docker, and Jenkins - CON8016
-- **Site:** [Event page](https://oracle.rainfocus.com/scripts/catalog/oow16.jsp?event=javaone&search=benevides&search.event=javaone)
+#### October 26th-27th 2016 - All Things Open 2016 - Raleigh, NC - USA
 
-Hands-on-lab
+- [12 Factors to Cloud Success](https://allthingsopen.org/talk/12-factors-to-cloud-success/)
+ 
+#### November 1th-3th 2016 - Devoxx Morocco 2016 - Casablanca - Morocco 
 
-- **When:** September 18-22 2016
-- **Where:** San Francisco
-- **Name:** Kubernetes for Java Developers - HOL5413
-- **Site:** [Event page](https://oracle.rainfocus.com/scripts/catalog/oow16.jsp?event=javaone&search=benevides&search.event=javaone)
+- [Develop & Deploy Java apps as resilient Microservices Architectures](https://cfp.devoxx.ma/2016/talk/MLT-8749/Develop_&_Deploy_Java_apps_as_resilient_Microservices_Architectures)
 
-### ContainerCon Europe 2016
-- **When:** October 6th 2016
-- **Where:** Berlin - Germany
-- **Name:** Kubernetes Hands-on lab
-- **Site:** [Event page](https://linuxconcontainerconeurope2016.sched.org/event/7oHq/tutorial-kubernetes-hands-on-lab-rafael-benevides-red-hat)
+#### November 7th-11th 2016 - Devoxx Belgium 2016 - Antwerpen - Belgium
 
-### All Things Open 2016
-- **When:** October 26th-27th 2016
-- **Where:** Raleigh-NC
-- **Name:** 12 Factors to Cloud Success
-- **Site:** [Event page](https://allthingsopen.org/talk/12-factors-to-cloud-success/)
-
-### Devoxx Morocco 2016
-- **When:** November 1th-3th 2016
-- **Where:** Casablanca - Morocco
-- **Name:**  Develop & Deploy Java apps as resilient Microservices Architectures
-- **Site:** [Event page](https://devoxx.ma/#program)
-
-### Devoxx Belgium 2016
-- **When:** November 7th-11th 2016
-- **Where:** Antwerpen - Belgim
-- **Name:**  Hands-on with Kubernetes - From basic to advanced features
-- **Site:** [Event page](http://cfp.devoxx.be/2016/speaker/rafael_benevides)
+- [Hands-on with Kubernetes - from basic to advanced features](http://cfp.devoxx.be/2016/speaker/rafael_benevides)
 
 <hr>
 
-## .Past
+## Past Conferences
 
-### DevOps Days Boston
-- **When:** August 25th 2016
-- **Where:** Boston - NC
-- **Name:** Kubernetes Hands-on lab
-- **Site:** [Event page](http://www.devopsdays.org/events/2016-boston/program/rafael-benevides/)
+### 2016 
 
-### Triangle JUG
-- **When:** August 15th 2016
-- **Where:** Raleigh - NC
-- **Name:** Develop & Deploy Java apps as resilient Microservices Architectures
-- **Site:** [Meetup website](http://www.meetup.com/Triangle-Java-Users-Group/events/228681136/)
-- **Slides:** [Google Slides](http://bit.ly/redhatmsa)
+#### JavaOne  - September 18-22 2016 - San Francisco, CA - USA
+ - **Title:** [The Deploy Master: From Basic to Zero Downtime, Blue/Green, A/B, and Canary](https://oracle.rainfocus.com/scripts/catalog/oow16.jsp?event=javaone&search=con5431&search.event=javaone)
+ - **Slides:** [SlideShare](http://www.slideshare.net/RafaelBenevides1/javaone-2016-the-deploy-master-from-basic-to-zero-downtime-blue-green-ab-and-canary/RafaelBenevides1/javaone-2016-the-deploy-master-from-basic-to-zero-downtime-blue-green-ab-and-canary)
+ 
+ - **Title:** [Microservices with Kubernetes, Docker, and Jenkins](https://oracle.rainfocus.com/scripts/catalog/oow16.jsp?event=javaone&search=CON8016&search.event=javaone)
+ - **Slides:**: [SlideShare](http://www.slideshare.net/RafaelBenevides1/java-one-kubernetes-jenkins-and-microservices-66741247)
 
-### Raleigh Kubernetes meetup
-- **When:** August 11th 2016
-- **Where:** Raleigh - NC
-- **Name:** Ideal Platform for Microservices Deployment
-- **Site:** [Meetup website](http://www.meetup.com/Triangle-Kubernetes-Meetup/events/231861213/)
-- **Slides:** [Google Slides](http://bit.ly/redhatmsa)
+ - **Title:** [Kubernetes for Java Developers](https://oracle.rainfocus.com/scripts/catalog/oow16.jsp?event=javaone&search=HOL5413&search.event=javaone)
+ - **Slides:**: [SlidesShare](http://www.slideshare.net/RafaelBenevides1/javaone-2016-kubernetes-introduction-for-javadevelopers)
 
-### Raleigh Openshift meetup
-- **When:** July 21st 2016
-- **Where:** Raleigh - NC
-- **Name:** OpenShift as a Microservices Platform
-- **Site:** [Meetup website](http://www.meetup.com/Raleigh-Openshift-Meetup/events/231166914/)
-- **Slides:** [Google Slides](http://bit.ly/redhatmsa)
+#### DevOps Days Boston - August 25th 2016 - Boston, MA - USA
+- **Title:** [Kubernetes Hands-on lab](http://www.devopsdays.org/events/2016-boston/program/rafael-benevides/)
+- **Slides:** [http://bit.ly/kubernetes-intro](http://bit.ly/kubernetes-intro)
 
-### Boston Openshift meetup
-- **When:** July 7th 2016
-- **Where:** Boston - MA
-- **Name:** OpenShift as a Microservices Platform
-- **Site:** [Meetup website](http://www.meetup.com/Boston-OpenShift-Meetup/events/231391761/)
-- **Slides:** [Google Slides](http://bit.ly/redhatmsa)
+#### DevNation 2016 - June 21st 2016 - San Francisco, CA - USA
+- **Title:** [An evening of Kubernetes hacking with Google Cloud Platform](http://www.devnation.org/#agenda)
+- **Material:** [instructions](http://bit.ly/kubernetes-devnation16)
 
-### DevNation 2016
-- **When:** June 21st 2016
-- **Where:** San Francisco - CA
-- **Name:** DevNation CodeStarter - a evening of Kubernetes hacking with Google Cloud Platform
-- **Site:** [DevNation 2016 website](http://www.devnation.org/#agenda)
-- **Lab:** [Lab instructions](http://bit.ly/kubernetes-devnation16)
+#### DevConf.CZ 2016 - February 6th 2016 - Brno - Czech Republic
+- **Event blog post**: [See you in DevConf.CZ 2016](2016/02/03/see-you-devconfcz-2016/)
 
-### Utah JUG meetup
-- **When:** June 16th 2016
-- **Where:** Salt Lake City - UT
-- **Name:** Resilient Microservices Architectures
-- **Site:** [Meetup website](http://www.meetup.com/Utah-Java-Users-Group/events/229571744/)
-- **Slides:** [Google Slides](http://bit.ly/redhatmsa)
+- **Title:** [Docker for Java EE Developers](https://devconfcz2016.sched.org/event/5m0d/docker-for-java-ee-developers)
 
-### TriJUG meetup
-- **When:** March 21st 2016
-- **Where:** Raleigh - NC
-- **Name:** Docker for Java EE Developers
-- **Site:** [Meetup website](http://www.meetup.com/pt-BR/Triangle-Java-Users-Group/events/226005003/?eventId=226005003)
+- **Title:** [Java EE 7 Hands-on Lab with JBoss Forge](https://devconfcz2016.sched.org/event/5m0x/java-ee-7-hands-on-lab-with-jboss-forge)
 
-### DevConf.CZ 2016
+#### DevNexus 2016 - February 15th 2016 - Atlanta - GA
+- **Title:** [Docker for Java EE Developers](https://www.devnexus.com/s/devnexus2016/presentations#id-5423)
 
-Blog post: [See you in DevConf.CZ 2016](2016/02/03/see-you-devconfcz-2016/)
+### 2015
 
-Talk 1
+#### Devoxx Morocco 2015 - November 16th-17th 2015 - Casablanca -  Marroco
+- **Event blog post:** [Devoxx Morocco 2015 - I was there!](/2015/11/26/devoxxma-2015/)
 
-- **When:** February 6th 2016
-- **Where:** Brno - Czech Republic
-- **Name:** Docker for Java EE Developers
-- **Site:** [DevConf.cz Schedule](https://devconfcz2016.sched.org/event/5m0d/docker-for-java-ee-developers)
-
-Talk 2
-
-- **When:** February 6th 2016
-- **Where:** Brno - Czech Republic
-- **Name:** Java EE 7 Hands-on Lab with JBoss Forge
-- **Site:** [DevConf.cz Schedule](https://devconfcz2016.sched.org/event/5m0x/java-ee-7-hands-on-lab-with-jboss-forge)
-
-### DevNexus 2016
-- **When:** February 15th 2016
-- **Where:** Atlanta - GA
-- **Name:** Docker for Java EE Developers
-- **Site:** [DevNexus](https://www.devnexus.com/s/devnexus2016/presentations#id-5423)
-
-### Devoxx Morocco 2015
-
-Blog post: [Devoxx Morocco 2015 - I was there!](/2015/11/26/devoxxma-2015/)
-
-Talk 1
-
-- **When:** November 17th 2015
-- **Where:** Casablanca, Marroco
-- **Name:** DeltaSpike in a nutshell - Why so revolutionary?
+- **Title:** [DeltaSpike in a nutshell - Why so revolutionary?]((http://cfp2015.devoxx.ma/2015/talk/CLL-0718/DeltaSpike_in_a_nutshell_-_Why_so_revolutionary%3F))
 - **Slides:** [DZSlides](http://rafabene.com/deltaspike-cdi-toolbox/)
-- **Site:** [DevoxxMA](http://cfp2015.devoxx.ma/2015/talk/CLL-0718/DeltaSpike_in_a_nutshell_-_Why_so_revolutionary%3F)
 
-Talk 2
+- **Title:** [Docker and Kubernetes for Java EE Developers](http://cfp2015.devoxx.ma/2015/talk/UMK-8733/Docker_and_Kubernetes_for_Java_EE_Developers)
+- **Material**: [http://bit.ly/DockerKubernetes](http://bit.ly/DockerKubernetes)
 
-- **When:** November 16th 2015
-- **Where:** Casablanca, Marroco
-- **Name:** Docker and Kubernetes for Java EE Developers
-- **Material:** [http://bit.ly/DockerKubernetes](http://bit.ly/DockerKubernetes)
-- **Site:** [DevoxxMA](http://cfp2015.devoxx.ma/2015/talk/UMK-8733/Docker_and_Kubernetes_for_Java_EE_Developers)
+#### JavaOne 2015 - October 2015 - San Francisco, CA - USA
+- **Event blog posts:** [JavaOne 2015 - Day 1 and 2](/2015/10/26/javaone2015/) and [JavaOne 2015 - Docker for Java EE Developers](/2015/10/29/javaone-docker-hol/)
 
-### JavaOne 2015
-
-Blog posts:
-[JavaOne 2015 - Day 1 and 2](/2015/10/26/javaone2015/)
-[JavaOne 2015 - Docker for Java EE Developers](/2015/10/29/javaone-docker-hol/)
-
-Talk 1
-
-- **When:** October 28th 2015 (Wednesday) 3:00 PM
-- **Where:** San Francisco - CA
-- **Name:** Docker for Java EE Developers - HOL7249
+- **Title:** [Docker for Java EE Developers](https://events.rainfocus.com/oow15/catalog/oracle.jsp?search=HOL7249&search.event=openworldEvent&search.event=javaoneEvent)
 - **Material:** [http://bit.ly/DockerJavaEE](http://bit.ly/DockerJavaEE)
 - **Mini booth video:** [Youtube Video](https://www.youtube.com/watch?v=pxVPkfT8DKo)
-- **Site:** [JavaOne Session Catalog](https://events.rainfocus.com/oow15/catalog/oracle.jsp?search=HOL7249&search.event=openworldEvent&search.event=javaoneEvent)
 
-Talk 2
-
-- **When:** October 26th 2015 (Monday) 2:30 PM
-- **Where:** San Francisco - CA
-- **Name:** Apache DeltaSpike, the CDI Toolbox - CON2380
+- **Title:** [Apache DeltaSpike, the CDI Toolbox](https://events.rainfocus.com/oow15/catalog/oracle.jsp?search=CON2380&search.event=javaoneEvent)
 - **Slides:** [DZSlides](http://rafabene.com/deltaspike-cdi-toolbox/)
 - **Mini booth video:** [Youtube Video](https://www.youtube.com/watch?v=3McmEi3cs_s)
-- **Site:** [JavaOne Session Catalog](https://events.rainfocus.com/oow15/catalog/oracle.jsp?search=CON2380&search.event=javaoneEvent)
 
-### TDC 2015 - The Developers Conference
-- **When:** July 21th 2015 (Tuesday) 15:40 PM
-- **Where:** São Paulo - SP, Brazil
-- **Name:** Docker for Developers
-- **Slides:** [Slideshare](http://www.slideshare.net/RafaelBenevides1/docker-for-java-developers)
-- **Site:** [TDC](http://www.thedevelopersconference.com.br/tdc/2014/saopaulo/trilha-devops)
+#### TDC 2015 - The Developers Conference - July 21th 2015 - São Paulo, SP - Brazil
+- **Title:** [Docker for Developers](http://www.thedevelopersconference.com.br/tdc/2014/saopaulo/trilha-devops)
+- **Slides:** [SlideShare](http://www.slideshare.net/RafaelBenevides1/docker-for-java-developers)
 
-### II IFTech Day
-- **When:** October 9th 2014  11:40 AM
-- **Where:** Brasília- DF, Brazil
-- **Name:** CDI extensions and Apache DeltaSpike
-- **Site:** [IFB](http://www.ifb.edu.br/reitoria/reitoria/noticiasreitoria/7710-ifb-realiza-ii-iftechday)
+### 2014
 
-### JUDCon Brazil 2014 - JBoss Users and Developers Conference
-- **When:** September 26th 2014  15:00 PM
-- **Where:** São Paulo - SP, Brazil
-- **Name:** CDI extensions and Apache DeltaSpike
-- **Slides:** [Slideshare](http://www.slideshare.net/RafaelBenevides1/cdi-extensions-e-deltaspike)
-- **Site:** [JBoss.org](http://www.jboss.org/pt_BR/events/JUDCon/2014/brazil/agenda.html#CDI)
+#### II IFTech Day - October 9th 2014  - Brasília, DF - Brazil
+- **Title:** [CDI extensions and Apache DeltaSpike]((http://www.ifb.edu.br/reitoria/reitoria/noticiasreitoria/7710-ifb-realiza-ii-iftechday))
 
-### TDC  2014 - The Developers Conference
-- **When:** August 8th 2014  11:10 AM
-- **Where:** São Paulo - SP, Brazil
-- **Name:** CDI 1.1 e CDI Extensions: Desacoplamento Fácil e Rápido
-- **Slides:** [Slideshare](http://www.slideshare.net/RafaelBenevides1/tdc-2014-sp-e-o-deltaspike)
-- **Site:** [TDC](http://www.thedevelopersconference.com.br/tdc/2014/saopaulo/trilha-javaee)
+#### JUDCon Brazil 2014 - September 26th 2014 - São Paulo, SP - Brazil
+- **Title:** [CDI extensions and Apache DeltaSpike](http://www.jboss.org/pt_BR/events/JUDCon/2014/brazil/agenda.html#CDI)
+- **Slides:** [SlideShare](http://www.slideshare.net/RafaelBenevides1/cdi-extensions-e-deltaspike)
 
-### IFTech Day
-- **When:** September 5th 2013  11:00 AM
-- **Where:** Brasília- DF, Brazil
-- **Name:** JDF - JBoss Developer Framework
-- **Site:** [IFB](https://www.ifb.edu.br/attachments/5410_IFTechDay%20(1).pdf)
+#### TDC 2014 - August 8th 2014  - São Paulo, SP -  Brazil
+- **Title:** [CDI 1.1 e CDI Extensions: Desacoplamento Fácil e Rápido](http://www.thedevelopersconference.com.br/tdc/2014/saopaulo/trilha-javaee)
+- **Slides:** [SlideShare](http://www.slideshare.net/RafaelBenevides1/tdc-2014-sp-e-o-deltaspike)
 
-### TDC  2012 - The Developers Conference
-- **When:** October 20th 2012
-- **Where:** Goiânia - GO, Brazil
-- **Name:** JBoss Developer Framework
+### 2009 - 2013
+
+#### IFTech Day - September 5th 2013 - Brasília, DF - Brazil
+- **Title:** [JDF - JBoss Developer Framework](https://www.ifb.edu.br/attachments/5410_IFTechDay%20(1).pdf)
+
+#### TDC 2012 - October 20th 2012 - Goiânia, GO - Brazil
+- **Title:** [JBoss Developer Framework](http://www.thedevelopersconference.com.br/tdc/2012/index.html#goiania)
 - **Slides:** [Slideshare](http://www.slideshare.net/RafaelBenevides1/apresentao-jdf-no-tdc-2012)
-- **Site:** [TDC](http://www.thedevelopersconference.com.br/tdc/2012/index.html#goiania)
 
-### XTI Informática - MeetUp for employees
-- **When:** June 15th 2012
-- **Where:** Brasília - DF, Brazil
-- **Name:** Libertando os poderes do Java EE com o JBoss Seam
-- **Site:** [XTI](http://www.xti.com.br/noticias/meetup-xti-redhat.htm)
-- **Twitter:** [twitpic](http://twitpic.com/a0ibfe)
-
-### JBossInBossa 2011
-- **When:** October 10th 2011
-- **Where:** Brasília - DF, Brazil
-- **Name:** Gerenciamento de regras de Negócio com o Drools Guvnor
+#### JBossInBossa 2011 - October 10th 2011 - Brasília, DF, Brazil
+- **Title:** Gerenciamento de regras de Negócio com o Drools Guvnor
 - **Slides:** [Slideshare](http://www.slideshare.net/RafaelBenevides1/jbossinbossa-2011-brms)
-- **Site:** [Source Code](https://github.com/rafabene/JBossInBossa)
+- **Source code:** [Source Code](https://github.com/rafabene/JBossInBossa)
 
-### JBossInBossa 2010
-- **When:** May 8th 2010
-- **Where:** São Paulo - SP, Brazil
-- **Name:** Apresentando o Projeto XSeam e Arquiteturas de Referencia em Seam
+#### JBossInBossa 2010 - May 8th 2010 - São Paulo, SP, Brazil
+- **Title:** Apresentando o Projeto XSeam e Arquiteturas de Referencia em Seam
 - **Slides:** [Slideshare](http://www.slideshare.net/RafaelBenevides1/jbossinbossa-2010)
 
-### BelJUG monthly meeting
-- **When:** January 7th 2010
-- **Where:** Belém - PA, Brazil
-- **Name:** Velozes e Furiosos na Web, Produtividade com JBoss Seam
-- **Site:** [BelJUG](https://sites.google.com/a/beljug.com.br/site/eventos/reunioes/janeiro-2010)
-
-### Red Hat Roadshow 2009
-- **When:** August 4th 2009
-- **Where:** Brasília - DF, Brazil
-- **Name:** Case JBoss Rules INEP
+#### Red Hat Roadshow 2009 - August 4th 2009 - Brasília, DF - Brazil
+- **Title:** Case JBoss Rules INEP
 - **Slides:** [Slideshare](http://www.slideshare.net/RafaelBenevides1/red-hat-roadshow-2009)
 
-### SOUJava monthly meeting
-- **When:** November 2005
-- **Where:** Brasília - DF, Brazil
-- **Name:** Java à favor do consumidor Brasileiro
-- **Slides:** [Slideshare](http://www.slideshare.net/RafaelBenevides1/reunio-soujava-bsb-2005-java-a-favor-do-consumidor-brasileiro)
+<hr>
 
+## Past Meetups
+
+### 2016
+
+#### Triangle JUG - August 15th 2016 - Raleigh - NC - USA
+- **Title:** [Develop & Deploy Java apps as resilient Microservices Architectures](http://www.meetup.com/Triangle-Java-Users-Group/events/228681136/)
+- **Slides:** [http://bit.ly/redhatmsas](http://bit.ly/redhatmsa)
+
+#### Raleigh Kubernetes meetup - August 11th 2016 - Raleigh - NC - USA
+- **Title:** [Ideal Platform for Microservices Deployment](http://www.meetup.com/Triangle-Kubernetes-Meetup/events/231861213/)
+- **Slides:** [http://bit.ly/redhatmsa](http://bit.ly/redhatmsa)
+
+#### Raleigh Openshift meetup - July 21st 2016 - Raleigh - NC  - USA
+- **Title:** [OpenShift as a Microservices Platform](http://www.meetup.com/Raleigh-Openshift-Meetup/events/231166914/)
+- **Slides:** [http://bit.ly/redhatmsa](http://bit.ly/redhatmsa)
+
+#### Boston Openshift meetup - July 7th 2016 - Boston - MA - USA
+- **Title:** [OpenShift as a Microservices Platform](http://www.meetup.com/Boston-OpenShift-Meetup/events/231391761/)
+- **Slides:** [http://bit.ly/redhatmsa](http://bit.ly/redhatmsa)
+
+#### Utah JUG meetup - June 16th 2016 - Salt Lake City, UT - USA
+- **Title:** [Resilient Microservices Architectures](http://www.meetup.com/Utah-Java-Users-Group/events/229571744/)
+- **Slides:** [http://bit.ly/redhatmsa](http://bit.ly/redhatmsa)
+
+#### TriJUG meetup - March 21st 2016 - Raleigh - NC - USA
+- **Title:** [Docker for Java EE Developers](http://www.meetup.com/pt-BR/Triangle-Java-Users-Group/events/226005003/?eventId=226005003)
+- **Slides:** [SlideShare](http://www.slideshare.net/RafaelBenevides1/docker-for-java-developers)
+
+### 2005 - 2012
+
+#### XTI Informática - MeetUp for employees - June 15th 2012 - Brasília, DF - Brazil
+
+- **Title:** [Libertando os poderes do Java EE com o JBoss Seam](http://www.xti.com.br/noticias/meetup-xti-redhat.htm)
+- **Twitter:** [twitpic](http://twitpic.com/a0ibfe)
+
+#### BelJUG monthly meeting - January 7th 2010 - Belém, PA - Brazil
+- **Title:** [Velozes e Furiosos na Web, Produtividade com JBoss Seam](https://sites.google.com/a/beljug.com.br/site/eventos/reunioes/janeiro-2010)
+
+#### SOUJava monthly meeting - November 2005 - Brasília, DF - Brazil
+- **Title:** Java à favor do consumidor brasileiro
+- **Slides:** [Slideshare](http://www.slideshare.net/RafaelBenevides1/reunio-soujava-bsb-2005-java-a-favor-do-consumidor-brasileiro)
