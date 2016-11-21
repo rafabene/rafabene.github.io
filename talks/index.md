@@ -16,31 +16,37 @@ image:
 
 ## .Next
 
-#### October 5th 2016 - Docker Zürich experts community - Zurich - Switzerland
 
-- [Delivering like a Pro with Docker](https://www.meetup.com/Docker-Zurich/events/234171089/)
+#### February 22th-24th 2017 - DevNexus 2017 - Atlanta - GA
 
-#### October 6th 2016 - ContainerCon Europe - Berlin - Germany
+- [Hands-on with Docker, Kubernetes and OpenShift - from basic to advanced features](https://devnexus.com/s/devnexus2017/presentations/15489)
 
-- [Kubernetes Hands-on lab](https://linuxconcontainerconeurope2016.sched.org/event/7oHq/tutorial-kubernetes-hands-on-lab-rafael-benevides-red-hat)
-
-#### October 26th-27th 2016 - All Things Open 2016 - Raleigh, NC - USA
-
-- [12 Factors to Cloud Success](https://allthingsopen.org/talk/12-factors-to-cloud-success/)
- 
-#### November 1th-3th 2016 - Devoxx Morocco 2016 - Casablanca - Morocco 
-
-- [Develop & Deploy Java apps as resilient Microservices Architectures](https://cfp.devoxx.ma/2016/talk/MLT-8749/Develop_&_Deploy_Java_apps_as_resilient_Microservices_Architectures)
-
-#### November 7th-11th 2016 - Devoxx Belgium 2016 - Antwerpen - Belgium
-
-- [Hands-on with Kubernetes - from basic to advanced features](http://cfp.devoxx.be/2016/speaker/rafael_benevides)
 
 <hr>
 
 ## Past Conferences
 
 ### 2016 
+
+#### November 7th-11th 2016 - Devoxx Belgium 2016 - Antwerpen - Belgium
+
+- **Title:** [Hands-on with Kubernetes - from basic to advanced features](http://cfp.devoxx.be/2016/speaker/rafael_benevides)
+- **Slides:** [http://bit.ly/kubernetes-intro](http://bit.ly/kubernetes-intro)
+
+#### November 1th-3th 2016 - Devoxx Morocco 2016 - Casablanca - Morocco 
+
+- **Title:** [Develop & Deploy Java apps as resilient Microservices Architectures](https://cfp.devoxx.ma/2016/talk/MLT-8749/Develop_&_Deploy_Java_apps_as_resilient_Microservices_Architectures)
+- **Slides:** [http://bit.ly/redhatmsa](http://bit.ly/redhatmsa)
+
+#### October 26th-27th 2016 - All Things Open 2016 - Raleigh, NC - USA
+
+- **Title:** [12 Factors to Cloud Success](https://allthingsopen.org/talk/12-factors-to-cloud-success/)
+- **Slides:** [http://bit.ly/12factors-app](http://bit.ly/12factors-app)
+
+#### October 6th 2016 - ContainerCon Europe - Berlin - Germany
+
+- **Title:** [Kubernetes Hands-on lab](https://linuxconcontainerconeurope2016.sched.org/event/7oHq/tutorial-kubernetes-hands-on-lab-rafael-benevides-red-hat)
+- **Slides:** [http://bit.ly/kubernetes-intro](http://bit.ly/kubernetes-intro)
 
 #### JavaOne  - September 18-22 2016 - San Francisco, CA - USA
  - **Title:** [The Deploy Master: From Basic to Zero Downtime, Blue/Green, A/B, and Canary](https://oracle.rainfocus.com/scripts/catalog/oow16.jsp?event=javaone&search=con5431&search.event=javaone)
@@ -137,9 +143,17 @@ image:
 
 ### 2016
 
+#### Triangle JUG - November 14th 2016 - Raleigh - NC - USA
+- **Title:** [12 Factors to Cloud Success](https://www.meetup.com/Triangle-Java-Users-Group/events/227271189/)
+- **Slides:** [http://bit.ly/12factors-app](http://bit.ly/12factors-app)
+
+#### Docker Zürich experts community - October 5th 2016 -  - Zurich - Switzerland
+- **Title:** [Delivering like a Pro with Docker](https://www.meetup.com/Docker-Zurich/events/234171089/)
+- **Slides:** [http://bit.ly/thedeploymaster](http://bit.ly/thedeploymaster)
+
 #### Triangle JUG - August 15th 2016 - Raleigh - NC - USA
 - **Title:** [Develop & Deploy Java apps as resilient Microservices Architectures](http://www.meetup.com/Triangle-Java-Users-Group/events/228681136/)
-- **Slides:** [http://bit.ly/redhatmsas](http://bit.ly/redhatmsa)
+- **Slides:** [http://bit.ly/redhatmsa](http://bit.ly/redhatmsa)
 
 #### Raleigh Kubernetes meetup - August 11th 2016 - Raleigh - NC - USA
 - **Title:** [Ideal Platform for Microservices Deployment](http://www.meetup.com/Triangle-Kubernetes-Meetup/events/231861213/)
