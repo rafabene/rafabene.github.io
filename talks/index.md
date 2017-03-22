@@ -17,14 +17,58 @@ image:
 ## .Next
 
 
-#### February 22th-24th 2017 - DevNexus 2017 - Atlanta - GA
+#### March 27st 2017 - Oracle Code  - New York - NC
 
-- [Hands-on with Docker, Kubernetes and OpenShift - from basic to advanced features](https://devnexus.com/s/devnexus2017/presentations/15489)
+- [12 Factors to Succeed in the Cloud](https://developer.oracle.com/code/newyork)
+
+
+#### April 25th-28th 2017 - Great Indian Developer Summit - Bangalore - India
+
+- [Develop & Deploy Java Apps as Resilient Microservices Architectures](http://www.developermarch.com/developersummit/session.html?insert=Rafael)
+- [Mastering Deployments with Kubernetes & OpenShift](http://www.developermarch.com/developersummit/session.html?insert=Rafael1)
+- [12 Factors to Cloud success](http://www.developermarch.com/developersummit/session.html?insert=Rafael2)
+
+#### May 2nd-4th 2017 - Red Hat Summit - Boston - MA
+
+- [S103940 - 12 factors to cloud success](https://rh2017.smarteventscloud.com/connect/sessionDetail.ww?SESSION_ID=103940&tclass=popup)
+- [S103939 - Mastering deployments with Kubernetes & OpenShift: From basic to zero downtime, blue/green, A/B, and canary](https://rh2017.smarteventscloud.com/connect/sessionDetail.ww?SESSION_ID=103939&tclass=popup)
 
 
 <hr>
 
 ## Past Conferences
+
+### 2017
+
+#### March 21st 2017 - Oracle Code  - New York - NC
+
+- **Title:** [Develop & Deploy Java apps as resilient Microservices Architectures](https://developer.oracle.com/code/newyork)
+- **Slides:** [http://bit.ly/redhatmsa](http://bit.ly/redhatmsa)
+
+
+#### March 10th 2017 - TriadDevelopers - Winston-Salem - NC
+
+- **Title:** [Develop & Deploy Java apps as resilient Microservices Architectures](http://www.triadconference.com/schedule/)
+- **Slides:** [http://bit.ly/redhatmsa](http://bit.ly/redhatmsa)
+
+
+#### February 22th-24th 2017 - DevNexus 2017 - Atlanta - GA
+
+- **Title:** [Hands-on with Docker, Kubernetes and OpenShift - from basic to advanced features](https://devnexus.com/s/devnexus2017/presentations/15489)
+- **Material:** [OpenShift Hands-on lab in GCE](http://bit.ly/openshift4kb8s)
+
+
+#### January 27th-29th 2017 - DevConf.cz 2017 - Brno - Czech Republic
+
+- **Title:** [12 Factors to cloud success](https://devconf.cz/2017/schedule.html)
+- **Slides:** [http://bit.ly/12factors-app](http://bit.ly/12factors-app)
+
+- **Title:** [Develop & Deploy Java apps as resilient Microservices Architectures](https://devconf.cz/2017/schedule.html)
+- **Slides:** [http://bit.ly/redhatmsa](http://bit.ly/redhatmsa)
+
+- **Title:** [The Deploy Master: From Basic to Zero Downtime, Blue/Green, A/B, and Canary](https://devconf.cz/2017/schedule.html)
+- **Slides:** [bit.ly/thedeploymaster](bit.ly/thedeploymaster)
+
 
 ### 2016 
 
@@ -139,13 +183,19 @@ image:
 
 <hr>
 
-## Past Meetups
+## Past Meetups/Webscasts/etc
 
 ### 2016
+
+#### DFJUG - December 2nd 2016 - Youtube video (Pt-Br):
+- **Title:** [Microservices com Java e containers](https://www.youtube.com/watch?v=ICpE3nDYj_8)
 
 #### Triangle JUG - November 14th 2016 - Raleigh - NC - USA
 - **Title:** [12 Factors to Cloud Success](https://www.meetup.com/Triangle-Java-Users-Group/events/227271189/)
 - **Slides:** [http://bit.ly/12factors-app](http://bit.ly/12factors-app)
+
+#### SOUJava - October 27th 2016 - Youtube video (Pt-Br):
+- **Title:** [Encontro técnico de Outubro 2016 [MicroProfile]](https://www.youtube.com/watch?v=ki-akBYZvoE)
 
 #### Docker Zürich experts community - October 5th 2016 -  - Zurich - Switzerland
 - **Title:** [Delivering like a Pro with Docker](https://www.meetup.com/Docker-Zurich/events/234171089/)
