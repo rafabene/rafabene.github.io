@@ -17,28 +17,43 @@ image:
 ## .Next
 
 
-#### March 27st 2017 - Oracle Code  - New York - NC
 
-- [12 Factors to Succeed in the Cloud](https://developer.oracle.com/code/newyork)
+#### July 18th-22nd 2017 - TDC - The Developers Conference  - São Paulo - Brazil
 
-
-#### April 25th-28th 2017 - Great Indian Developer Summit - Bangalore - India
-
-- [Develop & Deploy Java Apps as Resilient Microservices Architectures](http://www.developermarch.com/developersummit/session.html?insert=Rafael)
-- [Mastering Deployments with Kubernetes & OpenShift](http://www.developermarch.com/developersummit/session.html?insert=Rafael1)
-- [12 Factors to Cloud success](http://www.developermarch.com/developersummit/session.html?insert=Rafael2)
-
-#### May 2nd-4th 2017 - Red Hat Summit - Boston - MA
-
-- [S103940 - 12 factors to cloud success](https://rh2017.smarteventscloud.com/connect/sessionDetail.ww?SESSION_ID=103940&tclass=popup)
-- [S103939 - Mastering deployments with Kubernetes & OpenShift: From basic to zero downtime, blue/green, A/B, and canary](https://rh2017.smarteventscloud.com/connect/sessionDetail.ww?SESSION_ID=103939&tclass=popup)
-
+- [Mastering deployments with Kubernetes & OpenShift: From basic to zero downtime, blue/green, A/B, and canary](http://www.thedevelopersconference.com.br/tdc/2017/saopaulo/trilha-devops)
+- [12 factors to cloud success](http://www.thedevelopersconference.com.br/tdc/2017/saopaulo/trilha-cloud-computing)
+- [Microprofile? Your Enterprise application in the cloud and microservices era](http://www.thedevelopersconference.com.br/tdc/2017/saopaulo/trilha-java-ee)
 
 <hr>
 
 ## Past Conferences
 
 ### 2017
+
+#### May 2nd-4th 2017 - Red Hat Summit - Boston - MA
+
+- **Title:** [S103940 - 12 factors to cloud success](https://rh2017.smarteventscloud.com/connect/sessionDetail.ww?SESSION_ID=103940&tclass=popup)
+- **Slides:** [http://bit.ly/12factors-app](http://bit.ly/12factors-app)
+
+- **Title:** [S103939 - Mastering deployments with Kubernetes & OpenShift: From basic to zero downtime, blue/green, A/B, and canary](https://rh2017.smarteventscloud.com/connect/sessionDetail.ww?SESSION_ID=103939&tclass=popup)
+- **Slides:** [bit.ly/thedeploymaster](bit.ly/thedeploymaster)
+
+#### April 25th-28th 2017 - Great Indian Developer Summit - Bangalore - India
+
+- **Title:** [Develop & Deploy Java Apps as Resilient Microservices Architectures](http://www.developermarch.com/developersummit/session.html?insert=Rafael)
+- **Slides:** [http://bit.ly/redhatmsa](http://bit.ly/redhatmsa)
+
+- **Title:** [Mastering Deployments with Kubernetes & OpenShift](http://www.developermarch.com/developersummit/session.html?insert=Rafael1)
+- **Slides:** [bit.ly/thedeploymaster](bit.ly/thedeploymaster)
+
+- **Title:** [12 Factors to Cloud success](http://www.developermarch.com/developersummit/session.html?insert=Rafael2)
+- **Slides:** [http://bit.ly/12factors-app](http://bit.ly/12factors-app)
+
+#### March 27st 2017 - Oracle Code  - New York - NC
+
+- **Title:** [12 Factors to cloud success](https://developer.oracle.com/code/newyork)
+- **Slides:** [http://bit.ly/12factors-app](http://bit.ly/12factors-app)
+
 
 #### March 21st 2017 - Oracle Code  - New York - NC
 
