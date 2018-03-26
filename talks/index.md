@@ -16,19 +16,92 @@ image:
 
 ## .Next
 
+#### April 7th-8th 2018 - WorkJava - Online conference
 
+- [Desenvolva aplicativos Java de forma confiável utilizando arquitetura Microservices](https://workjava.congressodeti.com.br/)
 
-#### July 18th-22nd 2017 - TDC - The Developers Conference  - São Paulo - Brazil
+#### April 18th-21st 2018 - TDC - The Deevelopers Conference - Florianópolis - Brazil
 
-- [Mastering deployments with Kubernetes & OpenShift: From basic to zero downtime, blue/green, A/B, and canary](http://www.thedevelopersconference.com.br/tdc/2017/saopaulo/trilha-devops)
-- [12 factors to cloud success](http://www.thedevelopersconference.com.br/tdc/2017/saopaulo/trilha-cloud-computing)
-- [Microprofile? Your Enterprise application in the cloud and microservices era](http://www.thedevelopersconference.com.br/tdc/2017/saopaulo/trilha-java-ee)
+- [Mastering Deployments com Kubernetes & OpenShift: Do básico ao Zero Downtime, Blue/Green, Canary e A/B](http://www.thedevelopersconference.com.br/tdc/2018/florianopolis/trilha-devops)
+- [Kubernetes para usuários Docker](http://www.thedevelopersconference.com.br/tdc/2018/florianopolis/trilha-containers)
+- [Por quê você vai falhar usando Java no Docker](http://www.thedevelopersconference.com.br/tdc/2018/florianopolis/trilha-java)
+
+#### May 8th-10th 2018 - Red Hat Summit 2018 - San Francisco - CA
+
+- [A Java developer's journey to Kubernetes and Openshift](https://agenda.summit.redhat.com/SessionDetail.aspx?id=154775)
+- [Why you’re going to FAIL running Java on docker](https://agenda.summit.redhat.com/SessionDetail.aspx?id=154663)
+
+#### June 14th 2018 -  St. Louis Java User's Group - St. Louis  - MO
+
+- [Kubernetes for Java Developers](https://www.meetup.com/GatewayJUG/events/245000608/)
+
+#### June 19th 2018 - Coimbra - Portugal
+
+- [Available Soon!](https://jnation.pt/speakers/)
 
 <hr>
 
 ## Past Conferences
 
+#### March 8th 2018 - Oracle Code - New York - NY
+
+- **Title:** [Mastering Deployments with Kubernetes: from Basic to Advanced Patterns](https://developer.oracle.com/code/newyork-mar-2018)
+- **Slides:** [http://bit.ly/thedeploymaster](http://bit.ly/thedeploymaster)
+
+#### February 21st-23rd 2018 - DevNexus - Atlanta - GA
+
+- **Title:** [Workshop Java Microservices Patterns & Practices with Kubernetes/OpenShift and Istio](http://devnexus.com/presentations/1348/)
+- **Material** [http://learn.openshift.com/servicemesh](http://learn.openshift.com/servicemesh)
+
+- **Title:** [12 Factors to Cloud success](http://devnexus.com/presentations/1528/)
+- **Slides:** [http://bit.ly/12factors-app](http://bit.ly/12factors-app)
+- **Video:** [https://www.recallact.com/Z4M ](https://www.recallact.com/Z4M)
+
 ### 2017
+
+#### November 8th-11th 2017 - TDC - The Developers Conference  - Porto Alegre- Brazil
+
+- **Title:** [Saiba porquê você vai falhar ao executar Java dentro do docker](http://www.thedevelopersconference.com.br/tdc/2017/portoalegre/trilha-java)
+- **Slides:** [http://bit.ly/javadockerfail](http://bit.ly/javadockerfail)
+
+- **Title:** [12 passos para que sua aplicação na cloud-native seja um sucesso](http://www.thedevelopersconference.com.br/tdc/2017/portoalegre/trilha-cloud-computing)
+- **Slides:** [http://bit.ly/12factors-app](http://bit.ly/12factors-app)
+
+- **Title:** [Workshop - Kubernetes for Developers](http://www.thedevelopersconference.com.br/tdc/2017/portoalegre/workshop-kubernetes-para-desenvolvedores)
+- **Slides:** [https://github.com/redhat-developer-demos/kubernetes-lab](https://github.com/redhat-developer-demos/kubernetes-lab)
+
+- **Title:** [Desenvolva Aplicações usando arquiteturas orientada a microserviços](http://www.thedevelopersconference.com.br/tdc/2017/portoalegre/trilha-microservices)
+- **Slides:** [http://bit.ly/redhatmsa](http://bit.ly/redhatmsa)
+
+#### November 7th 2017 - DevOpsDays Brasília - Brazil
+
+- **Title:** [Kubernetes for Docker Developers](http://devopsdays.bsb.br/program/rafael-benevides/)
+- **Slides:** [http://bit.ly/kubernetes-intro](http://bit.ly/kubernetes-intro)
+
+#### October 1st-5th 2017 - JavaOne - San Francisco - CA
+
+- **Title:** [Why You’re Going to Fail Running Java on Docker! [CON5588]](https://events.rainfocus.com/catalog/oracle/oow17/catalogjavaone17?search=CON5588&showEnrolled=false)
+- **Slides:** [http://bit.ly/javadockerfail](http://bit.ly/javadockerfail)
+
+- **Title:** [12 Factors for Cloud Success [CON5598]](https://events.rainfocus.com/catalog/oracle/oow17/catalogjavaone17?search=CON5598&showEnrolled=false)
+- **Slides:** [http://bit.ly/12factors-app](http://bit.ly/12factors-app)
+
+#### September 20th 2017 - DevOps, Microservices and Containers Summit, Denver - CO
+
+- **Title**: [Mastering Deployments with Kubernetes & OpenShift: from Basic to Zero Downtime, Blue/Green, Canary and A/B](https://1point21gws.com/devops/2017/DevOps_Microservices_and_Containers_Summit_Denver/#agenda)
+- **Slides:** [http://bit.ly/thedeploymaster](http://bit.ly/thedeploymaster)
+
+#### July 18th-22nd 2017 - TDC - The Developers Conference  - São Paulo - Brazil
+
+- **Title:** [Mastering deployments with Kubernetes & OpenShift: From basic to zero downtime, blue/green, A/B, and canary](http://www.thedevelopersconference.com.br/tdc/2017/saopaulo/trilha-devops)
+- **Slides:** [http://bit.ly/thedeploymaster](http://bit.ly/thedeploymaster)
+
+- *Title:**[12 factors to cloud success](http://www.thedevelopersconference.com.br/tdc/2017/saopaulo/trilha-cloud-computing)
+- **Slides:** [http://bit.ly/12factors-app](http://bit.ly/12factors-app)
+
+- **Title:**[Microprofile? Your Enterprise application in the cloud and microservices era](http://www.thedevelopersconference.com.br/tdc/2017/saopaulo/trilha-java-ee)
+- **Slides:** [https://docs.google.com/presentation/d/13zHkdv_ri5Twcq4emJ9lnEH7t9gtkb65B5-kY-u0yKM/edit#slide=id.p](https://docs.google.com/presentation/d/13zHkdv_ri5Twcq4emJ9lnEH7t9gtkb65B5-kY-u0yKM/edit#slide=id.p)
+
 
 #### May 2nd-4th 2017 - Red Hat Summit - Boston - MA
 
@@ -36,7 +109,7 @@ image:
 - **Slides:** [http://bit.ly/12factors-app](http://bit.ly/12factors-app)
 
 - **Title:** [S103939 - Mastering deployments with Kubernetes & OpenShift: From basic to zero downtime, blue/green, A/B, and canary](https://rh2017.smarteventscloud.com/connect/sessionDetail.ww?SESSION_ID=103939&tclass=popup)
-- **Slides:** [bit.ly/thedeploymaster](bit.ly/thedeploymaster)
+- **Slides:** (http://bit.ly/thedeploymaster](http://bit.ly/thedeploymaster)
 
 #### April 25th-28th 2017 - Great Indian Developer Summit - Bangalore - India
 
@@ -44,7 +117,7 @@ image:
 - **Slides:** [http://bit.ly/redhatmsa](http://bit.ly/redhatmsa)
 
 - **Title:** [Mastering Deployments with Kubernetes & OpenShift](http://www.developermarch.com/developersummit/session.html?insert=Rafael1)
-- **Slides:** [bit.ly/thedeploymaster](bit.ly/thedeploymaster)
+- **Slides:** (http://bit.ly/thedeploymaster](http://bit.ly/thedeploymaster)
 
 - **Title:** [12 Factors to Cloud success](http://www.developermarch.com/developersummit/session.html?insert=Rafael2)
 - **Slides:** [http://bit.ly/12factors-app](http://bit.ly/12factors-app)
@@ -82,7 +155,7 @@ image:
 - **Slides:** [http://bit.ly/redhatmsa](http://bit.ly/redhatmsa)
 
 - **Title:** [The Deploy Master: From Basic to Zero Downtime, Blue/Green, A/B, and Canary](https://devconf.cz/2017/schedule.html)
-- **Slides:** [bit.ly/thedeploymaster](bit.ly/thedeploymaster)
+- **Slides:** (http://bit.ly/thedeploymaster](http://bit.ly/thedeploymaster)
 
 
 ### 2016 
@@ -199,6 +272,20 @@ image:
 <hr>
 
 ## Past Meetups/Webscasts/etc
+
+### 2017
+
+#### DevNation Live - November 2nd 2017 - Youtube video
+- **Title:** [Why you’re going to fail running Java on Docker](https://www.youtube.com/watch?v=_vM3ORa9_JE&feature=youtu.be)
+- **Slides:** [http://bit.ly/javadockerfail](http://bit.ly/javadockerfail)
+
+#### DevNation Live - August 3rd 2017 - Youtube video
+- **Title:** [Kubernetes for Java developers](https://www.youtube.com/watch?v=tI2l8yThKK4)
+- **Slides:** (http://bit.ly/kubernetes-intro](http://bit.ly/kubernetes-intro)
+
+#### SOUJava - May 22nd 2017 - Youtube video(Pt-Br)
+- **Title:** [Acelerando sua entrega com containers com Rafael Benevides](https://www.youtube.com/watch?v=zssxFhHLSYo)
+- **Slides:** [http://bit.ly/thedeploymaster](http://bit.ly/thedeploymaster)
 
 ### 2016
 
