@@ -20,7 +20,7 @@ image:
 
 - [Desenvolva aplicativos Java de forma confiável utilizando arquitetura Microservices](https://workjava.congressodeti.com.br/)
 
-#### April 18th-21st 2018 - TDC - The Deevelopers Conference - Florianópolis - Brazil
+#### April 18th-21st 2018 - TDC - The Developers Conference - Florianópolis - Brazil
 
 - [Mastering Deployments com Kubernetes & OpenShift: Do básico ao Zero Downtime, Blue/Green, Canary e A/B](http://www.thedevelopersconference.com.br/tdc/2018/florianopolis/trilha-devops)
 - [Kubernetes para usuários Docker](http://www.thedevelopersconference.com.br/tdc/2018/florianopolis/trilha-containers)
@@ -122,29 +122,25 @@ image:
 - **Title:** [12 Factors to Cloud success](http://www.developermarch.com/developersummit/session.html?insert=Rafael2)
 - **Slides:** [http://bit.ly/12factors-app](http://bit.ly/12factors-app)
 
-#### March 27st 2017 - Oracle Code  - New York - NC
+#### March 27st 2017 - Oracle Code  - Washington - D.C.
 
-- **Title:** [12 Factors to cloud success](https://developer.oracle.com/code/newyork)
+- **Title:** [12 Factors to cloud success](https://developer.oracle.com/code/washington-mar-2017)
 - **Slides:** [http://bit.ly/12factors-app](http://bit.ly/12factors-app)
-
 
 #### March 21st 2017 - Oracle Code  - New York - NC
 
-- **Title:** [Develop & Deploy Java apps as resilient Microservices Architectures](https://developer.oracle.com/code/newyork)
+- **Title:** [Develop & Deploy Java apps as resilient Microservices Architectures](https://developer.oracle.com/code/newyork-mar-2017)
 - **Slides:** [http://bit.ly/redhatmsa](http://bit.ly/redhatmsa)
-
 
 #### March 10th 2017 - TriadDevelopers - Winston-Salem - NC
 
 - **Title:** [Develop & Deploy Java apps as resilient Microservices Architectures](http://www.triadconference.com/schedule/)
 - **Slides:** [http://bit.ly/redhatmsa](http://bit.ly/redhatmsa)
 
-
 #### February 22th-24th 2017 - DevNexus 2017 - Atlanta - GA
 
 - **Title:** [Hands-on with Docker, Kubernetes and OpenShift - from basic to advanced features](https://devnexus.com/s/devnexus2017/presentations/15489)
 - **Material:** [OpenShift Hands-on lab in GCE](http://bit.ly/openshift4kb8s)
-
 
 #### January 27th-29th 2017 - DevConf.cz 2017 - Brno - Czech Republic
 
