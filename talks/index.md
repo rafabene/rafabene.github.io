@@ -277,7 +277,7 @@ image:
 
 #### DevNation Live - August 3rd 2017 - Youtube video
 - **Title:** [Kubernetes for Java developers](https://www.youtube.com/watch?v=tI2l8yThKK4)
-- **Slides:** (http://bit.ly/kubernetes-intro](http://bit.ly/kubernetes-intro)
+- **Slides:** [http://bit.ly/kubernetes-intro](http://bit.ly/kubernetes-intro)
 
 #### SOUJava - May 22nd 2017 - Youtube video(Pt-Br)
 - **Title:** [Acelerando sua entrega com containers com Rafael Benevides](https://www.youtube.com/watch?v=zssxFhHLSYo)
