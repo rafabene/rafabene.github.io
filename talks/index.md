@@ -16,15 +16,6 @@ image:
 
 ## .Next
 
-#### April 7th-8th 2018 - WorkJava - Online conference
-
-- [Desenvolva aplicativos Java de forma confiável utilizando arquitetura Microservices](https://workjava.congressodeti.com.br/)
-
-#### April 18th-21st 2018 - TDC - The Developers Conference - Florianópolis - Brazil
-
-- [Mastering Deployments com Kubernetes & OpenShift: Do básico ao Zero Downtime, Blue/Green, Canary e A/B](http://www.thedevelopersconference.com.br/tdc/2018/florianopolis/trilha-devops)
-- [Kubernetes para usuários Docker](http://www.thedevelopersconference.com.br/tdc/2018/florianopolis/trilha-containers)
-- [Por quê você vai falhar usando Java no Docker](http://www.thedevelopersconference.com.br/tdc/2018/florianopolis/trilha-java)
 
 #### May 8th-10th 2018 - Red Hat Summit 2018 - San Francisco - CA
 
@@ -37,11 +28,22 @@ image:
 
 #### June 19th 2018 - Coimbra - Portugal
 
-- [Available Soon!](https://jnation.pt/speakers/)
+- [Microprofile: Just enough EE for your Microservices](https://jnation.pt/speakers/)
 
 <hr>
 
 ## Past Conferences
+
+#### April 18th-21st 2018 - TDC - The Developers Conference - Florianópolis - Brazil
+
+- **Title:** [Mastering Deployments com Kubernetes & OpenShift: Do básico ao Zero Downtime, Blue/Green, Canary e A/B](http://www.thedevelopersconference.com.br/tdc/2018/florianopolis/trilha-devops)
+- **Slides:** [http://bit.ly/thedeploymaster](http://bit.ly/thedeploymaster)
+
+- **Title:** [Kubernetes para usuários Docker](http://www.thedevelopersconference.com.br/tdc/2018/florianopolis/trilha-containers)
+- **Slides:** [http://bit.ly/kubernetes-intro](http://bit.ly/kubernetes-intro)
+
+- **Title:** [Por quê você vai falhar usando Java no Docker](http://www.thedevelopersconference.com.br/tdc/2018/florianopolis/trilha-java)
+- **Slides:** [http://bit.ly/javadockerfail](http://bit.ly/javadockerfail)
 
 #### March 8th 2018 - Oracle Code - New York - NY
 
@@ -268,6 +270,12 @@ image:
 <hr>
 
 ## Past Meetups/Webscasts/etc
+
+### 2018
+
+#### WorkJava - Online conference
+- **Title**: Desenvolva aplicativos Java de forma confiável utilizando arquitetura Microservices
+- **Slides:** [http://bit.ly/redhatmsa](http://bit.ly/redhatmsa)
 
 ### 2017
 

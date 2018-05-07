@@ -34,7 +34,7 @@ We need to understand that the docker switches (-m, –memory and –memory-swap
 To simulate the process being killed after exceeding the specified memory limit, we can execute the WildFly Application Server in a container with 50MB of memory limit through the command *“docker run -it –name mywildfly -m=50m jboss/wildfly”*. During the execution of this container, we could execute “docker stats” to check the container limit.
 
 {: .center}
-![](/images/kubernetes-java.png)
+![](/images/docker-stats.png)
 
 But after some seconds, the Wildfly container execution will be interrupted and print a message: *** JBossAS process (55) received KILL signal ***
 
@@ -75,6 +75,9 @@ Second, we need to understand that when we use the parameter “-m 150M” in th
 
 More combinations between the memory limit (–memory) and swap (–memory-swap) in docker command line can be found [here](https://docs.docker.com/engine/reference/run/#user-memory-constraints).
 
+{: .center}
+![](/images/java-docker.png)
+
 ## Is more memory the solution?
 
 Developers that don’t understand the problem, tend to think that the environment doesn’t provide enough memory for the execution of the JVM. A frequent solution is to provision an environment with more memory, but **it will, in fact, make things worse**.
@@ -96,7 +99,7 @@ It’s clear that increasing the memory and letting the JVM set its own paramete
 
 ## What is the solution?
 
-A slight change in the [Dockerfile]https://github.com/redhat-developer-demos/java-container/blob/master/Dockerfile.openjdk-env#L5 allows the user to specify an environment variable that defines extra parameters for the JVM. Check the following line:
+A slight change in the [Dockerfile](https://github.com/redhat-developer-demos/java-container/blob/master/Dockerfile.openjdk-env#L5) allows the user to specify an environment variable that defines extra parameters for the JVM. Check the following line:
 
   `CMD java -XX:+PrintFlagsFinal -XX:+PrintGCDetails $JAVA_OPTIONS -jar java-container.jar`
   
@@ -151,12 +154,63 @@ Done! Now, no matter what the container memory limit is, our Java application wi
 {: .center}
 ![](/images/docker2g.png)
 
+## Updated on March 15th 2018
+
+From JDK 8u131+ and JDK 9, there’s an  experimental VM option that allows the JVM ergonomics to read the memory values from CGgroups.  To enable it on, you must explicit set the parameters 
+
+- -XX:+UnlockExperimentalVMOptions
+- -XX:+UseCGroupMemoryLimitForHeap 
+
+on the JVM. You can see it in action on the following Dockerfile.
+
+Let’s see how this option behaves. Execute:
+
+~~~~
+$ docker run -d --name mycontainer8g-jdk9 -p 8080:8080 -m 600M rafabene/java-container:openjdk-cgroup
+
+$ docker logs mycontainer8g-jdk9|grep MaxHeapSize
+size_t MaxHeapSize = 157286400 {product} {ergonomic}
+~~~~
+
+The JVM read that the container is limited to 600M and created a JVM with maximum heap size of ~150MB. Exactly 1/4 of the container memory as defined in the JDK ergonomic page.
+
+You can also read more about OpenJDK and containers on the excellent blog post from Christine Flood: <https://developers.redhat.com/blog/2017/04/04/openjdk-and-containers/#more-433899>
+
+
+## Updated on April 21st 2018
+Java 10 was released and it now has all the improvements needed to run inside a container.  Because of these improvements, the flags
+
+- -XX:+UnlockExperimentalVMOptions 
+- -XX:+UseCGroupMemoryLimitForHeap* 
+
+aren’t needed anymore. In fact, you try to execute the JDK 10 with those parameters enabled, you will see the following warning: “Option UseCGroupMemoryLimitForHeap was deprecated in version 10.0 and will likely be removed in a future release.”
+
+Because of that, the [Dockerfile for JDK10]((https://github.com/redhat-developer-demos/java-container/blob/master/Dockerfile.openjdk10)) doesn’t need any extra flags, and/or even any manual and special ergonomics configuration.
+
+Execute the application using the JDK 10 image:
+
+~~~~
+$ docker run -it --name mycontainer -p 8080:8080 -m 600M rafabene/java-container:openjdk10
+~~~~
+
+Note that the command
+
+~~~~
+“curl http://`docker-machine ip docker8192`:8080/api/memory”
+~~~~
+
+doesn’t fail anymore and you see the following message “Allocated more than 80% (145.0 MiB) of the max allowed JVM memory size (145.0 MiB)%”. 145MB is 1/4 of the 600M limits that we defined for this container.
+
+{: .center}
+![](/images/java-free.png)
+
+
 ## Conclusion
 
-The Java JVM until now doesn’t provide support to understand that it’s running inside a container and that it has some resources like those that are memory and CPU restricted. Because of that, you can’t let the JVM ergonomics take the decision by itself regarding the maximum heap size.
+The Java JVM <del>until now doesn’t</del> didn't provide support to understand that it’s running inside a container and that it has some resources like those that are memory and CPU restricted. Because of that, you can’t let the JVM ergonomics take the decision by itself regarding the maximum heap size.
 
 One way to solve this problem is using the Fabric8 Base image that is capable of understanding that it is running inside a restricted container and it will automatically adjust the maximum heap size if you haven’t done it yourself.
 
-There’s an **experimental** support in the JVM that has been included in JDK9 to support cgroup memory limits in container (i.e. Docker) environments. Check it out: [http://hg.openjdk.java.net/jdk9/jdk9/hotspot/rev/5f1d1df0ea49](http://hg.openjdk.java.net/jdk9/jdk9/hotspot/rev/5f1d1df0ea49)
+Another solution is to use an [experimental option](http://hg.openjdk.java.net/jdk9/jdk9/hotspot/rev/5f1d1df0ea49) that can be enabled through the parameter -XX:+UseCGroupMemoryLimitForHeap that has been included in JDK8u131 and JDK9 to support cgroup memory limits in container (i.e. Docker) environments.
 
-This blog post covers how the JVM blows up from the memory perspective. To continue following me in the research about the JVM behavior regarding the CPU in a future blog post, follow me at [twitter](twitter.com/rafabene). 
+This blog post covers how the JVM blows up from the memory perspective. To continue following me in the research about the JVM behavior regarding the CPU in a future blog post, follow me at [twitter](http://twitter.com/rafabene). 

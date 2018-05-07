@@ -25,7 +25,8 @@ and a speaker in conferences like JavaOne, Devoxx, TDC, DevNexus and many others
 
 ### Who am I?
 
-Hi, my name is Rafael Benevides. I am a 39 years old Brazilian who lives in [Raleigh,NC](https://www.google.com/maps/place/Raleigh,+NC/). Here, I work as a Director of Developer Experience at [Red Hat](http://www.redhat.com).
+Hi, my name is Rafael Benevides. I am a 41 years old Brazilian who lives in [Orlando,FL](https://www.google.com/maps/place/Orlando,+FL/). Here, I work as a Director of Developer Experience at [Red Hat](http://www.redhat.com), helping Java Developers to adopt containers and microservices technologies so they can become experts.
+
 
 ### Java developer
 I started learning Java in 2003 at a Lato Sensu Class. It was a first love sensation. After that I have been studying and trying to use Java as a powered, scalable and productive solution. As a result from this love I took certifications below:
@@ -63,12 +64,14 @@ In november of 2009 I joined [Red Hat](http://www.redhat.com/en) as JBoss Consul
 
 My current interests are:
 
+- Cloud-native applications
+- Containers (Docker, Kubernetes and Openshift) 
+- Microservices
+- Service Mesh
+- Serverless
 - Object Oriented / Functional Programming
 - Javascript (AngularJS and NodeJS)
-- Cloud applications
-- Containers (Docker, Kubernetes and Openshift) 
 - DevOps tools and practices
-- Microservices
 - Agile Methodologies
 - Opensource
 
