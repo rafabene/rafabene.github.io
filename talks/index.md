@@ -17,20 +17,19 @@ image:
 ## .Next
 
 #### June 11th 2018 - JBCNConf - Barcelona - Italy
-
 - [Serverless Java with Kubernetes](http://www.jbcnconf.com/2018/infoSpeaker.html?ref=QnVyclN1dHRlcmJ1cnJzdXR0ZXJAZ21haWwuY29t)
 
 #### June 19th 2018 - JNation - Coimbra - Portugal
-
 - [Serverless or Serverfull: Microservices & Functions on Kubernetes](https://jnation.pt/speakers/rafael-benevides/)
 
 #### June 20th 2018 - Devoxx PL - Krakow - Poland
-
 - [Serverless or Serverfull: Microservices^Functions](https://cfp.devoxx.pl/2018/talk/AQD-4305/Serverless_or_Serverfull:_Microservices%5EFunctions)
 - [Istio: Service Mesh & Dark Canaries](https://cfp.devoxx.pl/2018/talk/YZT-3504/Istio:_Service_Mesh_&_Dark_Canaries)
 
-#### October 11th 2018 -  St. Louis Java User's Group - St. Louis  - MO
+#### September 5th - PhillyJUG - Philadelphia - PA
+- [MicroProfile: Just Enough Java EE for Your Microservices](https://www.meetup.com/PhillyJUG/events/250594486/)
 
+#### October 11th 2018 -  St. Louis Java User's Group - St. Louis  - MO
 - [Kubernetes for Java Developers](https://www.meetup.com/GatewayJUG/events/251273855/)
 
 
