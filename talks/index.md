@@ -16,23 +16,35 @@ image:
 
 ## .Next
 
+#### June 11th 2018 - JBCNConf - Barcelona - Italy
 
-#### May 8th-10th 2018 - Red Hat Summit 2018 - San Francisco - CA
+- [Serverless Java with Kubernetes](http://www.jbcnconf.com/2018/infoSpeaker.html?ref=QnVyclN1dHRlcmJ1cnJzdXR0ZXJAZ21haWwuY29t)
 
-- [A Java developer's journey to Kubernetes and Openshift](https://agenda.summit.redhat.com/SessionDetail.aspx?id=154775)
-- [Why you’re going to FAIL running Java on docker](https://agenda.summit.redhat.com/SessionDetail.aspx?id=154663)
+#### June 19th 2018 - JNation - Coimbra - Portugal
 
-#### June 14th 2018 -  St. Louis Java User's Group - St. Louis  - MO
+- [Serverless or Serverfull: Microservices & Functions on Kubernetes](https://jnation.pt/speakers/rafael-benevides/)
 
-- [Kubernetes for Java Developers](https://www.meetup.com/GatewayJUG/events/245000608/)
+#### June 20th 2018 - Devoxx PL - Krakow - Poland
 
-#### June 19th 2018 - Coimbra - Portugal
+- [Serverless or Serverfull: Microservices^Functions](https://cfp.devoxx.pl/2018/talk/AQD-4305/Serverless_or_Serverfull:_Microservices%5EFunctions)
+- [Istio: Service Mesh & Dark Canaries](https://cfp.devoxx.pl/2018/talk/YZT-3504/Istio:_Service_Mesh_&_Dark_Canaries)
 
-- [Microprofile: Just enough EE for your Microservices](https://jnation.pt/speakers/)
+#### October 11th 2018 -  St. Louis Java User's Group - St. Louis  - MO
+
+- [Kubernetes for Java Developers](https://www.meetup.com/GatewayJUG/events/251273855/)
+
 
 <hr>
 
 ## Past Conferences
+
+#### May 8th-10th 2018 - Red Hat Summit 2018 - San Francisco - CA
+
+- **Title:** [A Java developer's journey to Kubernetes and Openshift](https://agenda.summit.redhat.com/SessionDetail.aspx?id=154775)
+- **Slides:** [http://bit.ly/kubernetes-journey](http://bit.ly/kubernetes-journey)
+
+- **Title:** [Why you’re going to FAIL running Java on docker](https://agenda.summit.redhat.com/SessionDetail.aspx?id=154663)
+- **Slides:** [http://bit.ly/javadockerfail](http://bit.ly/javadockerfail)
 
 #### April 18th-21st 2018 - TDC - The Developers Conference - Florianópolis - Brazil
 
