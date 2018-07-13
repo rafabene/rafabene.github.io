@@ -16,15 +16,12 @@ image:
 
 ## .Next
 
-#### June 11th 2018 - JBCNConf - Barcelona - Italy
-- [Serverless Java with Kubernetes](http://www.jbcnconf.com/2018/infoSpeaker.html?ref=QnVyclN1dHRlcmJ1cnJzdXR0ZXJAZ21haWwuY29t)
 
-#### June 19th 2018 - JNation - Coimbra - Portugal
-- [Serverless or Serverfull: Microservices & Functions on Kubernetes](https://jnation.pt/speakers/rafael-benevides/)
+#### July 18th - Online Webinar at OCI - objectcomputing.com
+- [Kubernetes for Java Developers](https://objectcomputing.com/resources/events/webinars/kubernetes-for-java-developers)
 
-#### June 20th 2018 - Devoxx PL - Krakow - Poland
-- [Serverless or Serverfull: Microservices^Functions](https://cfp.devoxx.pl/2018/talk/AQD-4305/Serverless_or_Serverfull:_Microservices%5EFunctions)
-- [Istio: Service Mesh & Dark Canaries](https://cfp.devoxx.pl/2018/talk/YZT-3504/Istio:_Service_Mesh_&_Dark_Canaries)
+#### July 27th - Lone Star Software Symposium: Austin
+ - Cirque du application development - containers, Kubernetes, and OpenShift
 
 #### September 5th - PhillyJUG - Philadelphia - PA
 - [MicroProfile: Just Enough Java EE for Your Microservices](https://www.meetup.com/PhillyJUG/events/250594486/)
@@ -36,6 +33,24 @@ image:
 <hr>
 
 ## Past Conferences
+
+#### June 20th 2018 - Devoxx PL - Krakow - Poland
+
+- **Title:** [Serverless or Serverfull: Microservices^Functions](https://cfp.devoxx.pl/2018/talk/AQD-4305/Serverless_or_Serverfull:_Microservices%5EFunctions)
+- **Slides:** [http://bit.ly/serverlessfull](http://bit.ly/serverlessfull)
+
+- **Title:** [Istio: Service Mesh & Dark Canaries](https://cfp.devoxx.pl/2018/talk/YZT-3504/Istio:_Service_Mesh_&_Dark_Canaries)
+- **Workshop:** [https://learn.openshift.com/servicemesh](https://learn.openshift.com/servicemesh)
+
+#### June 19th 2018 - JNation - Coimbra - Portugal
+
+- **Title:** [Serverless or Serverfull: Microservices & Functions on Kubernetes](https://jnation.pt/speakers/rafael-benevides/)
+- **Slides:** [http://bit.ly/serverlessfull](http://bit.ly/serverlessfull)
+
+#### June 11th 2018 - JBCNConf - Barcelona - Italy
+
+- **Title:** [Serverless Java with Kubernetes](http://www.jbcnconf.com/2018/infoSpeaker.html?ref=QnVyclN1dHRlcmJ1cnJzdXR0ZXJAZ21haWwuY29t)
+- **Slides:** [http:/.bit.ly/serverlessjavajbcn](http://bit.ly/serverlessjavajbcn)
 
 #### May 8th-10th 2018 - Red Hat Summit 2018 - San Francisco - CA
 
