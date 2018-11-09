@@ -17,22 +17,46 @@ image:
 ## .Next
 
 
-#### July 18th - Online Webinar at OCI - objectcomputing.com
-- [Kubernetes for Java Developers](https://objectcomputing.com/resources/events/webinars/kubernetes-for-java-developers)
+#### November 22nd - Voxxed Days Cluj-Napoca - Romania
+- **Title:** [Service Mesh and Sidecars with Istio and Envoy](https://romania.voxxeddays.com/2018/08/14/service-mesh-and-sidecars-with-istio-and-envoy/)
 
-#### July 27th - Lone Star Software Symposium: Austin
- - Cirque du application development - containers, Kubernetes, and OpenShift
+#### November 24th - Devoxx Ukraine 2018 - Kiev, Ukraine
+- **Title:** [Microprofile: Just enough EE for your Microservices](https://dvua18.confinabox.com/talk/CBI-1043/Microprofile:_Just_enough_EE_for_your_Microservices)
 
-#### September 5th - PhillyJUG - Philadelphia - PA
-- [MicroProfile: Just Enough Java EE for Your Microservices](https://www.meetup.com/PhillyJUG/events/250594486/)
+#### March 6-8 2019 - DevNexus Atlanta
+- **Title:** Service Mesh and Sidecars with Istio and Envo
 
-#### October 11th 2018 -  St. Louis Java User's Group - St. Louis  - MO
-- [Kubernetes for Java Developers](https://www.meetup.com/GatewayJUG/events/251273855/)
-
+#### March 16th 2018 - Java Day İstanbul
+- **Title:** [Your Java Journey into the Serverless World](https://javaday.istanbul/speaker/rafael-benevides/)
+- **Title:** [Workshop: Service Mesh and Sidecars with Istio and Envoy](https://javaday.istanbul/speaker/rafael-benevides/)
+ 
 
 <hr>
 
 ## Past Conferences
+
+### 2018
+
+#### September 26th - Lone Star Software Symposium: Boston - PA
+
+- **Title:** [Kubernetes Workshop](https://nofluffjuststuff.com/conference/boston/2018/09/speakers/rafael_benevides)
+- **Slides:** [http://bit.ly/kubernetes-intro](http://bit.ly/kubernetes-intro)
+
+#### September 19th - Red Hat Tech Exchange - Prague - Czech Republic
+
+- **Title:**: Eclipse Che on OpenShift workshop
+- **Workshop**: [http://bit.ly/che-workshop](http://bit.ly/che-workshop)
+
+#### September 14th - Red Hat Forum - Moscow  - Russia
+
+- **Title:**: [Serverless or Serverfull: Microservices & Functions on Kubernetes](https://www.redhat.com/en/events/forum-russia)
+- **Slides**: [http://bit.ly/serverlessfull](http://bit.ly/serverlessfull)
+
+#### July 27th - Lone Star Software Symposium: Austin
+
+- **Title:** [Cirque du application development - containers, Kubernetes, and OpenShift](https://nofluffjuststuff.com/conference/austin/2018/07/session?id=42531)
+- **Slides:** [http://bit.ly/kubernetes-intro](http://bit.ly/kubernetes-intro)
+
 
 #### June 20th 2018 - Devoxx PL - Krakow - Poland
 
@@ -299,9 +323,25 @@ image:
 
 ### 2018
 
+#### Java Career - Interview - InteraTech 2018 CongressodeTI  (PT-Br)
+- **Video:** [Carreira JAVA](https://www.youtube.com/watch?v=Vg7aJnEDKd0)
+
+#### St. Louis Java User's Group - St. Louis  - MO
+- **Title:** [Kubernetes for Java Developers](https://www.meetup.com/GatewayJUG/events/251273855/)
+- **Slides:** [http://bit.ly/kubernetes-intro](http://bit.ly/kubernetes-intro)
+
+#### PhillyJUG - Philadelphia - PA
+- **Title:** [MicroProfile: Just Enough Java EE for Your Microservices](https://www.meetup.com/PhillyJUG/events/250594486/)
+- **Slides:** [http://bit.ly/rh-microprofile](http://bit.ly/rh-microprofile)
+
+
 #### WorkJava - Online conference
 - **Title**: Desenvolva aplicativos Java de forma confiável utilizando arquitetura Microservices
 - **Slides:** [http://bit.ly/redhatmsa](http://bit.ly/redhatmsa)
+
+#### Online Webinar at OCI - objectcomputing.com
+- **Title:** [Kubernetes for Java Developers](https://objectcomputing.com/resources/events/webinars/kubernetes-for-java-developers)
+- **Slides:** [http://bit.ly/kubernetes-intro](http://bit.ly/kubernetes-intro)
 
 ### 2017
 
