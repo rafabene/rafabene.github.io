@@ -16,19 +16,28 @@ image:
 
 ## .Next
 
+#### February 19th 20189 - Kubernetes/Cloud-Native Online Meetup
+- **Title:** [Service Mesh and Sidecars with Istio and Envoy](https://www.meetup.com/de-DE/Kubernetes-Cloud-Native-Online-Meetup/)
 
-#### November 22nd - Voxxed Days Cluj-Napoca - Romania
-- **Title:** [Service Mesh and Sidecars with Istio and Envoy](https://romania.voxxeddays.com/2018/08/14/service-mesh-and-sidecars-with-istio-and-envoy/)
-
-#### November 24th - Devoxx Ukraine 2018 - Kiev, Ukraine
-- **Title:** [Microprofile: Just enough EE for your Microservices](https://dvua18.confinabox.com/talk/CBI-1043/Microprofile:_Just_enough_EE_for_your_Microservices)
+#### February 23rd 2019 - JavaDay Lviv
+- **Title:** How not suck at Microservices
+- **Title:** Kubernetes for Docker Users
 
 #### March 6-8 2019 - DevNexus Atlanta
-- **Title:** Service Mesh and Sidecars with Istio and Envo
+- **Title:** [Service Mesh and Sidecars with Istio and Envoy](https://devnexus.com/presentations/3023/)
 
-#### March 16th 2018 - Java Day İstanbul
+#### March 16th 2019 - Java Day İstanbul
 - **Title:** [Your Java Journey into the Serverless World](https://javaday.istanbul/speaker/rafael-benevides/)
 - **Title:** [Workshop: Service Mesh and Sidecars with Istio and Envoy](https://javaday.istanbul/speaker/rafael-benevides/)
+
+#### March 19th 2019 - Voxxed Days Zurich
+- **Title:** [Service Mesh and Sidecars with Istio and Envoy](https://cfpvdz19.confinabox.com/talk/RSL-3477)
+
+#### March 22nd 2019 - Voxxed Days Romania
+- **Title:** [Waiting to be confirmed](https://romania.voxxeddays.com/bucharest/2019-03-20/)
+
+#### May 27th - 29th 2019 - JBCN 2019
+- **Title:** [The Istio Workshop](http://www.jbcnconf.com/2019/infoTalk.html?id=5c196e0238da165f64820b2a)
  
 
 <hr>
@@ -36,6 +45,16 @@ image:
 ## Past Conferences
 
 ### 2018
+#### November 24th - Devoxx Ukraine 2018 - Kiev, Ukraine
+- **Title:** [Microprofile: Just enough EE for your Microservices](https://dvua18.confinabox.com/talk/CBI-1043/Microprofile:_Just_enough_EE_for_your_Microservices)
+- **Slides:** [http://bit.ly/rh-microprofile](http://bit.ly/rh-microprofile)
+- **Video:** [https://youtu.be/Qej9I_qA07w](https://youtu.be/Qej9I_qA07w)
+
+#### November 22nd - Voxxed Days Cluj-Napoca - Romania
+- **Title:** [Service Mesh and Sidecars with Istio and Envoy](https://romania.voxxeddays.com/2018/08/14/service-mesh-and-sidecars-with-istio-and-envoy/)
+- **Slides:** [http://bit.ly/istio-kubernetes](http://bit.ly/istio-kubernetes)
+- **Video:** [https://youtu.be/h72EGqloFDM](https://youtu.be/h72EGqloFDM)
+
 
 #### September 26th - Lone Star Software Symposium: Boston - PA
 
@@ -62,6 +81,7 @@ image:
 
 - **Title:** [Serverless or Serverfull: Microservices^Functions](https://cfp.devoxx.pl/2018/talk/AQD-4305/Serverless_or_Serverfull:_Microservices%5EFunctions)
 - **Slides:** [http://bit.ly/serverlessfull](http://bit.ly/serverlessfull)
+- **Video:** [https://youtu.be/orxk96DLjjc](https://youtu.be/orxk96DLjjc)
 
 - **Title:** [Istio: Service Mesh & Dark Canaries](https://cfp.devoxx.pl/2018/talk/YZT-3504/Istio:_Service_Mesh_&_Dark_Canaries)
 - **Workshop:** [https://learn.openshift.com/servicemesh](https://learn.openshift.com/servicemesh)
@@ -159,9 +179,11 @@ image:
 
 - **Title:** [S103940 - 12 factors to cloud success](https://rh2017.smarteventscloud.com/connect/sessionDetail.ww?SESSION_ID=103940&tclass=popup)
 - **Slides:** [http://bit.ly/12factors-app](http://bit.ly/12factors-app)
+- **Video:** [https://youtu.be/vy-WRIo3wh4](https://youtu.be/vy-WRIo3wh4)
 
 - **Title:** [S103939 - Mastering deployments with Kubernetes & OpenShift: From basic to zero downtime, blue/green, A/B, and canary](https://rh2017.smarteventscloud.com/connect/sessionDetail.ww?SESSION_ID=103939&tclass=popup)
 - **Slides:** [http://bit.ly/thedeploymaster](http://bit.ly/thedeploymaster)
+- **Video:** [https://youtu.be/rUCs2OgUgtY](https://youtu.be/rUCs2OgUgtY)
 
 #### April 25th-28th 2017 - Great Indian Developer Summit - Bangalore - India
 
@@ -263,6 +285,7 @@ image:
 
 - **Title:** [DeltaSpike in a nutshell - Why so revolutionary?]((http://cfp2015.devoxx.ma/2015/talk/CLL-0718/DeltaSpike_in_a_nutshell_-_Why_so_revolutionary%3F))
 - **Slides:** [DZSlides](http://rafabene.com/deltaspike-cdi-toolbox/)
+- **Video:** [https://youtu.be/rU80FNVlGcs](https://youtu.be/rU80FNVlGcs)
 
 - **Title:** [Docker and Kubernetes for Java EE Developers](http://cfp2015.devoxx.ma/2015/talk/UMK-8733/Docker_and_Kubernetes_for_Java_EE_Developers)
 - **Material**: [http://bit.ly/DockerKubernetes](http://bit.ly/DockerKubernetes)
@@ -324,7 +347,7 @@ image:
 ### 2018
 
 #### Java Career - Interview - InteraTech 2018 CongressodeTI  (PT-Br)
-- **Video:** [Carreira JAVA](https://www.youtube.com/watch?v=Vg7aJnEDKd0)
+- **Video:** [Carreira JAVA](https://youtu.be/Vg7aJnEDKd0)
 
 #### St. Louis Java User's Group - St. Louis  - MO
 - **Title:** [Kubernetes for Java Developers](https://www.meetup.com/GatewayJUG/events/251273855/)
@@ -342,16 +365,19 @@ image:
 #### Online Webinar at OCI - objectcomputing.com
 - **Title:** [Kubernetes for Java Developers](https://objectcomputing.com/resources/events/webinars/kubernetes-for-java-developers)
 - **Slides:** [http://bit.ly/kubernetes-intro](http://bit.ly/kubernetes-intro)
+- **Video:** [https://youtu.be/0NVhCLIyhh4](https://youtu.be/0NVhCLIyhh4)
 
 ### 2017
 
 #### DevNation Live - November 2nd 2017 - Youtube video
 - **Title:** [Why you’re going to fail running Java on Docker](https://www.youtube.com/watch?v=_vM3ORa9_JE&feature=youtu.be)
 - **Slides:** [http://bit.ly/javadockerfail](http://bit.ly/javadockerfail)
+ - **Video:** [https://youtu.be/tI2l8yThKK4](https://youtu.be/tI2l8yThKK4)
 
 #### DevNation Live - August 3rd 2017 - Youtube video
 - **Title:** [Kubernetes for Java developers](https://www.youtube.com/watch?v=tI2l8yThKK4)
 - **Slides:** [http://bit.ly/kubernetes-intro](http://bit.ly/kubernetes-intro)
+- **Video:** [https://youtu.be/_vM3ORa9_JE](https://youtu.be/_vM3ORa9_JE)
 
 #### SOUJava - May 22nd 2017 - Youtube video(Pt-Br)
 - **Title:** [Acelerando sua entrega com containers com Rafael Benevides](https://www.youtube.com/watch?v=zssxFhHLSYo)
@@ -360,14 +386,14 @@ image:
 ### 2016
 
 #### DFJUG - December 2nd 2016 - Youtube video (Pt-Br):
-- **Title:** [Microservices com Java e containers](https://www.youtube.com/watch?v=ICpE3nDYj_8)
+- **Title and Video:** [Microservices com Java e containers](https://youtu.be/ICpE3nDYj_8)
 
 #### Triangle JUG - November 14th 2016 - Raleigh - NC - USA
 - **Title:** [12 Factors to Cloud Success](https://www.meetup.com/Triangle-Java-Users-Group/events/227271189/)
 - **Slides:** [http://bit.ly/12factors-app](http://bit.ly/12factors-app)
 
 #### SOUJava - October 27th 2016 - Youtube video (Pt-Br):
-- **Title:** [Encontro técnico de Outubro 2016 [MicroProfile]](https://www.youtube.com/watch?v=ki-akBYZvoE)
+- **Title and Video:** [Encontro técnico de Outubro 2016 [MicroProfile]](https://www.youtube.com/watch?v=ki-akBYZvoE)
 
 #### Docker Zürich experts community - October 5th 2016 -  - Zurich - Switzerland
 - **Title:** [Delivering like a Pro with Docker](https://www.meetup.com/Docker-Zurich/events/234171089/)
