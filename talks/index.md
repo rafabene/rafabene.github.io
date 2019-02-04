@@ -16,7 +16,11 @@ image:
 
 ## .Next
 
-#### February 19th 20189 - Kubernetes/Cloud-Native Online Meetup
+#### February 14th-15th 2019 - Campus Party - São Paulo - Brazil
+- **Title:** Using Microservices with OpenShift
+- **Title:** Serverless or Serverfull: Microservices & Functions on Kubernetes
+
+#### February 19th 2019 - Kubernetes/Cloud-Native Online Meetup
 - **Title:** [Service Mesh and Sidecars with Istio and Envoy](https://www.meetup.com/de-DE/Kubernetes-Cloud-Native-Online-Meetup/)
 
 #### February 23rd 2019 - JavaDay Lviv
@@ -34,7 +38,7 @@ image:
 - **Title:** [Service Mesh and Sidecars with Istio and Envoy](https://cfpvdz19.confinabox.com/talk/RSL-3477)
 
 #### March 22nd 2019 - Voxxed Days Romania
-- **Title:** [Waiting to be confirmed](https://romania.voxxeddays.com/bucharest/2019-03-20/)
+- **Title:** [How not suck at Microservices](https://romania.voxxeddays.com/2019/02/03/how-not-suck-at-microservices//)
 
 #### May 27th - 29th 2019 - JBCN 2019
 - **Title:** [The Istio Workshop](http://www.jbcnconf.com/2019/infoTalk.html?id=5c196e0238da165f64820b2a)
@@ -43,6 +47,12 @@ image:
 <hr>
 
 ## Past Conferences
+
+### 2019
+#### January 16th - Microservice Day - Atlanta, USA
+- **Title:** [Serverless or Serverfull: Microservices & Functions on Kubernetes](https://www.redhat.com/en/events/red-hat-microservices-day-atlanta-2019)
+- **Slides:** [http://bit.ly/serverlessfull](http://bit.ly/serverlessfull)
+- **Video:** [https://drive.google.com/file/d/1yECk6v9zlegeDThvb5WOxJ0q_mLvad1O/view](https://drive.google.com/file/d/1yECk6v9zlegeDThvb5WOxJ0q_mLvad1O/view)
 
 ### 2018
 #### November 24th - Devoxx Ukraine 2018 - Kiev, Ukraine
@@ -56,7 +66,7 @@ image:
 - **Video:** [https://youtu.be/h72EGqloFDM](https://youtu.be/h72EGqloFDM)
 
 
-#### September 26th - Lone Star Software Symposium: Boston - PA
+#### September 26th - Lone Star Software Symposium: Boston - MA
 
 - **Title:** [Kubernetes Workshop](https://nofluffjuststuff.com/conference/boston/2018/09/speakers/rafael_benevides)
 - **Slides:** [http://bit.ly/kubernetes-intro](http://bit.ly/kubernetes-intro)
