@@ -16,6 +16,9 @@ image:
 
 ## .Next
 
+#### February 8th 2019 - GOJava Meetup - Goiânia - Brazil
+- **Title:** [Microprofile: Just enough EE for your Microservices](https://www.meetup.com/GOJava/events/258303122/)
+
 #### February 14th-15th 2019 - Campus Party - São Paulo - Brazil
 - **Title:** Using Microservices with OpenShift
 - **Title:** Serverless or Serverfull: Microservices & Functions on Kubernetes
@@ -39,6 +42,9 @@ image:
 
 #### March 22nd 2019 - Voxxed Days Romania
 - **Title:** [How not suck at Microservices](https://romania.voxxeddays.com/2019/02/03/how-not-suck-at-microservices//)
+
+#### May 7th - 9th 2018 - Red Hat Summit 2019 - Boston - MA
+- **Title:** Service Mesh and Sidecars with Istio and Envoy
 
 #### May 27th - 29th 2019 - JBCN 2019
 - **Title:** [The Istio Workshop](http://www.jbcnconf.com/2019/infoTalk.html?id=5c196e0238da165f64820b2a)
