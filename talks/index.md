@@ -16,9 +16,6 @@ image:
 
 ## .Next
 
-#### February 8th 2019 - GOJava Meetup - Goiânia - Brazil
-- **Title:** [Microprofile: Just enough EE for your Microservices](https://www.meetup.com/GOJava/events/258303122/)
-
 #### February 14th-15th 2019 - Campus Party - São Paulo - Brazil
 - **Title:** Using Microservices with OpenShift
 - **Title:** Serverless or Serverfull: Microservices & Functions on Kubernetes
@@ -45,6 +42,9 @@ image:
 
 #### May 7th - 9th 2018 - Red Hat Summit 2019 - Boston - MA
 - **Title:** Service Mesh and Sidecars with Istio and Envoy
+
+#### May 21st 2019 - Oracle Code New York
+- **Title:** [How Not FAIL Running Java on Docker](https://developer.oracle.com/code/newyork-may-2019)
 
 #### May 27th - 29th 2019 - JBCN 2019
 - **Title:** [The Istio Workshop](http://www.jbcnconf.com/2019/infoTalk.html?id=5c196e0238da165f64820b2a)
@@ -359,6 +359,13 @@ image:
 <hr>
 
 ## Past Meetups/Webscasts/etc
+
+### 2019
+
+#### February 8th 2019 - GOJava Meetup - Goiânia - Brazil
+- **Title:** [Microprofile: Just enough EE for your Microservices](https://www.meetup.com/GOJava/events/258303122/)
+- **Slides:** [http://bit.ly/rh-microprofile](http://bit.ly/rh-microprofile)
+
 
 ### 2018
 
