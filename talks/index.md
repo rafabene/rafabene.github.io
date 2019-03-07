@@ -16,17 +16,6 @@ image:
 
 ## .Next
 
-#### February 14th-15th 2019 - Campus Party - São Paulo - Brazil
-- **Title:** Using Microservices with OpenShift
-- **Title:** Serverless or Serverfull: Microservices & Functions on Kubernetes
-
-#### February 19th 2019 - Kubernetes/Cloud-Native Online Meetup
-- **Title:** [Service Mesh and Sidecars with Istio and Envoy](https://www.meetup.com/de-DE/Kubernetes-Cloud-Native-Online-Meetup/)
-
-#### February 23rd 2019 - JavaDay Lviv
-- **Title:** How not suck at Microservices
-- **Title:** Kubernetes for Docker Users
-
 #### March 6-8 2019 - DevNexus Atlanta
 - **Title:** [Service Mesh and Sidecars with Istio and Envoy](https://devnexus.com/presentations/3023/)
 
@@ -40,14 +29,25 @@ image:
 #### March 22nd 2019 - Voxxed Days Romania
 - **Title:** [How not suck at Microservices](https://romania.voxxeddays.com/2019/02/03/how-not-suck-at-microservices//)
 
+#### April 23rd - 27th 2019 TDC Florianópolis
+- **Title:** [Microprofile: Enterprise o suficiente para microserviços](http://www.thedevelopersconference.com.br/tdc/2019/florianopolis/trilha-arquitetura-java)
+- **Title:** [12 passos para que sua aplicação na cloud-native seja um sucesso](http://www.thedevelopersconference.com.br/tdc/2019/florianopolis/trilha-cloud)
+- **Title:** [Service Mesh e Sidecars com Istio e Envoy](http://www.thedevelopersconference.com.br/tdc/2019/florianopolis/trilha-microservices)
+
 #### May 7th - 9th 2018 - Red Hat Summit 2019 - Boston - MA
 - **Title:** Service Mesh and Sidecars with Istio and Envoy
 
 #### May 21st 2019 - Oracle Code New York
 - **Title:** [How Not FAIL Running Java on Docker](https://developer.oracle.com/code/newyork-may-2019)
 
-#### May 27th - 29th 2019 - JBCN 2019
+#### May 28th 2019 - JPrime 2019
+- **Title:** Service Mesh and Sidecars with Istio and Envoy
+
+#### May 29th 2019 - JBCN 2019
 - **Title:** [The Istio Workshop](http://www.jbcnconf.com/2019/infoTalk.html?id=5c196e0238da165f64820b2a)
+
+#### July 5th - 6th 2019 - JConf Colombia
+- **Title:** Not defined
  
 
 <hr>
@@ -55,6 +55,20 @@ image:
 ## Past Conferences
 
 ### 2019
+
+#### February 23rd 2019 - JavaDay Lviv
+- **Title:** How not suck at Microservices
+- **Slides:** [http://bit.ly/redhatmsa](http://bit.ly/redhatmsa)
+
+- **Title:** Kubernetes for Java Users
+- **Slides:** [http://bit.ly/kubernetes-intro](http://bit.ly/kubernetes-intro)
+
+
+#### February 14th-15th 2019 - Campus Party - São Paulo - Brazil
+- **Title:** Using Microservices with OpenShift
+
+- **Title:** Serverless or Serverfull: Microservices & Functions on Kubernetes
+
 #### January 16th - Microservice Day - Atlanta, USA
 - **Title:** [Serverless or Serverfull: Microservices & Functions on Kubernetes](https://www.redhat.com/en/events/red-hat-microservices-day-atlanta-2019)
 - **Slides:** [http://bit.ly/serverlessfull](http://bit.ly/serverlessfull)
@@ -361,6 +375,12 @@ image:
 ## Past Meetups/Webscasts/etc
 
 ### 2019
+
+#### February 19th 2019 - Kubernetes/Cloud-Native Online Meetup
+- **Title:** [Service Mesh and Sidecars with Istio and Envoy](https://www.meetup.com/de-DE/Kubernetes-Cloud-Native-Online-Meetup/)
+- **Slides:** [http://bit.ly/istio-kubernetes](http://bit.ly/istio-kubernetes)
+- **Video:** [https://youtu.be/cTd-9IVkS2c](https://youtu.be/cTd-9IVkS2c)
+
 
 #### February 8th 2019 - GOJava Meetup - Goiânia - Brazil
 - **Title:** [Microprofile: Just enough EE for your Microservices](https://www.meetup.com/GOJava/events/258303122/)
