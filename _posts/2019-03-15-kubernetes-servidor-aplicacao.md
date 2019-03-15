@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Porque Kubernetes é o novo servidor de aplicações
+title: Kubernetes é o novo servidor de aplicações
 comments: true
 ---
 
