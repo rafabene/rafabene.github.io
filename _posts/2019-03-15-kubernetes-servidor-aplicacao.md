@@ -111,7 +111,7 @@ Além do mais, aplicações Java podem ser funcionalidades como uma `engine` de 
 
 Um bom servidor de aplicação garante a consistência entre as APIs que ele fornece e suas implementações. Desenvolvedores podem ter a certeza que fazendo o deploy de sua lógica de negócio, que requer certas funcionalidades, irá sempre funcionar por quê os desenvolvedores destes servidores (e seus padrões) garantem que estes componentes funcionam e evoluam juntos. Além do mais, um bom servidor de aplicação também é responsável por maximizar o `throughput` e a escalabilidade, uma vez que é responsável por gerenciar todas as requisições dos usuários. Ter uma latência reduzida e melhorando o tempo inicial de resposta, ajuda no [provisionamento](https://12factor.net/disposability) da aplicação. Ser leve, com um uso reduzido de memória minimiza o consumo de hardware. E finalmente, ser seguro o suficiente para evitar qualquer brecha de segurança. Para desenvolvedores Java, a Red Hat fornece o [Red Hat JBoss Enterprise Application Platform](https://www.redhat.com/en/technologies/jboss-middleware/application-platform), que preenche todos os requisitos de um servidor de aplicações moderno e modular.
 
-## Conclusion
+## Conclusão
 
 As imagens do contêiner se tornaram o formato padrão para distribuir e empacotar aplicações cloud-native. Enquanto contêineres por si não fornecem nenhuma vantagem real para o negócio propriamente dito, o Kubernetes e seus projetos relacionados como o OpenShift e o Istio, fornecem os requisitos não funcionais que, até então, eram parte de um servidor de aplicações.
 
