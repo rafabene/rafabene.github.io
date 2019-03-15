@@ -94,7 +94,7 @@ $ oc new-app --name approach1 wildflyswarm-10-centos7~https://github.com/redhat-
 - The developer don’t need Java or Maven installed locally. This is provided by the builder image.
 - The maven repository is download again in every build.
 - The developer don’t need to download the source code locally since you can use the git url as parameter of the builder image.
-- Openshift displays the commit information.
+- OpenShift displays the commit information.
 
 {: .center}
 ![](https://rhdevelopers.files.wordpress.com/2016/06/approach1.png?w=640)
@@ -123,7 +123,7 @@ Uploading directory "." as binary input for the build ...
 I0619 07:07:37.501658 1 docker.go:93] Pushing image 172.30.67.31:5000/wildflyswarm/approach2:latest ...
 I0619 07:09:17.039484 1 docker.go:97] Push successful
 
-# Create the Openshift application
+# Create the OpenShift application
 $ oc new-app approach2
 ...
 --> Success
@@ -147,7 +147,7 @@ $ oc new-app approach2
 
 [Fabric8](http://fabric8.io/) has a great community that “provides an opinionated open source microservices platform based on [Docker](https://www.docker.com/), [Kubernetes](http://kubernetes.io/) and [Jenkins](https://jenkins.io/)“. For that reason, many support [tools](http://fabric8.io/guide/tools.html) are available to help the developer to work with [Kubernetes](http://kubernetes.io/) and [OpenShift](https://www.openshift.org/).
 
-This approach uses Fabric8 [Maven plugin](http://fabric8.io/guide/mavenPlugin.html) that generates a docker image and the Kubernetes JSON files that will be applied in Openshift.
+This approach uses Fabric8 [Maven plugin](http://fabric8.io/guide/mavenPlugin.html) that generates a docker image and the Kubernetes JSON files that will be applied in OpenShift.
 
 To use this approach, the Maven file of the application has to be customized. You can browse the [pom.xml file](https://github.com/redhat-helloworld-msa/hola/blob/master/pom.xml#L215-L249) of the example “hola” application to see the configurations of the Fabric8 Maven plugin.
 

@@ -16,7 +16,7 @@ Something that I'm really exited about is that [Red Hat and Microsoft are making
 
 ![](/images/ms-linux.jpg)
 
-The destination (no matter if it's in the cloud, in the developer's machine, or on-premises) of all these containers or code (through S2I - source to image) is the [Openshift v3](https://www.openshift.org/).  There are [several talks](https://devconfcz2016.sched.org/overview/type/OpenShift) for people and IT organizations that wants to provision and scale their container-based application.
+The destination (no matter if it's in the cloud, in the developer's machine, or on-premises) of all these containers or code (through S2I - source to image) is the [OpenShift v3](https://www.openshift.org/).  There are [several talks](https://devconfcz2016.sched.org/overview/type/OpenShift) for people and IT organizations that wants to provision and scale their container-based application.
 
 ![](https://blog.openshift.com/wp-content/uploads/Community-Slide.png)
 

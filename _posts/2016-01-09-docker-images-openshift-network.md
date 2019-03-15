@@ -1,6 +1,6 @@
 ---
 layout: post
-title: From Docker images to Openshift + Docker Networks
+title: From Docker images to OpenShift + Docker Networks
 comments: true
 ---
 
@@ -12,7 +12,7 @@ As I promissed, I've updated this lab to include two new features that I want to
 
 - Docker Networks
 
-- Openshift v3
+- OpenShift v3
 
 ## Docker Networks
 
@@ -44,27 +44,27 @@ $ docker exec container1 cat /etc/hosts
 172.18.0.4	container3.mynet
 {% endhighlight %}
 
-## Openshift v3
+## OpenShift v3
 
 ![](/images/openshift_logo.png)
 
-Another great addition was the inclusal of [*Openshift instructions*](https://github.com/rafabene/devops-demo/blob/master/openshift/Readme.md) for the same lab. 
+Another great addition was the inclusal of [*OpenShift instructions*](https://github.com/rafabene/devops-demo/blob/master/openshift/Readme.md) for the same lab. 
 
-One of the biggest differences is that Openshift provides [*Routes feature*](https://docs.openshift.com/enterprise/3.0/architecture/core_concepts/routes.html) that allows external host name mapping and load balancing. Due to this "native" feature, we don't need to deploy [mod_cluster](http://mod-cluster.jboss.org/) as part of the lab environment. 
+One of the biggest differences is that OpenShift provides [*Routes feature*](https://docs.openshift.com/enterprise/3.0/architecture/core_concepts/routes.html) that allows external host name mapping and load balancing. Due to this "native" feature, we don't need to deploy [mod_cluster](http://mod-cluster.jboss.org/) as part of the lab environment. 
 
-Instead of using the [default PostgreSQL image](https://hub.docker.com/_/postgres/), Openshift provides a [Docker image for running PostgreSQL](https://hub.docker.com/r/openshift/postgresql-92-centos7/). This image can provide database services based on username, password, and database name settings provided via configuration.
+Instead of using the [default PostgreSQL image](https://hub.docker.com/_/postgres/), OpenShift provides a [Docker image for running PostgreSQL](https://hub.docker.com/r/openshift/postgresql-92-centos7/). This image can provide database services based on username, password, and database name settings provided via configuration.
 
-After deploying the Database, the [*Openshift README*](https://github.com/rafabene/devops-demo/blob/master/openshift/Readme.md) contains instructions to deploy the WildFly using two methods. Choose one:
+After deploying the Database, the [*OpenShift README*](https://github.com/rafabene/devops-demo/blob/master/openshift/Readme.md) contains instructions to deploy the WildFly using two methods. Choose one:
 
 - Using 3 CLI commands to deploy a POD, a Service and a Router, each one.
 - Use a single command to deploy the POD, Service and Router defined in a [YAML file](https://github.com/rafabene/devops-demo/blob/master/openshift/wildfly-rc-service-route.yaml).
 
-One of the greatest contributions of this lab adition, is that it can also be used as an overview guide to run `Docker images inside Openshift`.
+One of the greatest contributions of this lab adition, is that it can also be used as an overview guide to run `Docker images inside OpenShift`.
 
-Don't forget to check the recently added [*Openshift instructions*](https://github.com/rafabene/devops-demo/blob/master/openshift/Readme.md) 
+Don't forget to check the recently added [*OpenShift instructions*](https://github.com/rafabene/devops-demo/blob/master/openshift/Readme.md) 
 
 ## Conclusion
 
-While following the instructions of [github.com/rafabene/devops-demo](https://github.com/rafabene/devops-demo), you will face 5 different ways to have the same environment being executed with only [Docker tools](http://www.docker.com/products/overview#/docker_toolbox) (Compose, Machine, Swarm) and also with [Kubernetes](http://kubernetes.io/) and [Openshift](https://www.openshift.org/).
+While following the instructions of [github.com/rafabene/devops-demo](https://github.com/rafabene/devops-demo), you will face 5 different ways to have the same environment being executed with only [Docker tools](http://www.docker.com/products/overview#/docker_toolbox) (Compose, Machine, Swarm) and also with [Kubernetes](http://kubernetes.io/) and [OpenShift](https://www.openshift.org/).
 
 Executing it in the proposed order can provide you a didatic guide on how they are related to each other. This lab can also be used as a template for your most of middleware containers and applications, and at the same time, You will be in touch with the latest version and features of the Docker universe since I plan to continue updating this test environment frequently.

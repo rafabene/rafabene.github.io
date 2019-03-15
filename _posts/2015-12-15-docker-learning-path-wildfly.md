@@ -6,7 +6,7 @@ comments: true
 
 **EDIT:** This post has been edited to reflact the latest changes as described [here](/2016/01/09/docker-images-openshift-network/)
 
-[Docker](https://docs.docker.com/engine/userguide/), [Docker Compose](https://docs.docker.com/compose/), [Docker Machine](https://docs.docker.com/machine/), [Docker Swarm](https://docs.docker.com/swarm/), [Kubernetes](http://kubernetes.io/), [Openshift v3](http://www.openshift.org/) are some examples of tools and projects that are well consolidate in the container universe of Docker. Things are moving pretty fast and sometimes it's hard to move from a simple execution of a container ( *docker run -it fedora bash* ) to a Docker cluster in the cloud.
+[Docker](https://docs.docker.com/engine/userguide/), [Docker Compose](https://docs.docker.com/compose/), [Docker Machine](https://docs.docker.com/machine/), [Docker Swarm](https://docs.docker.com/swarm/), [Kubernetes](http://kubernetes.io/), [OpenShift v3](http://www.openshift.org/) are some examples of tools and projects that are well consolidate in the container universe of Docker. Things are moving pretty fast and sometimes it's hard to move from a simple execution of a container ( *docker run -it fedora bash* ) to a Docker cluster in the cloud.
 
 I've my own lab environment that consists in a [WildFly](http://www.wildfly.org/) container with [Ticket Monster application](http://www.jboss.org/ticket-monster/) connected to a [Postgres](http://www.postgresql.org/) container. To load balance the application, I use [Apache httpd](https://httpd.apache.org/) with [mod_cluster](http://mod-cluster.jboss.org/). The overview diagram of this environment can be seen in the following picture:
 
@@ -96,7 +96,7 @@ To execute this environment in Docker Swarm, follow the instructions available [
 
 [Kubernetes](http://kubernetes.io/) have a lot of contributions from [big companies](http://kubernetes.io/community/) to have a solution *"for automating deployment, scaling, and operations of application containers across clusters of host"*.
 
-I still need to prepare a blog post with more details about Kubernetes concepts (*nodes, replication controllers, services, labels, pods, etc*). Before Swarm and Openshift v3, Kubernetes was a natural choice for people who are familiar with Docker containers and wanted to run it in a cluster.
+I still need to prepare a blog post with more details about Kubernetes concepts (*nodes, replication controllers, services, labels, pods, etc*). Before Swarm and OpenShift v3, Kubernetes was a natural choice for people who are familiar with Docker containers and wanted to run it in a cluster.
 
 The Kubernetes installation is a little bit more tricky with different approachs as you can see here: [http://kubernetes.io/gettingstarted/](http://kubernetes.io/gettingstarted/). The most easy way to have Kubernetes running is run:
 
@@ -110,16 +110,16 @@ If you have a Kubernetes cluster running, you can try the Kubernetes instruction
 You can see how powerful is Kubernetes in this video: [https://www.youtube.com/watch?v=AAS5Mq9EktI](https://www.youtube.com/watch?v=AAS5Mq9EktI) - Ray Tsang (Google) and Arjen Wassink (Quintor) demonstrate at Devoxx Antwerp 2015 what happens when you pull the plug on a Docker cluster running on Raspberry Pi's.
 
 
-## Openshift v3
+## OpenShift v3
 
-Finally we land in [Openshift v3](https://www.openshift.org).
+Finally we land in [OpenShift v3](https://www.openshift.org).
 
 > "OpenShift 3 is built around a core of application containers powered by Docker, with orchestration and management provided by Kubernetes, on a foundation of Atomic and Enterprise Linux. OpenShift Origin is the upstream community project that brings it all together along with extensions, to accelerate application development and deployment." (http://www.openshift.org/)
 
 
 ![](/images/openshift_logo.png)
 
-In the next weeks I'll be updating the material available at [github.com/rafabene/devops-demo](https://github.com/rafabene/devops-demo) to include instructions to Openshift
+In the next weeks I'll be updating the material available at [github.com/rafabene/devops-demo](https://github.com/rafabene/devops-demo) to include instructions to OpenShift
 
 # Conclusion
 

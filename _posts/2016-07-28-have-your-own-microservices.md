@@ -33,7 +33,7 @@ This distinct demo allows developers execute some “helloworld” microservices
 
 - Different implementations: [WildFly Swarm](http://wildfly-swarm.io/), Spring Boot, [Vert.X](http://vertx.io/) and [NodeJS](https://nodejs.org/).
 - 3 invocation patterns: Browser as a client, [API-Gateway](http://microservices.io/patterns/apigateway.html), Chained invocation;
-- [Service-registry](http://microservices.io/patterns/service-registry.html), Self-healing, Load-balancing  and [Blue/Green deployments](http://blog.christianposta.com/deploy/blue-green-deployments-a-b-testing-and-canary-releases/) – Provided by [Openshift](https://www.openshift.com/);
+- [Service-registry](http://microservices.io/patterns/service-registry.html), Self-healing, Load-balancing  and [Blue/Green deployments](http://blog.christianposta.com/deploy/blue-green-deployments-a-b-testing-and-canary-releases/) – Provided by [OpenShift](https://www.openshift.com/);
 - JVM Monitoring – Provided by [Jolokia](https://jolokia.org/);
 - Service Monitoring – Provided by [Hystrix Dashboard](https://github.com/Netflix/Hystrix/tree/master/hystrix-dashboard) via [Kubeflix](https://github.com/fabric8io/kubeflix);
 - Service Tracing – Provided by [Zipkin](http://zipkin.io/) via [Fabric8’s Kubernetes Zipkin](https://github.com/fabric8io/kubernetes-zipkin);
@@ -42,7 +42,7 @@ This distinct demo allows developers execute some “helloworld” microservices
 - REST API specification – Provided by [Swagger](http://swagger.io/);
 - CI/CD pipelines – Provided by [Jenkins](https://jenkins.io/) with [Pipeline](https://wiki.jenkins-ci.org/display/JENKINS/Pipeline+Plugin) plugin.
 
-All these pieces are deployed via the [CDK](http://developers.redhat.com/products/cdk/overview/) (Container Development Kit), which is essentially a [Vagrant](https://www.vagrantup.com/) file that creates a virtualized environment with Docker, Kubernetes and Openshift Enterprise running on [RHEL (Red Hat Enterprise Linux)](http://developers.redhat.com/products/rhel/overview/).
+All these pieces are deployed via the [CDK](http://developers.redhat.com/products/cdk/overview/) (Container Development Kit), which is essentially a [Vagrant](https://www.vagrantup.com/) file that creates a virtualized environment with Docker, Kubernetes and OpenShift Enterprise running on [RHEL (Red Hat Enterprise Linux)](http://developers.redhat.com/products/rhel/overview/).
 
 To have a fast introduction of Helloworld-MSA, you can also watch Burr Sutter’s video:
 

@@ -16,9 +16,6 @@ image:
 
 ## .Next
 
-#### March 6-8 2019 - DevNexus Atlanta
-- **Title:** [Service Mesh and Sidecars with Istio and Envoy](https://devnexus.com/presentations/3023/)
-
 #### March 16th 2019 - Java Day İstanbul
 - **Title:** [Your Java Journey into the Serverless World](https://javaday.istanbul/speaker/rafael-benevides/)
 - **Title:** [Workshop: Service Mesh and Sidecars with Istio and Envoy](https://javaday.istanbul/speaker/rafael-benevides/)
@@ -56,11 +53,16 @@ image:
 
 ### 2019
 
+#### March 6-8 2019 - DevNexus Atlanta
+- **Title:** [Service Mesh and Sidecars with Istio and Envoy](https://devnexus.com/presentations/3023/)
+- **Slides:** [http://bit.ly/istio-kubernetes](http://bit.ly/istio-kubernetes)
+
+
 #### February 23rd 2019 - JavaDay Lviv
-- **Title:** How not suck at Microservices
+- **Title:** [How not suck at Microservices](https://www.javaday.org.ua/speakers/Rafael-Benevides)
 - **Slides:** [http://bit.ly/redhatmsa](http://bit.ly/redhatmsa)
 
-- **Title:** Kubernetes for Java Users
+- **Title:** [Kubernetes for Java Users](https://www.javaday.org.ua/speakers/Rafael-Benevides)
 - **Slides:** [http://bit.ly/kubernetes-intro](http://bit.ly/kubernetes-intro)
 
 
@@ -128,7 +130,7 @@ image:
 
 #### May 8th-10th 2018 - Red Hat Summit 2018 - San Francisco - CA
 
-- **Title:** [A Java developer's journey to Kubernetes and Openshift](https://agenda.summit.redhat.com/SessionDetail.aspx?id=154775)
+- **Title:** [A Java developer's journey to Kubernetes and OpenShift](https://agenda.summit.redhat.com/SessionDetail.aspx?id=154775)
 - **Slides:** [http://bit.ly/kubernetes-journey](http://bit.ly/kubernetes-journey)
 
 - **Title:** [Why you’re going to FAIL running Java on docker](https://agenda.summit.redhat.com/SessionDetail.aspx?id=154663)
@@ -450,11 +452,11 @@ image:
 - **Title:** [Ideal Platform for Microservices Deployment](http://www.meetup.com/Triangle-Kubernetes-Meetup/events/231861213/)
 - **Slides:** [http://bit.ly/redhatmsa](http://bit.ly/redhatmsa)
 
-#### Raleigh Openshift meetup - July 21st 2016 - Raleigh - NC  - USA
-- **Title:** [OpenShift as a Microservices Platform](http://www.meetup.com/Raleigh-Openshift-Meetup/events/231166914/)
+#### Raleigh OpenShift meetup - July 21st 2016 - Raleigh - NC  - USA
+- **Title:** [OpenShift as a Microservices Platform](http://www.meetup.com/Raleigh-OpenShift-Meetup/events/231166914/)
 - **Slides:** [http://bit.ly/redhatmsa](http://bit.ly/redhatmsa)
 
-#### Boston Openshift meetup - July 7th 2016 - Boston - MA - USA
+#### Boston OpenShift meetup - July 7th 2016 - Boston - MA - USA
 - **Title:** [OpenShift as a Microservices Platform](http://www.meetup.com/Boston-OpenShift-Meetup/events/231391761/)
 - **Slides:** [http://bit.ly/redhatmsa](http://bit.ly/redhatmsa)
 

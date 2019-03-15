@@ -42,7 +42,7 @@ I started learning Java in 2003 at a Lato Sensu Class. It was a first love sensa
 - 2010 – JBCAA – JBoss Certified Application Administrator – EAP 5
 - 2012 – JBCD-Seam – JBoss Certified Developer in Seam
 - 2012 – JBCAA – JBoss Certified Application Administrator – EAP 6
-- 2016 - Red Hat Certificate of Expertise in Platform-as-a-Service - Openshift 3
+- 2016 - Red Hat Certificate of Expertise in Platform-as-a-Service - OpenShift 3
 - 2016 - Red Hat Certificate of Expertise in Containerized Application Development
 - 2016 - Red Hat Certificate of Expertise in Ansible Automation
 
@@ -65,7 +65,7 @@ In november of 2009 I joined [Red Hat](http://www.redhat.com/en) as JBoss Consul
 My current interests are:
 
 - Cloud-native applications
-- Containers (Docker, Kubernetes and Openshift) 
+- Containers (Docker, Kubernetes and OpenShift) 
 - Microservices
 - Service Mesh
 - Serverless

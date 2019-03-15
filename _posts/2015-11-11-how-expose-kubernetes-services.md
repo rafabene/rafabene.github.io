@@ -219,13 +219,13 @@ open your browser at http://10.245.1.3:30140/employees/
 {% endhighlight %}
 
 
-##### The other ways (LoadBalancer and Openshift)
+##### The other ways (LoadBalancer and OpenShift)
 
 You can define `ServiceType=LoadBalancer`. But that works only for cloud provider which support external load balancers. There's a `work in progress` project at [https://github.com/kubernetes/contrib/tree/master/service-loadbalancer](https://github.com/kubernetes/contrib/tree/master/service-loadbalancer) that is self-defined as "how to set up a bank of haproxy for platforms that don't have load balancers".
 
-Since Kubernetes running on Vagrant doesn't support `ServiceType=LoadBalancer` at this moment, I never used it. When I have such requirenment I strongly recommend to use Openshift. 
+Since Kubernetes running on Vagrant doesn't support `ServiceType=LoadBalancer` at this moment, I never used it. When I have such requirenment I strongly recommend to use OpenShift. 
 
-Openshift v3 is built on top of Kubernetes and brings a series of improvements for final users like [ Routes](https://docs.openshift.com/enterprise/3.0/architecture/core_concepts/routes.html), but that's a subject for another topic.
+OpenShift v3 is built on top of Kubernetes and brings a series of improvements for final users like [ Routes](https://docs.openshift.com/enterprise/3.0/architecture/core_concepts/routes.html), but that's a subject for another topic.
 
 ![](https://blog.openshift.com/wp-content/uploads/routing.png)
 

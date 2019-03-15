@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to run Java fat-jars in Docker, Kubernetes and Openshift
+title: How to run Java fat-jars in Docker, Kubernetes and OpenShift
 comments: true
 ---
 
