@@ -40,9 +40,9 @@ Vamos explorar nove destas funcionalidades:
 ## 1 – Service Discovery
 
 `Service discovery` é o processo de descobrir como se conectar a um serviço. Para obter muito dos benefícios de aplicações cloud-native e contêineres, você precisa remover a configuração de dentro das imagens do contêiner de maneira que você possa usar a mesma imagem em todos os ambientes. Externalizar a configuração da sua aplicação é um dos princípios chave de uma [aplicação 12-factor](https://developers.redhat.com/blog/2017/06/22/12-factors-to-cloud-success/). 
-O `Service discovery` é uma das formas de obter a informação de configuração o ambiente ao invés de estar "hardcoded" na aplicação. O Kubernetes fornece um mecanismo de `Service Discovery` embutido. O Kubernetes também fornece [ConfigMaps](https://kubernetes.io/docs/tasks/configure-pod-container/configure-pod-configmap/) e [Secrets](https://kubernetes.io/docs/concepts/configuration/secret/) que removem a configuração de dentro da aplicação "contêinerizada". `Secrets` resolve alguns dos desafios de se armazenar credencias para se conectar a serviços como um banco de dados.
+O `Service discovery` é uma das formas de obter a informação de configuração o ambiente ao invés de estar "hardcoded" na aplicação. O Kubernetes fornece um mecanismo de `Service Discovery` embutido. O Kubernetes também fornece [ConfigMaps](https://kubernetes.io/docs/tasks/configure-pod-container/configure-pod-configmap/) e [Secrets](https://kubernetes.io/docs/concepts/configuration/secret/) que removem a configuração de dentro da aplicação "contêinerizada". `Secrets` resolve alguns dos desafios de se armazenar credenciais para se conectar a serviços como um banco de dados.
  
-Com o Kuberntes, não existe a necessidade de usar um servidor externo ou um framework. Apesar você poder gerenciar as configurações do ambiente usando os arquivos YAML do Kubernetes, o OpenShift fornece uma GUI em um CLI que facilitam o gerenciamento para times DevOps.
+Com o Kubernetes, não existe a necessidade de usar um servidor externo ou um framework. Apesar você poder gerenciar as configurações do ambiente usando os arquivos YAML do Kubernetes, o OpenShift fornece uma GUI em um CLI que facilitam o gerenciamento para times DevOps.
 
 ## 2 - Basic invocation
 
