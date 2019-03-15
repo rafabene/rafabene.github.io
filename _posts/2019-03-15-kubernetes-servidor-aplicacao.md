@@ -18,7 +18,7 @@ Responder esta pergunta à partir da perspectiva de um desenvolvedor nem sempre 
 - Qual versão da JDK você usa? Você usa Java 10 no ambiente de desenvolvimento, mas a produção usa a JRE 8? Você já enfrentou algum bug introduzido pelas diferenças da JVM?
 - Qual versão do servidor de aplicações você usa? O ambiente de produção usa a mesma configuração, patches de segurança, e versão da biblioteca?
 - Durante o deploy em produção, você já encontrou algum problema com o driver JDBC que você não encontrou no ambiente de desenvolvimento devido a versões diferentes do driver ou do banco de dados?
-- Você já teve que perguntar ao admin do servidor de aplicações para criar um `datasource` ou uma fila JMS e esta foi criada faltando uma letra?
+- Você já teve que solicitar ao admin do servidor de aplicações para criar um `datasource` ou uma fila JMS e esta foi criada faltando uma letra?
 
 Todos os problemas acima são causados por fatores externos a sua aplicação, e uma das grandes vantagens sobre contêineres é que você pode fazer o deploy de tudo (por exemplo, uma distribuição Linux, a JVM, o servidor de aplicações, bibliotecas, arquivos de configuração, e finalmente, sua aplicação) dentro de um contêiner previamente construído. Além do mais, executar um simples contêiner que tem tudo embutido é incrivelmente mais fácil do que levar seu código para a produção e tentar resolver os problemas quando alguma coisa falhar. Uma vez que é fácil executar, também é fácil escalar a mesma imagem do contêiner para múltiplas réplicas.
 
