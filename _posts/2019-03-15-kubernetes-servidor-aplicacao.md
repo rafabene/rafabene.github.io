@@ -6,7 +6,7 @@ comments: true
 
 This post was originally posted on [Red Hat Developers](Why Kubernetes is The New Application Server) and this version is a translation to Portuguease.
 
-Você já se perguntou o por quê estamos fazendo o deploy de aplicações multi-plataform usando contêineres? É somente uma questão de seguir alguma "modinha"? Neste artigo, eu vou fazer algumas perguntas provocativas para justificar o porque Kubernetes é o novo servidor de aplicações.
+Você já se perguntou o por quê estamos fazendo o deploy de aplicações multi-plataforma usando contêineres? É somente uma questão de seguir alguma "modinha"? Neste artigo, eu vou fazer algumas perguntas provocativas para justificar o porque Kubernetes é o novo servidor de aplicações.
 
 Você pode ter notado que a maioria das linguagens são interpretadas e usam "runtimes" para executar o código fonte. Em teoria, a maioria dos códigos Node.js, Python, e Ruby podem ser facilmente portados de uma plataforma (Windows, Mac, Linux) para outra plataforma. Aplicações Java vão ainda mais longe por possuírem sua classe Java transformadas em um bytecode capaz de ser executado em qualquer lugar que tenha uma JVM (Java Virtual Machine).
 
