@@ -4,7 +4,7 @@ title: Kubernetes é o novo servidor de aplicações
 comments: true
 ---
 
-This post was originally posted on [Red Hat Developers](Why Kubernetes is The New Application Server) and this version is a translation to Portuguease.
+This post was originally posted on [Red Hat Developers](https://developers.redhat.com/blog/2018/06/28/why-kubernetes-is-the-new-application-server/) and this version is a translation to Portuguease.
 
 Você já se perguntou o por quê estamos fazendo o deploy de aplicações multi-plataforma usando contêineres? É somente uma questão de seguir alguma "modinha"? Neste artigo, eu vou fazer algumas perguntas provocativas para justificar o porque Kubernetes é o novo servidor de aplicações.
 

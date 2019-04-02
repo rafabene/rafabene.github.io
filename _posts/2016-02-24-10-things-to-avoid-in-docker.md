@@ -26,5 +26,5 @@ However, many users are still treating containers just like typical virtual mach
 
 This characteristic forces users to change their mindset on how they should handle and manage containers.
 
-I explained all what you should **NOT** do in containers to keep extracting the best beneficts of it in [Red Hat Developers Blog](http://developerblog.redhat.com/2016/02/24/10-things-to-avoid-in-docker-containers/). Check it out, and register at [Red Hat Developers website](https://developers.redhat.com/) to have access to more amazing content for Developers.
+I explained all what you should **NOT** do in containers to keep extracting the best beneficts of it in [Red Hat Developers Blog - 10 things to avoid in docker containers](https://developers.redhat.com/blog/2016/02/24/10-things-to-avoid-in-docker-containers/). Check it out, and register at [Red Hat Developers website](https://developers.redhat.com/) to have access to more amazing content for Developers.
 
