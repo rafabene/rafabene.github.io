@@ -15,8 +15,7 @@ Então finalmente você se rendeu a utilização de contêineres e descobriu que
 
 **Terceiro: Contêineres são rápidos** - Você pode inicializar um contêiner tão rapidamente como um processo típico do Linux. Ao invés de minutos, você pode inicializar um contêiner em alguns segundos.
 
-Entretanto, muitos usuários ainda tratam contêineres como uma "máquina virtual" e esquecem que contêiner tem uma característica muito importante: Contêineres são 
-However, many users are still treating containers just like typical virtual machines and forget that containers have an important characteristic: **Containers are descartáveis**.
+Entretanto, muitos usuários ainda tratam contêineres como uma "máquina virtual" e esquecem que contêiner tem uma característica muito importante: **Contêineres são descartáveis**.
 
 {: .center}
 O grande "mantra" de contêineres é: 
