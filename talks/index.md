@@ -16,42 +16,70 @@ image:
 
 ## .Next
 
-#### March 16th 2019 - Java Day İstanbul
-- **Title:** [Your Java Journey into the Serverless World](https://javaday.istanbul/speaker/rafael-benevides/)
-- **Title:** [Workshop: Service Mesh and Sidecars with Istio and Envoy](https://javaday.istanbul/speaker/rafael-benevides/)
+#### June 13th - 15th 2019 - TDC Belo Horizonte
+- **Title:** [Microprofile: Enterprise o suficiente para microserviços](http://www.thedevelopersconference.com.br/tdc/2019/belohorizonte/trilha-java)
 
-#### March 19th 2019 - Voxxed Days Zurich
-- **Title:** [Service Mesh and Sidecars with Istio and Envoy](https://cfpvdz19.confinabox.com/talk/RSL-3477)
-
-#### March 22nd 2019 - Voxxed Days Romania
-- **Title:** [How not suck at Microservices](https://romania.voxxeddays.com/2019/02/03/how-not-suck-at-microservices//)
-
-#### April 23rd - 27th 2019 TDC Florianópolis
-- **Title:** [Microprofile: Enterprise o suficiente para microserviços](http://www.thedevelopersconference.com.br/tdc/2019/florianopolis/trilha-arquitetura-java)
-- **Title:** [12 passos para que sua aplicação na cloud-native seja um sucesso](http://www.thedevelopersconference.com.br/tdc/2019/florianopolis/trilha-cloud)
-- **Title:** [Service Mesh e Sidecars com Istio e Envoy](http://www.thedevelopersconference.com.br/tdc/2019/florianopolis/trilha-microservices)
-
-#### May 7th - 9th 2018 - Red Hat Summit 2019 - Boston - MA
-- **Title:** Service Mesh and Sidecars with Istio and Envoy
-
-#### May 21st 2019 - Oracle Code New York
-- **Title:** [How Not FAIL Running Java on Docker](https://developer.oracle.com/code/newyork-may-2019)
-
-#### May 28th 2019 - JPrime 2019
-- **Title:** Service Mesh and Sidecars with Istio and Envoy
-
-#### May 29th 2019 - JBCN 2019
-- **Title:** [The Istio Workshop](http://www.jbcnconf.com/2019/infoTalk.html?id=5c196e0238da165f64820b2a)
+- **Title:** [Service Mesh e Sidecars com Istio e Envoy](http://www.thedevelopersconference.com.br/tdc/2019/belohorizonte/trilha-microservices)
 
 #### July 5th - 6th 2019 - JConf Colombia
 - **Title:** Not defined
- 
+
+#### July 16th - 20th 2019 - TDC São Paulo
+- **Title:** [Service Mesh e Sidecars com Istio e Envoy](http://www.thedevelopersconference.com.br/tdc/2019/saopaulo/trilha-containers)
+
+- **Title:** [Supersonic, Subatomic Java with Quarkus](http://www.thedevelopersconference.com.br/tdc/2019/saopaulo/trilha-java)
+
 
 <hr>
 
 ## Past Conferences
 
 ### 2019
+
+#### May 29th 2019 - JBCN 2019
+- **Title:** [The Istio Workshop](http://www.jbcnconf.com/2019/infoTalk.html?id=5c196e0238da165f64820b2a)
+- **Material:** [http://bit.ly/istio-workshop-11](http://bit.ly/istio-workshop-11)
+
+#### May 28th 2019 - JPrime 2019
+- **Title:** Service Mesh and Sidecars with Istio and Envoy
+- **Slides:** [http://bit.ly/istio-kubernetes](http://bit.ly/istio-kubernetes)
+
+#### May 21st 2019 - Oracle Code New York
+- **Title:** [How Not FAIL Running Java on Docker](https://developer.oracle.com/code/newyork-may-2019)
+- **Slides:** [http://bit.ly/javadockerfail](http://bit.ly/javadockerfail)
+- **Video:** [https://youtu.be/Usc2cd2IqQg?t=12883](https://youtu.be/Usc2cd2IqQg?t=12883)
+
+#### May 7th - 9th 2018 - Red Hat Summit 2019 - Boston - MA
+- **Title:** Service Mesh and Sidecars with Istio and Envoy
+- **Slides:** [http://bit.ly/12factors-app](http://bit.ly/12factors-app)
+
+#### April 23rd - 27th 2019 TDC Florianópolis
+- **Title:** [Microprofile: Enterprise o suficiente para microserviços](http://www.thedevelopersconference.com.br/tdc/2019/florianopolis/trilha-arquitetura-java)
+- **Slides:** [http://bit.ly/rh-microprofile](http://bit.ly/rh-microprofile)
+
+- **Title:** [12 passos para que sua aplicação na cloud-native seja um sucesso](http://www.thedevelopersconference.com.br/tdc/2019/florianopolis/trilha-cloud)
+- **Slides:** [http://bit.ly/12factors-app](http://bit.ly/12factors-app)
+
+- **Title:** [Service Mesh e Sidecars com Istio e Envoy](http://www.thedevelopersconference.com.br/tdc/2019/florianopolis/trilha-microservices)
+- **Slides:** [http://bit.ly/istio-kubernetes](http://bit.ly/istio-kubernetes)
+
+#### March 22nd 2019 - Voxxed Days Romania
+- **Title:** [How not suck at Microservices](https://romania.voxxeddays.com/2019/02/03/how-not-suck-at-microservices//)
+- **Slides:** [http://bit.ly/redhatmsa](http://bit.ly/redhatmsa)
+
+
+#### March 19th 2019 - Voxxed Days Zurich
+- **Title:** [Service Mesh and Sidecars with Istio and Envoy](https://cfpvdz19.confinabox.com/talk/RSL-3477)
+- **Video:** [https://youtu.be/KLBFR_rUreE](https://youtu.be/KLBFR_rUreE)
+- **Slides:** [http://bit.ly/istio-kubernetes](http://bit.ly/istio-kubernetes)
+
+
+#### March 16th 2019 - Java Day İstanbul
+- **Title:** [Your Java Journey into the Serverless World](https://javaday.istanbul/speaker/rafael-benevides/)
+- **Slides:** [http://bit.ly/serverlessfull](http://bit.ly/serverlessfull)
+
+- **Title:** [Workshop: Service Mesh and Sidecars with Istio and Envoy](https://javaday.istanbul/speaker/rafael-benevides/)
+- **Slides:** [http://bit.ly/istio-kubernetes](http://bit.ly/istio-kubernetes)
 
 #### March 6-8 2019 - DevNexus Atlanta
 - **Title:** [Service Mesh and Sidecars with Istio and Envoy](https://devnexus.com/presentations/3023/)
@@ -70,6 +98,7 @@ image:
 - **Title:** Using Microservices with OpenShift
 
 - **Title:** Serverless or Serverfull: Microservices & Functions on Kubernetes
+- **Slides:** [http://bit.ly/serverlessfull](http://bit.ly/serverlessfull)
 
 #### January 16th - Microservice Day - Atlanta, USA
 - **Title:** [Serverless or Serverfull: Microservices & Functions on Kubernetes](https://www.redhat.com/en/events/red-hat-microservices-day-atlanta-2019)
