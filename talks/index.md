@@ -16,32 +16,56 @@ image:
 
 ## .Next
 
-#### June 13th - 15th 2019 - TDC Belo Horizonte
-- **Title:** [Microprofile: Enterprise o suficiente para microserviços](http://www.thedevelopersconference.com.br/tdc/2019/belohorizonte/trilha-java)
-
-- **Title:** [Service Mesh e Sidecars com Istio e Envoy](http://www.thedevelopersconference.com.br/tdc/2019/belohorizonte/trilha-microservices)
-
-#### July 5th - 6th 2019 - JConf Colombia
-- **Title:** Not defined
 
 #### July 16th - 20th 2019 - TDC São Paulo
 - **Title:** [Service Mesh e Sidecars com Istio e Envoy](http://www.thedevelopersconference.com.br/tdc/2019/saopaulo/trilha-containers)
 
 - **Title:** [Supersonic, Subatomic Java with Quarkus](http://www.thedevelopersconference.com.br/tdc/2019/saopaulo/trilha-java)
 
+#### July 19th - Meetup SouJava RJ
+- **Title:** [Quarkus: Fast, Small, Innovative and native?!](https://www.meetup.com/Java-at-Rio/events/258309794/)
+
+#### August 6th - Oracle Ground Breakers tour - Argentina
+- **Title:** [Title not defined](https://docs.google.com/spreadsheets/d/1nz030Vjkn5pEICxqq5cJ9LKg2T2l5gQCXSxoGzBbMJQ/edit#gid=0)
+
+#### August 10th - Oracle Ground Breakers tour - São Paulo
+- **Title:** [Title not defined](https://guobtechday2019.eventize.com.br/index.php?pagina=10)
+
+#### August 16th - DevCamp - São Paulo
+- **Title:** [Title will change](https://www.devcamp.com.br/rafael-benevides/)
+
+#### August 26th - Oracle Ground Breakers tour - Guatemal
+- **Title:** Title not defined
+
 
 <hr>
 
 ## Past Conferences
 
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1nPZVQ7QHVvnh3ivlV0jI2_AnhwFTzS65" width="640" height="480"></iframe>
+
 ### 2019
 
-#### May 29th 2019 - JBCN 2019
+#### July 5th - 6th 2019 - JConf Colombia
+- **Title:** [The Istio Workshop](http://www.jconfcolombia.org/2019/schedule_EN.html)
+- **Material:** [http://bit.ly/istio-workshop-11](http://bit.ly/istio-workshop-11)
+
+- **Title:** [Quarkus: Fast, Small, Innovative and native?!](http://www.jconfcolombia.org/2019/schedule_EN.html)
+- **Material:** [http://http://bit.ly/quarkus](http://http://bit.ly/quarkus)
+
+#### June 13th - 15th 2019 - TDC Belo Horizonte
+- **Title:** [Microprofile: Enterprise o suficiente para microserviços](http://www.thedevelopersconference.com.br/tdc/2019/belohorizonte/trilha-java)
+- **Slides:** [http://bit.ly/rh-microprofile](http://bit.ly/rh-microprofile)
+
+- **Title:** [Service Mesh e Sidecars com Istio e Envoy](http://www.thedevelopersconference.com.br/tdc/2019/belohorizonte/trilha-microservices)
+- **Slides:** [http://bit.ly/istio-kubernetes](http://bit.ly/istio-kubernetes)
+
+#### May 29th 2019 - JBCN 2019 - Barcelona
 - **Title:** [The Istio Workshop](http://www.jbcnconf.com/2019/infoTalk.html?id=5c196e0238da165f64820b2a)
 - **Material:** [http://bit.ly/istio-workshop-11](http://bit.ly/istio-workshop-11)
 
-#### May 28th 2019 - JPrime 2019
-- **Title:** Service Mesh and Sidecars with Istio and Envoy
+#### May 28th 2019 - JPrime 2019 - Sofia - Bulgaria
+- **Title:** [Service Mesh and Sidecars with Istio and Envoy](https://jprime.io/agenda/96)
 - **Slides:** [http://bit.ly/istio-kubernetes](http://bit.ly/istio-kubernetes)
 
 #### May 21st 2019 - Oracle Code New York
@@ -124,15 +148,15 @@ image:
 
 #### September 19th - Red Hat Tech Exchange - Prague - Czech Republic
 
-- **Title:**: Eclipse Che on OpenShift workshop
-- **Workshop**: [http://bit.ly/che-workshop](http://bit.ly/che-workshop)
+- **Title:** Eclipse Che on OpenShift workshop
+- **Workshop:** [http://bit.ly/che-workshop](http://bit.ly/che-workshop)
 
 #### September 14th - Red Hat Forum - Moscow  - Russia
 
-- **Title:**: [Serverless or Serverfull: Microservices & Functions on Kubernetes](https://www.redhat.com/en/events/forum-russia)
-- **Slides**: [http://bit.ly/serverlessfull](http://bit.ly/serverlessfull)
+- **Title:** [Serverless or Serverfull: Microservices & Functions on Kubernetes](https://www.redhat.com/en/events/forum-russia)
+- **Slides:** [http://bit.ly/serverlessfull](http://bit.ly/serverlessfull)
 
-#### July 27th - Lone Star Software Symposium: Austin
+#### July 27th 2018 - Lone Star Software Symposium: Austin
 
 - **Title:** [Cirque du application development - containers, Kubernetes, and OpenShift](https://nofluffjuststuff.com/conference/austin/2018/07/session?id=42531)
 - **Slides:** [http://bit.ly/kubernetes-intro](http://bit.ly/kubernetes-intro)
@@ -229,7 +253,7 @@ image:
 - **Title:** [Mastering deployments with Kubernetes & OpenShift: From basic to zero downtime, blue/green, A/B, and canary](http://www.thedevelopersconference.com.br/tdc/2017/saopaulo/trilha-devops)
 - **Slides:** [http://bit.ly/thedeploymaster](http://bit.ly/thedeploymaster)
 
-- *Title:**[12 factors to cloud success](http://www.thedevelopersconference.com.br/tdc/2017/saopaulo/trilha-cloud-computing)
+- **Title:**[12 factors to cloud success](http://www.thedevelopersconference.com.br/tdc/2017/saopaulo/trilha-cloud-computing)
 - **Slides:** [http://bit.ly/12factors-app](http://bit.ly/12factors-app)
 
 - **Title:**[Microprofile? Your Enterprise application in the cloud and microservices era](http://www.thedevelopersconference.com.br/tdc/2017/saopaulo/trilha-java-ee)
@@ -423,11 +447,11 @@ image:
 #### Java Career - Interview - InteraTech 2018 CongressodeTI  (PT-Br)
 - **Video:** [Carreira JAVA](https://youtu.be/Vg7aJnEDKd0)
 
-#### St. Louis Java User's Group - St. Louis  - MO
+#### St. Louis Java User's Group - October 11th, 2018 -  St. Louis  - MO
 - **Title:** [Kubernetes for Java Developers](https://www.meetup.com/GatewayJUG/events/251273855/)
 - **Slides:** [http://bit.ly/kubernetes-intro](http://bit.ly/kubernetes-intro)
 
-#### PhillyJUG - Philadelphia - PA
+#### PhillyJUG - September 12th, 2018 - Philadelphia - PA
 - **Title:** [MicroProfile: Just Enough Java EE for Your Microservices](https://www.meetup.com/PhillyJUG/events/250594486/)
 - **Slides:** [http://bit.ly/rh-microprofile](http://bit.ly/rh-microprofile)
 
