@@ -30,13 +30,12 @@ redcarpet:
 owner:
   name: Rafael Benevides
   avatar: Rafael18.png
-  bio: "Brazilian, (DDX) Director of Developer eXperience at @RedHat, Helping @Java Developers to adopt containers and microservices technologies so they can become experts."
+  bio: "Brazilian, Cloud-Native Dev. Advocate at @Oracle, Helping Developers to develop Cloud-Native applications."
   email: rafabene@gmail.com
   disqus-shortname: rafaelbenevidesblog
   twitter: rafabene
   facebook: rafabene
   google:
-    plus: RafaelBenevides1
     analytics: UA-1667243-1
     verify:
     ad-client:

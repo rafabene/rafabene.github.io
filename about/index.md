@@ -12,7 +12,7 @@ image:
 
 > TLDR; Short and Copyable version
 --------------------------------
-> [Rafael Benevides]((http://twitter.com/rafabene)) is Director of Developer Experience at [Red Hat](http://www.redhat.com). 
+> [Rafael Benevides]((http://twitter.com/rafabene)) is a Cloud-Native Developer Advocate at [Oracle](http://www.oracle.com). 
 With many years of experience in several fields of the IT industry, he helps developers and companies all over the 
 world to be more effective in software development. Rafael considers himself a problem solver who has a big love for sharing.
 He is a member of [Apache DeltaSpike](http://deltaspike.apache.org) PMC - a Duke’s Choice Award winner project, 
@@ -25,7 +25,7 @@ and a speaker in conferences like JavaOne, Devoxx, TDC, DevNexus and many others
 
 ### Who am I?
 
-Hi, my name is Rafael Benevides. I am a 41 years old Brazilian who lives in [Orlando,FL](https://www.google.com/maps/place/Orlando,+FL/). Here, I work as a Director of Developer Experience at [Red Hat](http://www.redhat.com), helping Java Developers to adopt containers and microservices technologies so they can become experts.
+Hi, my name is Rafael Benevides. I am a 42 years old Brazilian who lives in [Brasília, DF, Brazil](https://www.google.com/maps/place/Bras%C3%ADlia+-+Brasilia,+Federal+District/). Here, I work as a Cloud-Native Developer Advocate at [Oracle](http://www.oracle.com), helping Developers to develop Cloud-Native applications using containers and microservices technologies so they can become experts.
 
 
 ### Java developer
@@ -62,10 +62,12 @@ I worked for [Summa Technologies](http://www.summa-tech.com/) and [INEP](http://
 
 In november of 2009 I joined [Red Hat](http://www.redhat.com/en) as JBoss Consultant. In 2012 I moved to Software Engineer working hard to promote enterprise Java solutions in an effective way. Since 2016 I become a Senior Product Manager, having the mission push even further the tools and practices that help developers to be more productive.
 
+In July of 2019 I joined [Oracle](http://www.oracle.com) as a Cloud-Native Developer Advocate in LAD (Latin America Division) to help customers to address the technical, developer, and strategic IT needs.
+
 My current interests are:
 
 - Cloud-native applications
-- Containers (Docker, Kubernetes and OpenShift) 
+- Containers (Docker, Kubernetes) 
 - Microservices
 - Service Mesh
 - Serverless
