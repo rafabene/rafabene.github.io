@@ -16,7 +16,9 @@ in Brasília
 Brazil....
 </pre>
 
-Yeap! 10 years ago, in this same city of [Brasília, at the heart of Brazil](https://www.google.com/maps/place/Bras%C3%ADlia+-+Brasilia,+Federal+District/) I joined [Red Hat (now IBM)](https://www.redhat.com/en). 
+... I joined [Red Hat (now IBM)](https://www.redhat.com/en). 
+
+Yeap! 10 years ago, in this same city of [Brasília, at the heart of Brazil](https://www.google.com/maps/place/Bras%C3%ADlia+-+Brasilia,+Federal+District/) I started an era at Red Hat.
 
 The last years were amazing! [I visited 17+ countries, spoke at several conferences and developer groups](/talks/#past-conferences), [published a book](https://www.oreilly.com/library/view/microservices-for-java/9781492038290/), [released a Youtube channel](http://www.youtube.com/rafabene), and made uncountable friends worldwide.
 
