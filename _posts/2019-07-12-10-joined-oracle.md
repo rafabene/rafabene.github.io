@@ -26,7 +26,7 @@ The last years were amazing! [I visited 17+ countries, spoke at several conferen
 
 However, at the end of this decade, I'm changing my home in every possible sense. 
 
-First, I moved from [Orlando-FL](https://www.google.com/maps/place/Orlando-FL), where I lived since 2015 to live again in Brasília-DF. 
+First, I moved from [Orlando-FL](https://www.google.com/maps/place/Orlando-FL), where I lived since 2017 (I lived in Raleigh-NC since 2015) to live again in Brasília-DF. 
 
 Second, today I joined [Oracle](http://www.oracle.com) as a Cloud-Native Developer Advocate in LAD (Latin America Division). Here I have the mission to help customers to adopt open-source solutions (Yes!) using Oracle's Cloud-Native Linux solutions portfolio. 
 
