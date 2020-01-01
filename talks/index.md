@@ -17,41 +17,81 @@ image:
 ## .Next
 
 
-#### July 16th - 20th 2019 - TDC São Paulo
-- **Title:** [Service Mesh e Sidecars com Istio e Envoy](http://www.thedevelopersconference.com.br/tdc/2019/saopaulo/trilha-containers)
-
-- **Title:** [Supersonic, Subatomic Java with Quarkus](http://www.thedevelopersconference.com.br/tdc/2019/saopaulo/trilha-java)
-
-#### July 19th - Meetup SouJava RJ
-- **Title:** [Quarkus: Fast, Small, Innovative and native?!](https://www.meetup.com/Java-at-Rio/events/258309794/)
-
-#### August 6th - Oracle Ground Breakers tour - Argentina
-- **Title:** [Title not defined](https://docs.google.com/spreadsheets/d/1nz030Vjkn5pEICxqq5cJ9LKg2T2l5gQCXSxoGzBbMJQ/edit#gid=0)
-
-#### August 10th - Oracle Ground Breakers tour - São Paulo
-- **Title:** [Title not defined](https://guobtechday2019.eventize.com.br/index.php?pagina=10)
-
-#### August 16th - DevCamp - São Paulo
-- **Title:** [Title will change](https://www.devcamp.com.br/rafael-benevides/)
-
-#### August 26th - Oracle Ground Breakers tour - Guatemal
-- **Title:** Title not defined
-
-
 <hr>
 
 ## Past Conferences
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1nPZVQ7QHVvnh3ivlV0jI2_AnhwFTzS65" width="640" height="480"></iframe>
 
+
+### 2020
+
 ### 2019
+
+#### November 28th 2019 - TDC Porto Alegre - RS
+- **Title:** [Service Mesh and Sidecars with Istio and Envoy](https://thedevconf.com/tdc/2019/portoalegre/trilha-arquitetura-java)
+- **Slides:** [http://bit.ly/istio-kubernetes](http://bit.ly/istio-kubernetes)
+
+#### October 11th - 12th 2019 - TDC Recife - PE
+- **Title:** [Service Mesh and Sidecars with Istio and Envoy](https://thedevconf.com/tdc/2019/recife/trilha-microservices)
+- **Slides:** [http://bit.ly/istio-kubernetes](http://bit.ly/istio-kubernetes)
+
+- **Title:** [Quarkus: Fast, Small, Native?](https://thedevconf.com/tdc/2019/recife/trilha-java)
+- **Slides:** [http://http://bit.ly/quarkus](http://http://bit.ly/quarkus)
+
+
+#### October 5th 2019 - DevOps Tour - Curitiba
+- **Title:**: [12 passos para que sua aplicação na cloud seja um sucesso](https://www.devopstour.com/agenda-ctba)
+- **Slides:**: [http://bit.ly/12factors-app](http://bit.ly/12factors-app)
+
+#### September 28th 2019 - JavaDay Belem
+- **Title:** [Quarkus: Fast, Small, Native?](https://doity.com.br/java-day-belem-20190425082018)
+- **Slides:** [http://http://bit.ly/quarkus](http://http://bit.ly/quarkus)
+
+
+#### September 27th 2019 - SeniorTec - Blumenau
+- **Title:** [Service Mesh and Sidecars with Istio and Envoy](https://www.senior.com.br/seniortec/)
+- **Slides:** [http://bit.ly/istio-kubernetes](http://bit.ly/istio-kubernetes)
+
+#### September 16th - 19th 2019 - Oracle Code One - San Francisco
+- **Title:** [Service Mesh and Sidecars with Istio and Envoy](https://events.rainfocus.com/widget/oracle/oow19/catalogcodeone19?search=dev1897)
+- **Slides:** [http://bit.ly/istio-kubernetes](http://bit.ly/istio-kubernetes)
+
+- **Title:** [Quarkus: Fast, Small, Native?](https://events.rainfocus.com/widget/oracle/oow19/catalogcodeone19?search=dev1895)
+- **Slides:** [http://http://bit.ly/quarkus](http://http://bit.ly/quarkus)
+
+#### August 31st 2019 - DB1 Tech Talks - Campo Grande/MS - Brazil
+- **Title:** Keynote: Darwinismo Digital
+
+#### August 17th 2019 - Jornada DevOps - São Paulo
+- **Title:** [Service Mesh and Sidecars with Istio and Envoy](https://www.sympla.com.br/cultura-agil--colaborativa--digital--devops---12-palestras--livro-jornada-devops--camisa__573336#info)
+- **Slides:** [http://bit.ly/istio-kubernetes](http://bit.ly/istio-kubernetes)
+
+#### August 16th 2019 - DevCamp - Campinas
+- **Title:** [Service Mesh and Sidecars with Istio and Envoy](https://www.devcamp.com.br/rafael-benevides/)
+- **Slides:** [http://bit.ly/istio-kubernetes](http://bit.ly/istio-kubernetes)
+
+
+#### August 10th 2019 - Oracle GroundBreakers São Paulo
+- **Title:** [Service Mesh and Sidecars with Istio and Envoy](https://guobtechday2019.eventize.com.br/)
+- **Slides:** [http://bit.ly/istio-kubernetes](http://bit.ly/istio-kubernetes)
+
+
+#### August 5th 2019 - Oracle GroundBreakers Argentina
+- **Title:** [Service Mesh and Sidecars with Istio and Envoy](https://www.eventbrite.com.ar/e/oracle-groundbreakers-latam-tour-2019-en-argentina-tickets-63397542757)
+- **Slides:** [http://bit.ly/istio-kubernetes](http://bit.ly/istio-kubernetes)
+
+
+#### July 16th - 18th 2019 - TDC São Paulo
+- **Title:** [Quarkus: Fast, Small, Native?](https://thedevconf.com/tdc/2019/saopaulo/trilha-java)
+- **Slides:** [http://http://bit.ly/quarkus](http://http://bit.ly/quarkus)
 
 #### July 5th - 6th 2019 - JConf Colombia
 - **Title:** [The Istio Workshop](http://www.jconfcolombia.org/2019/schedule_EN.html)
 - **Material:** [http://bit.ly/istio-workshop-11](http://bit.ly/istio-workshop-11)
 
 - **Title:** [Quarkus: Fast, Small, Innovative and native?!](http://www.jconfcolombia.org/2019/schedule_EN.html)
-- **Material:** [http://http://bit.ly/quarkus](http://http://bit.ly/quarkus)
+- **Slides:** [http://http://bit.ly/quarkus](http://http://bit.ly/quarkus)
 
 #### June 13th - 15th 2019 - TDC Belo Horizonte
 - **Title:** [Microprofile: Enterprise o suficiente para microserviços](http://www.thedevelopersconference.com.br/tdc/2019/belohorizonte/trilha-java)
@@ -430,6 +470,29 @@ image:
 ## Past Meetups/Webscasts/etc
 
 ### 2019
+
+#### October 14th 2019 - JUG Bahia
+- **Title:** [Service Mesh and Sidecars with Istio and Envoy](https://www.sympla.com.br/meetup-java-bahia-na-ucsal-com-otavio-santana-e-rafael-benevides__657235)
+- **Slides:** [http://bit.ly/istio-kubernetes](http://bit.ly/istio-kubernetes)
+
+
+#### October 10th 2019 - JUG Recife
+- **Title:** [Service Mesh and Sidecars with Istio and Envoy](https://www.sympla.com.br/6-edicao-java-user-group-pernambuco__661059#info)
+- **Slides:** [http://bit.ly/istio-kubernetes](http://bit.ly/istio-kubernetes)
+
+
+#### September 3th 2019 - Webinar Zup Insights
+- **Title:** [Service Mesh and Sidecars with Istio and Envoy](https://insights.zup.com.br/webinar-service-mesh)
+- **Slides:** [http://bit.ly/istio-kubernetes](http://bit.ly/istio-kubernetes)
+- **Video:** [https://youtu.be/MLIdQ9YwiNY](https://youtu.be/MLIdQ9YwiNY)
+
+#### August 13th 2019 - Savant
+- **Title:** [Service Mesh and Sidecars with Istio and Envoy](https://www.meetup.com/Savant/events/mjvxpqyzjbhc/)
+- **Slides:** [http://bit.ly/istio-kubernetes](http://bit.ly/istio-kubernetes)
+
+#### July 19th 2019 - Java@Rio Meetup
+- **Title:** [Quarkus: Fast, Small,Innovative](https://www.meetup.com/Java-at-Rio/events/258309794/)
+- **Slides:** [http://http://bit.ly/quarkus](http://http://bit.ly/quarkus)
 
 #### February 19th 2019 - Kubernetes/Cloud-Native Online Meetup
 - **Title:** [Service Mesh and Sidecars with Istio and Envoy](https://www.meetup.com/de-DE/Kubernetes-Cloud-Native-Online-Meetup/)
