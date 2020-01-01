@@ -6,7 +6,7 @@ url:              http://rafabene.com
 
 
 # Jekyll configuration
-
+# remote_theme: "mmistakes/minimal-mistakes@4.17.2"
 permalink:   /:year/:month/:day/:title/
 markdown:    kramdown
 highlighter: rouge
@@ -15,6 +15,7 @@ sass:
   style: compressed
 plugins:
   - jekyll-sitemap
+  - jekyll-include-cache
 
 kramdown:
   auto_ids: true
