@@ -20,29 +20,22 @@ All videos in Portuguese can be found in [this blog post](/2020/01/09/10-videos-
 {:toc}
 
 ### DevX Tip: #1 : Microservices Blue/Green deployment with Kubernetes/Istio
-{% youtube "https://www.youtube.com/watch?v=Klpl9kqF9DU" %}
-<hr>
+{% include youtube.html youtube_id="Klpl9kqF9DU" %}
 
 ### Kubernetes HPA Horizontal Pod Autoscaler demo
-{% youtube "https://www.youtube.com/watch?v=EefCLPE8K50" %}
-<hr>
+{% include youtube.html youtube_id="EefCLPE8K50" %}
 
 ### CI/CD Deployment pipeline using Jenkins on Kubernetes to deploy a Quarkus Cloud-native application
-{% youtube "https://www.youtube.com/watch?v=T2lVK8iU5XU" %}
-<hr>
+{% include youtube.html youtube_id="T2lVK8iU5XU" %}
 
 ### Deploying microservices using Ansible playbooks
-{% youtube "https://www.youtube.com/watch?v=oWsW8GZbQR0" %}
-<hr>
+{% include youtube.html youtube_id="oWsW8GZbQR0" %}
 
 ### Configure Microservices in OpenShift/Kubernetes using Config Maps
-{% youtube "https://www.youtube.com/watch?v=6dWvBotb_Ns" %}
-<hr>
+{% include youtube.html youtube_id="6dWvBotb_Ns" %}
 
 ### Microservices Blue/Green and Canary deployments with Kubernetes/OpenShift
-{% youtube "https://www.youtube.com/watch?v=Sqa-RXvqKuk" %}
-<hr>
+{% include youtube.html youtube_id="Sqa-RXvqKuk" %}
 
 ### Microservices CI/CD Pipelines in Kubernetes/Openshift
-{% youtube "https://www.youtube.com/watch?v=N8R3-eNVoEc" %}
-<hr>
+{% include youtube.html youtube_id="N8R3-eNVoEc" %}
