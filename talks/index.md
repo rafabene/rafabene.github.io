@@ -26,6 +26,9 @@ image:
 
 ### 2020
 
+#### April 16th - 18th 2020 - TDC Belo Horizonte
+- **Title:** [Rastreamento em aplicações Cloud-Native: Do Stack trace até o Opentracing ](https://thedevconf.com/tdc/2020/belohorizonte/trilha-cloud-e-containers)
+
 ### 2019
 
 #### November 28th 2019 - TDC Porto Alegre - RS
