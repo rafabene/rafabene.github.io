@@ -19,6 +19,13 @@ All videos in Portuguese can be found in [this blog post](/2020/01/09/10-videos-
 * Will be replaced with the ToC, excluding the "Contents" header
 {:toc}
 
+### DevX Tip: #3 : MicroProfile Config API in 5 minutes
+{% include youtube.html youtube_id="PKAaYyDxJbA" %}
+
+
+### DevX Tip: #2 : Canary deployments with VSCode and Istio/Kiaki
+{% include youtube.html youtube_id="O6cJ1f-BItI" %}
+
 ### DevX Tip: #1 : Microservices Blue/Green deployment with Kubernetes/Istio
 {% include youtube.html youtube_id="Klpl9kqF9DU" %}
 
