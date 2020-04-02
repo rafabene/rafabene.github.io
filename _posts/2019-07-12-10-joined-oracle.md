@@ -32,7 +32,7 @@ First, I moved from [Orlando-FL](https://www.google.com/maps/place/Orlando-FL), 
 
 Second, today I joined [Oracle](http://www.oracle.com) as a Cloud-Native Developer Advocate in LAD (Latin America Division). Here I have the mission to help customers to adopt open-source solutions (Yes!) using Oracle's Cloud-Native Linux solutions portfolio. 
 
-But the end of the last decade doesn't mean the end of my relationship with Developers and the Development industry. Instead of that, I'll continue working with Developers that are seeking to produce high-quality Cloud-Native applications. I'll continue sharing knowledge about open-source technologies and solutions at [conferences](/talks/#next). The Youtube channel [DevX Time](youtube.com/rafabene) will continue with a serie of videos (in Portuguese) talking about Cloud-Native applications and CNCF projects so don't forget to subscribe to it.
+But the end of the last decade doesn't mean the end of my relationship with Developers and the Development industry. Instead of that, I'll continue working with Developers that are seeking to produce high-quality Cloud-Native applications. I'll continue sharing knowledge about open-source technologies and solutions at [conferences](/talks/#next). The Youtube channel [DevX Time](http://youtube.com/rafabene) will continue with a serie of videos (in Portuguese) talking about Cloud-Native applications and CNCF projects so don't forget to subscribe to it.
 
 <script src="https://apis.google.com/js/platform.js"></script>
 
