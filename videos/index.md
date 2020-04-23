@@ -19,9 +19,17 @@ All videos in Portuguese can be found in [this blog post](/2020/01/09/10-videos-
 * Will be replaced with the ToC, excluding the "Contents" header
 {:toc}
 
+### DevX Tip: #6 : Using #MicroProfile REST Client in 5 minutes
+{% include youtube.html youtube_id="SkaeoWT3PZo" %}
+
+### DevX Tip: #5 : MicroProfile Health API and Kubernetes
+{% include youtube.html youtube_id="gS4ZAPt2eIs" %}
+
+### DevX Tip: #4 : Creating a custom Config Source for MicroProfile
+{% include youtube.html youtube_id="Ts2pwKfVncE" %}
+
 ### DevX Tip: #3 : MicroProfile Config API in 5 minutes
 {% include youtube.html youtube_id="PKAaYyDxJbA" %}
-
 
 ### DevX Tip: #2 : Canary deployments with VSCode and Istio/Kiaki
 {% include youtube.html youtube_id="O6cJ1f-BItI" %}
