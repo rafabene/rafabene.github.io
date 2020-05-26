@@ -5,7 +5,7 @@ comments: true
 toc: true
 ---
 
-In 2019 I released a new video series call in my [youtube channel](https://youtube.com/rafabene) called **Devx Time**.
+In 2019 I released a new video series in my [youtube channel](https://youtube.com/rafabene) called **Devx Time**.
 
 This page contains some of my videos. The majority videos of the following playlist are in English. All videos in Portuguese can be found in [this blog post](/2020/01/09/10-videos-cloud-native/).
 
