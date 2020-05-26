@@ -31,6 +31,6 @@ Another great way to celebrate this aniversary is having Java developers worldwi
 - 2019 - Published [my first Java book](/books/2ndmicroservices-book/).
 - 2020 - After joining [Oracle](http://developers.oracle.com/) a year ago, I'm back to Brazil, and [celebrating 25 year of Java](https://t.co/HtjyIEKrNh?amp=1).
 
-What I journey!!! Yeah. Definitely I am [#MovedByJava](https://twitter.com/hashtag/MovedByJava?src=hashtag_click)!
+What a journey!!! Yeah. Definitely I am [#MovedByJava](https://twitter.com/hashtag/MovedByJava?src=hashtag_click)!
 
 ![](/assets/images/img_0020.jpg)
