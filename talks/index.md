@@ -15,7 +15,9 @@ toc: true
 | May 20th 2020    | [Rastreamento em aplicações Cloud-Native](https://www.sympla.com.br/rio-de-janeiro-cloud-conference-day__785258) | Cloud Conference Day |
 | June 2nd 2020 | [12 Factors to Cloud Success](https://2020.jnation.pt/speakers/rafael-benevides/) | JNation |
 | June 4th 2020 | MicroProfile (To be confirmed) | SouJava Rio/SP/BSB |
-| September 2nd 2020 | [(To be defined)](https://www.j4k.io/) | J4K |
+| June 25th 2020 |  [Java Modules (aka JPMS) for day-to-day Java developers](https://thedevconf.com/tdc/2020/floripaonline/trilha-java) | TDC Floripa | 
+| September 2nd 2020 | [Service Mesh and Sidecars with Istio and Envoy](https://www.j4k.io/) | J4K |
+| September 2nd 2020 | [Tracing Cloud-Native applications: From stacktrace to Opentracing](https://www.j4k.io/) | J4K |
 
 
 
