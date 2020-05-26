@@ -23,6 +23,7 @@ Another great way to celebrate this aniversary is having Java developers worldwi
 - 2008 - Watched [Burr Sutter live in Brasília](/2008/08/05/jboss-road-show/).
 - 2008 - Released my first opensource Java project: [XSeam](https://github.com/rafabene/XSeam2).
 - 2009 - Joined [JBoss/Red Hat](https://www.jboss.org/) to work in the Java Middleware team.
+- 2012 - First lecture at [TDC](https://thedevconf.com/tdc/2012/goiania/trilha-ladob-sabado#programacao)
 - 2014 - Started to contribute with [Apache DetalSpike](http://deltaspike.apache.org/news.html), a Duke's choice Award winner.
 - 2015 - Became part of PMC of Apache DetalSpike.
 - 2015 - Moved abroad to work with Java.
