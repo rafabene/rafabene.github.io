@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Evento JBUG:Brasil - JBoss User Group (Estarei palestrando)
-comments: true
 ---
 <p>Feliz 2010 para todos e começando cumprindo bem a promessa de realizar
 eventos do JBUG:Brasil em outras cidades, vamos começar o ano em Belém

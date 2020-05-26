@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Matando um alien devorador de memória
-comments: true
 ---
 
 <p><p> Depois de participar de uma consultoria na <a target="_blank" href="http://www.summa-tech.com/">Summa Technologies</a> para o projeto <a target="_blank" href="http://www.solucoestipublica.gov.br/palestras/estudo_de_caso_3.8.ppt">Sun / BB</a> ,  fui convidado ao <a target="_blank" href="http://www.inep.gov.br/">INEP</a> para avaliar um sistema que deverá ir ao ar em breve. Como resultado do primeiro trabalho, demais sistemas foram aparecendo na "fila", entre eles, um verdadeiro alien papa-memória.

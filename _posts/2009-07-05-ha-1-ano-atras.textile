@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Há 1 ano atrás...
-comments: true
 ---
 <p>... eu havia postado sobre <a target="_blank" href="/2008/05/29/noticias-sobre-as-licitacoes/">as licitações da CEF</a>.</p><p>Naquela ocasião eu não esperava que fosse ler a notícia abaixo:</p><p><b><font class="titulo18">Megafábrica de software da Caixa começa a naufragar 
 </font></b>

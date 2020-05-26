@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Google Analytics - Descobrindo o mundo
-comments: true
 ---
 
 Quem leu [meu último post](/2007/04/03/a-motivacao-da-escrita/), percebeu que eu havia perdido a minha maior motivação para escrever: Os leitores!!! Tudo bem que alguns dos meus poucos posts ainda foram lidos e acessados por amigos que comentavam pessoalmente comigo, mas eu simplesmente desconhecia aqueles demais que visitam, lêem, buscam algum conteúdo (por um motivo ou por outro) e vão embora sem algum comentário.

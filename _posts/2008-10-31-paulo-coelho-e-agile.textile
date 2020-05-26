@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Paulo Coelho é Agile ?
-comments: true
 ---
 <p align="justify">Hoje lendo os meus feeds diários através do <a href="http://www.google.com.br/reader/" target="_blank">Google Reader</a>, me deparei com uma postagem do <a href="http://www.paulocoelho.com/" target="_blank">Paulo Coelho</a> em <a href="http://colunas.g1.com.br/paulocoelho/" target="_blank">seu Blog</a> :</p><p align="justify"><a title="Permanent Link: Da obsessão" rel="bookmark" href="http://colunas.g1.com.br/paulocoelho/2008/10/31/da-obsessao/">Da obsessão</a></p><div align="justify">					
 									

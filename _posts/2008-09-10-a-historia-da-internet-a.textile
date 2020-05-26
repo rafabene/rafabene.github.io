@@ -1,8 +1,6 @@
 ---
-layout: post
 title: A História da Internet - A Guerra dos Navegadores
-comments: true
 ---
-	<p><p><p>Recebi do meu amigo <a target="_blank" href="http://brunorossi.com.br/blog/">Bruno Rossi</a> que está atualmente morando em Portugal, o link de um documentário (by <a target="_blank" href="http://www.discoverybrasil.com/internet/show.shtml">Discovery Channel</a>) que conta em 4 capítulos a história da Internet.</p><p>Assisti e achei bastante interessante relembrar este acontecimento histórico que certamente ficará marcado por mais alguns anos.</p><p>Compartilho com vocês...
+	<p><p><p>Recebi do meu amigo <a target="_blank" href="https://www.linkedin.com/in/rossibruno/">Bruno Rossi</a> que está atualmente morando em Portugal, o link de um documentário (by <a target="_blank" href="http://www.discoverybrasil.com/internet/show.shtml">Discovery Channel</a>) que conta em 4 capítulos a história da Internet.</p><p>Assisti e achei bastante interessante relembrar este acontecimento histórico que certamente ficará marcado por mais alguns anos.</p><p>Compartilho com vocês...
 </p><p>
 <iframe width="420" height="315" src="https://www.youtube.com/embed/MeqxcMEO4Ig" frameborder="0" allowfullscreen> </iframe>

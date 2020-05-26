@@ -1,7 +1,6 @@
 ---
-layout: post
 title: How I migrated my blog to Jekyll/Github
-comments: true
+toc: true
 ---
 
 I was a [frequent blogger](/posts/) until 5 years ago as I explained on my [previous post](http://rafabene.com/2015/09/28/5-years-in-1-post/) but this year I decided to return blogging and then move my blog to use [Jekyll](https://jekyllrb.com/) and host it on [GitHub Pages](https://pages.github.com/).

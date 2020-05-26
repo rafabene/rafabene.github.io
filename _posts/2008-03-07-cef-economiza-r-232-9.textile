@@ -1,7 +1,5 @@
 ---
-layout: post
 title: CEF economiza R$ 232,9 milhões em licitação de fábrica de software 
-comments: true
 ---
 
 <p><p>    Apesar de ser uma notícia que pode passar despercebida, tenho a impressão que o impacto para nós que moramos e trabalhamos com TI em Brasília, será de alguma forma, considerável.

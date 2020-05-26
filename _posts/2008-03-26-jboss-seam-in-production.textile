@@ -1,7 +1,5 @@
 ---
-layout: post
 title: First Jboss Seam Application goes live!
-comments: true
 tags:
   - framework
   - inep

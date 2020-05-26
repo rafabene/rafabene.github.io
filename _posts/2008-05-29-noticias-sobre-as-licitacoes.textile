@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Mais notícias sobre as licitações da CEF em Brasília
-comments: true
 ---
 
 <p><p>Depois de mais de um ano de espera, a Gerência de Filial e Contratação em Brasília da Caixa Econômica Federal, enfim publicou nesta sexta-feira (09/05), os extratos dos contratos do pregão 01/2006 - que visa a contratação de empresas de informática para a prestação de serviços técnicos especializados em Desenvolvimento e Manutenção de Sistemas e aplicativos, denominados: "fábrica de software".

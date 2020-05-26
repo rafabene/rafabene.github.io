@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Caia na Real e Extreme Programming - Agradecimento aos autores
-comments: true
 ---
 
 <p><p>Logo que mudei para Brasília em 2004, encontrei sobre a mesa de um colega de trabalho, uma edição do livro <a href="http://www.improveit.com.br/livroxp">Extreme Programming - <em>Aprenda como encantar seus usuários desenvolvendo software com agilidade e alta qualidade</em></a>, de <a href="http://www.improveit.com.br/vinicius">Vinícius Manhães Teles</a>. Confesso que a palavra <em>"encatar seus usuários"</em> despertou em mim o grande interesse em ler este livro. </p></p>

@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Book Digest - Modern Java EE Design Patterns
-comments: true
 ---
 
 The last time that I talked about a book here was in [2007](/2007/04/20/caia-na-real-e-seja/). But I had again that feeling that pushes me to talk more about a specific book: *Modern Java EE Design Patterns - Building Scalable Architecture for Sustainable Enterprise Development* - from [Markus Eisele](http://blog.eisele.net/p/about-me_15.html)
@@ -9,7 +7,7 @@ The last time that I talked about a book here was in [2007](/2007/04/20/caia-na-
 I admire Markus' communication and technical skills and this year I was fortunate to start working with him and [Arun Gupta](http://blog.arungupta.me/about/) on a project that is giving a lot of fruits to the community:  ["Docker for Java EE Developers - The Hands on Lab"](https://github.com/redhat-developer/docker-java/graphs/contributors) - But after 5 months working together, it was just during the [JavaOne](http://developers.redhat.com/events/javaone/2015/) that we met in person. On this ocasion, he was releasing his book [*"Modern Java EE Design Patterns"*](http://blog.eisele.net/2015/10/my-book-modern-java-ee-design-patterns.html) and I had the chance to get my printed (and signed) copy on Red Hat's booth.
 
 ![](http://2.bp.blogspot.com/-czsVBeHTDT0/Vhe8MNYE8xI/AAAAAAAA-aY/NjOEa9mOV8Q/s320/cover-markus.png)
-![](/images/markusbook.png)
+![](/assets/images/markusbook.png)
 
 But it was just this weekend during a long trip to Casablanca, Morocco for [DevoxxMA](http://devoxx.ma/) that I had the chance to read it completely. 
 

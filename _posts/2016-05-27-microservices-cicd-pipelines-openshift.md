@@ -1,14 +1,12 @@
 ---
-layout: post
 title: Microservices CI/CD Pipelines in OpenShift
-comments: true
 ---
 
 One of the greatest advantages of using Docker containers is the fact that you can move them between environments. A promotion from Development to a Production environment, shouldn't take more than some few seconds. This is one aspect of ["Continuous Delivery"](http://martinfowler.com/bliki/ContinuousDelivery.html)
 
 Because [Microservices Architectures](http://microservices.io/) are "independently replaceable and upgradeable", they are the best scenario to show a ["Deployment Pipeline"](http://martinfowler.com/bliki/DeploymentPipeline.html).
 
-![](/images/pipeline.jpg)
+![](/assets/images/pipeline.jpg)
 
 In the last two months, I've been working on a Sample application called "Red Hat Helloworlds MSA" that demonstrates different aspects of microservices. This application show how you can indendently deploy the microservices using different technologies (JAX-RS ([EAP](http://developers.redhat.com/products/eap/overview/) and [WildFly Swarm](http://wildfly-swarm.io/)), [Spring-boot](http://projects.spring.io/spring-boot/), [Vert.X](http://vertx.io/), [Dropwizard](http://www.dropwizard.io/), [NodeJS](https://nodejs.org), etc) and how you can use different architectural patterns to integrate them. It also uses [Netflix OSS](https://netflix.github.io/), integrated via [Kubeflix](https://github.com/fabric8io/kubeflix), and [ZipKin](http://zipkin.io/) for tracing.
 

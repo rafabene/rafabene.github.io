@@ -1,6 +1,4 @@
 ---
-layout: post
 title: Singleton Considerado Estupido
-comments: true
 ---
 <p>Ótima leitura para um dos <a target="_blank" href="http://en.wikipedia.org/wiki/Design_pattern_%28computer_science%29">patterns</a> mais usados erroneamente e indiscriminadamente: <b><i>Singleton</i></b></p>  <a href="http://steve.yegge.googlepages.com/singleton-considered-stupid" target="_blank">http://steve.yegge.googlepages<wbr>.com/singleton-considered<wbr>-stupid</a>

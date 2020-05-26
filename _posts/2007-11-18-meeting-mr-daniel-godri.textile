@@ -1,6 +1,4 @@
 ---
-layout: post
-comments: true
 title: Meeting Mr. Daniel Godri
 category: Miscelanea
 tags:
@@ -12,16 +10,13 @@ tags:
 <p><p> Hoje estava eu procurando entre meus arquivos pessoais, uma foto para colocar no <a href="http://www.linkedin.com/in/rafaelbenevides" style="text-decoration: none;">meu perfil do Linked <img src="http://www.linkedin.com/img/webpromo/btn_in_20x15.gif" style="vertical-align: middle;" border="0" height="15" width="20" /></a> quando derrepente achei uma foto inusitada que havia tirado no início deste ano. No mês de maio, durante as férias com minha esposa, entre a multidão que estava no saguão aguardando seus vôos, vi um rosto familiar: Era <a target="_blank" href="http://www.godri.com.br/">Daniel Godri</a> em pessoa!
 </p>
 <p>
-  <img alt="Daniel Godri" src="/images/godri.jpg" align="bottom" border="0" hspace="0" vspace="0" /> 
+  <img alt="Daniel Godri" src="/assets/images/godri.jpg" align="bottom" border="0" hspace="0" vspace="0" /> 
 </p>
-<p>Eu o havia conhecido em 2002 quando estava trabalhando no <a target="_blank" href="http://www.neoquimica.com.br/">Laboratório Neo Química</a> e tive o prazer de assistir a uma de suas maravilhosas palestras motivacionais. Estávamos participando de um grande projeto de implantação do <a target="_blank" href="http://www.sap.com/brazil/solucoes/business-suite/erp/index.epx">ERP SAP R/3</a> e sua palestra renovou as forças de toda a equipe e causou um marco na história deste projeto e também na minha vida profissional. Querem entender do que estou falando ? Dêem uma olhada em alguns trechos da palestras dele e de seu filho Daniel Godri Jr que estão <a target="_blank" href="http://www.youtube.com/profile_videos?user=danielgodrijr">disponíveis no Youtube</a>. O Vídeo abaixo usa a história do Bill Gates e do Steve Jobs para mostrar como a moticação pode ajudar a carreira.
+<p>Eu o havia conhecido em 2002 quando estava trabalhando no <a target="_blank" href="http://www.neoquimica.com.br/">Laboratório Neo Química</a> e tive o prazer de assistir a uma de suas maravilhosas palestras motivacionais. Estávamos participando de um grande projeto de implantação do <a target="_blank" href="http://www.sap.com/brazil/solucoes/business-suite/erp/index.epx">ERP SAP R/3</a> e sua palestra renovou as forças de toda a equipe e causou um marco na história deste projeto e também na minha vida profissional. Querem entender do que estou falando ? Dêem uma olhada em alguns trechos da palestras dele e de seu filho Daniel Godri Jr que estão <a target="_blank" href="https://www.youtube.com/user/danielgodrijr">disponíveis no Youtube</a>. O Vídeo abaixo usa a história do Bill Gates e do Steve Jobs para mostrar como a moticação pode ajudar a carreira.
 </p></p>
 
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/i_1CPKHrtvM" frameborder="0" allowfullscreen>
-  
-</iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZMgzw1gomeI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p><p>Voltando a falar sobre este encontro, só posso dizer uma coisa: É um verdadeiro <a target="_blank" href="http://en.wikipedia.org/wiki/Gentleman">gentleman</a>! Muito educado e sempre sorridente, nos tratou com o mesmo carinho e vivência de vida da qual fala em suas palestras.
 </p>

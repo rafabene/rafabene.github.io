@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Alterações no Jroller
-comments: true
 tags:
   - blog
   - infoblogs

@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Aumentando a produtividade com JSF e Jboss Seam - XSeam lançado!
-comments: true
 tags:
   - jboss
   - jsf

@@ -1,8 +1,5 @@
 ---
-layout: post
-
 title: seamframework.org é lançado!
-comments: true
 tags:
   - framework
   - java

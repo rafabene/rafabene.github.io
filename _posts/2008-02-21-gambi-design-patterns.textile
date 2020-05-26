@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Gambi Design Patterns
-comments: true
 tags:
   - design
   - humor
@@ -22,7 +20,7 @@ tags:
   <li><span class="mw-headline">Lone Wolf</span></li>
   <li><span class="mw-headline">Mochileiro das Galáxias (<a target="_blank" href="http://www.fragmental.com.br/wiki/index.php?title=Arquitetura_de_Camadas_em_Java_EE">Também falado pelo Philip Calçado</a>)</span></li>
   <li><span class="mw-headline">DB is our God (Muito comum em instituições com um histórico pré-diluviano de desenvolvimento de Software) </span></li>
-  <li><span class="mw-headline">Reinvented Square Wheel Helper (<a target="_blank" href="http://www.jroller.com/rafaelbenevides/entry/dicas_aos_iniciantes_em_java1">Já falei disto anteriormente</a>)</span></li>
+  <li><span class="mw-headline">Reinvented Square Wheel Helper (<a target="_blank" href="/2007/03/20/dicas-para-iniciantes-java/">Já falei disto anteriormente</a>)</span></li>
   <li><span class="mw-headline">No Error Pattern (Putz, este eu vi bem recentemente em um sistema grande)</span></li>
   <li><span class="mw-headline">Hardcoded data </span></li>
   <li><span class="mw-headline"></span><span class="mw-headline">Gera a Porra Toda (Já usei este padrão várias vezes... Lógico que não em produção! rsrsrsrs) </span></li>

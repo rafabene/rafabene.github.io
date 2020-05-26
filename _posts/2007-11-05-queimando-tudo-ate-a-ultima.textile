@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Queimando tudo até a última ponta
-comments: true
 tags:
   - livros
 ---

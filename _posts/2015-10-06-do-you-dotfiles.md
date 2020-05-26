@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Do you manage your dotfiles ?
-comments: true
 ---
 
 When I started to develop using Javascript languages (AngularJS and NodeJS), the first step was to prepare the development environment in my Computer.
@@ -54,7 +52,7 @@ Take a look on the result:
  
   TMUX + VIM
   
-  ![](/images/tmuxvim.png)
+  ![](/assets/images/tmuxvim.png)
   
 I'll cover more details about the installed environment in the next posts.
  

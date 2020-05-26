@@ -1,7 +1,6 @@
 ---
-layout: post
 title: Four different approaches to run WildFly Swarm in OpenShift
-comments: true
+toc: true
 ---
 
 This post was originally posted on [Red Hat Developers](http://developers.redhat.com/blog/2016/06/29/four-different-approaches-to-run-wildfly-swarm-in-openshift/).

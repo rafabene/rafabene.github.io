@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Férias e casa nova
-comments: true
 ---
 
 <p>Estou entrando de férias hoje.Finalmente vou poder descansar uma merecida semana e neste período o Blog não sofrerá atualizações.Quando voltar, estarei de casa nova!Um abraço a todos os amigos do MJ. Vou levar de cada um de vocês a lembrança de grandes amigos e de uma equipe altamente capaz!E para não perder o costume, fica ai um texto muito legal para refletirem: <a target="_self" href="http://www.linhadecodigo.com.br/artigos.asp?id_ac=1262&amp;pag=1">CMMI no olho dos outros é refresco</a>Fiquem com Deus!</p>

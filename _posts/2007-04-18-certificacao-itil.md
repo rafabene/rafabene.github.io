@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Certificação ITIL
-comments: true
 ---
 
 Notícia rápida: Fui aprovado na certificação Foundation de [ITIL](/2007/03/17/itil-como-diferencial/) ! Para estudar, utilizei o material do curso que fiz na [EFTI](http://www.efti.com.br/) com o Professor Alisson Teixeira . Aproveitei e dei uma atualizada no meu [Curriculum](/resume) para incluir a certificação de [ITIL](/2007/03/17/itil-como-diferencial/), o curso de [CobIT](/2007/03/27/cobit/) e os projetos que participei em cada uma das empresas onde atuei.

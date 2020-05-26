@@ -1,7 +1,5 @@
 ---
-layout: post
 title: What is JDF – JBoss Developer Framework?
-comments: true
 ---
 
 A versão em português pode ser encontrada em:

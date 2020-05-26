@@ -1,7 +1,5 @@
 ---
-layout: post
 title: A Song by programmers, for programmers
-comments: true
 ---
 
 <p>Every Build You Break

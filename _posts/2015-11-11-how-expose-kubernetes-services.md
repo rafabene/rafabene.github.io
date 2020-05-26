@@ -1,7 +1,6 @@
 ---
-layout: post
 title: How to expose Kubernetes Services
-comments: true
+toc: true
 ---
 An undeniable thruth is that [Docker](http://www.docker.com/) is the standard technology for containers and it is pushing forward the adoption of microservices architecutures as I mentioned in [my previous post](/2015/10/29/javaone-docker-hol/). But I challenge you: What would you use to spread your containers in the cloud, handle their IP addresses (service location) and manage it (heath state, replication, scaling, etc)? The fastest answer to this question is to use any Docker "cluster" technologies. 
 

@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Que artigo show de bola!!!
-comments: true
 ---
 
 <p>Atualmente não estou tendo muito tempo para postar. </p>

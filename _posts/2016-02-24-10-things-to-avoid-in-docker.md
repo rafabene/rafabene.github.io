@@ -1,12 +1,9 @@
 ---
-layout: post
 title: 10 things to avoid in docker containers
-comments: true
 ---
 
 So you finally surrendered to containers and discovered that they solve a lot of problems and have a lot of **advantages**:
 
-{: .center}
 ![](https://rhdevelopers.files.wordpress.com/2014/11/shipping_containers_at_clyde.jpg?w=320)
 
 - **First: Containers are immutable** – The OS, library versions, configurations, folders, and application are all wrapped inside the container. You guarantee that the same image that was tested in QA will reach the production environment with the same behaviour.
@@ -15,13 +12,13 @@ So you finally surrendered to containers and discovered that they solve a lot of
 
 However, many users are still treating containers just like typical virtual machines and forget that containers have an important characteristic: **Containers are disposable**.
 
-
+{: .text-center}
 > The mantra around containers:
 
-{: .center}
+{: .text-center}
  **“Containers are ephemeral”**.
 
-{: .center}
+{: .text-center}
 ![](https://rhdevelopers.files.wordpress.com/2015/03/rh_icon_container_with_app_flat.png?w=640)
 
 This characteristic forces users to change their mindset on how they should handle and manage containers.

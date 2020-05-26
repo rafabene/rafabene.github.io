@@ -1,7 +1,5 @@
 ---
-layout: post
 title: More about docker images size
-comments: true
 ---
 
 I've published recently a blog post listing the [10 things to avoid in docker containers](/2016/02/24/10-things-to-avoid-in-docker/). If you haven't read this post yet, I strongly recommend you to do so. That blog post mentions 10 different recommendations that users should consider when dealing with docker containers. I've tried to make general recommendations and less opinionated about the specific use of the container, so no matter if you are running a database, a NodeJS application, or a Java EE application server, these recommendations still valid.

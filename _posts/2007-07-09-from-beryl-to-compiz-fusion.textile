@@ -1,7 +1,5 @@
 ---
-layout: post
 title: From Beryl to Compiz Fusion
-comments: true
 ---
 
 <p><p> Esta semana eu resolvi experimentar o <a href="http://www.opencompositing.org/">Compiz Fusion </a> no meu Ubuntu Feisty Faw 7.04 64 bits. É perceptível que existe um certa "dificuldade" em obter pacotes binários para ambientes 64bits. Entretanto o italiano <b>Treviño</b> ou simplesmente <b>3v1no</b> informou em seu <a target="_blank" href="http://3v1n0.tuxfamily.org/blog/">Blog</a> que estará disponibilizando os "builds diários" do Compiz e seus plugins. Mais do que citar como utilizar este repositório, é interessante comentar que sua contribuição começou com um Script de sua autoria chamado de <a href="http://forums.opencompositing.org/viewtopic.php?f=14&amp;t=1076"><b>MakeFusionDebs</b></a>. Ele utiliza este Script para obter as últimas <a target="_blank" href="http://gitweb.opencompositing.org/">versões dos fontes</a>, gerar os binários e disponibilizar em seu repositório. Todos os dias estou atualizando os pacotes e acompanhando a evolução e inovação que os Desktops 3D estão causando.

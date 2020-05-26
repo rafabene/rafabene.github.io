@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Como evitar gastar R$6000,00/Litro de tinta para impressora
-comments: true
 tags:
   - 4900
   - bulk

@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Red Hat Roadshow 2009 em Brasília
-comments: true
 ---
 <p><img hspace="0" vspace="0" border="0" align="left" src="http://www.redhat.com/g/chrome/logo_rh_home.png" /></p><p> </p><p> <i><b>Anotem na agenda!</b></i></p><p>Terça-feira, dia 4 de agosto de 2009. Vem ai: Red Hat Roadshow 2009.</p><p><b>Local:</b> MERCURE LÍDER</p><div class="text-narrow agenda-local">
 							<p><b>Endereço:</b> SHN Quadra 5 Bloco I - Asa NorteBrasília, DF - Brasil</p><p><b>Agenda:</b><a href="http://www.redhatroadshow.com.br/2009/agenda.html%20" target="_blank"> http://www.redhatroadshow.com.br/2009/agenda.html </a></p><p><b>Inscrições:</b> <a href="http://www.redhatroadshow.com.br/2009/inscricao.php" target="_blank">http://www.redhatroadshow.com.br/2009/inscricao.php</a></p><p> </p><p>Nos vemos por lá.</p>

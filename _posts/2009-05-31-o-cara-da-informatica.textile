@@ -1,7 +1,5 @@
 ---
-layout: post
 title: O "Cara da Informática"
-comments: true
 ---
 <p>Coisas Que Todos Precisam Saber a Respeito do "Cara da Informática"
 </p><ol><li>O CARA DA INFORMÁTICA dorme. Pode parecer mentira, mas o CARA

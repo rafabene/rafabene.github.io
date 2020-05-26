@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Agora é oficial - ODF é norma ABNT
-comments: true
 ---
 
 <p><p>A partir de ontem, 12 de junho, o ODF se tornou norma válida da ABNT: <i></i></p><p><i>NBRISO/IEC26300</i> - <b>Tecnologia da informação - Formato aberto de documento para

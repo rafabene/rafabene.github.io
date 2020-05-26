@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Workshop Scrum em Brasília
-comments: true
 ---
 
 <p><p>No dia 20 de setembro o Rodrigo Yoshima estará ministrando seu renomado Workshop Scrum aqui em Brasilia!!! O SCRUM apresenta práticas ágeis e extremamente eficientes para gerenciar projetos de software. Como é filosofia da nossa empresa, o conhecimento é reforçado com muitas atividades práticas!

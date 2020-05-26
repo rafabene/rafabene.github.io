@@ -1,7 +1,6 @@
 ---
-layout: post
 title: Starting with Cloud-Native applications
-comments: true
+toc: true
 ---
 
 Four years ago I wrote a ["Docker learning path"](/2015/12/15/docker-learning-path-wildfly/) so people could easily learn how to take [baby steps](https://dictionary.cambridge.org/us/dictionary/english/baby-step) toward Kubernetes. Essentially the steps are: 1 - learn docker, 2 - learn docker-compose , 3 - learn Docker Swarm *(Today I would suggest skipping this step)*, and 4 - learn Kubernetes.
@@ -16,47 +15,46 @@ These steps assume two applications (two microservices) that will communicate wi
 
 - Use your favorite language to create a **microservice B** with some [REST endpoints](https://restfulapi.net/) to perform [CRUD operations](https://www.codecademy.com/articles/what-is-crud). 
 
-    {: .center}
     Suggested read: [CRUD and REST](https://www.codecademy.com/articles/what-is-crud)
 
 - Document your REST endpoints with [OpenAPI or Swagger](https://swagger.io/docs/specification/about/). 
 
-    {: .center}
     Suggested read for Java Developers: [Swagger UI on MicroProfile OpenAPI](https://www.phillip-kruger.com/post/microprofile_openapi_swaggerui/)
 
 - Create a **microservice A** to consume some REST endpoints from the **microservice B** that you've created. You can start simple by consuming the GET operation from the **microservice B**.
 
 - Externalize the configuration of your **microservice A** by allowing an environment variable to inform the URL of the **microservice B**.
 
-    {: .center}
     Suggested video: [MicroProfile Config API in 5 minutes](https://www.youtube.com/watch?v=PKAaYyDxJbA)
 
 - Stop **microservice B** and make **microservice A** fault tolerant with [Fallback](https://badia-kharroubi.gitbooks.io/microservices-architecture/patterns/communication-patterns/fallback-pattern.html). 
+
 - Make **microservice A** take 1 minute to reply and make **microservice B** [timeout](https://stackoverflow.com/questions/49704708/what-is-a-connection-timeout-during-a-http-request) within 10 seconds.
+
 - Make **microservice A** responds randomly with a HTTP error, and makes **microservice B** retries the connection in case of an error. **microservice A** should always get a valid reply or a fallback at this point.
 
-    {: .center}
     Recommended read for Java developers: [Quarkus and MicroProfile Fault Tolerance](https://quarkus.io/guides/microprofile-fault-tolerance)
 
 - Implement a distributed tracing with [Opentracing](https://opentracing.io/) between **microservices A and B**. Tip: You will need to forward the HTTP headers from A to B.
     
-    {: .center}
     Suggested example project: <https://github.com/rafabene/tracing-demo>
 
 - Implement Authentication in a REST endpoint of the **microservice B** and make **microservice A** propagate the credentials to **microservice B**. Use [JWT](https://jwt.io/) - JSON Web Tokens.
     
-    {: .center}
     Suggested read to for Java developers: [Build a REST API Using Java, MicroProfile, and JWT Authentication](https://developer.okta.com/blog/2019/07/10/java-microprofile-jwt-auth)
 
 ## Move to the cloud
 
 - Package your **microservices A and B** in a container. Each one on one container. Publish them in a public container registry like [Docker hub](https://hub.docker.com/) or [Quay.io](https://quay.io/).
+
 - Run your **microservices A and B** in a Kubernetes Cluster. For rapid and local startup you can use [minikube](https://kubernetes.io/docs/setup/learning-environment/minikube/). For on-premises production usage, you can rely on [Oracle Linux Cloud Native Environment](https://docs.oracle.com/en/operating-systems/olcne/). If you want to try OLCNE locally, you can use [this Vagrant file](https://github.com/oracle/vagrant-boxes/tree/master/OLCNE) for it.
+
 - Create a CI/CD Pipeline to take your source code to production. There are many solutions in the market. I've demoed [Jenkins](https://jenkins.io/) and Kubernetes in the video [CI/CD Deployment pipeline using Jenkins on Kubernetes to deploy a Quarkus Cloud-native application](https://www.youtube.com/watch?v=T2lVK8iU5XU)
+
 - Implement [Kubernetes Liveness probe and Readiness probe](https://cloud.google.com/blog/products/gcp/kubernetes-best-practices-setting-up-health-checks-with-readiness-and-liveness-probes). The Readiness probe should mark your application as *"ready"* only when **microservice A** can communicate with **microservice A**.
+
 - Install a Service Mesh solution like [Istio](https://istio.io/) on your Kubernetes Cluster and perform some uses cases like the ones found in this [Istio tutorial](/istio-tutorial/)
 
-    {: .center}
     Suggested read to for Portguese readers: [10 Vídeos para aprender sobre desenvolvimento Cloud-Native](/2020/01/09/10-videos-cloud-native/)
 
 ## Next Steps

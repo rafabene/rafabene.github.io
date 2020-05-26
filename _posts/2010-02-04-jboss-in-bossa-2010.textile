@@ -1,7 +1,5 @@
 ---
-layout: post
 title: JBoss In Bossa 2010
-comments: true
 ---
 <p><b>Notícia quente!!!!</b></p><p> <b>Fonte: <a href="http://edgarsilva.com.br/2010/02/02/jbossinbossa2010/" target="_blank">http://edgarsilva.com.br/2010/02/02/jbossinbossa2010/</a></b></p><p>E como diria a bruxinha do episódio do pica-pau: <i>“E lá vamos nós”</i>,
 lançando o evento anual da comunidade JBoss: JBossinBossa 2010 .
@@ -10,7 +8,7 @@ compromissos e encarar desafios, é preciso ter um time de pessoas
 fantásticas como colegas, apoiadores, colabores, fornecedores,
 palestrantes, amigos e família para que tudo no final possa no mínimo:
 “Não dar nada errado”.</p>
-<p><img width="300" height="93" title="JBossinBossa" src="http://caelum.wpengine.netdna-cdn.com/wp-content/uploads/2011/10/jbossinbossa_header.png" /></p>
+<p><img width="300" height="93" title="JBossinBossa" src="https://3.bp.blogspot.com/_Y-danigLb-k/S9iGiNmgRvI/AAAAAAAACWk/T4bS1tCQXXI/s320/jbossinbossa_logo_vert.png" /></p>
 <p>Várias pessoas estão neste projeto há quase mais de 8 meses, entre elas, pessoas como o <a target="_blank" href="http://community.jboss.org/people/james.cobb%40jboss.com">James Cobb</a>,
 que é o Líder do time de Designers da JBoss.ORG que é também um
 funcionário da Red Hat, junto com seu time, criou toda a identidade

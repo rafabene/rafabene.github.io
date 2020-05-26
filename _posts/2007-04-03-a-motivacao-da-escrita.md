@@ -1,7 +1,5 @@
 ---
-layout: post
 title: A motivação da escrita
-comments: true
 ---
 
 Ao que tudo indica este blog deverá estar de casa nova em breve. Já dizia o filosofo: *"Toda felicidade só é plena se houver com quem compartilhar"* . Assim também é a leitura que só é plena quando for lida! (compartilhamento de idéias). Também podemos dizer que só "Controlamos o que conhecemos". Como posso controlar os acessos/leitura se desconheço-os completamente ?

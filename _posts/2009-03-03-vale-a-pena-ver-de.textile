@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Vale a pena ver de novo - Meu Desktop com o Compiz
-comments: true
 ---
 <p> Atendendo a pedidos, segue novamente uma lista de <b>Shortcuts</b> do Compiz:
 </p>

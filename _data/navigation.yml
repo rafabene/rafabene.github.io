@@ -1,16 +1,24 @@
-# Site navigation links
+# main links
+main:
+  - title: About
+    url: /about/
 
-- title: About
-  url: /about/
+  - title: Posts
+    url: /posts/
 
-- title: Posts
-  url: /posts/
+  - title: Talks
+    url: /talks/
 
-- title: Talks
-  url: /talks/
+  - title: YouTube
+    url: /videos/
 
-- title: Book
-  url: /books/
+  - title: Books and Articles
+    url: /books/
 
-- title: Youtube
-  url: /videos/
+
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/

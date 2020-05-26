@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Lançamento do livro Da árvore... Os frutos - Parabens pai!
 category: Miscelanea
 tags:
@@ -11,7 +10,7 @@ tags:
 
 
 <p>Hoje é um dia muito especial para uma pessoa especial para mim! É com muito orgulho que <a href="http://diaconobenevides.wordpress.com/sobre/">meu pai</a> lança o livro <a href="http://diaconobenevides.wordpress.com/2008/01/20/da-arvore-os-frutos/">Da árvore... Os Frutos.</a><p>
-<img src="/images/capadaof" width="345" heigth="243" /></p>
+<img src="/assets/images/capadaof.jpg" width="345" heigth="243" /></p>
 
 
 <p>Foram 5 anos escrevendo um livro que se tornou um sonho que hoje se tornará realidade. O livro é um romance de época (De 1920 a 1975): <i> "Conta a saga de várias famílias de pequenos sitiantes, do interior paulista, no vale do Rio Pardo, procurando educar seus filhos na fé, no amor, na luta do trabalho diário, tendo Deus como princípio e fim. A história mescla-se, como na vida de cada um, momentos alegres até hilariantes, outros tristes e difíceis de serem suportados. Os diálogos dos meninos e dos jovens são alegres, em que se misturam a catequese e ensinamentos cristãos à luz do Santo Magistério da Igreja Católica Apostólica Romana. É um retrato da luta das famílias, verdadeiramente cristãs, na educação e criação dos filhos." </i>

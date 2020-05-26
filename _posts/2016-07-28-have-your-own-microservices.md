@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Have your own Microservices playground
-comments: true
 ---
 
 This post was originally posted on [Red Hat Developers](https://developers.redhat.com/blog/2016/07/27/have-your-own-microservices-playground/)
@@ -10,7 +8,7 @@ Microservices are standing at the “[Peak of Inflated Expectations](https://en.
 
 
 {: .center}
-![](/images/320px-gartner_hype_cycle-svg.png)
+![](/assets/images/320px-gartner_hype_cycle-svg.png)
 
 Before adopting microservices as an architectural pattern, there are several questions that need to be addressed:
 
@@ -22,7 +20,7 @@ Before adopting microservices as an architectural pattern, there are several que
 - How do I address authentication, monitoring and tracing?
 
 {: .center}
-![](/images/microservices-concerns.png)
+![](/assets/images/microservices-concerns.png)
 
 Wouldn’t it be interesting if the developer could have his or her own playground to explore and become familiarized with these approaches?
 

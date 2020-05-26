@@ -1,7 +1,5 @@
 ---
-layout: post
 title: JavaOne 2015 - Docker for Java EE Developers
-comments: true
 ---
 
 [Docker](http://www.docker.com/) has been attracting attentions from the whole IT sector. The hability to create and distribute images easily and then execute containers fast made Docker become popular although the Container technology and concept not being something new.
@@ -10,7 +8,7 @@ Nowadays with many companies betting in the Cloud and also with microservices be
 
 On the other hand, Docker allows you to ["package an application with all of its dependencies into a standardized unit for software development"](http://www.docker.com/what-docker) called container. If you look the image bellow, you can see how it differs from a Virtual Machine and understand why Docker is so fast and lightweight.
 
-![](/images/docker-containers-vms.png)
+![](/assets/images/docker-containers-vms.png)
 
 During the [JavaOne](https://www.oracle.com/javaone/index.html), [Markus Eisele](http://blog.eisele.net/) and I were pleased to present a *HOL* (Hands on Lab) to the Java Community. This HOL is targetted to Java EE developers who wants to learn more about Docker and how they can use it in a Java EE context. It covers from Docker basics to how to create a Docker cluster with Docker Swarm. You can have an overview of the content by watching this video:
 

@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Como reconhecer bons programadores
-comments: true
 tags:
   - good
   - java

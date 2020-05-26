@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Kubernetes é o novo servidor de aplicações
-comments: true
 ---
 
 This post was originally posted on [Red Hat Developers](https://developers.redhat.com/blog/2018/06/28/why-kubernetes-is-the-new-application-server/) and this version is a translation to Portuguease.
@@ -35,7 +33,7 @@ Os reais benefícios da utilização de contêineres acontece quando você preci
 Vamos explorar nove destas funcionalidades:
 
 {: .center}
-![](/images/msaproperties.png)
+![](/assets/images/msaproperties.png)
 
 ## 1 – Service Discovery
 

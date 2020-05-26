@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Feliz Natal
-comments: true
 ---
 
 <p><p> Já faz algum tempo que não posto nada neste BLOG e já estava na hora de tirar a poeira... Nem que seja para desejar um <b>Feliz Natal a todos!</b> Sei que estou um dia atrasado, mas apesar de ser um bom adepto do lema "<i>Enquanto descanso, carrego pedra</i>", simplesmente não rolaria (<a href="http://www.jroller.com/page/rafaelbenevides/?anchor=i_am_also_a_nerd">apesar da nerdice</a> ;o) ) conectar ontem na Internet apenas para postar no Blog.
@@ -12,7 +10,7 @@ comments: true
 </p>
 <p><b><i>Meio:</i></b> Prestei uma consultoria na <a target="_blank" href="http://www.summa-tech.com/">Summa</a> em conjunto com a <a target="_blank" href="http://www.sun.com/">Sun,</a> para o <a target="_blank" href="http://www.google.com.br/url?sa=t&amp;ct=res&amp;cd=1&amp;url=http%3A%2F%2Fwww.solucoestipublica.gov.br%2Fpalestras%2Festudo_de_caso_3.8.ppt&amp;ei=dUJyR63ABaK4eqvxzDc&amp;usg=AFQjCNGkvlVv4GEYjv1urR3C_Cu2QGaoYw&amp;sig2=uk5fl2ZvTqpWCYlWLhmGiw">Projeto do Banco do Brasil</a>
 </p>
-<p><b><i>Fim:</i></b> <a href="http://www.jroller.com/page/rafaelbenevides/?anchor=matando_um_alien_devorador_de">Matei um leão</a> (as vezes dois) por dia, no <a target="_blank" href="http://www.inep.gov.br/">INEP.</a>
+<p><b><i>Fim:</i></b> <a href="/2007/09/30/matando-um-alien-devorador-de/">Matei um leão</a> (as vezes dois) por dia, no <a target="_blank" href="http://www.inep.gov.br/">INEP.</a>
 </p>
 <p>Com um ano agitado destes, comecei a sentir algo curioso: Estava me sentindo (tecnojavamente - mistura de tecnologia + java) defasado. Ou seja, a falta de tempo estava começando a me prejudicar. Claro que se ultimamente não estivesse matando um leão por dia, o prejuízo seria bem maior!
 </p>

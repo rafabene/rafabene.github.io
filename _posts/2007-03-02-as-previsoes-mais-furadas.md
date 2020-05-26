@@ -1,7 +1,5 @@
 ---
-layout: post
 title: As previsões mais furadas da história da tecnologia
-comments: true
 ---
 
 Hoje li no site de Tecnologia do Terra que um [site](http://www.2spare.com/item_50221.aspx) reuniu alguns dos maiores erros nas previsões do futuro e entre as previsões relacionadas a tecnolgia, podemos ver:

@@ -1,12 +1,11 @@
 ---
-layout: post
 title: JBCAA for EAP6
-comments: true
 ---
 
 Today I received my exam results for the JBCAA – *JBoss Certified Application Administrator* – for EAP6.
 
 ![](http://www.dmartin.es/wp-content/uploads/2011/08/RHCJA.png)
+{: .text-center}
 
 Most people asked me why take another certification since you’re already a JBCAA for EAP5. That’s easy to answer: EAP6 has fully changed. It’s basically a new product with new (and wonderful) features.
 

@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Facelets - Introdução
-comments: true
 ---
 	<p><p><p>Durante o mês de fevereiro aproveitei a oportunidade para conhecer mais sobre o <a href="https://facelets.dev.java.net/">Facelets</a>. Para quem não teve a oportunidade de trabalhar (ou brincar) com o Facelets, mas sempre ouviu falar muito e queira conhecer algo, este Post é para você.</p></p></p>
 

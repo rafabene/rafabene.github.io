@@ -1,7 +1,5 @@
 ---
-layout: post
 title: 10 Vídeos para aprender sobre desenvolvimento Cloud-Native
-comments: true
 ---
 
 Olá a todos! Este post é um Português por quê justamente estou focando em produzir conteúdos na nossa língua pátria. Um dos meu objetivos é ajudar você, desenvolvedor de aplicações, a criar aplicações Cloud-Native.
@@ -32,8 +30,6 @@ Apesar desta lista de 10 vídeos, os assuntos sequer estão pertos de esgotar. E
 <script src="https://apis.google.com/js/platform.js"></script>
 
 <div class="g-ytsubscribe" data-channel="rafabene" data-layout="full" data-count="hidden"></div>
-
-<p/>
 
 Por fim, deixo alguns vídeos EXTRAS como as seguintes transmissões ao vivo:
 

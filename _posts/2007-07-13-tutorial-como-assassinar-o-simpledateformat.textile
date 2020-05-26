@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Tutorial - Como assassinar o SimpleDateFormat
-comments: true
 ---
 
 <p><p> É impressionante como projeto diferentes repetem os mesmos erros de programação Java. Entre eles o mais comum é encontrar códigos como o abaixo

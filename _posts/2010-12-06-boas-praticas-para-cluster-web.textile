@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Boas práticas para Cluster Web com JBoss AS
-comments: true
 tags:
   - cluster
   - java

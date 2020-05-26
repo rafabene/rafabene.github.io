@@ -1,7 +1,5 @@
 ---
-layout: post
 title: I am also a Nerd God ;)
-comments: true
 ---
 
 <p><p>Depois do <a target="_blank" href="http://www.nerdtests.com/ft_nq.php">Nerd Test</a> virar uma verdadeira febre e estampar diversos blogs com resultados interessantes <img src="http://www.jroller.com/images/smileys/smile.gif" class="smiley" alt=":)" title=":)" />

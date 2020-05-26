@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Empresas já começaram a utilizar o Binaural sound como Marketing
-comments: true
 tags:
   - binaural
   - cb

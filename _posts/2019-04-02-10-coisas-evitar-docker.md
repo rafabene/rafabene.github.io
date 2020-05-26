@@ -1,7 +1,5 @@
 ---
-layout: post
 title: 10 coisas para se evitar em contêineres docker
-comments: true
 ---
 
 This post was originally posted on [Red Hat Developers](https://developers.redhat.com/blog/2016/02/24/10-things-to-avoid-in-docker-containers/) and this version is a translation to Portuguease.
@@ -17,14 +15,14 @@ Então finalmente você se rendeu a utilização de contêineres e descobriu que
 
 Entretanto, muitos usuários ainda tratam contêineres como uma "máquina virtual" e esquecem que contêiner tem uma característica muito importante: **Contêineres são descartáveis**.
 
-{: .center}
 O grande "mantra" de contêineres é: 
+{: .text-center}
 
-{: .center}
 ***"Contêineres são efêmeros”***.
+{: .text-center}
 
-{: .center}
-![](/images/rh_icon_container_with_app_flat.png)
+![](/assets/images/rh_icon_container_with_app_flat.png)
+{: .text-center}
 
 Esta característica força os usuários a terem uma percepção diferente sobre a forma de como eles deveriam utilizar e gerenciar contêineres; e eu vou explicar o que você **NÃO** deve fazer para continuar extraindo os melhores benefícios de um contêiner.
 

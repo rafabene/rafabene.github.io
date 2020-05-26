@@ -1,7 +1,6 @@
 ---
-layout: post
 title: Java no docker - O que você precisa saber para não FALHAR
-comments: true
+toc: true
 ---
 
 This post was originally posted on [Red Hat Developers](https://developers.redhat.com/blog/2017/03/14/java-inside-docker/) and this version is a translation to Portuguease
@@ -25,12 +24,12 @@ Entretanto, algumas aplicações que coletam informação do ambiente de execuç
 Para propósitos de demonstração, eu criei um "docker daemon" em uma máquina virtual com 1GB de RAM usando o comando *“docker-machine create -d virtualbox –virtualbox-memory ‘1024’ docker1024”*.  Em seguida, eu executei o comando "free -h" em três distribuições Linux executando dentro de um container com 100MB de RAM e Swap como limite. O resultado é que todas elas mostram 995MB como memória total
 
 {: .center}
-![](/images/docker1024.png)
+![](/assets/images/docker1024.png)
 
 Até mesmo em um cluster Kubernetes/OpenShift, o resultado é semelhante. Eu execute um Pod Kubernetes com o limite de memória de 512MB (usando o comando run mycentos –image=centos -it –limits=’memory=512Mi'”*) em um cluster com 15GB de RAM, e o total de memória apresentado foi 14GB.
 
 {: .center}
-![](/images/kubernetes-java.png)
+![](/assets/images/kubernetes-java.png)
 
 Para entender porquê isto acontece, eu sugiro que leia o post [“Memory inside Linux containers – Or why don’t free and top work in a Linux container?”](https://fabiokung.com/2014/03/13/memory-inside-linux-containers/)  do meu coterrâneo brasileiro [Fabio Kung](https://www.linkedin.com/in/fabiokung/).
 
@@ -39,14 +38,14 @@ Precisamos entender que os switches do docker  (-m, –memory and –memory-swap
 Para simular o processo sendo morto após excedermos o limite de memória especificado, vamos executar o WildFly Application Server em um container com 50MB de limite de memória através do comando *“docker run -it –name mywildfly -m=50m jboss/wildfly”*. Durante a execução do container, podemos executar o comando "docker stats" para verificar o limite do container.
 
 {: .center}
-![](/images/docker-stats.png)
+![](/assets/images/docker-stats.png)
 
 Mas após alguns segundo, o container executando o WildFly será interrompido e informará a mensagem: *** JBossAS process (55) received KILL signal ***
 
 O comando *“docker inspect mywildfly -f ‘{{json .State}}'”* mostra que este container foi morto por causa de uma situação OOM (Out of Memory). Perceba o OOMKilled=true no “state” do container.
 
 {: .center}
-![](/images/docker-OOMKilled.png)
+![](/assets/images/docker-OOMKilled.png)
 
 ## Como isto afeta aplicações Java?
 
@@ -81,7 +80,7 @@ Segundo, precisamos entender que o parâmetros "-m 150M" no comando do docker ir
 Mais combinações entre o limite de memória (-memory) e swap (-memory-swap) no comando do docker, podem ser encontrados [aqui](https://docs.docker.com/engine/reference/run/#user-memory-constraints).
 
 {: .center}
-![](/images/java-docker.png)
+![](/assets/images/java-docker.png)
 
 ## Mais memória é a solução?
 
@@ -91,11 +90,10 @@ Vamos supor que mudemos nosso "daemon" de 1GB para 8GB (criado com *“docker-ma
 
   `$ docker run -it --name mycontainer -p 8080:8080 -m 600M rafabene/java-container:openjdk`
 
-Note that the command "curl http://docker-machine ip docker8192:8080/api/memory" nem mesmo completa a execução desta vez por quê o valor calculado de MaxHeapSize para a JVM em um ambiente de 8GB é 2092957696 bytes (~ 2GB). Check with "docker logs mycontainer" by yourself.
+Note que o comando "curl http://docker-machine ip docker8192:8080/api/memory" nem mesmo completa a execução desta vez por quê o valor calculado de MaxHeapSize para a JVM em um ambiente de 8GB é 2092957696 bytes (~ 2GB). Check with "docker logs mycontainer" by yourself.
 
 
-{: .center}
-![](/images/docker-logs-mycontainer.png)
+![](/assets/images/docker-logs-mycontainer.png)
 
 
 A aplição irá tentar alocar mais de 1.6GB de memória, o que é mais que o limite deste container (600MB in RAM + 600MB in Swap) e o **processo será morto**.
@@ -154,11 +152,11 @@ ADD target/$JAVA_APP_JAR /deployments/
 Pronto! Agora, não importa qual o limite de memória do container, nossa aplicação Java irá sempre ajustar o tamanho da heap de acordo com o container e não de acordo com o daemon.
 
 {: .center}
-![](/images/docker-nolimit.png)
+![](/assets/images/docker-nolimit.png)
 {: .center}
-![](/images/docker500.png)
+![](/assets/images/docker500.png)
 {: .center}
-![](/images/docker2g.png)
+![](/assets/images/docker2g.png)
 
 ## Atualizado em 15 de Março de 2018
 
@@ -206,7 +204,7 @@ Note que o comando
 não falha mais e você verá a seguinte mensagem: “Allocated more than 80% (145.0 MiB) of the max allowed JVM memory size (145.0 MiB)%”. 145MB é 1/4 do limite de 600MB como definimos no container.
 
 {: .center}
-![](/images/java-free.png)
+![](/assets/images/java-free.png)
 
 
 ## Conclusão

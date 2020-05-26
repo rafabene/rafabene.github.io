@@ -1,7 +1,5 @@
 ---
-layout: post
 title: 1 Semana para o Jboss Road Show em Brasília
-comments: true
 tags:
   - brasília
   - df

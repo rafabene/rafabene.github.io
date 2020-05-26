@@ -1,7 +1,6 @@
 ---
-layout: post
 title: The importance (or not) of IT certifications
-comments: true
+toc: true
 ---
 
 Many years after [Oracle bought Sun Microsystem](https://en.wikipedia.org/wiki/Sun_acquisition_by_Oracle), I finally requested [PearsonVue](http://www.pearsonvue.com/oracle/) to merge my old Prometric id, so I can view them in [Oracle CertView](http://certview.oracle.com).

@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Empresas Brasileiras de TI! Abram os olhos (se ainda não o fizeram) !
-comments: true
 ---
 
 <p><p> Quase 1 mês desde de o último post! Queria ter postado algo no Carnaval, mas simplesmente precisava descansar.

@@ -1,7 +1,5 @@
 ---
-layout: post
 title: How to run Java fat-jars in Docker, Kubernetes and OpenShift
-comments: true
 ---
 
 In a world where agility matters, the pursuit to reduce wasted time in environment configurations is apparent in many technologies. Some techniques, such as Virtual Machines, that enable distribution of pre-configured images have existed for decades, while others like [Linux containers](http://developers.redhat.com/containers/) are more recent.

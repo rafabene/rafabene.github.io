@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Sun Microsystems e IBM firmam parceria em mercado de servidores para enfrentar HP
-comments: true
 tags:
   - hp
   - ibm
@@ -15,8 +13,8 @@ tags:
 <p>Recentemente presenciei um problema de incompatibilidade entre Software Sun e Hardware IBM e por este motivo estou comentando neste post tal parceria.
 </p>
 <p>
-  <img src="/images/solaris_101-logo.jpg" border="0" hspace="0" vspace="0" />
-  <img src="/images/IBM_logo.png" border="0" height="102" hspace="0" vspace="0" width="189" /> 
+  <img src="/assets/images/solaris_101-logo.jpg" border="0" hspace="0" vspace="0" />
+  <img src="/assets/images/IBM_logo.png" border="0" height="102" hspace="0" vspace="0" width="189" /> 
 </p>
 <p>A melhor definição do acordo veio do executivo-chefe da Sun, Jonathan Schwartz, que classificou a parceria como "<i>um abalo tectônico no panorama do mercado</i>". Continuando em seguida: "<i>Isso muda o mundo? Respondendo pela Sun, acredito que sim, muda. O anúncio comprova o que temos repetido o tempo todo - o momentum em torno do *Solaris* como sistema operacional de fonte aberta e plataforma cruzada é indiscutível.</i>"
 </p>

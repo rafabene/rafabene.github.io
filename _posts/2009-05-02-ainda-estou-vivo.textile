@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Ainda Estou Vivo!
-comments: true
 tags:
   - anápolis
   - mentira

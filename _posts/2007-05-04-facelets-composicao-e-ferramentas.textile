@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Facelets - Composição e Ferramentas
-comments: true
 ---
 
 <p><p>

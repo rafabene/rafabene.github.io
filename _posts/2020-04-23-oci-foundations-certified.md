@@ -1,12 +1,11 @@
 ---
-layout: post
 title: Oracle Cloud Infrastructure Foundations certified
-comments: true
 ---
 
 Yesterday I had the chance to take the exam **1Z0-1085-20 - Oracle Cloud Infrastructure Foundations 2020 Associate**. 
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="06a2e71a-4e33-4091-a17e-d2af68935f0c" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
+
 
 This exam covers:
 

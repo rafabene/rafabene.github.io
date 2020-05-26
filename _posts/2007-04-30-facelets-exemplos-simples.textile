@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Facelets - Exemplos Simples
-comments: true
 ---
 
 <p><p>Continuando <a href="/2007/04/26/facelets/">meu último post (Facelets - Introdução)</a>, procurarei mostrar hoje exemplos simples de como trabalhar com o Facelets citando vantagens sobre o JSP/JSF "puro".

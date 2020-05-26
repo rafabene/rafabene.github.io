@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Docker swarm cluster in AWS
-comments: true
 ---
 
 Containers, containers, containers everywhere! 

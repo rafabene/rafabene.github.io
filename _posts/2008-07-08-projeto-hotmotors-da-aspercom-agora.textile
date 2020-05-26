@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Projeto Hotmotors da Aspercom agora com JBoss Seam
-comments: true
 tags:
   - aspercom
   - jboss
@@ -21,5 +19,5 @@ de software iterativo, seguindo um processo ágil baseado no OpenUP</i>". É uma
 
 <p>"<b><i>Is JSF worth a second look? Is EJB really fixed? Is it worth sticking with Java rather than jumping ship for Ruby on Rails?</i></b>"</p><p> e logo em seguida a resposta: "<b><i>With the release of JBoss Seam 2.0, you can now confidently answer yes to all of these questions</i>.</b>"  seguida de <a href="http://www.manning-source.com/books/dallen/meap_dallench1.pdf" target="_blank">um capítulo inteiro de argumentações</a> que sustentam o por quê o Seam é visto como o salvador do JEE.</p><p>Sugiro darem uma olhada na aplicação <a href="http://www.aspercom.com.br/hotmotors" target="_blank">Hotmotors</a>. Uma vez com o <a href="http://maven.apache.org/" target="_blank">Maven</a> instalado, basta digitar: <b>mvn org.mortbay.jetty:maven-jetty-plugin:run</b>. A aplicação estará disponível em <a href="http://localhost:8080/hotmotors/" target="_blank">http://localhost:8080/hotmotors/</a>. Olhem no arquivo import.sql qual placa pode ser usada no sistema.</p>
 
-<p>O post do qual me refiro é <a target="_blank" href="http://blog.aspercom.com.br/2008/07/07/desenvolvimento-agil-com-seam/">Desenvolvimento Ágil na Web com Seam</a>. </p><p><b>P.S.:</b> Até que gostei da definição de  <a href="http://everything2.com/e2node/The%2520Code%2520Hose">code hose</a>. <img src="http://www.jroller.com/images/smileys/smile.gif" class="smiley" alt=":)" title=":)" />  </p></p>
+<p>O post do qual me refiro é <a target="_blank" href="http://blog.aspercom.com.br/2008/07/07/desenvolvimento-agil-com-seam/">Desenvolvimento Ágil na Web com Seam</a>. </p><p><b>P.S.:</b> Até que gostei da definição de  <a href="http://everything2.com/e2node/The%2520Code%2520Hose">code hose</a>. :)  </p></p>
 

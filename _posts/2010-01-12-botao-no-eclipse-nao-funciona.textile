@@ -1,6 +1,4 @@
 ---
-layout: post
 title: Botão no Eclipse não funciona
-comments: true
 ---
 <p>Recentemente quem atualizou suas distribuições Linux (<a target="_blank" href="http://www.fedoraproject.org/">Redhat Fedora 12</a> ou <a target="_blank" href="http://www.ubuntu.com/">Ubuntu 9.10</a> - para citar alguns) perceberam um problema, digamos, um tanto incomodo: Alguns botões do <a target="_blank" href="http://www.eclipse.org/">Eclipse</a> que aparecem em "dialogs" ou outros lugares simplesmente não funcionam. </p><p>Isto aconteceu por causa da atualização do GTK+ (versões 2.17.x/2.18.x). As últimas versões do GTK+ alteraram a forma como as janelas são criadas e gerenciadas no X Window. Isto acarretou alguns problemas na forma do SWT gerencia a "Z order" das janelas.</p><p>As novas versões do Eclipse (3.6 e builds posteriores ao  I20091201-2000 devem ter estes problemas corrigidos. Enquanto isto a recomendação é setar a variável GDK_NATIVE_WINDOWS antes de executar o Eclipse, ou então criar um script de inicialização do Eclipse. Exemplo:</p><pre> #!/bin/shexport GDK_NATIVE_WINDOWS=1/java/eclipse/eclipse</pre><p></p>

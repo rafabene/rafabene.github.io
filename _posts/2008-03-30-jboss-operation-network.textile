@@ -1,7 +1,5 @@
 ---
-layout: post
 title: JON - JBoss Operation Network
-comments: true
 tags:
   - java
   - jb336

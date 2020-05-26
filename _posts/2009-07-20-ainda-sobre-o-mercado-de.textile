@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Ainda sobre o mercado de TI em Brasília
-comments: true
 ---
 <p><i>Acabei de receber o texto abaixo por e-mail que reproduzo na íntegra e sem qualquer tipo de alteração. No e-mail que recebi não foi informado a fonte e por isto a mesma não foi citada.</i></p><p><i>Este é o segundo post seguido que falo sobre os efeitos da IN4 da SLTI. Por quê ? Meu grande interesse como profissional de TI é divulgar os efeitos desastrosos de um tiro (dado pelo Governo) que saiu pela culatra. Os gastos com TI podem até ter diminuído, mas estou vendo que a qualidade também.</i></p><p> </p><p><b>Quanto custa uma decisão do TCU?</b></p><div>Usar pregões para contratar serviços de TI foi um grande
 erro. É colocar na mesma cesta, itens como desenvolvimento de sistemas

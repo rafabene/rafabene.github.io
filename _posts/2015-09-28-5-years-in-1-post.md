@@ -1,7 +1,5 @@
 ---
-layout: post
 title: 5 Years in 1 blog post.
-comments: true
 ---
 
 Finally this weekend I concluded the migration of my blog to [Jekyll](https://jekyllrb.com/), and publish it under [rafabene.com](http://rafabene.com) domain. I will talk about this process in another blog post since I have a lot of to write.

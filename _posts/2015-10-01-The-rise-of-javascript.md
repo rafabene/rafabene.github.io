@@ -1,12 +1,11 @@
 ---
-layout: post
 title: The rise of Javascript
-comments: true
 ---
 I'm the kind of person who believes that staying in a comfort zone keeps you out
 of *"Where the magic happens"*.
 
-![](/images/wherethemagichappens.jpg)
+![](/assets/images/wherethemagichappens.jpg)
+{: .text-center}
 
 I've worked with [JBoss Seam Framework](http://www.seamframework.org) for a long time (2007-2012) and the way
 it solved the integration between the frontend (with JSF) and the backend (with
@@ -22,7 +21,8 @@ more productive and less error prone than JSF (or any other Java web framework).
 I always said to myself that once that a JS framework gets "stable" in the
 market, I would learn it.
 
-![](/images/javascript-frameworks-days.png)
+![](/assets/images/javascript-frameworks-days.png)
+{: .text-center}    
 
 This year, a very popular web project (20.000
 simultaneous access) that I worked (2008) was refactored
@@ -57,7 +57,8 @@ now on. So here I drop a mental note to myself:
 
 *Keep calm and Learn Javascript!*
 
-![](/images/keep-calm-and-learn-javascript.png)
+![](/assets/images/keep-calm-and-learn-javascript.png)
+{: .text-center}
 
 P.S.  I still believe that Java will keep strong in the Enterprise!
 

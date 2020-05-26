@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Red Hat Certificate of Expertise in Containerized Application Development
-comments: true
 ---
 
 **Quick note:** This week I decided to take a new certification exam: [Red Hat Certificate of Expertise in Containerized Application Development (EX276)](https://www.redhat.com/en/services/training/ex276-red-hat-certificate-expertise-containerized-application-development).  Since I've been working with containers for more than 2 years, I submitted myself to this exam. The exam covers the creation and management of docker images, and different use cases for containers.

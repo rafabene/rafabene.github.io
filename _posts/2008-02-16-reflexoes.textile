@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Reflexões
-comments: true
 tags:
   - ed
   - reflexões
@@ -11,7 +9,7 @@ tags:
 
 <p><p>Hoje vou fazer um post muito especial mas que foje totalmente ao propósito deste Blog que é falar de tecnologia e desenvolvimento Java. Entretanto tem tudo haver com esta <a target="_blank" href="http://pt.wikipedia.org/wiki/Quaresma">época</a> e ainda mais: Desde a primeira vez que a <i>ouvi</i> até hoje; esta reflexão fortaleceu em meu "jeito lógico" de ser, a boa sensação de "Deus faz sentido!". Compartilho com vocês tal reflexão. (Leiam ou ouçam)
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/xWTUThsGrds" frameborder="0" allowfullscreen> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9cGuSyoKRG4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p><font face="verdana,arial,helvetica,sans-serif">Oh! Deus, a nós foi dado o direito de pensar, de agir, e de analisar todos os fatos que se passam em torno de nós. </font>
 </p>

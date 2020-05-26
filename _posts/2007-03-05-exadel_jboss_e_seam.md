@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Exadel Studio Pro + JbossIDE = Red Hat Developer Studio
-comments: true
 ---
 
 Hoje, após retornar das férias, fui cumprir o ritual de montar o ambiente (atualizado) no meu PC... E "baixa" eclipse 3.2.2 e "baixa" JBoss IDE 2.0 Beta e.... Cadê o Exadel Studio 4.0.3 (aquele free) ????!!! Como eu acho o Exadel uma baita ferramenta para desenvolvimento JSF, vamos então fazer o download do Exadel Studio Pro! Hummm, versão 4.0.4! Legal! Depois li o quê seria mais legal ainda Trial Period: Until this summer when it becomes open source!

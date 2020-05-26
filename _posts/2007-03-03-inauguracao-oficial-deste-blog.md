@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Inauguração oficial deste blog
-comments: true
 ---
 
 Este post é para inaugurar oficialmente o funcionamento deste blog. Já tentei ter um blog pessoal antes, mas como tudo na vida, se não houver um compromisso, nada decola. Neste blog existe um compromisso (uma missão) de estravazar alguns raciocínios e reflexões sobre tecnologias e melhores práticas no desenvolvimento de sistemas no ambito nacional e também no ambito local (Brasília) nas empresas privadas e públicas.

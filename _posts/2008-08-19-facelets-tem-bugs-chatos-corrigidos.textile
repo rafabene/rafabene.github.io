@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Facelets tem bugs chatos corrigidos no novo Beta
-comments: true
 ---
 
 <p><p>Quase na "calada da noite" foi disponibilizado (em junho) uma nova versão (ainda em beta) do <a href="https://facelets.dev.java.net/">Facelets</a> que testei hoje e percebi a correção de dois Bugs muito chatos:</p><ol><li>Empresas que constroem seus componentes visuais usando Facelets, e empacotam tais componentes em um JAR, frequentemente recebiam o erro no console: <i>"WEB-INF/lib/xseam-0.2.jar!/whatwheaver.xhtml] was modified @ 11:16:22,

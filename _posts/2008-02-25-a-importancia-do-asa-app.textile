@@ -1,7 +1,5 @@
 ---
-layout: post
 title: A importância do ASA (App. Server Admin)
-comments: true
 ---
 
 <p><p>"<i>O 'Deployer' ou Administrador é a pessoa (ou empresa) responsável por configurar e realizar o deploy de aplicações Java EE, administrar a infraestrutura de computação e rede onde aplicações Java são executados, e monitora o ambiente de execução. Entre suas atribuições, está o ajuste dos controles transicionais e atributos de segurança, além de especificar conexões de Banco de Dados.</i>"

@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Novo Blog da família - Frederico Benevides Realm
-comments: true
 ---
 <p>É com prazer que informo que meu irmão, Frederico Benevides, finalmente resolveu criar o seu Blog para compartilhar suas experiências, idéias e devaneios.</p><p>Seu primeiro post fala sobre: <b>TESTES!!!</b></p><p>As primeiras impressões de quem trabalha com desenvolvimentos e que ainda não se convenceram da importância dos testes são:</p><ol><li>Testes devem ser feitos no final (se der tempo)</li><li>Testes aumentam o custo</li><li>Testes aumentam o prazo de entrega.</li></ol><p>A verdade é <a href="http://blog.fragmental.com.br/2007/10/31/programadores-profissionais-escrevem-testes-ponto-final/" rel="bookmark" title="Permanent Link: Programadores Profissionais Escrevem Testes, Ponto Final.">Programadores Profissionais Escrevem Testes, Ponto Final.</a>
 

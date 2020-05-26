@@ -1,12 +1,10 @@
 ---
-layout: post
 title: EX280 - OpenShift V3 certification - approved! 
-comments: true
 ---
 
 As I've been working with Docker containers for a long time, it's natural to look for a way to "orchestrate" those containers and have a professional production-ready support. As a Red Hat employee I'm suspect to say that the best product for this is [OpenShift V3](https://www.openshift.com/enterprise/) which is built on top of Google's [Kubernetes](http://kubernetes.io/).
 
-![](/images/openshift_enterprise_logo.png)
+![](/assets/images/openshift_enterprise_logo.png)
 
 Yesterday I got the results of [EX280](https://www.redhat.com/en/services/training/ex280-red-hat-certificate-expertise-platform-service-exam) (**Red Hat Certificate of Expertise in Platform-as-a-Service**). This exam is focused on **OpenShift Enterprise v3.0** and it covers aspects like the instalation, configuration and use of OpenShift (application assemble, deployment, scale, etc). Some experience with RHEL (Red Hat Enterprise Linux) is also expected.
 

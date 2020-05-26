@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Dicas para iniciantes Java em Projetos Corporativos
-comments: true
 ---
 
 Recentemente minha célula de codificação ficou encarregada de refatorar um sistema crítico em todos os sentidos: O Cliente possui grande expectativa no produto; O Sistema é composto por vários módulos e é grande... Muito grande...; A cifra investida no sistema é muito alta; Todos os módulos estão sendo desenvolvidos há 2 anos por um grande player do mercado.

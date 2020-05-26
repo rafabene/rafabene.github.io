@@ -1,7 +1,5 @@
 ---
-layout: post
 title: JDF 2.0.0.Final released!
-comments: true
 ---
 
 Hi!!! Yesterday (10/24/2012) [JDF – JBoss Developer Framework 2.0.0.Final](http://www.jboss.org/jdf/) was released. The focus in this release is mobile hybrid applications with [Apache Cordova](http://cordova.apache.org/). This release has [65 quickstarts](http://www.jboss.org/developer-materials/#!) and [TicketMonster](http://www.jboss.org/ticket-monster/) example and its tutorial was also updated.
@@ -15,3 +13,4 @@ Are you using [Forge](http://forge.jboss.org/)? No problem! You can also use JDF
 Enjoy!!!!
 
 ![](http://design.jboss.org/jbossdeveloperframework/logo/final/jdf_logo_450px.png)
+{: .text-center}

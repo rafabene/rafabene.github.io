@@ -1,7 +1,6 @@
 ---
-layout: post
 title: Docker learning path with WildFly
-comments: true
+toc: true
 ---
 
 **EDIT:** This post has been edited to reflact the latest changes as described [here](/2016/01/09/docker-images-openshift-network/)
@@ -10,7 +9,7 @@ comments: true
 
 I've my own lab environment that consists in a [WildFly](http://www.wildfly.org/) container with [Ticket Monster application](http://www.jboss.org/ticket-monster/) connected to a [Postgres](http://www.postgresql.org/) container. To load balance the application, I use [Apache httpd](https://httpd.apache.org/) with [mod_cluster](http://mod-cluster.jboss.org/). The overview diagram of this environment can be seen in the following picture:
 
-![](/images/docker_mod_cluster.png)
+![](/assets/images/docker_mod_cluster.png)
 
 This blog post will show a suggested learning path to have this environment to be executed in raw docker engine (CLI), docker-compose, docker swarm and finally using Kubernetes. In all cases, the same Docker images were used:
 
@@ -83,7 +82,7 @@ The cons of this approach is that we have a physical limit on how many WildFly i
 
 When you have a docker swarm cluster you will see all docker nodes as a single one. The only difference is that your container can be executed on any docker node in the cluster. 
 
-![](/images/swarm_cluster.jpg)
+![](/assets/images/swarm_cluster.jpg)
 
 Since Docker 1.9, a new container network model was introduced which allows containers in different hosts to be part of a [multi-host network.](https://docs.docker.com/engine/userguide/networking/get-started-overlay/).
 
@@ -117,7 +116,7 @@ Finally we land in [OpenShift v3](https://www.openshift.org).
 > "OpenShift 3 is built around a core of application containers powered by Docker, with orchestration and management provided by Kubernetes, on a foundation of Atomic and Enterprise Linux. OpenShift Origin is the upstream community project that brings it all together along with extensions, to accelerate application development and deployment." (http://www.openshift.org/)
 
 
-![](/images/openshift_logo.png)
+![](/assets/images/openshift_logo.png)
 
 In the next weeks I'll be updating the material available at [github.com/rafabene/devops-demo](https://github.com/rafabene/devops-demo) to include instructions to OpenShift
 

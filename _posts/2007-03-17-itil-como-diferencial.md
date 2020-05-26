@@ -1,7 +1,5 @@
 ---
-layout: post
 title: ITIL como diferencial do Setor de TI
-comments: true
 ---
 
 

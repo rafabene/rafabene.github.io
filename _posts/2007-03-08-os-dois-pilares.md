@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Os dois pilares
-comments: true
 ---
 
 Há algum tempo que tenho percebido em algumas empresas de TI um "fenômeno" interessante. Aqui em Brasília e também no interior, podemos ver que programadores tendem a ser igualados a trabalhadores braçais e por isto é comum ouvir expressões como:

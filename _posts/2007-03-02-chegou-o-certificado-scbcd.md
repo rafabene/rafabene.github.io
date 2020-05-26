@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Chegou o certificado SCBCD 5.0
-comments: true
 ---
 
 

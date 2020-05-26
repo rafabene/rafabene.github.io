@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Java hoje e principalmente amanhâ...
-comments: true
 ---
 
 <p><p> De fato, muitos desenvolvedores ficaram alarmados com um comentário feito pelo <a target="_blank" href="http://computerworld.uol.com.br/mercado/2008/02/28/java-e-cada-vez-mais-ameacada-por-novos-metodos-de-desenvolvimento/">computerworld </a>dizendo que "<i>Java é cada vez mais ameaçada por novos métodos de desenvolvimento</i>" (leia-se Ruby on Rails, Python, PHP, etc).

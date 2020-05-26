@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Summa oferece oportunidades em Brasilia e São Paulo
-comments: true
 ---
 
 <p><p>Nesse momento, a Summa possui oportunidades de trabalho para profissionais com os seguintes perfis: (curriculos deverão ser enviados com os nomes dos perfis abaixo)</p>

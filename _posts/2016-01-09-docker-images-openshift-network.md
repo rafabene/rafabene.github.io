@@ -1,7 +1,5 @@
 ---
-layout: post
 title: From Docker images to OpenShift + Docker Networks
-comments: true
 ---
 
 On my [last post](/2015/12/15/docker-learning-path-wildfly/), I talked about how to run the same set of Docker images using [Docker](https://docs.docker.com/engine/userguide/), [Docker Compose](https://docs.docker.com/compose/), [Docker Machine](https://docs.docker.com/machine/), [Docker Swarm](https://docs.docker.com/swarm/) and [Kubernetes](http://kubernetes.io/).
@@ -22,7 +20,7 @@ With the introduction of [Docker Networks](https://docs.docker.com/engine/usergu
 
 The environment consists in a [WildFly](http://www.wildfly.org/) container with [Ticket Monster application](http://www.jboss.org/ticket-monster/) connected to a [Postgres](http://www.postgresql.org/) container. To load balance the application, I use [Apache httpd](https://httpd.apache.org/) with [mod_cluster](http://mod-cluster.jboss.org/). The overview diagram of this environment can be seen in the following picture:
 
-![](/images/docker_mod_cluster.png)
+![](/assets/images/docker_mod_cluster.png)
 
 Now, the [docker-compose.yml](https://github.com/rafabene/devops-demo/blob/master/compose/docker-compose.yml) file contains reference to a docker network called *"mynet"*. This network should be available before the execution of the container through the command  *docker network create mynet*. 
 
@@ -46,7 +44,7 @@ $ docker exec container1 cat /etc/hosts
 
 ## OpenShift v3
 
-![](/images/openshift_logo.png)
+![](/assets/images/openshift_logo.png)
 
 Another great addition was the inclusal of [*OpenShift instructions*](https://github.com/rafabene/devops-demo/blob/master/openshift/Readme.md) for the same lab. 
 

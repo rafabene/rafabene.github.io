@@ -1,7 +1,5 @@
 ---
-layout: post
 title: See you in DevConf.CZ 2016
-comments: true
 ---
 
 I'm now boarding to Czech Republic, more precisely to [Brno](https://goo.gl/maps/4ZMo4u8NEiN2).  Friday (February 5th 2016) will start the [DevConf.CZ 2016](http://www.devconf.cz/), *"a free annual conference for all Linux and JBoss Community Developers, Admins and Linux users organized by Red Hat Czech Republic in cooperation with the Fedora and JBoss communities."*
@@ -14,7 +12,7 @@ When we look at [the scheddule](https://devconfcz2016.sched.org/) of events like
 
 Something that I'm really exited about is that [Red Hat and Microsoft are making .NET on Linux work for Enterprises](http://developerblog.redhat.com/2015/11/04/red-hat-microsoft-making-dot-net-on-linux-for-enterprises/). There are two talks that will explore [C# on Linux](https://devconfcz2016.sched.org/event/5m0W/c-on-linux) and [.NET Core on Unix](https://devconfcz2016.sched.org/event/5m0H/net-core-on-unix). So developers will be able to build .NET applications and deploy them on Red Hat Enterprise Linux and take advantage of the native Linux.
 
-![](/images/ms-linux.jpg)
+![](/assets/images/ms-linux.jpg)
 
 The destination (no matter if it's in the cloud, in the developer's machine, or on-premises) of all these containers or code (through S2I - source to image) is the [OpenShift v3](https://www.openshift.org/).  There are [several talks](https://devconfcz2016.sched.org/overview/type/OpenShift) for people and IT organizations that wants to provision and scale their container-based application.
 

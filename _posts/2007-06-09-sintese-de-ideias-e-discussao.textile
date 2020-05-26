@@ -1,11 +1,9 @@
 ---
-layout: post
 title: Síntese de idéias e discussão sobre IDE
-comments: true
 ---
 
 <p>Ontem ao ler o Blog do <a href="http://fragmental.com.br/blog/?p=359">Phillip Calçado Shoes</a>, li um post que é a síntese de tudo aquilo que eu penso, gostaria de escrever, mas ainda não tive paciência para falar sobre: <strong>As empresas de 3 letrinhas</strong>  <em>(Adorei este termo!)</em> 
-Fica aqui a minha recomendação de leitura para hoje: <a href="http://fragmental.com.br/blog/?p=359">3 letrinhas</a> </p>
+Fica aqui a minha recomendação de leitura para hoje: <a href="https://groups.google.com/forum/#!topic/xpse/-qiQ4-6bur4">3 letrinhas</a> </p>
 
 
 <p><p/>

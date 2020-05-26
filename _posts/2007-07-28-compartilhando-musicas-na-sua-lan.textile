@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Compartilhando Músicas na sua LAN via DAAP
-comments: true
 tags:
   - daap
   - howto
@@ -26,7 +24,7 @@ tags:
 Diante destas desvantagens, resolvi instalar o <a target="_blank" href="http://www.fireflymediaserver.org/">Firefly Media Server</a> ou simplesmente <b>mt-daapd</b>. Antes de instalar é preciso desabilitar o compartilhamento do Rhythmbox, deixando apenas o plugin habilitado para poder acessar os demais compartilhamentos.
 </p>
 <p>
-  <img src="/images/rhythmbox-plugin.jpg" align="bottom" border="0" hspace="0" vspace="0" /> 
+  <img src="/assets/images/rhythmbox-plugin.jpg" align="bottom" border="0" hspace="0" vspace="0" /> 
 </p>
 <p>A instalação do mt-daapd pode ser feito no Ubuntu através do comando:
 </p>
@@ -45,11 +43,11 @@ servername = Músicas de Rafael Benevides #Também pode ter espaço
 <p> Uma vez configurado, reinicie o mt-daapd com o comando: sudo /etc/init.d/mt-daapd restart e verifique o log se não houveram erros. Você pode também acessar a URL: <a target="_blank" href="http://localhost:3689/">http://localhost:3689/</a> (não pede senha para localhost) para realizar as configurações ou ter acesso a informações sobre quantidade de músicas compartilhadas e para qual cliente
 </p>
 <p>
-  <img src="/images/mt-daapd.jpg" align="bottom" border="0" hspace="0" vspace="0" />
+  <img src="/assets/images/mt-daapd.jpg" align="bottom" border="0" hspace="0" vspace="0" />
 </p>
 <p> Uma vez que o servidor DAAP esteja executando, clientes como <a target="_blank" href="http://www.gnome.org/projects/rhythmbox/">Rhythmbox,</a> <a target="_blank" href="http://amarok.kde.org/">Amarok</a> e <a target="_blank" href="http://www.apple.com/br/itunes/overview/">iThunes</a> poderão acessar instantâneamente suas músicas pela LAN via Streaming, bem como copiar as músicas para seus computadores.  No Rhythmbox a cópia pode ser feita clicando em Copiar sobre a música compartilhada e cola na Biblioteca.
 </p>
-<p>O DAAP também pode ser instalados em computadores que utilizam MacOS e Windows podem utilizar o <a target="_blank" href="http://www.snorp.net/log/tangerine">Tangerine</a> e o prórpio <a target="_blank" href="http://www.apple.com/br/itunes/overview/">iThunes</a> como servidor.
+<p>O DAAP também pode ser instalados em computadores que utilizam MacOS e Windows podem utilizar o <a target="_blank" href="http://www.snorp.net/log/tangerine">Tangerine</a> e o prórpio <a target="_blank" href="http://www.apple.com/br/itunes/overview/">iTunes</a> como servidor.
 </p>
 <p> Bom divertimento!
 </p></p>

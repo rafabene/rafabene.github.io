@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Unicode
-comments: true
 tags:
   - benevides
   - charset

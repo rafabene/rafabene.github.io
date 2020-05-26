@@ -1,7 +1,6 @@
 ---
-layout: post
 title: Java inside docker - What you must know to not FAIL
-comments: true
+toc: true
 ---
 
 This post was originally posted on [Red Hat Developers](https://developers.redhat.com/blog/2017/03/14/java-inside-docker/)
@@ -20,12 +19,12 @@ However, some applications that collect information from the execution environme
 For demonstration purposes, I’ve created a docker daemon in a virtual machine with 1GB of RAM using *“docker-machine create -d virtualbox –virtualbox-memory ‘1024’ docker1024”*.  Next, I executed the command “free -h” in three different Linux distributions running in a container with 100MB of RAM and Swap as a limit. The result is that all of them show 995MB of total memory.
 
 {: .center}
-![](/images/docker1024.png)
+![](/assets/images/docker1024.png)
 
 Even in a Kubernetes/OpenShift cluster, the result is similar. I’ve executed a Kubernetes Pod with a memory limit of 512MB (using the command *“kubectl run mycentos –image=centos -it –limits=’memory=512Mi'”*)  in a cluster with 15GB of RAM and the total memory shown was 14GB.
 
 {: .center}
-![](/images/kubernetes-java.png)
+![](/assets/images/kubernetes-java.png)
 
 To understand why this happen, I suggest that you read the blog post [“Memory inside Linux containers – Or why don’t free and top work in a Linux container?”](https://fabiokung.com/2014/03/13/memory-inside-linux-containers/) from my fellow Brazilian compatriot, [Fabio Kung](https://www.linkedin.com/in/fabiokung/).
 
@@ -34,14 +33,14 @@ We need to understand that the docker switches (-m, –memory and –memory-swap
 To simulate the process being killed after exceeding the specified memory limit, we can execute the WildFly Application Server in a container with 50MB of memory limit through the command *“docker run -it –name mywildfly -m=50m jboss/wildfly”*. During the execution of this container, we could execute “docker stats” to check the container limit.
 
 {: .center}
-![](/images/docker-stats.png)
+![](/assets/images/docker-stats.png)
 
 But after some seconds, the Wildfly container execution will be interrupted and print a message: *** JBossAS process (55) received KILL signal ***
 
 The command *“docker inspect mywildfly -f ‘{{json .State}}'”* shows that this container has been killed because of an OOM (Out of Memory) situation. Note the OOMKilled=true in the container “state”.
 
 {: .center}
-![](/images/docker-OOMKilled.png)
+![](/assets/images/docker-OOMKilled.png)
 
 ## How this affects Java applications?
 
@@ -76,7 +75,7 @@ Second, we need to understand that when we use the parameter “-m 150M” in th
 More combinations between the memory limit (–memory) and swap (–memory-swap) in docker command line can be found [here](https://docs.docker.com/engine/reference/run/#user-memory-constraints).
 
 {: .center}
-![](/images/java-docker.png)
+![](/assets/images/java-docker.png)
 
 ## Is more memory the solution?
 
@@ -90,7 +89,7 @@ Note that the command "curl http://docker-machine ip docker8192:8080/api/memory"
 
 
 {: .center}
-![](/images/docker-logs-mycontainer.png)
+![](/assets/images/docker-logs-mycontainer.png)
 
 
 The application will try to allocate more than 1.6GB of memory, which is more than the limit of this container (800MB in RAM + 800MB in Swap) and the **process will be killed**.
@@ -148,11 +147,11 @@ ADD target/$JAVA_APP_JAR /deployments/
 Done! Now, no matter what the container memory limit is, our Java application will always adjust the heap size according to the container and not according to the daemon.
 
 {: .center}
-![](/images/docker-nolimit.png)
+![](/assets/images/docker-nolimit.png)
 {: .center}
-![](/images/docker500.png)
+![](/assets/images/docker500.png)
 {: .center}
-![](/images/docker2g.png)
+![](/assets/images/docker2g.png)
 
 ## Updated on March 15th 2018
 
@@ -202,7 +201,7 @@ Note that the command
 doesn’t fail anymore and you see the following message “Allocated more than 80% (145.0 MiB) of the max allowed JVM memory size (145.0 MiB)%”. 145MB is 1/4 of the 600M limits that we defined for this container.
 
 {: .center}
-![](/images/java-free.png)
+![](/assets/images/java-free.png)
 
 
 ## Conclusion

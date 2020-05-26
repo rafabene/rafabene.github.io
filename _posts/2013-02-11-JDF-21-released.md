@@ -1,7 +1,5 @@
 ---
-layout: post
 title: JDF – JBoss Developer Framework 2.1 released!
-comments: true
 ---
 
 Last week during a team meeting, [JDF 2.1.Final](http://www.jboss.org/jdf/) was released.

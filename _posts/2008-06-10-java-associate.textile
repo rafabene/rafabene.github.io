@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Java Associate
-comments: true
 ---
 <p>Hoje além de ser meu aniversário (10/06), estou postando para comentar que fui aprovado na prova de <a href="http://www.sun.com/training/catalog/courses/CX-310-019.xml" target="_blank">Java Associate</a>.</p>Como assim ??? Foram os comentários de alguns colegas de trabalho. Como resultado de uma consultoria recente, ganhei um voucher da série 212 (<a href="http://www.sun.com/solutions/landing/industry/education/sai/index.xml" target="_blank">Sun Academic Initiative</a>). Este voucher no entanto só dá direito a realizar provas de Programmer e Associate. Então mãos a obra!!!
 

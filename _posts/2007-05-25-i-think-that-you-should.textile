@@ -1,7 +1,5 @@
 ---
-layout: post
 title: I think that you should see this
-comments: true
 ---
 
 <p><p><em><b>"I think that you should see this"</b></em>... Esta frase abre um dos vídeos mais legais que já vi sobre uma tecnologia. Este vídeo é repleto de frases muito boas. </p></p>

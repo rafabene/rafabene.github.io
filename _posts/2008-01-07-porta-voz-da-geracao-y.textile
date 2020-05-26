@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Porta-voz da geração Y
-comments: true
 ---
 
 <p><p>Acabei de receber este texto do meu amigo <a target="_blank" href="http://www.linkedin.com/pub/3/6a2/739">Marco Tulio</a>.

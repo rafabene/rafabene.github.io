@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Automating microservices deployment with Ansible
-comments: true
 ---
 
 This post was originally posted on [Red Hat Developers](https://developers.redhat.com/blog/2016/11/21/automating-microservices-deployment-with-ansible/)
@@ -14,12 +12,12 @@ The operations team and the software development team should work together adopt
 
 
 {: .center}
-![](/images/wall-of-confusion.png)
+![](/assets/images/wall-of-confusion.png)
 
 Ideally, each Microservices team is multifunctional and own the software artifact from conception to production. Given the multifunctional nature of these teams, “[infrastructure as code](https://www.thoughtworks.com/insights/blog/infrastructure-code-reason-smile) (IaC)” and automation are now a necessity. DevOps teams share the knowledge of server provisioning, configuration management and deployment. There are several tools and approaches for IaC. As an example, I can mention Kubernetes, that allows you to [define its objects as yaml or json files](https://github.com/redhat-developer-demos/kubernetes-lab/tree/master/kubernetes).
 
 {: .center}
-![](/images/microservices-teams.png)
+![](/assets/images/microservices-teams.png)
 
 
 A couple months ago, I published a blog post that shows how to [have your own (no-cost) microservices playground](/2016/07/28/have-your-own-microservices/).  The focus of this material is educational. It provides [instructions](http://bit.ly/msainstructions) on how to deploy each microservice independently. However, some people would like to see all of them running running in few minutes.

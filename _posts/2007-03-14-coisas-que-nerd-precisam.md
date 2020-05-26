@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Coisas que Ners precisam para Amar seu Emprego
-comments: true
 ---
 
 

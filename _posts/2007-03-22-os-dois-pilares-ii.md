@@ -1,7 +1,6 @@
 ---
-layout: post
 title: Os dois pilares II (carreira em y reloaded)
-comments: true
+toc: true
 ---
 
 Em uma destas noites vagando pela Internet encontrei mais confirmações de algo que havia dito no meu primeiro [post](/2007/03/08/os-dois-pilares/) (e provavelmente o último - não gosto de chover no molhado) sobre o assunto Carreira Técnica vs Gerêncial.
