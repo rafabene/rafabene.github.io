@@ -29,6 +29,7 @@ toc: true
 
 |   Date   |     Title   |     Event     |   Resources   |
 |:---------|:-----------:|:-------------:|--------------:|
+| May 27th 2020   | [Webinar: Java para os próximos 25 anos](https://event.on24.com/wcc/r/2358424/06CDD2730C9709C205D65BD557348B90) | Oracle Webinar | |
 |May 21st 2020    |[From Java to Jakarta EE 9](https://www.meetup.com/SouJava/events/270305988/) | SouJava Technical Panel | [<i class="fab fa-fw fa-youtube" title="Video"></i>](https://www.youtube.com/watch?v=T5DYpK8qoVI) |
 | April 30th 2020 | [Java Modules para desenvolvedores do dia-a-dia](https://www.meetup.com/SouJavaBrasilia/events/270241585/) | SouJava Brasilia | [<i class="fab fa-fw fa-slideshare" title="Slides"></i>](http://bit.ly/java-modules) [<i class="fab fa-fw fa-youtube" title="Video"></i>](https://www.youtube.com/watch?v=Oc62FVeQuR4) |
 | April 25th 2020 | [Microprofile: Enterprise o suficiente para microserviços](https://thedevconf.com/tdc/2020/especialbh/trilha-linguagens) | TDC Belo Horizonte ONLINE | [<i class="fab fa-fw fa-slideshare" title="Slides"></i>](https://bit.ly/slides-microprofile) [<i class="fab fa-fw fa-github" title="Sources"></i>](https://github.com/rafabene/microprofile-demo) |
