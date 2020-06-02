@@ -11,10 +11,7 @@ toc: true
 
 |   Date   |     Title   |     Event     |   
 |:---------|:-----------:|--------------:|
-|  May 28th 2020  | [Java Modules (aka JPMS) for day-to-day Java developers](https://www.coffeejug.org/) |  CoffeeJUG: Java Anniversary |
-| May 20th 2020    | [Rastreamento em aplicações Cloud-Native](https://www.sympla.com.br/rio-de-janeiro-cloud-conference-day__785258) | Cloud Conference Day |
-| June 2nd 2020 | [12 Factors to Cloud Success](https://2020.jnation.pt/speakers/rafael-benevides/) | JNation |
-| June 4th 2020 | MicroProfile (To be confirmed) | SouJava Rio/SP/BSB |
+| June 18th 2020 | MicroProfile (To be confirmed) | SouJava Rio/SP/BSB |
 | June 25th 2020 |  [Java Modules (aka JPMS) for day-to-day Java developers](https://thedevconf.com/tdc/2020/floripaonline/trilha-java) | TDC Floripa | 
 | September 2nd 2020 | [Service Mesh and Sidecars with Istio and Envoy](https://www.j4k.io/) | J4K |
 | September 2nd 2020 | [Tracing Cloud-Native applications: From stacktrace to Opentracing](https://www.j4k.io/) | J4K |
@@ -29,6 +26,9 @@ toc: true
 
 |   Date   |     Title   |     Event     |   Resources   |
 |:---------|:-----------:|:-------------:|--------------:|
+| June 2nd 2020 | [12 Factors to Cloud Success](https://2020.jnation.pt/speakers/rafael-benevides/) | JNation | [<i class="fab fa-fw fa-youtube" title="Video"></i>](https://www.youtube.com/watch?v=kihanjsxJ2w) |
+| June 2nd 2020   | [Java Modules (aka JPMS) for day-to-day Java developers](https://www.coffeejug.org/) |  CoffeeJUG: Java Anniversary | [<i class="fab fa-fw fa-youtube" title="Video"></i>](https://www.youtube.com/watch?v=eFtFm2WHeHY) |
+| May 30th 2020    | [Rastreamento em aplicações Cloud-Native](https://www.sympla.com.br/rio-de-janeiro-cloud-conference-day__785258) | Cloud Conference Day |
 | May 27th 2020   | [Webinar: Java para os próximos 25 anos](https://event.on24.com/wcc/r/2358424/06CDD2730C9709C205D65BD557348B90) | Oracle Webinar | |
 |May 21st 2020    |[From Java to Jakarta EE 9](https://www.meetup.com/SouJava/events/270305988/) | SouJava Technical Panel | [<i class="fab fa-fw fa-youtube" title="Video"></i>](https://www.youtube.com/watch?v=T5DYpK8qoVI) |
 | April 30th 2020 | [Java Modules para desenvolvedores do dia-a-dia](https://www.meetup.com/SouJavaBrasilia/events/270241585/) | SouJava Brasilia | [<i class="fab fa-fw fa-slideshare" title="Slides"></i>](http://bit.ly/java-modules) [<i class="fab fa-fw fa-youtube" title="Video"></i>](https://www.youtube.com/watch?v=Oc62FVeQuR4) |
