@@ -11,7 +11,8 @@ toc: true
 
 |   Date   |     Title   |     Event     |   
 |:---------|:-----------:|--------------:|
-| June 18th 2020 | MicroProfile (To be confirmed) | SouJava Rio/SP/BSB |
+| June 11th 2020 | [Technical Panel about Kubernetes](https://www.meetup.com/SouJava/events/271116641/) | SouJava Meetup |
+| June 18th 2020 | [MicroProfile: Just Enough Java EE for Your Microservices](https://www.meetup.com/SouJava/events/271206765/) | SouJava Meetup |
 | June 25th 2020 |  [Java Modules (aka JPMS) for day-to-day Java developers](https://thedevconf.com/tdc/2020/floripaonline/trilha-java) | TDC Floripa | 
 | September 2nd 2020 | [Service Mesh and Sidecars with Istio and Envoy](https://www.j4k.io/) | J4K |
 | September 2nd 2020 | [Tracing Cloud-Native applications: From stacktrace to Opentracing](https://www.j4k.io/) | J4K |
@@ -26,10 +27,11 @@ toc: true
 
 |   Date   |     Title   |     Event     |   Resources   |
 |:---------|:-----------:|:-------------:|--------------:|
+| June 9th 2020 | [Advanced Deployment Techniques with Kubernetes](https://www.meetup.com/Nerdzao/events/270685551/)| Nerdzao #217 | [<i class="fab fa-fw fa-slideshare" title="Slides"></i>](http://bit.ly/thedeploymaster)[<i class="fab fa-fw fa-youtube" title="Video"></i>](https://youtu.be/9taY-pjMkoo) |
 | June 2nd 2020 | [12 Factors to Cloud Success](https://2020.jnation.pt/speakers/rafael-benevides/) | JNation | [<i class="fab fa-fw fa-youtube" title="Video"></i>](https://www.youtube.com/watch?v=kihanjsxJ2w) |
 | June 2nd 2020   | [Java Modules (aka JPMS) for day-to-day Java developers](https://www.coffeejug.org/) |  CoffeeJUG: Java Anniversary | [<i class="fab fa-fw fa-youtube" title="Video"></i>](https://www.youtube.com/watch?v=eFtFm2WHeHY) |
 | May 30th 2020    | [Rastreamento em aplicações Cloud-Native](https://www.sympla.com.br/rio-de-janeiro-cloud-conference-day__785258) | Cloud Conference Day |
-| May 27th 2020   | [Webinar: Java para os próximos 25 anos](https://event.on24.com/wcc/r/2358424/06CDD2730C9709C205D65BD557348B90) | Oracle Webinar | |
+| May 27th 2020   | [Webinar: Java para os próximos 25 anos](https://event.on24.com/wcc/r/2358424/06CDD2730C9709C205D65BD557348B90) | Oracle Webinar | [<i class="fab fa-fw fa-youtube" title="Video"></i>](https://event.on24.com/wcc/r/2358424/06CDD2730C9709C205D65BD557348B90) |
 |May 21st 2020    |[From Java to Jakarta EE 9](https://www.meetup.com/SouJava/events/270305988/) | SouJava Technical Panel | [<i class="fab fa-fw fa-youtube" title="Video"></i>](https://www.youtube.com/watch?v=T5DYpK8qoVI) |
 | April 30th 2020 | [Java Modules para desenvolvedores do dia-a-dia](https://www.meetup.com/SouJavaBrasilia/events/270241585/) | SouJava Brasilia | [<i class="fab fa-fw fa-slideshare" title="Slides"></i>](http://bit.ly/java-modules) [<i class="fab fa-fw fa-youtube" title="Video"></i>](https://www.youtube.com/watch?v=Oc62FVeQuR4) |
 | April 25th 2020 | [Microprofile: Enterprise o suficiente para microserviços](https://thedevconf.com/tdc/2020/especialbh/trilha-linguagens) | TDC Belo Horizonte ONLINE | [<i class="fab fa-fw fa-slideshare" title="Slides"></i>](https://bit.ly/slides-microprofile) [<i class="fab fa-fw fa-github" title="Sources"></i>](https://github.com/rafabene/microprofile-demo) |
@@ -46,6 +48,7 @@ toc: true
 |   Date   |     Title   |     Event     |   Resources   |
 |:---------|:-----------:|:-------------:|--------------:|
 | November 28th 2019 | [Service Mesh and Sidecars with Istio and Envoy](https://thedevconf.com/tdc/2019/portoalegre/trilha-arquitetura-java) | TDC Porto Alegre | [<i class="fab fa-fw fa-slideshare" title="Slides"></i>](http://bit.ly/istio-kubernetes) |
+| October 25th 2019 | [Service Mesh and Sidecars with Istio and Envoy](https://devopsdays.org/events/2019-campinas/speakers/rafael-benevides/) | DevOpsDays Campinas | [<i class="fab fa-fw fa-slideshare" title="Slides"></i>](http://bit.ly/istio-kubernetes) [<i class="fab fa-fw fa-youtube" title="Videos"></i>](https://youtu.be/aGnMREnH5A8) |
 | October 14th 2019 | [Service Mesh and Sidecars with Istio and Envoy](https://www.sympla.com.br/meetup-java-bahia-na-ucsal-com-otavio-santana-e-rafael-benevides__657235) | JUG Bahia Meetup | [<i class="fab fa-fw fa-slideshare" title="Slides"></i>](http://bit.ly/istio-kubernetes) |
 | October 12th 2019 | [Quarkus: Fast, Small, Native?](https://thedevconf.com/tdc/2019/recife/trilha-java) | TDC Recife | [<i class="fab fa-fw fa-slideshare" title="Slides"></i>](http://bit.ly/quarkus) |
 | October 11th 2019 | [Service Mesh and Sidecars with Istio and Envoy](https://thedevconf.com/tdc/2019/recife/trilha-microservices) | TDC Recife | [<i class="fab fa-fw fa-slideshare" title="Slides"></i>](http://bit.ly/istio-kubernetes) |
