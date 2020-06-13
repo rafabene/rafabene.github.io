@@ -11,7 +11,6 @@ toc: true
 
 |   Date   |     Title   |     Event     |   
 |:---------|:-----------:|--------------:|
-| June 11th 2020 | [Technical Panel about Kubernetes](https://www.meetup.com/SouJava/events/271116641/) | SouJava Meetup |
 | June 18th 2020 | [MicroProfile: Just Enough Java EE for Your Microservices](https://www.meetup.com/SouJava/events/271206765/) | SouJava Meetup |
 | June 25th 2020 |  [Java Modules (aka JPMS) for day-to-day Java developers](https://thedevconf.com/tdc/2020/floripaonline/trilha-java) | TDC Floripa | 
 | September 2nd 2020 | [Service Mesh and Sidecars with Istio and Envoy](https://www.j4k.io/) | J4K |
@@ -27,6 +26,7 @@ toc: true
 
 |   Date   |     Title   |     Event     |   Resources   |
 |:---------|:-----------:|:-------------:|--------------:|
+| June 11th 2020 | [Technical Panel about Kubernetes](https://www.meetup.com/SouJava/events/271116641/) | SouJava Meetup | [<i class="fab fa-fw fa-youtube" title="Video"></i>](https://youtu.be/SHZJSJ5R0rI)  |
 | June 9th 2020 | [Advanced Deployment Techniques with Kubernetes](https://www.meetup.com/Nerdzao/events/270685551/)| Nerdzao #217 | [<i class="fab fa-fw fa-slideshare" title="Slides"></i>](http://bit.ly/thedeploymaster)[<i class="fab fa-fw fa-youtube" title="Video"></i>](https://youtu.be/9taY-pjMkoo) |
 | June 2nd 2020 | [12 Factors to Cloud Success](https://2020.jnation.pt/speakers/rafael-benevides/) | JNation | [<i class="fab fa-fw fa-youtube" title="Video"></i>](https://www.youtube.com/watch?v=kihanjsxJ2w) |
 | June 2nd 2020   | [Java Modules (aka JPMS) for day-to-day Java developers](https://www.coffeejug.org/) |  CoffeeJUG: Java Anniversary | [<i class="fab fa-fw fa-youtube" title="Video"></i>](https://www.youtube.com/watch?v=eFtFm2WHeHY) |
@@ -84,7 +84,7 @@ toc: true
 | March 16th 2019 | [Workshop: Service Mesh and Sidecars with Istio and Envoy](https://2019.javaday.istanbul/speaker/rafael-benevides/) | Java Day İstanbul | [<i class="fab fa-fw fa-slideshare" title="Slides"></i>](http://bit.ly/istio-kubernetes) |
 | March 6th 2019 | [Service Mesh and Sidecars with Istio and Envoy](https://devnexus.com/archive/devnexus2019/speakers/848) | DevNexus | [<i class="fab fa-fw fa-slideshare" title="Slides"></i>](http://bit.ly/redhatmsa) | 
 | March 6th 2019 | [Kubernetes for Java Users](https://devnexus.com/archive/devnexus2019/speakers/848) | DevNexus | [<i class="fab fa-fw fa-slideshare" title="Slides"></i>](http://bit.ly/kubernetes-intro) | 
-| February 23rd 2019 | [How not suck at Microservices](https://www.javaday.org.ua/speakers/Rafael-Benevides) | JavaDay Lviv | [<i class="fab fa-fw fa-slideshare" title="Slides"></i>](http://bit.ly/istio-kubernetes) | 
+| February 23rd 2019 | [Kubernetes for Java and Docker Developers](https://www.javaday.org.ua/talks/2019) | JavaDay Lviv | [<i class="fab fa-fw fa-slideshare" title="Slides"></i>](http://bit.ly/kubernetes-intro) [<i class="fab fa-fw fa-youtube" title="Video"></i>](https://youtu.be/eUCwiQtMe04) | 
 | February 19th 2019  | [Service Mesh and Sidecars with Istio and Envoy](https://www.meetup.com/de-DE/Kubernetes-Cloud-Native-Online-Meetup/) | Kubernetes/Cloud-Native Online Meetup | [<i class="fab fa-fw fa-slideshare" title="Slides"></i>](http://bit.ly/istio-kubernetes) [<i class="fab fa-fw fa-youtube" title="Video"></i>](https://youtu.be/cTd-9IVkS2c) |
 | February 14th 2019 | Using Microservices with OpenShift | Campus Party | |
 | February 15th 2019 | Serverless or Serverfull: Microservices & Functions on Kubernetes | Campus Party | [<i class="fab fa-fw fa-slideshare" title="Slides"></i>](http://bit.ly/serverlessfull) |
