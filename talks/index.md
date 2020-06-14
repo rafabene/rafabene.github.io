@@ -28,7 +28,7 @@ toc: true
 |:---------|:-----------:|:-------------:|--------------:|
 | June 11th 2020 | [Technical Panel about Kubernetes](https://www.meetup.com/SouJava/events/271116641/) | SouJava Meetup | [<i class="fab fa-fw fa-youtube" title="Video"></i>](https://youtu.be/SHZJSJ5R0rI)  |
 | June 9th 2020 | [Advanced Deployment Techniques with Kubernetes](https://www.meetup.com/Nerdzao/events/270685551/)| Nerdzao #217 | [<i class="fab fa-fw fa-slideshare" title="Slides"></i>](http://bit.ly/thedeploymaster)[<i class="fab fa-fw fa-youtube" title="Video"></i>](https://youtu.be/9taY-pjMkoo) |
-| June 2nd 2020 | [12 Factors to Cloud Success](https://2020.jnation.pt/speakers/rafael-benevides/) | JNation | [<i class="fab fa-fw fa-youtube" title="Video"></i>](https://www.youtube.com/watch?v=kihanjsxJ2w) |
+| June 2nd 2020 | [12 Factors to Cloud Success](https://2020.jnation.pt/speakers/rafael-benevides/) | JNation | [<i class="fab fa-fw fa-youtube" title="Video"></i>](https://www.youtube.com/watch?v=SPW-Tb8RQTU) |
 | June 2nd 2020   | [Java Modules (aka JPMS) for day-to-day Java developers](https://www.coffeejug.org/) |  CoffeeJUG: Java Anniversary | [<i class="fab fa-fw fa-youtube" title="Video"></i>](https://www.youtube.com/watch?v=eFtFm2WHeHY) |
 | May 30th 2020    | [Rastreamento em aplicações Cloud-Native](https://www.sympla.com.br/rio-de-janeiro-cloud-conference-day__785258) | Cloud Conference Day |
 | May 27th 2020   | [Webinar: Java para os próximos 25 anos](https://event.on24.com/wcc/r/2358424/06CDD2730C9709C205D65BD557348B90) | Oracle Webinar | [<i class="fab fa-fw fa-youtube" title="Video"></i>](https://event.on24.com/wcc/r/2358424/06CDD2730C9709C205D65BD557348B90) |
