@@ -11,19 +11,29 @@ toc: true
 
 |   Date   |     Title   |     Event     |
 |:---------|:-----------:|:-------------:|
-| November 30th 2021 | [Service Mesh e Sidecars com Istio](https://promo.thedevconf.com/future-zup) | TDC Future |
-| December 1st 2021 | [MicroProfile com Helidon](https://promo.thedevconf.com/future-oracle) | TDC Future |
-| December 2nd 2021 | [Rastreamento em aplicações Cloud-Native: Do Stack trace até o Opentracing](https://thedevconf.com/tdc/2021/future/trilha-arquitetura-java?) | TDC Future |
+| X | X | X |
 
 ## Past Conferences
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1nPZVQ7QHVvnh3ivlV0jI2_AnhwFTzS65" width="640" height="480"></iframe>
 
+### 2022
+
+|   Date   |     Title   |     Event     |   Resources   |
+|:---------|:-----------:|:-------------:|--------------:|
+| March 22nd 2022 | [Blockchain com NodeJS, Javascript / Typescript e Contratos Inteligentes, simples de desenvolver, simples de executar](https://thedevconf.com/tdc/2022/connections/trilha-javascript-e-nodejs?) | TDC Connections | [<i class="fab fa-fw fa-slideshare" title="Slides"></i>](https://docs.google.com/presentation/d/1-zCckizP6gzKwwxCFPbvg-dRAkiVbinlcKPp740xw9M/edit?usp=sharing) [<i class="fab fa-fw fa-github" title="Sources"></i>](https://github.com/cconsensus/tdc-fabric) |
+| March 24th 2022 | [Transactional Microservices com SAGA Pattern](https://promo.thedevconf.com/conn22-oracle) | TDC Connections | [<i class="fab fa-fw fa-slideshare" title="Slides"></i>](https://bit.ly/sagakafka) [<i class="fab fa-fw fa-github" title="Sources"></i>](https://github.com/rafabene/saga-demo) |
+| March 25th 2022 | [7 dicas para desenvolvedores de software](https://brasil.campus-party.org/cpbsb4/) | Campus Party Brasília | |
+
 ### 2021
 
 |   Date   |     Title   |     Event     |   Resources   |
 |:---------|:-----------:|:-------------:|--------------:|
-| October 6th 2022 | [Advanced Deployment Techniques with Kubernetes](https://www.j4k.io/october-2021-conference)| J4K October | [<i class="fab fa-fw fa-slideshare" title="Slides"></i>](http://bit.ly/thedeploymaster) [<i class="fab fa-fw fa-github" title="Source"></i>](https://github.com/rafabene/the-deploy-master) |
+| December 6th 2021 | [Tracing Cloud-Native applications: From stacktrace to Opentracing](https://www.coffeejug.org/coffeejug-with-rafael-benevides) | Coffee Jug | [<i class="fab fa-fw fa-slideshare" title="Slides"></i>](http://bit.ly/cncfopentracing) [<i class="fab fa-fw fa-github" title="Sources"></i>](https://github.com/rafabene/tracing-demo) |
+| December 2nd 2021 | [Rastreamento em aplicações Cloud-Native: Do Stack trace até o Opentracing](https://thedevconf.com/tdc/2021/future/trilha-arquitetura-java?) | TDC Future | [<i class="fab fa-fw fa-slideshare" title="Slides"></i>](http://bit.ly/cncfopentracing) [<i class="fab fa-fw fa-github" title="Sources"></i>](https://github.com/rafabene/tracing-demo) |
+| December 1st 2021 | [MicroProfile com Helidon](https://promo.thedevconf.com/future-oracle) | TDC Future | [<i class="fab fa-fw fa-github" title="Sources"></i>](https://github.com/rafabene/microprofile-demo) [<i class="fab fa-fw fa-slideshare" title="Slides"></i>](http://bit.ly/slides-microprofile) |
+| November 30th 2021 | [Service Mesh e Sidecars com Istio](https://promo.thedevconf.com/future-zup) | TDC Future | [<i class="fab fa-fw fa-slideshare" title="Slides"></i>](http://bit.ly/istio-kubernetes) |
+| October 6th 2021 | [Advanced Deployment Techniques with Kubernetes](https://www.j4k.io/october-2021-conference)| J4K October | [<i class="fab fa-fw fa-slideshare" title="Slides"></i>](http://bit.ly/thedeploymaster) [<i class="fab fa-fw fa-github" title="Source"></i>](https://github.com/rafabene/the-deploy-master) |
 | September 21st 2021 | [Transactional  microservices com SAGA Pattern](https://www.cloudconferenceday.com/?pgid=kr2fyvn1-rafael-benevides_30) |Cloud Conference Day | [<i class="fab fa-fw fa-slideshare" title="Slides"></i>](https://bit.ly/sagakafka) [<i class="fab fa-fw fa-github" title="Sources"></i>](https://github.com/rafabene/saga-demo) |
 | August 25th 2021 | [MicroProfile APIs with Helidon](https://thedevconf.com/tdc/2021/transformation/trilha-java?) | TDC Transformation | [<i class="fab fa-fw fa-github" title="Sources"></i>](https://github.com/rafabene/microprofile-demo) [<i class="fab fa-fw fa-slideshare" title="Slides"></i>](http://bit.ly/slides-microprofile) |
 | August 24th 2021 | [Tracing Cloud-Native applications: From stacktrace to Opentracing](https://thedevconf.com/tdc/2021/transformation/trilha-devops?) | TDC Transformation | [<i class="fab fa-fw fa-slideshare" title="Slides"></i>](http://bit.ly/cncfopentracing) [<i class="fab fa-fw fa-github" title="Sources"></i>](https://github.com/rafabene/tracing-demo) |

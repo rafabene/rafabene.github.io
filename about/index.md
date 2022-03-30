@@ -34,13 +34,15 @@ I started learning Java in 2003 at a Lato Sensu Class. It was a first love sensa
 - 2007 – SAP Netweaver Certified
 - 2008 – SCJA - Sun Certified Java Associate
 - 2009 – IBM Certified Specialist: Software Quality
-- 2010 – JBCAA – JBoss Certified Application Administrator – EAP 5
-- 2012 – JBCD-Seam – JBoss Certified Developer in Seam
-- 2012 – JBCAA – JBoss Certified Application Administrator – EAP 6
-- 2016 - Red Hat Certificate of Expertise in Platform-as-a-Service - OpenShift 3
-- 2016 - Red Hat Certificate of Expertise in Containerized Application Development
-- 2016 - Red Hat Certificate of Expertise in Ansible Automation
-- 2020 - Oracle Cloud Infrastructure Foundations 2020 Associate
+- 2010 – [JBCAA – JBoss Certified Application Administrator – EAP 5](https://rhtapps.redhat.com/verify?certId=111-061-115)
+- 2012 – [JBCD-Seam – JBoss Certified Developer in Seam](https://rhtapps.redhat.com/verify?certId=111-061-115)
+- 2012 – [JBCAA – JBoss Certified Application Administrator – EAP 6](https://rhtapps.redhat.com/verify?certId=111-061-115)
+- 2016 - [Red Hat Certificate of Expertise in Platform-as-a-Service - OpenShift 3](https://rhtapps.redhat.com/verify?certId=111-061-115)
+- 2016 - [Red Hat Certificate of Expertise in Containerized Application Development](https://rhtapps.redhat.com/verify?certId=111-061-115)
+- 2016 - [Red Hat Certificate of Expertise in Ansible Automation](https://rhtapps.redhat.com/verify?certId=111-061-115)
+- 2020 - [Oracle Cloud Infrastructure Foundations 2020 Associate](https://www.credly.com/badges/06a2e71a-4e33-4091-a17e-d2af68935f0c)
+- 2020 - [Oracle Cloud Infrastructure Developer 2020 Certified Associate](https://www.credly.com/badges/f56cb9cf-d61e-4567-ad31-6fde39d08403)
+- 2020 - [Oracle Cloud Infrastructure 2019 Certified Architect Associate](https://www.credly.com/badges/e1e109ff-0d53-4f07-9485-e578673bae3a)
 
 ### The early days
 
