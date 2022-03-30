@@ -184,6 +184,8 @@
     margin: 0 1rem;
     color: $masthead-link-color;
     text-decoration: none;
+    -webkit-transition: none;
+    transition: none;
 
     &:hover {
       color: $masthead-link-color-hover;
@@ -197,6 +199,11 @@
     &.site-title {
       margin-left: 0;
     }
+  }
+
+  img {
+    -webkit-transition: none;
+    transition: none;
   }
 
   &__toggle {
@@ -546,7 +553,6 @@
   li ul > li a {
     padding-left: 1.25rem;
     font-weight: normal;
-    font-size: 1.3em;
   }
 
   li ul li ul > li a {

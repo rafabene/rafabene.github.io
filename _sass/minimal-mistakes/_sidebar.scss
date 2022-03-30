@@ -19,7 +19,7 @@
   @include breakpoint($large) {
     float: left;
     width: calc(#{$right-sidebar-width-narrow} - 1em);
-    // opacity: 0.75;
+    opacity: 0.75;
     -webkit-transition: opacity 0.2s ease-in-out;
     transition: opacity 0.2s ease-in-out;
 
@@ -32,7 +32,7 @@
       /* calculate height of nav list
          viewport height - nav height - masthead x-padding
       */
-      height: calc(100vh - #{$nav-height} - 2em);
+      max-height: calc(100vh - #{$nav-height} - 2em);
     }
   }
 
@@ -89,6 +89,13 @@
       position: sticky;
       top: 2em;
       float: right;
+
+      .toc {
+        .toc__menu {
+          overflow-y: auto;
+          max-height: calc(100vh - 7em);
+        }
+      }
     }
   }
 
@@ -127,7 +134,7 @@
   }
 
   img {
-    max-width: 200px;
+    max-width: 110px;
     border-radius: 50%;
 
     @include breakpoint($large) {
@@ -185,7 +192,6 @@
   vertical-align: middle;
   font-family: $sans-serif;
   z-index: 20;
-  position: relative;
   cursor: pointer;
 
   li:last-child {

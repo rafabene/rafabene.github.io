@@ -1,7 +1,6 @@
 source "https://rubygems.org"
-gemspecs
+gem 'jekyll', '~> 3.9'
+gem 'kramdown-parser-gfm'
 gem "minimal-mistakes-jekyll"
-gem "kramdown-parser-gfm"
 group :jekyll_plugins do
-    gem "jekyll-archives"
 end
