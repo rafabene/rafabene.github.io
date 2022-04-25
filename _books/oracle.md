@@ -16,3 +16,7 @@ List of blog posts published at <https://blogs.oracle.com>:
 - [Lifting a Java EE application to Verrazzano](https://blogs.oracle.com/developers/post/lifting-a-java-ee-application-to-verrazzano)
 
 - [Weblogic + Helidon + MySQL on OCI with Verrazzano](https://blogs.oracle.com/developers/post/weblogic-helidon-mysql-on-oci-with-verrazzano)
+
+- [Sock Shop - A Microservices Demo - in Verrazzano with OCI](https://blogs.oracle.com/developers/post/sock-shop-a-microservices-demo-in-verrazzano-with-oci)
+
+- [Multiclustering between OCI and Azure with Verrazzano](https://blogs.oracle.com/developers/post/multiclustering-between-oci-and-azure-with-verrazzano)
