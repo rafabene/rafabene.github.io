@@ -28,6 +28,7 @@ First of all, I would be _frivolous_ if I say that Microsoft is a "software" com
 
 If you are a developer and use [Github](https://github.com/rafabene) to host your solution, you are using a Microsoft solution. The same is true if you are using [VSCode](https://code.visualstudio.com/) to write your source code.
 If you use [LinkedIn](https://www.linkedin.com/in/rafabene/) to better position yourself in the job market, you are using a Microsoft solution.
+
 What about Linux and Open Source development? "[Since 2017, Microsoft is one of the biggest open source contributors in the world, measured by the number of employees actively contributing to open source projects on GitHub, the largest host of source code in the world](https://en.wikipedia.org/wiki/Microsoft_and_open_source#:~:text=Since%202017%2C%20Microsoft%20is%20one,source%20code%20in%20the%20world.)". Microsoft has over 15,000 contributors on GitHub and over 6,000 employees contribute to Open Source projects, and have released over 3,000 Open Source projects. Microsoft’s Open Source programs office tracks nearly 10,000 Open Source components.
 
 ![](/assets/images/github-contributions-2017.png)
