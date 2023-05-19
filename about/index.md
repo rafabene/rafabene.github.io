@@ -42,6 +42,8 @@ I started learning Java in 2003 at a Lato Sensu Class. It was a first love sensa
 - 2020 - [Oracle Cloud Infrastructure Foundations 2020 Associate](https://www.credly.com/badges/06a2e71a-4e33-4091-a17e-d2af68935f0c)
 - 2020 - [Oracle Cloud Infrastructure Developer 2020 Certified Associate](https://www.credly.com/badges/f56cb9cf-d61e-4567-ad31-6fde39d08403)
 - 2020 - [Oracle Cloud Infrastructure 2019 Certified Architect Associate](https://www.credly.com/badges/e1e109ff-0d53-4f07-9485-e578673bae3a)
+- 2022 - [Microsoft Certified: Azure Developer Associate](https://www.credly.com/earner/earned/badge/517b75cd-8492-4bea-a5f4-a34722506de5)
+- 2022 - [Microsoft Certified: Azure Solutions Architect Expert](https://www.credly.com/org/microsoft-certification/badge/microsoft-certified-azure-solutions-architect-expert.1)
 
 ### The early days
 
