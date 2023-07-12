@@ -1,6 +1,7 @@
 ---
 title: Como utilizo o Macbook para desenvolver Software
 header:
+    teaser: /assets/images/macbook.png
 tags: [macbook, java, mac, desenvolvedor, dev]
 ---
 
