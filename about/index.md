@@ -7,7 +7,7 @@ toc: true
 
 > TLDR; Short and Copyable version
 --------------------------------
-> [Rafael Benevides]((http://twitter.com/rafabene)) is a Cloud Solution Architect at [Microsoft](http://www.microsoft.com) [Azure](https://azure.microsoft.com/). 
+> [Rafael Benevides]((http://twitter.com/rafabene)) is a Java architect. 
 With many years of experience in several fields of the IT industry, he helps developers and companies all over the world to apply the best strategies in the industry to produce Cloud Native applications so they can build high-scalable software. Rafael considers himself a problem solver who has a big love for sharing.
 He is a member of [Apache DeltaSpike](http://deltaspike.apache.org) PMC - a Duke’s Choice Award winner project, 
 and a speaker in conferences like JavaOne, Devoxx, TDC, DevNexus and many others.  
@@ -19,7 +19,7 @@ and a speaker in conferences like JavaOne, Devoxx, TDC, DevNexus and many others
 
 ### Who am I?
 
-Hi, my name is Rafael Benevides. I am a 45 years old Brazilian who lives in [Anápolis, GO, Brazil](https://www.google.com/maps/place/Bras%C3%ADlia+-+Brasilia,+Federal+District/). Here, I work as a Cloud Solution Architect at [Microsoft](http://www.microsoft.com) [Azure](https://azure.microsoft.com/) helping developers and companies all over the world to apply the best strategies in the industry to produce Cloud Native applications so they can build high-scalable software.
+Hi, my name is Rafael Benevides. I am a 46 years old Brazilian who lives in [Anápolis, GO, Brazil](https://www.google.com/maps/place/Bras%C3%ADlia+-+Brasilia,+Federal+District/). Here, I work as a Java Architect helping developers and companies all over the world to apply the best strategies in the industry to produce Cloud Native applications so they can build high-scalable software.
 
 
 ### Java developer

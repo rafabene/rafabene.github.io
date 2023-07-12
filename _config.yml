@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Rafael Benevides"
   avatar           : /assets/images/Rafael18.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Brazilian, Cloud Solution Architect at Microsoft @Azure, helping developers to produce high-scalable cloud-native applications."
+  bio              : "Brazilian, Java Architect, DevOps enthusiast, helping developers to produce high-scalable cloud-native applications."
   location         : "Brazil"
   email            : rafabene@gmail.com
   links:
