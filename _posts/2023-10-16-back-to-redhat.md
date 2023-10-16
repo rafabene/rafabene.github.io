@@ -1,7 +1,7 @@
 ---
 title: Back to Red Hat, Opensource, Java and other technical stuff
 header:
-  teaser: /assets/images/redhatdevelopers.png
+  teaser: /assets/images/rafaelrh.jpg
 tags: [java, redhat, devops, cloud, opensource]
 ---
 
