@@ -46,6 +46,10 @@ I started learning Java in 2003 at a Lato Sensu Class. It was a first love sensa
 - 2020 - [Oracle Cloud Infrastructure 2019 Certified Architect Associate](https://www.credly.com/badges/e1e109ff-0d53-4f07-9485-e578673bae3a)
 - 2022 - [Microsoft Certified: Azure Developer Associate](https://www.credly.com/earner/earned/badge/517b75cd-8492-4bea-a5f4-a34722506de5)
 - 2022 - [AZ-305: Designing Microsoft Azure Infrastructure Solutions](https://www.credly.com/badges/50f04374-60fc-4ca9-a1a4-0707ac84294d)
+- 2023 - [Red Hat Certified Specialist in Containers](https://rhtapps.redhat.com/verify?certId=111-061-115)
+- 2023 - [Red Hat Certified Enterprise Application Developer](https://rhtapps.redhat.com/verify?certId=111-061-115)
+- 2023 - [Red Hat Certified Cloud-native Developer](https://rhtapps.redhat.com/verify?certId=111-061-115)
+- 2023 - [Red Hat Certified OpenShift Administrator](https://rhtapps.redhat.com/verify?certId=111-061-115)
 
 ### The early days
 
@@ -67,6 +71,8 @@ In november of 2009 I joined [Red Hat](http://www.redhat.com/en) as JBoss Consul
 In July of 2019 I joined [Oracle](http://www.oracle.com) as a Cloud-Native Developer Advocate in LAD (Latin America Division) to help customers to address the technical, developer, and strategic IT needs.
 
 In May of 2022 I joined [Microsoft Azure](https://azure.microsoft.com/) as a Cloud Solution Architect focused in [Application Modernization](https://azure.microsoft.com/en-us/solutions/application-and-database-modernization/) to help customers to accelerate time to market, deliver innovative experiences, and improve security with Azure application and data modernization.
+
+In August of 2023 I returned to [Red Hat](http://www.redhat.com/en) as [Senior Consulting Architect](/2023/10/16/back-to-redhat/) to help customers adopt technologies like Openshift, Keycloak, Kafka, Quarkus, Wildfly/EAP, 3Scale, Camel, Tekton, ArgoCD, etc.
 
 My current interests are:
 
