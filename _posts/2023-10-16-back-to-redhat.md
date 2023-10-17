@@ -1,5 +1,5 @@
 ---
-title: Back to Red Hat, Opensource, Java and other technical stuff
+title: Back to Red Hat, Opensource, Java and to other technical stuff
 header:
   teaser: /assets/images/rafaelrh.jpg
 tags: [java, redhat, devops, cloud, opensource]
