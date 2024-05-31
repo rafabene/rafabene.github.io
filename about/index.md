@@ -21,7 +21,7 @@ toc: true
 
 ### Who am I?
 
-Hi, my name is Rafael Benevides. I am a 46 years old Brazilian who lives in [Anápolis, GO, Brazil](https://www.google.com/maps/place/Bras%C3%ADlia+-+Brasilia,+Federal+District/). Here, I work as a Java Architect helping developers and companies all over the world to apply the best strategies in the industry to produce Cloud Native applications so they can build high-scalable software.
+Hi, my name is Rafael Benevides. I am a 46 years old Brazilian who lives in [Anápolis, GO, Brazil](https://maps.app.goo.gl/W8NVuF6Rn5XgwYYd6). Here, I work as a Java Architect helping developers and companies all over the world to apply the best strategies in the industry to produce Cloud Native applications so they can build high-scalable software.
 
 ### Java developer
 
@@ -50,6 +50,10 @@ I started learning Java in 2003 at a Lato Sensu Class. It was a first love sensa
 - 2023 - [Red Hat Certified Enterprise Application Developer](https://rhtapps.redhat.com/verify?certId=111-061-115)
 - 2023 - [Red Hat Certified Cloud-native Developer](https://rhtapps.redhat.com/verify?certId=111-061-115)
 - 2023 - [Red Hat Certified OpenShift Administrator](https://rhtapps.redhat.com/verify?certId=111-061-115)
+- 2023 - [Red Hat Certified OpenShift Application Developer](https://rhtapps.redhat.com/verify?certId=111-061-115)
+- 2024 - [Red Hat Certified Specialist in Event-Driven Application Development with Kafka](https://rhtapps.redhat.com/verify?certId=111-061-115)
+- 2024 - [Red Hat Certified Specialist in API Management](https://rhtapps.redhat.com/verify?certId=111-061-115)
+- 2024 - [Red Hat Certified Architect in Enterprise Applications](https://rhtapps.redhat.com/verify?certId=111-061-115)
 
 ### The early days
 
@@ -82,8 +86,8 @@ My current interests are:
 - Service Mesh
 - Serverless
 - Object Oriented / Functional Programming
-- Javascript (AngularJS and NodeJS)
-- DevOps tools and practices
+- Javascript (RectJS and NodeJS)
+- DevOps/Gitops tools and practices
 - Agile Methodologies
 - Opensource
 
