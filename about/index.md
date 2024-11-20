@@ -54,6 +54,7 @@ I started learning Java in 2003 at a Lato Sensu Class. It was a first love sensa
 - 2024 - [Red Hat Certified Specialist in Event-Driven Application Development with Kafka](https://rhtapps.redhat.com/verify?certId=111-061-115)
 - 2024 - [Red Hat Certified Specialist in API Management](https://rhtapps.redhat.com/verify?certId=111-061-115)
 - 2024 - [Red Hat Certified Architect in Enterprise Applications](https://rhtapps.redhat.com/verify?certId=111-061-115)
+- 2024 - [Red Hat Certified Specialist in MultiCluster Management](https://rhtapps.redhat.com/verify?certId=111-061-115)
 
 ### The early days
 
