@@ -9,11 +9,11 @@ toc: true
 
 ---
 
-> [Rafael Benevides](<(http://twitter.com/rafabene)>) is a Java architect.
+> [Rafael Benevides](<(https://x.com/rafabene)>) is a Principal Software Engineer focused on Go and Java.
 > With many years of experience in several fields of the IT industry, he helps developers and companies all over the world to apply the best strategies in the industry to produce Cloud Native applications so they can build high-scalable software. Rafael considers himself a problem solver who has a big love for sharing.
-> He is a member of [Apache DeltaSpike](http://deltaspike.apache.org) PMC - a Duke’s Choice Award winner project,
+> He is a member of [Apache DeltaSpike](http://deltaspike.apache.org) PMC - a Duke's Choice Award winner project,
 > and a speaker in conferences like JavaOne, Devoxx, TDC, DevNexus and many others.  
-> [Twitter](http://twitter.com/rafabene)
+> [X](https://x.com/rafabene)
 > | [LinkedIn](https://www.linkedin.com/in/rafaelbenevides)
 > | [rafabene.com](http://rafabene.com)
 
@@ -21,7 +21,7 @@ toc: true
 
 ### Who am I?
 
-Hi, my name is Rafael Benevides. I am a 46 years old Brazilian who lives in [Anápolis, GO, Brazil](https://maps.app.goo.gl/W8NVuF6Rn5XgwYYd6). Here, I work as a Java Architect helping developers and companies all over the world to apply the best strategies in the industry to produce Cloud Native applications so they can build high-scalable software.
+Hi, my name is Rafael Benevides. I am a 48 years old Brazilian who lives in [Anápolis, GO, Brazil](https://maps.app.goo.gl/W8NVuF6Rn5XgwYYd6). Here, I work as a Principal Software Engineer focused on Go and Java, helping developers and companies all over the world to apply the best strategies in the industry to produce Cloud Native applications so they can build high-scalable software.
 
 ### Java developer
 
@@ -81,13 +81,14 @@ In August of 2023 I returned to [Red Hat](http://www.redhat.com/en) as [Senior C
 
 My current interests are:
 
+- Go Programming Language
 - Cloud-native applications
 - Containers (Docker, Kubernetes)
 - Microservices
 - Service Mesh
 - Serverless
 - Object Oriented / Functional Programming
-- Javascript (RectJS and NodeJS)
+- Javascript (ReactJS and NodeJS)
 - DevOps/Gitops tools and practices
 - Agile Methodologies
 - Opensource

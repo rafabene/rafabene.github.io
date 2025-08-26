@@ -94,7 +94,7 @@ analytics:
 author:
   name: "Rafael Benevides"
   avatar: /assets/images/profile.jpeg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "Brazilian, Java Architect, DevOps enthusiast, helping developers to produce high-scalable cloud-native applications."
+  bio: "Brazilian, Principal Software Engineer focused on Go and Java, DevOps enthusiast, helping developers to produce high-scalable cloud-native applications."
   location: "Brazil"
   email: rafabene@gmail.com
   links:
@@ -126,9 +126,9 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
+    - label: "X"
       icon: "fab fa-fw fa-twitter-square"
-      url: https://twitter.com/rafabene
+      url: https://x.com/rafabene
     - label: "Youtube"
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/user/rafabene"

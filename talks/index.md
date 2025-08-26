@@ -11,11 +11,18 @@ toc: true
 
 |   Date   |     Title   |     Event     |
 |:---------|:-----------:|:-------------:|
-| X | X | X |
+| September 19th 2025 | [Observabilidade Cloud Native com Quarkus: Logs, Métricas e Tracing na Prática](https://thedevconf.com/tdc/2025/saopaulo/trilha-arquitetura-java) | TDC São Paulo |
 
 ## Past Conferences
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1nPZVQ7QHVvnh3ivlV0jI2_AnhwFTzS65" width="640" height="480"></iframe>
+
+### 2025
+
+|   Date   |     Title   |     Event     |   Resources   |
+|:---------|:-----------:|:-------------:|--------------:|
+| June 13th 2025 | [Observabilidade Cloud Native com Quarkus: Logs, Métricas e Tracing na Prática](https://thedevconf.com/tdc/2025/florianopolis/trilha-arquitetura-java) | TDC Florianópolis | [<i class="fab fa-fw fa-slideshare" title="Slides"></i>](https://bit.ly/opentracingquarkus) [<i class="fab fa-fw fa-github" title="Sources"></i>](https://github.com/rafabene/tracing-demo) |
+| June 12th 2025 | [Evite Armadilhas! Desvendando os Erros Mais Comuns no Design de APIs](https://thedevconf.com/tdc/2025/florianopolis/trilha-api-e-microservices) | TDC Florianópolis | [<i class="fab fa-fw fa-slideshare" title="Slides"></i>](https://bit.ly/designapis) |
 
 ### 2022
 
