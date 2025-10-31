@@ -10,7 +10,6 @@ toc: true
 
 | Date                |                                                                       Title                                                                       |     Event     |
 | :------------------ | :-----------------------------------------------------------------------------------------------------------------------------------------------: | :-----------: |
-| September 19th 2025 | [Observabilidade Cloud Native com Quarkus: Logs, Métricas e Tracing na Prática](https://thedevconf.com/tdc/2025/saopaulo/trilha-arquitetura-java) | TDC São Paulo |
 
 ## Past Conferences
 
@@ -20,6 +19,8 @@ toc: true
 
 | Date           |                                                                         Title                                                                          |       Event       |                                                                                                                                                                                   Resources |
 | :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| October 29th 2025 | Java seguro na prática: Shift Left, Zero Trust e Trusted Software Supply Chain no Azure Red Hat OpenShift | JavaDay Bradesco | [<i class="fab fa-fw fa-slideshare" title="Slides"></i>](http://bit.ly/javaseguro) [<i class="fab fa-fw fa-github" title="Sources"></i>](https://github.com/rafabene/security-demo) |
+| September 19th 2025 | [Observabilidade Cloud Native com Quarkus: Logs, Métricas e Tracing na Prática](https://thedevconf.com/tdc/2025/saopaulo/trilha-arquitetura-java) | TDC São Paulo | |
 | June 13th 2025 | [Observabilidade Cloud Native com Quarkus: Logs, Métricas e Tracing na Prática](https://thedevconf.com/tdc/2025/florianopolis/trilha-arquitetura-java) | TDC Florianópolis | [<i class="fab fa-fw fa-slideshare" title="Slides"></i>](https://bit.ly/opentracingquarkus) [<i class="fab fa-fw fa-github" title="Sources"></i>](https://github.com/rafabene/tracing-demo) |
 | June 12th 2025 |    [Evite Armadilhas! Desvendando os Erros Mais Comuns no Design de APIs](https://thedevconf.com/tdc/2025/florianopolis/trilha-api-e-microservices)    | TDC Florianópolis |                                                                                                         [<i class="fab fa-fw fa-slideshare" title="Slides"></i>](https://bit.ly/designapis) |
 | March 26th 2025 | Java & Kubernetes: O Guia Para um Relacionamento Saudável | Online Talk | [<i class="fab fa-fw fa-youtube" title="Video"></i>](https://www.youtube.com/watch?v=Oh7X89tMe3A&list=PLYGlbS_vYmdZT-rhKDucskP5yoNTCrEFg&index=2) |
