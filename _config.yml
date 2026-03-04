@@ -10,8 +10,8 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-#theme                  : "minimal-mistakes-jekyll"
-remote_theme: "mmistakes/minimal-mistakes"
+theme                  : "minimal-mistakes-jekyll"
+remote_theme: "mmistakes/minimal-mistakes@4.27.3"
 minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -21,7 +21,7 @@ title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
 name: "Rafael Benevides"
 description: ""
-url: http://rafabene.com
+url: https://rafabene.com
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: rafabene/rafabene.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser: /assets/images/Post-teaser.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -85,9 +85,9 @@ social:
 
 # Analytics
 analytics:
-  provider: google # false (default), "google", "google-universal", "custom"
+  provider: google-gtag # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id: UA-1667243-1
+    tracking_id: G-0SLSHP42YJ
     anonymize_ip: # true, false (default)
 
 # Site Author
@@ -104,8 +104,8 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://rafabene.com"
-    - label: "X"
-      icon: "fab fa-fw fa-twitter-square"
+    - label: "@rafabene"
+      icon: "fab fa-fw fa-x-twitter"
       url: "https://x.com/rafabene"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
@@ -126,8 +126,8 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "X"
-      icon: "fab fa-fw fa-twitter-square"
+    - label: "@rafabene"
+      icon: "fab fa-fw fa-x-twitter"
       url: https://x.com/rafabene
     - label: "Youtube"
       icon: "fab fa-fw fa-youtube"
@@ -219,14 +219,6 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Plugins (previously gems:)
 plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-include-cache
-
-# mimic GitHub Pages with --safe
-whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist

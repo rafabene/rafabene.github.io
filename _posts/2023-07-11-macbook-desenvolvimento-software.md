@@ -106,7 +106,7 @@ E você? Usa viu algum software que você também usa no seu ambiente? Ou comple
 
 Aproveite, e não deixe de dar uma olhada nas redes sociais: 
 
-<a href="https://twitter.com/rafabene" itemprop="sameAs" rel="nofollow noopener noreferrer me">
+<a href="https://x.com/rafabene" itemprop="sameAs" rel="nofollow noopener noreferrer me">
     <i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i><span class="label">rafabene</span>
 </a>
 

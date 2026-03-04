@@ -20,7 +20,7 @@ The destination (no matter if it's in the cloud, in the developer's machine, or 
 
 Did you get excited about all these contents but you won't be able to attend it? Do you remember what I've said about "Sharing knowledge"? All presentation will be streamed online (and later saved) on [https://www.youtube.com/user/RedHatCzech](https://www.youtube.com/user/RedHatCzech). But if you will be Brno, lets meet in the [DevConf.cz party](http://devconf.cz/party) to have a beer together and talk about software development or other "nerd stuff".
 
-Finally, I would like to invite you to the following sections that will be delivered together with [George Gastaldi](https://twitter.com/gegastaldi), the [JBoss Forge Project](http://forge.jboss.org/) lead.
+Finally, I would like to invite you to the following sections that will be delivered together with [George Gastaldi](https://x.com/gegastaldi), the [JBoss Forge Project](http://forge.jboss.org/) lead.
 
 - [Docker for Java EE Developers](https://devconfcz2016.sched.org/event/5m0d/docker-for-java-ee-developers)  
   February 6th • 09:00-10:30

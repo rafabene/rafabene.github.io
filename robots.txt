@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rafabene.com/sitemap.xml

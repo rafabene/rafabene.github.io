@@ -16,7 +16,7 @@ The conference was located in the [Boston Park Plaza](http://www.bostonparkplaza
 
 The DevOpsDays Call for Papers (CFP) is a process that deserves mention. This CFP process is anonymous, so the criteria used for selection is solely based on the submitted session abstract. The conference sold out all their tickets one week prior the event. 
 
-You could easily identify people from different DevOps roles (50% devs and 50% ops). There were also many volunteers like [Diogenes Rettori](https://twitter.com/rettori), Myles, David, Laura and Peter, and many others that I just want to thank! There were also many sponsoring companies like Google, Microsoft, Cisco, Atlassian, Chef, Pivotal, etc.
+You could easily identify people from different DevOps roles (50% devs and 50% ops). There were also many volunteers like [Diogenes Rettori](https://x.com/rettori), Myles, David, Laura and Peter, and many others that I just want to thank! There were also many sponsoring companies like Google, Microsoft, Cisco, Atlassian, Chef, Pivotal, etc.
 
 {: .center}
 ![](/assets/images/volunteer1-devops.jpg)

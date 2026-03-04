@@ -7,7 +7,7 @@ Four years ago I wrote a ["Docker learning path"](/2015/12/15/docker-learning-pa
 
 While that [post]((/2015/12/15/docker-learning-path-wildfly/)) had focused on suggesting a learning path for people to adopt containers, this blog post is focused on suggesting a learning path for developers to produce cloud native applications. 
 
-In the last years, backend developers are interested in producing cloud-native applications, but still many of them don't know where to start. Because I've been [talking in conferences](/talks/), [recording videos](https://www.youtube.com/user/rafabene), [writing a book](https://www.oreilly.com/library/view/microservices-for-java/9781492038290/) about microservices and cloud-native applications, people come to me asking **"Where should I start?"**. So I decided to write this blog post to help those developers. Here is my suggestion of baby steps, no matter what language you are using.
+In the last years, backend developers are interested in producing cloud-native applications, but still many of them don't know where to start. Because I've been [talking in conferences](/talks/), [recording videos](https://www.youtube.com/user/rafabene), [writing a book](https://developers.redhat.com/e-books/microservices-java-developers-hands-introduction-frameworks-and-containers) about microservices and cloud-native applications, people come to me asking **"Where should I start?"**. So I decided to write this blog post to help those developers. Here is my suggestion of baby steps, no matter what language you are using.
 
 ## Baby steps toward Cloud Native applications
 
@@ -61,6 +61,6 @@ These steps assume two applications (two microservices) that will communicate wi
 
 These are my recommendations to learn how to taker your CRUD application to a next level using different cloud native technologies. Of course, sky's the limit as you can see at [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io/zoom=250). There are other challenges that might appear and it will cause you to learn patterns like ["EDA - Event-driven architecture"](https://microservices.io/patterns/data/event-driven-architecture.html), [CQRS](https://microservices.io/patterns/data/cqrs.html), [Sagas](https://microservices.io/patterns/data/saga.html), [Serverless](https://fnproject.io/), etc. But I don't want to scare you. Like every pattern, you will only use any of them when you need it.
 
-Furthermore, if you are a Java developer, please, subscribe to my youtube channel at <https://youtube.com/rafabene>. I'm starting a series of videos about the [MicroProfile](https://microprofile.io/) APIs. You can also help me by following me on Twitter ([@rafabene](https://twitter.com/rafabene)), and you can also help other developers by sharing this content.
+Furthermore, if you are a Java developer, please, subscribe to my youtube channel at <https://youtube.com/rafabene>. I'm starting a series of videos about the [MicroProfile](https://microprofile.io/) APIs. You can also help me by following me on X ([@rafabene](https://x.com/rafabene)), and you can also help other developers by sharing this content.
 
 If you want to know more about a specific topic, just drop me a comment below.

@@ -36,9 +36,9 @@ Por fim, deixo alguns vídeos EXTRAS como as seguintes transmissões ao vivo:
 - [DevX Live #2 - Kurso de Kubernetes AO VIVO](https://youtu.be/Sp19F0CBTow)
 - [DevX Live #3 - Introdução a microservices AO VIVO](https://youtu.be/sSXjyn6Tc-c)
 
-Se você tiver algum assunto que te interesse, deixe nos comentários deste post, ou então mande sua mensagem pelo Twitter. 
+Se você tiver algum assunto que te interesse, deixe nos comentários deste post, ou então mande sua mensagem pelo X.
 
-<a href="https://twitter.com/rafabene?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @rafabene</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://x.com/rafabene?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @rafabene</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Vejo vocês no próximo vídeo, ou em alguma conferência por ai ;) Abraços!
 

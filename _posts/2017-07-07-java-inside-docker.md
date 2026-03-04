@@ -212,4 +212,4 @@ One way to solve this problem is using the Fabric8 Base image that is capable of
 
 Another solution is to use an [experimental option](http://hg.openjdk.java.net/jdk9/jdk9/hotspot/rev/5f1d1df0ea49) that can be enabled through the parameter -XX:+UseCGroupMemoryLimitForHeap that has been included in JDK8u131 and JDK9 to support cgroup memory limits in container (i.e. Docker) environments.
 
-This blog post covers how the JVM blows up from the memory perspective. To continue following me in the research about the JVM behavior regarding the CPU in a future blog post, follow me at [twitter](http://twitter.com/rafabene). 
+This blog post covers how the JVM blows up from the memory perspective. To continue following me in the research about the JVM behavior regarding the CPU in a future blog post, follow me at [X](https://x.com/rafabene). 

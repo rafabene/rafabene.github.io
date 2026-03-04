@@ -39,15 +39,15 @@ By the way, before I forget, if you are a [Xbox](https://www.xbox.com) (another 
 
 In the cloud space, Microsoft [Azure](https://azure.microsoft.com/) is one of the top Cloud providers of the world, [having 95% of Fortune 500 companies trusting their business on Azure](https://azure.microsoft.com/en-us/overview/what-is-azure/).
 
-You all know that I'm essentially a Java developer, and [Java is also a first class citizen on Azure](https://azure.microsoft.com/en-us/develop/java/). You will always find people like [Mark Heckler](https://twitter.com/mkheck/) and [Brian Benz](https://twitter.com/bbenz) in a conference near you talking about Azure. I also suggest you to follow [Bruno Borges](https://twitter.com/brunoborges), [Reza Rahman](https://twitter.com/reza_rahman), [Theresa Nguyen](https://twitter.com/RockClimberT), [Ed Burns](https://twitter.com/edburns), [Antonio Goncalves](https://twitter.com/agoncal), [Java at Microsoft](https://twitter.com/JavaAtMicrosoft), and [Azure Dev Advocates](aka.ms/azureadvocates) twitter profiles to know more about it.
+You all know that I'm essentially a Java developer, and [Java is also a first class citizen on Azure](https://azure.microsoft.com/en-us/develop/java/). You will always find people like [Mark Heckler](https://x.com/mkheck/) and [Brian Benz](https://x.com/bbenz) in a conference near you talking about Azure. I also suggest you to follow [Bruno Borges](https://x.com/brunoborges), [Reza Rahman](https://x.com/reza_rahman), [Theresa Nguyen](https://x.com/RockClimberT), [Ed Burns](https://x.com/edburns), [Antonio Goncalves](https://x.com/agoncal), [Java at Microsoft](https://x.com/JavaAtMicrosoft), and [Azure Dev Advocates](aka.ms/azureadvocates) X profiles to know more about it.
 
 Having said that, I'm thrilled to share that I have become part of this _"digital transformation"_ by joining the Azure team as a Cloud Solution Architect focused in [Application Modernization](https://azure.microsoft.com/en-us/solutions/application-and-database-modernization/) to help customers to accelerate time to market, deliver innovative experiences, and improve security with Azure application and data modernization.
 
 If you want to check why Azure is so popular, you can start with an Azure free account, 12 months of popular services free, and a $200 credit. Just check the following link: [Create Your Azure Free Account Today](https://azure.microsoft.com/en-us/free/).
 
-And finally, If you want to keep in touch with me, I invite you to follow me on Twitter by clicking on the following button:
+And finally, If you want to keep in touch with me, I invite you to follow me on X by clicking on the following button:
 
-<a href="https://twitter.com/rafabene?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @rafabene</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://x.com/rafabene?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @rafabene</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Let's chat about Cloud Native applications, DevOps practices, and Cloud computing.
 

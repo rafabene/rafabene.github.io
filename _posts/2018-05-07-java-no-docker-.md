@@ -215,4 +215,4 @@ Uma maneira de solucionar o problema é usar a imagem base do Fabric8 que é cap
 
 Outra solução é usar a [opção experimental](http://hg.openjdk.java.net/jdk9/jdk9/hotspot/rev/5f1d1df0ea49) que pode ser habilitada atrave's do parâmetro -XX:+UseCGroupMemoryLimitForHeap que foi incluido no JDK8u131 e JDK9 para suportar o limite de memória cgroups definido no container (ex. docker)
 
-Esta postagem mostrou como uma JVM pode "explodir" à partir da perspectia de memória. Para mais post e notícias relacionadas ao desenvolvimento Java, siga-me no [twitter](http://twitter.com/rafabene). 
+Esta postagem mostrou como uma JVM pode "explodir" à partir da perspectia de memória. Para mais post e notícias relacionadas ao desenvolvimento Java, siga-me no [X](https://x.com/rafabene). 

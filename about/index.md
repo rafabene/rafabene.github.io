@@ -9,13 +9,13 @@ toc: true
 
 ---
 
-> [Rafael Benevides](<(https://x.com/rafabene)>) is a Principal Software Engineer focused on Go and Java.
+> [Rafael Benevides](https://x.com/rafabene) is a Principal Software Engineer focused on Go and Java.
 > With many years of experience in several fields of the IT industry, he helps developers and companies all over the world to apply the best strategies in the industry to produce Cloud Native applications so they can build high-scalable software. Rafael considers himself a problem solver who has a big love for sharing.
 > He is a member of [Apache DeltaSpike](http://deltaspike.apache.org) PMC - a Duke's Choice Award winner project,
 > and a speaker in conferences like JavaOne, Devoxx, TDC, DevNexus and many others.  
 > [X](https://x.com/rafabene)
 > | [LinkedIn](https://www.linkedin.com/in/rafaelbenevides)
-> | [rafabene.com](http://rafabene.com)
+> | [rafabene.com](https://rafabene.com)
 
 <hr>
 

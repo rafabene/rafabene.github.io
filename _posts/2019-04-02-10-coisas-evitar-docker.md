@@ -54,6 +54,6 @@ Se quiser aprender sobre Docker, não perca o primeiro vídeo da série:
 
 Os demais vídeos da ["playlist"](https://www.youtube.com/watch?v=N_jfTUXazGU&list=PLYGlbS_vYmdYLf-T71JVD-5kDL1onU202) aprofundam no assunto. Subscreva no canal para ficar à par dos próximos vídeos que focarão em Kubernetes, práticas DevOps, OpenShift, Microserviços.
 
-Siga-me também no twitter para ficar à par das últimas novidades no mundo Java: <https://twitter.com/rafabene>
+Siga-me também no X para ficar à par das últimas novidades no mundo Java: <https://x.com/rafabene>
 
 Um abraço a todos!

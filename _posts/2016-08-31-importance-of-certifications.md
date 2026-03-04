@@ -5,9 +5,9 @@ toc: true
 
 Many years after [Oracle bought Sun Microsystem](https://en.wikipedia.org/wiki/Sun_acquisition_by_Oracle), I finally requested [PearsonVue](http://www.pearsonvue.com/oracle/) to merge my old Prometric id, so I can view them in [Oracle CertView](http://certview.oracle.com).
 
-The following twitter from [Josh Long](http://twitter.com/starbuxman) made me reflect _once more_ about the importance (or not) of IT certifications.
+The following post from [Josh Long](https://x.com/starbuxman) made me reflect _once more_ about the importance (or not) of IT certifications.
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/yanaga">@yanaga</a> <a href="https://twitter.com/rafabene">@rafabene</a> wait so I&#39;m still a sun certified Java developer? Because that has helped me land a job precisely 0 times in ~15 years.</p>&mdash; Josh Long (龙之春, जोश) (@starbuxman) <a href="https://twitter.com/starbuxman/status/768533098241732609">August 24, 2016</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://x.com/yanaga">@yanaga</a> <a href="https://x.com/rafabene">@rafabene</a> wait so I&#39;m still a sun certified Java developer? Because that has helped me land a job precisely 0 times in ~15 years.</p>&mdash; Josh Long (龙之春, जोश) (@starbuxman) <a href="https://x.com/starbuxman/status/768533098241732609">August 24, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## A little bit of history
@@ -46,7 +46,7 @@ Furthermore, the market seems to support "IT certifications" in that almost ever
 
 Moreover, unless you are a [unicorn](https://en.wikipedia.org/wiki/Unicorn), I don't believe that a specific "certificate/title" such as **"A"** being more "significant" than **"B"** or **"C"**. Each one of these "certificates/titles" represents a different level of responsibility and NOT a different level of contribution. Don't get me wrong. I don't want to diminish any titles here. Instead I want to say that ALL of them are important for the reason that they were created.
 
-I strongly believe that the essence of becoming recognized can be found in **[Meritocracy](https://en.wikipedia.org/wiki/Meritocracy)**  - I've discussed this innumerable times with my friend [Edgar Silva](https://twitter.com/jedgarsilva). In brief, despite the fact that "meritocracy also naively assumes a level playing field, in which everyone has access to the same resources, free time, and common life experiences to draw upon" ([http://contributor-covenant.org/](http://contributor-covenant.org/)), if someone achieves an IT certification and becomes a WCP -  Whatever Certified Professional - no one can deny their individual acomplishment, thus their *merit*. 
+I strongly believe that the essence of becoming recognized can be found in **[Meritocracy](https://en.wikipedia.org/wiki/Meritocracy)**  - I've discussed this innumerable times with my friend [Edgar Silva](https://x.com/jedgarsilva). In brief, despite the fact that "meritocracy also naively assumes a level playing field, in which everyone has access to the same resources, free time, and common life experiences to draw upon" ([http://contributor-covenant.org/](http://contributor-covenant.org/)), if someone achieves an IT certification and becomes a WCP -  Whatever Certified Professional - no one can deny their individual acomplishment, thus their *merit*. 
 
 ## Conclusion
 

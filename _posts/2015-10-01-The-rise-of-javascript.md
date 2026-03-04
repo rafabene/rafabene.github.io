@@ -36,12 +36,12 @@ This scenario for Angular and also the
 [Google
 Trends](http://www.google.com/trends/explore?hl=en-US&q=ember+js,+angular+js,+backbone+js,+react+js,+meteor+js&cmpt=q&tz=Etc/GMT%2B4&tz=Etc/GMT%2B4&content=1)
 placed AngularJS in my radar of technologies to learn and get expertise. So
-I was suggested by [George Gastaldi](https://twitter.com/gegastaldi) to take
+I was suggested by [George Gastaldi](https://x.com/gegastaldi) to take
 a look on a serie of videos called ["Desvendando a linguagem
 Javascript"](https://www.youtube.com/playlist?list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc)
 and ["Tudo sobre
 AngularJS"](https://www.youtube.com/playlist?list=PLQCmSnNFVYnTD5p2fR4EXmtlR6jQJMbPb)
-by [Rodrigo Branas](https://twitter.com/rodrigobranas). With those videos
+by [Rodrigo Branas](https://x.com/rodrigobranas). With those videos
 I could make my first dive in the JS world.
 
 <script type="text/javascript"

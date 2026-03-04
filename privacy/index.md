@@ -49,4 +49,4 @@ Podemos atualizar nossa Política de Privacidade de tempos em tempos. Recomendam
 Se você tiver alguma dúvida sobre esta Política de Privacidade, entre em contato conosco:
 
 - Por e-mail: <rafabene@gmail.com>
-- Através do nosso website: <http://rafabene.com>
+- Através do nosso website: <https://rafabene.com>

@@ -18,7 +18,7 @@ Brazil....
 
 Yeap! 10 years ago, in this same city of [Brasília, at the heart of Brazil](https://www.google.com/maps/place/Bras%C3%ADlia+-+Brasilia,+Federal+District/) I started an era at Red Hat.
 
-The last years were amazing! [I visited 17+ countries, spoke at several conferences and developer groups](/talks/#past-conferences), [published a book](https://www.oreilly.com/library/view/microservices-for-java/9781492038290/), [released a Youtube channel](http://www.youtube.com/rafabene), and made uncountable friends worldwide.
+The last years were amazing! [I visited 17+ countries, spoke at several conferences and developer groups](/talks/#past-conferences), [published a book](https://developers.redhat.com/e-books/microservices-java-developers-hands-introduction-frameworks-and-containers), [released a Youtube channel](http://www.youtube.com/rafabene), and made uncountable friends worldwide.
 
 {: .center}
 ![](/assets/images/badges.png)
@@ -39,9 +39,9 @@ But the end of the last decade doesn't mean the end of my relationship with Deve
 
 Talking about CNCF (Cloud Native Computing Foundation), subscribe also to [Cloud Native Computing Talks Brazil](https://www.meetup.com/Cloud-Native-Computing-Talks-Brazil/) to keep in touch with great content brought to you by amazing speakers.
 
-And finally, If you want to keep in touch with me more frequently, I invite you to follow me on [Twitter](https://twitter.com/rafabene) by clicking on the following button:
+And finally, If you want to keep in touch with me more frequently, I invite you to follow me on [X](https://x.com/rafabene) by clicking on the following button:
 
-<a href="https://twitter.com/rafabene?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @rafabene</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://x.com/rafabene?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @rafabene</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 See you soon on any of these social medias, in a developers event, or even on your site!
 
